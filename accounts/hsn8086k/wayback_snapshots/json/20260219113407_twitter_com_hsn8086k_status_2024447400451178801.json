@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024428285263040717",
+    "created_at": "2026-02-19T11:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024447400451178801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955831159507836930",
+          "start": 0,
+          "username": "Raster_DNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024447400451178801",
+    "in_reply_to_user_id": "1955831159507836930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024441576118956250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raster_DNA 其他不知道但是我真的不是男娘..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024428285263040717",
+        "created_at": "2026-02-19T11:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024447400451178801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955831159507836930",
+              "start": 0,
+              "username": "Raster_DNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024447400451178801",
+        "in_reply_to_user_id": "1955831159507836930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024441576118956250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raster_DNA 其他不知道但是我真的不是男娘..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955831159507836930",
+        "conversation_id": "2024428285263040717",
+        "created_at": "2026-02-19T11:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024441576118956250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024441576118956250",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024428285263040717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 对于男生来说……比如有些鼠标会故意加配重，包括可调节配重，大部分汽车在运动模式会加重刹车、增加方向盘阻尼或降低助力。所以对于男生来说重量与力量感、操控感息息相关，它是有一个“好球区”的，落在这个区，那重就是优点，太轻了则会直接显得没有手感。\nHSN不懂这些……🤐原来她真的不是男娘吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 163,
+          "like_count": 4210,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1224
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T03:18:22.000Z",
+        "description": "置顶帖 ver 1.0 release\n\n- 键政纯度高到可以核爆\n- 二次元浓度高到可以升天\n- 认为MtF就是魔法少女\n- 认为高市早苗就是东风谷早苗\n- 不管图灵是不是自愿嗑药反正ta是跨\n- 除了逻辑正常其它都不正常。。。",
+        "id": "1955831159507836930",
+        "location": "撒丁帝国",
+        "name": "Attilio Regolo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997110317843976192/7b7vqEYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 130,
+          "like_count": 13845,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 1798
+        },
+        "username": "Raster_DNA",
+        "verified": false
+      }
+    ]
+  }
+}

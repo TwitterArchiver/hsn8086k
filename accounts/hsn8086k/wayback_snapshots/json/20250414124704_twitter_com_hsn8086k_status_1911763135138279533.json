@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1911700617791254701",
+    "created_at": "2025-04-14T12:47:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T13:47:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911763135138279533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1257540561189302274",
+          "start": 0,
+          "username": "Minatooo_O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911763135138279533",
+    "in_reply_to_user_id": "1257540561189302274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911703584640811275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minatooo_O 可以的, openwrt就行, 但是学习/硬件成本高了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1911700617791254701",
+        "created_at": "2025-04-14T12:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T13:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911763135138279533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1257540561189302274",
+              "start": 0,
+              "username": "Minatooo_O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911763135138279533",
+        "in_reply_to_user_id": "1257540561189302274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911703584640811275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minatooo_O 可以的, openwrt就行, 但是学习/硬件成本高了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257540561189302274",
+        "conversation_id": "1911700617791254701",
+        "created_at": "2025-04-14T08:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T09:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911703584640811275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911703584640811275",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911700617791254701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 所以从入学到现在现在我都是用大流量卡+热点（）\n在思考能不能偷偷破解了绕过web检测\n听说有些师兄师姐试过可以？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 39,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 102
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T05:20:20.000Z",
+        "description": "学生|ACG|公路&轨道交通|地理好き|数学苦手|模拟经营|轻度galgame|音游|点赞bot|可爱🩷@hikawarinaOvO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 52,
+                "username": "hikawarinaOvO"
+              }
+            ]
+          }
+        },
+        "id": "1257540561189302274",
+        "location": "某个阴暗的角落里",
+        "name": "MinatoOvO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872309867618373632/nfbe6X-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 273,
+          "like_count": 30576,
+          "listed_count": 5,
+          "media_count": 185,
+          "tweet_count": 6284
+        },
+        "username": "Minatooo_O",
+        "verified": false
+      }
+    ]
+  }
+}

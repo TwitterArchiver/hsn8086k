@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2038159702153179205",
+    "created_at": "2026-03-29T07:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T08:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038159702153179205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Swathy17531761…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/Swathy17531761/status/2037783573114319213",
+          "start": 4,
+          "url": "https://t.co/XRWWT2IKtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038159702153179205",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037783573114319213",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "金星. https://t.co/XRWWT2IKtw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2038159702153179205",
+        "created_at": "2026-03-29T07:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038159702153179205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Swathy17531761…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Swathy17531761/status/2037783573114319213",
+              "start": 4,
+              "url": "https://t.co/XRWWT2IKtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038159702153179205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037783573114319213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "金星. https://t.co/XRWWT2IKtw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314388633869152259",
+        "conversation_id": "2037783573114319213",
+        "created_at": "2026-03-28T06:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037783573114319213"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "药娘"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "跨性别"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037783573114319213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7805,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别圈子里谁的知名度最大啊\n我只知道唐敏文、N55这两个的知名度比较高，#药娘 #跨性别 #mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 214,
+          "like_count": 6490,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1726
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是小汐~ !可以叫咱小汐或者汐宝~?身高\n165cm/目前体重125斤左右😮‍💨~嘴巴很笨不会说话/可加好友门槛备注打赏联系最低10加联系方式/可私信/暂无对象/随缘/可线下绿玩/半绿/逛街等什么的",
+        "id": "1314388633869152259",
+        "name": "小汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2032422857943470217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 82,
+          "like_count": 13,
+          "listed_count": 5,
+          "media_count": 64,
+          "tweet_count": 365
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1938591991568515072",
+        "3_1938592002293338112"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "1938592021515804808",
+    "created_at": "2025-06-27T13:35:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T14:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938592021515804808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JqFxXAeiq4",
+          "end": 25,
+          "expanded_url": "https://x.com/hsn8086k/status/1938592021515804808/video/1",
+          "media_key": "13_1938591991568515072",
+          "start": 2,
+          "url": "https://t.co/JqFxXAeiq4"
+        },
+        {
+          "display_url": "pic.x.com/JqFxXAeiq4",
+          "end": 25,
+          "expanded_url": "https://x.com/hsn8086k/status/1938592021515804808/video/1",
+          "media_key": "3_1938592002293338112",
+          "start": 2,
+          "url": "https://t.co/JqFxXAeiq4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938592021515804808",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1 https://t.co/JqFxXAeiq4"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938592021515804808].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938592021515804808",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938592021515804808"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4628,
+        "height": 1280,
+        "media_key": "13_1938591991568515072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938591991568515072/img/4v0T3cIGEKUNhifw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938591991568515072/vid/avc1/320x568/9rmsU6Cqq7sWsbS3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938591991568515072/vid/avc1/480x852/Nhcjg-2pbX7Ne_Sx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938591991568515072/vid/avc1/720x1280/SNaPELlA5MqkHa5S.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938591991568515072/pl/5p3CbEagKh2BSPF9.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1134,
+        "media_key": "3_1938592002293338112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudDJ60bkAAVNSF.jpg",
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 38,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 119
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

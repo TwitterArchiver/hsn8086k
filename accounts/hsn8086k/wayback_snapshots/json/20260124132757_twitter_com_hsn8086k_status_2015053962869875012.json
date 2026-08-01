@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2014941132485231084",
+    "created_at": "2026-01-24T13:27:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T14:27:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015053962869875012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "220895679",
+          "start": 0,
+          "username": "WayneDawnWei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015053962869875012",
+    "in_reply_to_user_id": "220895679",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015052310507069688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WayneDawnWei 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2014941132485231084",
+        "created_at": "2026-01-24T13:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015053962869875012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "220895679",
+              "start": 0,
+              "username": "WayneDawnWei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015053962869875012",
+        "in_reply_to_user_id": "220895679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015052310507069688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WayneDawnWei 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "220895679",
+        "conversation_id": "2014941132485231084",
+        "created_at": "2026-01-24T13:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T14:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015052310507069688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015052310507069688",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014941132485231084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 自动扶梯是电梯吗？全先上先出的序列？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 87,
+          "like_count": 633,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 311
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-29T04:20:54.000Z",
+        "description": "悄悄的提肛，打手槍的不要 | 我重拾你的梦|東赢人 |低位猛干，多拿筹码",
+        "id": "220895679",
+        "location": "on your left",
+        "name": "骑白马的御弟",
+        "pinned_tweet_id": "1758690349202161985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995020293103128577/yZkLgKwc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 62,
+          "like_count": 206,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 477
+        },
+        "username": "WayneDawnWei",
+        "verified": true
+      }
+    ]
+  }
+}

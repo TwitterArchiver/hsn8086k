@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2060586647809655027",
+    "created_at": "2026-05-30T04:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060586647809655027"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060586647809655027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "全国高中生语文大赛省赛还有7天举办！！！\n全国高中生数学大赛省赛还有7天举办！！！\n全国高中生英语大赛省赛还有8天举办！！！\n全国高中生物理大赛省赛还有8天举办！！！\n全国高中生化学大赛省赛还有9天举办！！！\n全国高中生生物大赛省赛还有9天举办！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2060586647809655027",
+        "created_at": "2026-05-30T04:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060586647809655027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060586647809655027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全国高中生语文大赛省赛还有7天举办！！！\n全国高中生数学大赛省赛还有7天举办！！！\n全国高中生英语大赛省赛还有8天举办！！！\n全国高中生物理大赛省赛还有8天举办！！！\n全国高中生化学大赛省赛还有9天举办！！！\n全国高中生生物大赛省赛还有9天举办！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 227,
+          "like_count": 8505,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2140
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

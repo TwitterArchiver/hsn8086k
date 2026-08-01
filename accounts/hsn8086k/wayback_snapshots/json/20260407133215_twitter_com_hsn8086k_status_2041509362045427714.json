@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2041500936741454213",
+    "created_at": "2026-04-07T13:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041509362045427714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2909931697",
+          "start": 0,
+          "username": "baobao1270"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041509362045427714",
+    "in_reply_to_user_id": "2909931697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041501666676187451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobao1270 那么问题来了, 不需要折腾的用户为什么要创建一个空文件并且啥也不写.\n能不能不要把 win 那套为了迁就不好用的软件不好的工作流而留下来的思维带出来然后到处乱喷甚至攻击某个系统的用户, mac 也没限制加插件啊."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2041500936741454213",
+        "created_at": "2026-04-07T13:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041509362045427714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2909931697",
+              "start": 0,
+              "username": "baobao1270"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041509362045427714",
+        "in_reply_to_user_id": "2909931697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041501666676187451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobao1270 那么问题来了, 不需要折腾的用户为什么要创建一个空文件并且啥也不写.\n能不能不要把 win 那套为了迁就不好用的软件不好的工作流而留下来的思维带出来然后到处乱喷甚至攻击某个系统的用户, mac 也没限制加插件啊."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2909931697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2041500936741454213",
+        "created_at": "2026-04-07T13:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041501666676187451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041501666676187451",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041500936741454213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 不一样，arch默认用户是有能力DIY的，但是Windows和macOS的主要受众是没有技术能力的消费者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 218,
+          "like_count": 7129,
+          "listed_count": 5,
+          "media_count": 166,
+          "tweet_count": 1836
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-25T10:56:02.000Z",
+        "description": "「生如逆旅 · 一苇以航」| Naïve Vocaloid Producer - 天依粉 / 南北一生推 | Full Stack Developer - Python / TypeScript / C# / Linux / Docker | BGP Player | FCC T Class HAM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "josephcz.xyz",
+                "end": 23,
+                "expanded_url": "https://josephcz.xyz/",
+                "start": 0,
+                "url": "https://t.co/zAct5bSovf"
+              }
+            ]
+          }
+        },
+        "id": "2909931697",
+        "location": "California",
+        "name": "Joseph Chris",
+        "pinned_tweet_id": "1727791349729309049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/861241603763036160/fEbbOWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1779,
+          "following_count": 357,
+          "like_count": 1258,
+          "listed_count": 17,
+          "media_count": 528,
+          "tweet_count": 4890
+        },
+        "url": "https://t.co/zAct5bSovf",
+        "username": "baobao1270",
+        "verified": false
+      }
+    ]
+  }
+}

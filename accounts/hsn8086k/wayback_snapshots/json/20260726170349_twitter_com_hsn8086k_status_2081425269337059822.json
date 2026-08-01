@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2081425269337059822",
+    "created_at": "2026-07-26T17:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T18:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081425269337059822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/davinci_seven/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/davinci_seven/status/2081161576766394786",
+          "start": 21,
+          "url": "https://t.co/2Q2HGXrtTh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081425269337059822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081161576766394786",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的不认识吗, 2233已经没人知道了吗 https://t.co/2Q2HGXrtTh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1286,
+        "media_key": "3_2081161573528199168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHFbLZXYAAqWpa.jpg",
+        "width": 790
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2081425269337059822",
+        "created_at": "2026-07-26T17:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081425269337059822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/davinci_seven/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/davinci_seven/status/2081161576766394786",
+              "start": 21,
+              "url": "https://t.co/2Q2HGXrtTh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081425269337059822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081161576766394786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的不认识吗, 2233已经没人知道了吗 https://t.co/2Q2HGXrtTh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081161573528199168"
+          ]
+        },
+        "author_id": "1516975944484990977",
+        "conversation_id": "2081161576766394786",
+        "created_at": "2026-07-25T23:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T00:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081161576766394786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Klc460nyTY",
+              "end": 55,
+              "expanded_url": "https://x.com/davinci_seven/status/2081161576766394786/photo/1",
+              "media_key": "3_2081161573528199168",
+              "start": 32,
+              "url": "https://t.co/Klc460nyTY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081161576766394786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "b站开屏为啥总是这两个二次元萌妹子，但是也没见过这俩的作品啊？ https://t.co/Klc460nyTY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 247,
+          "like_count": 10688,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 2712
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "加拿大🇨🇦10年移民老逗逼｜Stanley-Team成员 | 包罗万象的杂货铺 | AI学习记录 | AI出图 | AI订阅/海外支付踩坑",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suispasdavinci.com",
+                "end": 23,
+                "expanded_url": "http://suispasdavinci.com",
+                "start": 0,
+                "url": "https://t.co/XaMLV00z9k"
+              }
+            ]
+          }
+        },
+        "id": "1516975944484990977",
+        "location": "支付在首页置顶👉",
+        "name": "达芬七Seven",
+        "pinned_tweet_id": "2017777161340440688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074924490245410816/Hz-xUG1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20464,
+          "following_count": 1287,
+          "like_count": 42043,
+          "listed_count": 74,
+          "media_count": 3498,
+          "tweet_count": 27450
+        },
+        "url": "https://t.co/XaMLV00z9k",
+        "username": "davinci_seven",
+        "verified": true
+      }
+    ]
+  }
+}

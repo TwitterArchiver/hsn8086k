@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2074474509982130238",
+    "created_at": "2026-07-08T03:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074693065659531574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040565175514779648",
+          "start": 0,
+          "username": "amber_digit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074693065659531574",
+    "in_reply_to_user_id": "2040565175514779648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074474509982130238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit 前来嘲笑(不"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2753,
+        "height": 1920,
+        "media_key": "13_2074474459667267584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074474459667267584/img/JUhdOBhseax44RpH.jpg",
+        "public_metrics": {
+          "view_count": 4874
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074474459667267584/pl/8jqpinDTOWc7cWCl.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074474459667267584/vid/avc1/320x426/sN1GjjNQS83GXY-I.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074474459667267584/vid/avc1/1440x1920/49On2NSd8W_g-PIS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074474459667267584/vid/avc1/480x640/YrslijvXlAtISjig.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074474459667267584/vid/avc1/720x960/mqPE1--C7T8FkWCV.mp4"
+          }
+        ],
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074474459650572288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoDh68XwAA1vN3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074474509982130238",
+        "created_at": "2026-07-08T03:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074693065659531574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040565175514779648",
+              "start": 0,
+              "username": "amber_digit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074693065659531574",
+        "in_reply_to_user_id": "2040565175514779648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074474509982130238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit 前来嘲笑(不"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074474459667267584",
+            "3_2074474459650572288"
+          ]
+        },
+        "author_id": "2040565175514779648",
+        "conversation_id": "2074474509982130238",
+        "created_at": "2026-07-07T12:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:40:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074473727010513194",
+          "2074474509982130238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sd0vw5IPqU",
+              "end": 66,
+              "expanded_url": "https://x.com/amber_digit/status/2074474509982130238/video/1",
+              "media_key": "13_2074474459667267584",
+              "start": 43,
+              "url": "https://t.co/Sd0vw5IPqU"
+            },
+            {
+              "display_url": "pic.x.com/Sd0vw5IPqU",
+              "end": 66,
+              "expanded_url": "https://x.com/amber_digit/status/2074474509982130238/video/1",
+              "media_key": "3_2074474459650572288",
+              "start": 43,
+              "url": "https://t.co/Sd0vw5IPqU"
+            },
+            {
+              "display_url": "x.com/zedrb3lzkxlyez…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/zedrb3lzkxlyezt/status/2073797048168485099",
+              "start": 67,
+              "url": "https://t.co/537Z8WBWzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074474509982130238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 16593,
+          "like_count": 188,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073797048168485099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？我操 你妈的别偷我图了图二是我 你自己看看这两个人一样吗\n放个视频版以正视听😡😡😡 https://t.co/Sd0vw5IPqU https://t.co/537Z8WBWzj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 245,
+          "like_count": 10130,
+          "listed_count": 8,
+          "media_count": 224,
+          "tweet_count": 2568
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T23:00:50.000Z",
+        "description": "🇨🇦 toronto #mtf #otokonoko\n🪼@amber_medusozoa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 11,
+                "tag": "mtf"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "tag": "otokonoko"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 44,
+                "start": 28,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/8wrbgvmggP"
+              }
+            ]
+          }
+        },
+        "id": "2040565175514779648",
+        "location": "🚪¥150/240",
+        "name": "𝑎𝑚𝑏𝑒𝑟💖",
+        "pinned_tweet_id": "2071480056619163699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052280202512719874/upe5_UUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 302,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1215
+        },
+        "url": "https://t.co/8wrbgvmggP",
+        "username": "amber_digit",
+        "verified": true
+      }
+    ]
+  }
+}

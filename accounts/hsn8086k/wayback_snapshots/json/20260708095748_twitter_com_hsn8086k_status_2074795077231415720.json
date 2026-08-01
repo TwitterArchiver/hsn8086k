@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2074768825862754453",
+    "created_at": "2026-07-08T09:57:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:57:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074795077231415720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "973935307375587331",
+          "start": 0,
+          "username": "yukiricc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074795077231415720",
+    "in_reply_to_user_id": "973935307375587331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074791701902975314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiricc 死因是有人说我怎么转别人推文不带引用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074768825862754453",
+        "created_at": "2026-07-08T09:57:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:57:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074795077231415720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "973935307375587331",
+              "start": 0,
+              "username": "yukiricc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074795077231415720",
+        "in_reply_to_user_id": "973935307375587331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074791701902975314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiricc 死因是有人说我怎么转别人推文不带引用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "973935307375587331",
+        "conversation_id": "2074768825862754453",
+        "created_at": "2026-07-08T09:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074791701902975314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074791701902975314",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074768825862754453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 你tm又转了什么东西到别人的时间线上, 下次遇到这样的傻逼请截图发好么, 而不是给这样的傻逼流量."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 245,
+          "like_count": 10139,
+          "listed_count": 8,
+          "media_count": 227,
+          "tweet_count": 2577
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-14T14:54:06.000Z",
+        "description": "一个正在流浪的MTF部队重型虎式坦克\nA wandering Tiger Tank, currently deployed as an MTF unit.",
+        "id": "973935307375587331",
+        "location": "Earth",
+        "name": "Konno Yuuki",
+        "pinned_tweet_id": "1866731019988349242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808725503060422656/UzGChCv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 495,
+          "like_count": 15250,
+          "listed_count": 12,
+          "media_count": 491,
+          "tweet_count": 9090
+        },
+        "url": "",
+        "username": "yukiricc",
+        "verified": false
+      }
+    ]
+  }
+}

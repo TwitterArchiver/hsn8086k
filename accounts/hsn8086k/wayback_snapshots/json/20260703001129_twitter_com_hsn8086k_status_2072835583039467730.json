@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2072668760868000232",
+    "created_at": "2026-07-03T00:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T01:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072835583039467730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1516975944484990977",
+          "start": 0,
+          "username": "SuisPasDaVinci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072835583039467730",
+    "in_reply_to_user_id": "1516975944484990977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072668760868000232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuisPasDaVinci 贺建奎不是犯了第三条吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2072668760868000232",
+        "created_at": "2026-07-03T00:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072835583039467730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516975944484990977",
+              "start": 0,
+              "username": "SuisPasDaVinci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072835583039467730",
+        "in_reply_to_user_id": "1516975944484990977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072668760868000232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuisPasDaVinci 贺建奎不是犯了第三条吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516975944484990977",
+        "conversation_id": "2072668760868000232",
+        "created_at": "2026-07-02T13:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072668760868000232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072668760868000232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 822,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：\n\n我国刑法里，至今几乎无人犯过的罪：\n\n1. 破坏界碑、界桩罪\n\n2. 走私核材料罪\n\n3. 非法植入基因编辑、克隆胚胎罪\n\n4. 聚众持械劫狱罪\n\n5. 战时拒绝、故意延误军事订货罪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 243,
+          "like_count": 9948,
+          "listed_count": 8,
+          "media_count": 221,
+          "tweet_count": 2498
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "加拿大🇨🇦10年移民老逗逼｜Stanley-Team成员 | 包罗万象的杂货铺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suispasdavinci.com",
+                "end": 23,
+                "expanded_url": "http://suispasdavinci.com",
+                "start": 0,
+                "url": "https://t.co/XaMLV016YS"
+              }
+            ]
+          }
+        },
+        "id": "1516975944484990977",
+        "location": "CANADIAN TIRED",
+        "name": "达芬七Seven",
+        "pinned_tweet_id": "2017777161340440688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072526502051082240/0_Dzu0Rh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19206,
+          "following_count": 1340,
+          "like_count": 42185,
+          "listed_count": 71,
+          "media_count": 3121,
+          "tweet_count": 26516
+        },
+        "url": "https://t.co/XaMLV016YS",
+        "username": "SuisPasDaVinci",
+        "verified": true
+      }
+    ]
+  }
+}

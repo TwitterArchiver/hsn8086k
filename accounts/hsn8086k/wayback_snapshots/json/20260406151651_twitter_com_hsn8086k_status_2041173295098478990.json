@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2040979672746622998",
+    "created_at": "2026-04-06T15:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041173295098478990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "20508952",
+          "start": 0,
+          "username": "lwjef"
+        },
+        {
+          "end": 17,
+          "id": "2692096819",
+          "start": 7,
+          "username": "user_uuid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20411…",
+          "end": 41,
+          "expanded_url": "https://x.com/i/status/2041172854193197542",
+          "start": 18,
+          "url": "https://t.co/D62q3fuMUF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041173295098478990",
+    "in_reply_to_user_id": "20508952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041172854193197542",
+        "type": "quoted"
+      },
+      {
+        "id": "2041170421882696041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lwjef @user_uuid https://t.co/D62q3fuMUF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-06T15:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041173295098478990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "20508952",
+              "start": 0,
+              "username": "lwjef"
+            },
+            {
+              "end": 17,
+              "id": "2692096819",
+              "start": 7,
+              "username": "user_uuid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20411…",
+              "end": 41,
+              "expanded_url": "https://x.com/i/status/2041172854193197542",
+              "start": 18,
+              "url": "https://t.co/D62q3fuMUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041173295098478990",
+        "in_reply_to_user_id": "20508952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041172854193197542",
+            "type": "quoted"
+          },
+          {
+            "id": "2041170421882696041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lwjef @user_uuid https://t.co/D62q3fuMUF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-06T15:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041172854193197542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2692096819",
+              "start": 0,
+              "username": "user_uuid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041172854193197542",
+        "in_reply_to_user_id": "2692096819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041170564690116958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user_uuid 这是编辑器的责任啊, 你应该去找一个更好管理你内容的软件, 而不是为了适应不好用的编辑器而扭曲成这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "20508952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-06T15:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041170421882696041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 20,
+              "id": "2692096819",
+              "start": 10,
+              "username": "user_uuid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041170421882696041",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041165481399509234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @user_uuid 这个理由还是有合理性的，有时候打开了文件夹才发现需要新建一个文件。作为mac linux win三栖用户本来也觉得有没有新建空白文件没啥说法，他这个回复让我再次强化了我认为win是最佳桌面系统的想法。最后，我同时也觉得传统桌面系统最终会死掉，没啥前途。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 219,
+          "like_count": 7064,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1814
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-10T12:09:37.000Z",
+        "description": "",
+        "id": "20508952",
+        "name": "lwjef",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645985365449404419/dSGnjq4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 1434,
+          "like_count": 714,
+          "listed_count": 19,
+          "media_count": 3,
+          "tweet_count": 12866
+        },
+        "username": "lwjef",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-30T07:16:24.000Z",
+        "description": "大家死不是大家居住",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/user_uuid",
+                "end": 23,
+                "expanded_url": "https://x.com/user_uuid",
+                "start": 0,
+                "url": "https://t.co/dLSY2SolVd"
+              }
+            ]
+          }
+        },
+        "id": "2692096819",
+        "location": "万达广场附近",
+        "name": "🤎❤️🧡💛💚💙💜🩶🤍🖤",
+        "pinned_tweet_id": "1017580096637435905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737269526004199424/FFgM_KQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 5108,
+          "like_count": 624630,
+          "listed_count": 14,
+          "media_count": 2129,
+          "tweet_count": 36163
+        },
+        "url": "https://t.co/dLSY2SolVd",
+        "username": "user_uuid",
+        "verified": false
+      }
+    ]
+  }
+}

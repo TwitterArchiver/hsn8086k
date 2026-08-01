@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2035900714141303268",
+    "created_at": "2026-03-23T02:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T03:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035900714141303268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/hsn8086/status/2035900338235142222",
+          "start": 25,
+          "url": "https://t.co/o2eI67zc7v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035900714141303268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035900338235142222",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过比较傻逼的是私信请求现在没啥通知, 比较无语 https://t.co/o2eI67zc7v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1623,
+        "media_key": "3_2035900335475335168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HED4kYYbIAADNdW.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2035900714141303268",
+        "created_at": "2026-03-23T02:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035900714141303268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/hsn8086/status/2035900338235142222",
+              "start": 25,
+              "url": "https://t.co/o2eI67zc7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035900714141303268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035900338235142222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过比较傻逼的是私信请求现在没啥通知, 比较无语 https://t.co/o2eI67zc7v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035900335475335168"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2035900338235142222",
+        "created_at": "2026-03-23T02:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035900338235142222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1842504398850928640",
+              "start": 62,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s2XbdDCSNm",
+              "end": 110,
+              "expanded_url": "https://x.com/hsn8086/status/2035900338235142222/photo/1",
+              "media_key": "3_2035900335475335168",
+              "start": 87,
+              "url": "https://t.co/s2XbdDCSNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035900338235142222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "图都是别的地方转来的, 并不能看到是不是 x 上来的, 被转了是因为有人转出去了, 如果不希望被转发/希望写明出处, 联系 @hsn8086k 即可. (图中这条已经删除) https://t.co/s2XbdDCSNm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 194,
+          "like_count": 5950,
+          "listed_count": 5,
+          "media_count": 156,
+          "tweet_count": 1628
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035331409880170496/APcUmEBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118017,
+          "following_count": 1037,
+          "like_count": 51760,
+          "listed_count": 274,
+          "media_count": 19976,
+          "tweet_count": 30129
+        },
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

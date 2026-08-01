@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2058523432942481485",
+    "created_at": "2026-05-24T12:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T13:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058523432942481485"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bortinez_/stat…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/bortinez_/status/2057607127422644284",
+          "start": 29,
+          "url": "https://t.co/rsrlH6bXu8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058523432942481485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057607127422644284",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早就说了, 跨子们都按指派性别去厕所, 吓死他们就完了. https://t.co/rsrlH6bXu8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 690,
+        "media_key": "3_2057607122917990400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4WxtDXIAA-5Du.jpg",
+        "width": 779
+      },
+      {
+        "height": 886,
+        "media_key": "3_2057607122930569216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4WxtGXEAAbGYh.jpg",
+        "width": 729
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2058523432942481485",
+        "created_at": "2026-05-24T12:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T13:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058523432942481485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bortinez_/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/bortinez_/status/2057607127422644284",
+              "start": 29,
+              "url": "https://t.co/rsrlH6bXu8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058523432942481485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057607127422644284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早就说了, 跨子们都按指派性别去厕所, 吓死他们就完了. https://t.co/rsrlH6bXu8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057607122917990400",
+            "3_2057607122930569216"
+          ]
+        },
+        "author_id": "302905927",
+        "conversation_id": "2057607127422644284",
+        "created_at": "2026-05-21T23:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T00:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057607127422644284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3u17fPPQj",
+              "end": 102,
+              "expanded_url": "https://x.com/bortinez_/status/2057607127422644284/photo/1",
+              "media_key": "3_2057607122917990400",
+              "start": 79,
+              "url": "https://t.co/K3u17fPPQj"
+            },
+            {
+              "display_url": "pic.x.com/K3u17fPPQj",
+              "end": 102,
+              "expanded_url": "https://x.com/bortinez_/status/2057607127422644284/photo/1",
+              "media_key": "3_2057607122930569216",
+              "start": 79,
+              "url": "https://t.co/K3u17fPPQj"
+            },
+            {
+              "display_url": "x.com/bbcnews/status…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/bbcnews/status/2057518106239451303",
+              "start": 103,
+              "url": "https://t.co/NRtEYhtrA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057607127422644284",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2783,
+          "impression_count": 13746341,
+          "like_count": 102117,
+          "quote_count": 252,
+          "reply_count": 973,
+          "retweet_count": 2428
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057518106239451303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Been too long anyways. Women’s are much much nicer. See you in there ladies 💅💕 https://t.co/K3u17fPPQj https://t.co/NRtEYhtrA7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 222,
+          "like_count": 8180,
+          "listed_count": 9,
+          "media_count": 196,
+          "tweet_count": 2070
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-21T23:46:46.000Z",
+        "description": "Former child. I ❤️ context and all context related things. Expert in groundswells, toast and curses. Professional lottery player (3x Lotto champion)",
+        "id": "302905927",
+        "name": "El Borto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051710038155083778/0Ui9MuJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 216,
+          "like_count": 458,
+          "listed_count": 8,
+          "media_count": 212,
+          "tweet_count": 553
+        },
+        "username": "bortinez_",
+        "verified": true
+      }
+    ]
+  }
+}

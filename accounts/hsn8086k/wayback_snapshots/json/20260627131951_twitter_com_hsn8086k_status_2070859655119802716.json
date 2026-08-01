@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2070857600393228299",
+    "created_at": "2026-06-27T13:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070859655119802716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1510043826479824896",
+          "start": 0,
+          "username": "GCZZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070859655119802716",
+    "in_reply_to_user_id": "1510043826479824896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070857600393228299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GCZZero 事实是, 在某些领域有用在某些领域废物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2070857600393228299",
+        "created_at": "2026-06-27T13:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070859655119802716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1510043826479824896",
+              "start": 0,
+              "username": "GCZZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070859655119802716",
+        "in_reply_to_user_id": "1510043826479824896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070857600393228299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GCZZero 事实是, 在某些领域有用在某些领域废物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510043826479824896",
+        "conversation_id": "2070857600393228299",
+        "created_at": "2026-06-27T13:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070857600393228299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2070849847985619225",
+              "start": 21,
+              "url": "https://t.co/QP0kHUUumH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070857600393228299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070849847985619225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实是\n\n既没有这么有用 也没有那么废物 https://t.co/QP0kHUUumH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2251,
+          "following_count": 242,
+          "like_count": 9816,
+          "listed_count": 8,
+          "media_count": 219,
+          "tweet_count": 2449
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T23:58:06.000Z",
+        "description": "github@groupguanfang/发电中/准备上本科/age21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com",
+                "start": 0,
+                "url": "https://t.co/euQhnwYO00"
+              }
+            ]
+          }
+        },
+        "id": "1510043826479824896",
+        "location": "Meizhou, Guangdong, China",
+        "name": "Zero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913697120726777856/LHk7rVD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 475,
+          "like_count": 13505,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/euQhnwYO00",
+        "username": "GCZZero",
+        "verified": true
+      }
+    ]
+  }
+}

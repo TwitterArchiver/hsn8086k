@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2058587594141954360",
+    "created_at": "2026-05-24T16:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T17:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058587594141954360"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CryptoSociety4…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/CryptoSociety42/status/2058489955488518594",
+          "start": 19,
+          "url": "https://t.co/5405k83kFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058587594141954360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058489955488518594",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其他不知道, 白砂糖版本苦味少很多. https://t.co/5405k83kFk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2058587594141954360",
+        "created_at": "2026-05-24T16:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T17:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058587594141954360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CryptoSociety4…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/CryptoSociety42/status/2058489955488518594",
+              "start": 19,
+              "url": "https://t.co/5405k83kFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058587594141954360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058489955488518594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其他不知道, 白砂糖版本苦味少很多. https://t.co/5405k83kFk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "757429055130071040",
+        "conversation_id": "2058489955488518594",
+        "created_at": "2026-05-24T10:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058489955488518594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058489955488518594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "科普个常识：可乐要喝有糖的。\n有糖，指的是白砂糖。\n\n大陆卖的可乐，为了节省成本，用的主要是果葡糖浆。\n果糖只能由肝脏代谢，不像葡萄糖能被全身细胞直接利用，会增加肝脏的负担。\n\n而且果葡糖浆不好喝，只能冰镇，因为它越凉越甜。\n这也是大陆可乐一直不涨价的重要原因，成本控住了。\n\n有条件，就喝进口的，那基本都是用的白砂糖。\n无糖、代糖可乐不在讨论范围内，那些东西对身体究竟有没有危害，营养学界到现在还在打架，就没个定论。\n\n反正都喝可乐了，就一定要喝好喝的有糖的，这才是真正纯粹的生活。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 188510,
+          "like_count": 360,
+          "quote_count": 14,
+          "reply_count": 233,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "科普个常识：可乐要喝有糖的。\n有糖，指的是白砂糖。\n\n大陆卖的可乐，为了节省成本，用的主要是果葡糖浆。\n果糖只能由肝脏代谢，不像葡萄糖能被全身细胞直接利用，会增加肝脏的负担。\n\n而且果葡糖浆不好喝，只能冰镇，因为它越凉越甜。\n这也是大陆可乐一直不涨价的重要原因，成本控住了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 222,
+          "like_count": 8184,
+          "listed_count": 9,
+          "media_count": 197,
+          "tweet_count": 2076
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-25T04:15:33.000Z",
+        "description": "十年从业，难凉热血，¥900成本 $BTC 持有至今\nGrinder：2140 Labs/《加密通话》\n#Binance Square TOP 100 | 启程Web3 就在币安 |\nCrypto入口 OKX就够 https://t.co/bENs92IOB4",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 21,
+                "start": 17,
+                "tag": "BTC"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 52,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com",
+                "end": 130,
+                "expanded_url": "http://web3.okx.com",
+                "start": 107,
+                "url": "https://t.co/bENs92IOB4"
+              }
+            ]
+          }
+        },
+        "id": "757429055130071040",
+        "location": "新华门",
+        "name": "林克Clean",
+        "pinned_tweet_id": "1900124556268109940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011809557086089216/BIPsq_tB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26420,
+          "following_count": 792,
+          "like_count": 16228,
+          "listed_count": 248,
+          "media_count": 809,
+          "tweet_count": 8665
+        },
+        "username": "CryptoSociety42",
+        "verified": true
+      }
+    ]
+  }
+}

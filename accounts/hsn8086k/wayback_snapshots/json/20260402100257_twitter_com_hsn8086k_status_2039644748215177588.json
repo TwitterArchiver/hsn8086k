@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039644744331165696"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2039644206403293284",
+    "created_at": "2026-04-02T10:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039644748215177588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647979969111261186",
+          "start": 0,
+          "username": "permanent_yin"
+        },
+        {
+          "end": 22,
+          "id": "1654869032556990464",
+          "start": 15,
+          "username": "DS1UDN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kGr9wAwc1d",
+          "end": 50,
+          "expanded_url": "https://x.com/hsn8086k/status/2039644748215177588/photo/1",
+          "media_key": "3_2039644744331165696",
+          "start": 27,
+          "url": "https://t.co/kGr9wAwc1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039644748215177588",
+    "in_reply_to_user_id": "1647979969111261186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039644206403293284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@permanent_yin @DS1UDN 旋转喵 https://t.co/kGr9wAwc1d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039644744331165696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5GFqXaAAAs7s_.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039644191664517120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5FlfhaMAAcntv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039644744331165696"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2039644206403293284",
+        "created_at": "2026-04-02T10:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039644748215177588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647979969111261186",
+              "start": 0,
+              "username": "permanent_yin"
+            },
+            {
+              "end": 22,
+              "id": "1654869032556990464",
+              "start": 15,
+              "username": "DS1UDN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kGr9wAwc1d",
+              "end": 50,
+              "expanded_url": "https://x.com/hsn8086k/status/2039644748215177588/photo/1",
+              "media_key": "3_2039644744331165696",
+              "start": 27,
+              "url": "https://t.co/kGr9wAwc1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039644748215177588",
+        "in_reply_to_user_id": "1647979969111261186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039644206403293284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@permanent_yin @DS1UDN 旋转喵 https://t.co/kGr9wAwc1d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039644191664517120"
+          ]
+        },
+        "author_id": "1647979969111261186",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1448339267948728324",
+              "name": "Qatar Stars League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1448339267948728324",
+              "name": "Qatar Stars League"
+            }
+          }
+        ],
+        "conversation_id": "2039644206403293284",
+        "created_at": "2026-04-02T10:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039644206403293284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1654869032556990464",
+              "start": 0,
+              "username": "DS1UDN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7pzdT5uaE",
+              "end": 50,
+              "expanded_url": "https://x.com/permanent_yin/status/2039644206403293284/photo/1",
+              "media_key": "3_2039644191664517120",
+              "start": 27,
+              "url": "https://t.co/t7pzdT5uaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039644206403293284",
+        "in_reply_to_user_id": "1654869032556990464",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@DS1UDN \nTNX FOR QSL CARD！ https://t.co/t7pzdT5uaE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 216,
+          "like_count": 6781,
+          "listed_count": 5,
+          "media_count": 164,
+          "tweet_count": 1765
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:07:12.000Z",
+        "description": "悲慘大陸大學生（//lgbt群體友好🏳️‍🌈🏳️‍⚧️\namateur radio operator \ncall sign BH6RJM",
+        "id": "1647979969111261186",
+        "location": "Japan",
+        "name": "permanent",
+        "pinned_tweet_id": "1733676116370502096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647980187210993664/pcgfLrwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 427,
+          "like_count": 6003,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 2244
+        },
+        "username": "permanent_yin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T15:21:52.000Z",
+        "description": "Amateur radio operator from South Korea (JK1TYD in Japan)\nHF-VHF-UHF CW, SSB, Digi DX / POTA, SOTA / SAT",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qrz.com/db/ds1udn",
+                "end": 23,
+                "expanded_url": "https://www.qrz.com/db/ds1udn",
+                "start": 0,
+                "url": "https://t.co/bbHPeIRE6c"
+              }
+            ]
+          }
+        },
+        "id": "1654869032556990464",
+        "location": "대한민국 서울",
+        "name": "DS1UDN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654869255643623426/4rW-VA6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 652,
+          "like_count": 1729,
+          "listed_count": 4,
+          "media_count": 284,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/bbHPeIRE6c",
+        "username": "DS1UDN",
+        "verified": false
+      }
+    ]
+  }
+}

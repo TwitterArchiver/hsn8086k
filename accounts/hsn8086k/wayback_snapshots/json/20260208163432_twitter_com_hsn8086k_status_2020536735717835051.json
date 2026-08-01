@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2020530715549368740",
+    "created_at": "2026-02-08T16:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T17:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020536735717835051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1257540561189302274",
+          "start": 0,
+          "username": "Minatooo_O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020536735717835051",
+    "in_reply_to_user_id": "1257540561189302274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020533205800189974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minatooo_O 呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2020530715549368740",
+        "created_at": "2026-02-08T16:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020536735717835051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1257540561189302274",
+              "start": 0,
+              "username": "Minatooo_O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020536735717835051",
+        "in_reply_to_user_id": "1257540561189302274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020533205800189974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minatooo_O 呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257540561189302274",
+        "conversation_id": "2020530715549368740",
+        "created_at": "2026-02-08T16:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020533205800189974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020533205800189974",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020530715549368740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 选项里有锐角直角平角可以选嘛💢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 148,
+          "like_count": 3198,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 906
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T05:20:20.000Z",
+        "description": "学生|ACG|公路&轨道交通|地理好き|数学苦手|模拟经营|轻度galgame|音游|点赞bot|可爱🩷@Chinonya1 @KawaiiSmolChino @hikawarinaOvO 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Chinonya1"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "KawaiiSmolChino"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "hikawarinaOvO"
+              }
+            ]
+          }
+        },
+        "id": "1257540561189302274",
+        "location": "某个阴暗的角落里",
+        "name": "MinatoOvO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950575474335498240/mtY1YqTM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 304,
+          "like_count": 36918,
+          "listed_count": 5,
+          "media_count": 245,
+          "tweet_count": 7683
+        },
+        "username": "Minatooo_O",
+        "verified": false
+      }
+    ]
+  }
+}

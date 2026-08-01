@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2071837706460725751",
+    "created_at": "2026-06-30T06:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T07:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071837706460725751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jun_song/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/jun_song/status/2071823248254546241",
+          "start": 9,
+          "url": "https://t.co/vqsoHvwgmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071837706460725751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071823248254546241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恭喜你发明了杠杆 https://t.co/vqsoHvwgmf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2071837706460725751",
+        "created_at": "2026-06-30T06:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T07:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071837706460725751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jun_song/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/jun_song/status/2071823248254546241",
+              "start": 9,
+              "url": "https://t.co/vqsoHvwgmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071837706460725751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071823248254546241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恭喜你发明了杠杆 https://t.co/vqsoHvwgmf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831149867663798272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Insurance",
+              "id": "1037076317722763265",
+              "name": "Insurance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          }
+        ],
+        "conversation_id": "2071823248254546241",
+        "created_at": "2026-06-30T05:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071823248254546241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sawyermerritt/…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/sawyermerritt/status/2071700521505734934",
+              "start": 172,
+              "url": "https://t.co/rYelfTUF8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071823248254546241",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 3135,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071700521505734934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Infinite money glitch : \n\n&gt; Borrow $1M from Japanese bank for ~3% APR \n&gt; Deposit into X money and get 6% APY\n&gt; You get $30K every year without spending your money https://t.co/rYelfTUF8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 242,
+          "like_count": 9866,
+          "listed_count": 8,
+          "media_count": 219,
+          "tweet_count": 2467
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T01:58:53.000Z",
+        "description": "Founder @0xSupergemma\n| Local LLMs / Open-source ecosystem |\nAmbassador @Alibaba_Qwen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "0xSupergemma"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Alibaba_Qwen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "huggingface.co/jiunsong",
+                "end": 23,
+                "expanded_url": "http://huggingface.co/jiunsong",
+                "start": 0,
+                "url": "https://t.co/UdMxbOWzsi"
+              }
+            ]
+          }
+        },
+        "id": "1831149867663798272",
+        "name": "Jun Song",
+        "pinned_tweet_id": "2070540858236256448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046816680731725825/DMIGj4BG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20168,
+          "following_count": 233,
+          "like_count": 5208,
+          "listed_count": 182,
+          "media_count": 423,
+          "tweet_count": 4434
+        },
+        "url": "https://t.co/UdMxbOWzsi",
+        "username": "jun_song",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027434498099761152"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2027434500633072003",
+    "created_at": "2026-02-27T17:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027434500633072003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0dIIsHaPQ0",
+          "end": 30,
+          "expanded_url": "https://x.com/hsn8086k/status/2027434500633072003/photo/1",
+          "media_key": "3_2027434498099761152",
+          "start": 7,
+          "url": "https://t.co/0dIIsHaPQ0"
+        },
+        {
+          "display_url": "x.com/tangeorange/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/tangeorange/status/2027238017975664753",
+          "start": 31,
+          "url": "https://t.co/5GEkY8B5qM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027434500633072003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027238017975664753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也来一个🥰 https://t.co/0dIIsHaPQ0 https://t.co/5GEkY8B5qM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 616,
+        "media_key": "3_2027434498099761152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLk7yib0AA2hht.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027434498099761152"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2027434500633072003",
+        "created_at": "2026-02-27T17:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027434500633072003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0dIIsHaPQ0",
+              "end": 30,
+              "expanded_url": "https://x.com/hsn8086k/status/2027434500633072003/photo/1",
+              "media_key": "3_2027434498099761152",
+              "start": 7,
+              "url": "https://t.co/0dIIsHaPQ0"
+            },
+            {
+              "display_url": "x.com/tangeorange/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/tangeorange/status/2027238017975664753",
+              "start": 31,
+              "url": "https://t.co/5GEkY8B5qM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027434500633072003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027238017975664753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也来一个🥰 https://t.co/0dIIsHaPQ0 https://t.co/5GEkY8B5qM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806849464386416640",
+        "conversation_id": "2027238017975664753",
+        "created_at": "2026-02-27T04:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027238017975664753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027238017975664753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 889,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在 LineageOS 向你们问好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 172,
+          "like_count": 4863,
+          "listed_count": 5,
+          "media_count": 136,
+          "tweet_count": 1419
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "trans | 娱乐至死 | Tangero Studio | Working on \"ORGU Project\" | OIer (已退役) | Software Engineer | LET THE BASS KICK",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Computer",
+        "name": "Orange🏳️‍⚧️",
+        "pinned_tweet_id": "1950514909743292676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024144968550653954/6Lboz94E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1616,
+          "following_count": 1784,
+          "like_count": 6333,
+          "listed_count": 2,
+          "media_count": 809,
+          "tweet_count": 4997
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": false
+      }
+    ]
+  }
+}

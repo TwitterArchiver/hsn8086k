@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2033019419153281111",
+    "created_at": "2026-03-15T03:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T04:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033019419153281111"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033019419153281111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "算了算了, 话说出去就说出去了, 怎么解读确实不是我能控制的了.\n只能说, 这只是句玩笑话, 后面原本是想写逆天而不是神秘的, 因为 tl 总是刷出逆天人, 但是想了想不太好, 就写了神秘, 特指这一类, 而不是所有.\n如果不接受, 也没啥好说, 就当我反 xyn b 了我算了."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2033019419153281111",
+        "created_at": "2026-03-15T03:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T04:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033019419153281111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033019419153281111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了算了, 话说出去就说出去了, 怎么解读确实不是我能控制的了.\n只能说, 这只是句玩笑话, 后面原本是想写逆天而不是神秘的, 因为 tl 总是刷出逆天人, 但是想了想不太好, 就写了神秘, 特指这一类, 而不是所有.\n如果不接受, 也没啥好说, 就当我反 xyn b 了我算了."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 185,
+          "like_count": 5558,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 1568
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2065790051557273704",
+    "created_at": "2026-06-14T06:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066042738123153522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802223029772263424",
+          "start": 0,
+          "username": "HuangHun_Yue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066042738123153522",
+    "in_reply_to_user_id": "1802223029772263424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066021423832052063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuangHun_Yue 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065790051557273704",
+        "created_at": "2026-06-14T06:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066042738123153522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802223029772263424",
+              "start": 0,
+              "username": "HuangHun_Yue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066042738123153522",
+        "in_reply_to_user_id": "1802223029772263424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066021423832052063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuangHun_Yue 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802223029772263424",
+        "conversation_id": "2065790051557273704",
+        "created_at": "2026-06-14T04:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066021423832052063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066021423832052063",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065790051557273704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 我以为你说BitLocker。😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 236,
+          "like_count": 9292,
+          "listed_count": 8,
+          "media_count": 210,
+          "tweet_count": 2297
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T06:14:12.000Z",
+        "description": "持续输出低质量内容。\n\n野鸡大学导师，肛肠科掏粪东baby，东北神童，独居大house的东北老0，长春曲婉婷：@zuilizhishier",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "zuilizhishier"
+              }
+            ]
+          }
+        },
+        "id": "1802223029772263424",
+        "location": "Taiwan",
+        "name": "Alex-Cat",
+        "pinned_tweet_id": "2025047867371790649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940598080799125504/XYpG7Dv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 2737,
+          "like_count": 65050,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 8830
+        },
+        "username": "HuangHun_Yue",
+        "verified": false
+      }
+    ]
+  }
+}

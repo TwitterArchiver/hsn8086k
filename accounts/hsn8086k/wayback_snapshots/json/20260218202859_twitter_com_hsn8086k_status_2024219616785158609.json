@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024219616785158609",
+    "created_at": "2026-02-18T20:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T21:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024219616785158609"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 210,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2024218444196172087",
+          "start": 187,
+          "url": "https://t.co/7tFtxZo0Pr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024219616785158609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024218444196172087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "两年前\nhsn: 我草 Ruff 真是好东西, PyCharm的格式化慢出天际啊.\n\n一年前\nhsn: Poetry 还是好用啊. 啊你说 uv? 这啥\n  一阵子后\n  hsn: 我靠这么爽的吗!\n\n几个月前\nszgg: hsn 你看这个, ty!\nhsn: 啥啊?\n  一阵子后\n  hsn: 我靠这么色情!\n\n现在\nhsn: zed 还是好用, vsc 回收站见吧. https://t.co/7tFtxZo0Pr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024219616785158609",
+        "created_at": "2026-02-18T20:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024219616785158609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 210,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2024218444196172087",
+              "start": 187,
+              "url": "https://t.co/7tFtxZo0Pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024219616785158609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024218444196172087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两年前\nhsn: 我草 Ruff 真是好东西, PyCharm的格式化慢出天际啊.\n\n一年前\nhsn: Poetry 还是好用啊. 啊你说 uv? 这啥\n  一阵子后\n  hsn: 我靠这么爽的吗!\n\n几个月前\nszgg: hsn 你看这个, ty!\nhsn: 啥啊?\n  一阵子后\n  hsn: 我靠这么色情!\n\n现在\nhsn: zed 还是好用, vsc 回收站见吧. https://t.co/7tFtxZo0Pr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2024218444196172087",
+        "created_at": "2026-02-18T20:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024218444196172087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024218444196172087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现, 编辑器/ IDE 对我来说最不可替代的是 AI 补全和 LSP.\n所以 hsn 抛弃了 vsc, 去用 zed 了, zed 可以登陆 gh copilot, zed 启动无敌快.\n另外, 看来我确实对 java 和 kt 有什么偏见, 一直觉得这俩离了 IDEA 就写不了, 现在看来, 并不是完全的."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 163,
+          "like_count": 4045,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 1183
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

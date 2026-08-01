@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2038480119342453050",
+    "created_at": "2026-03-30T05:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T06:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038494363626655931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1955831159507836930",
+          "start": 0,
+          "username": "Raster_DNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038494363626655931",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038493824645996925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raster_DNA 或者说, 不该在这种问题下争论常识, 如果喜欢争论常识下次就都用形式化的表达, 就是形式化表达难读."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2038480119342453050",
+        "created_at": "2026-03-30T05:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038494363626655931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955831159507836930",
+              "start": 0,
+              "username": "Raster_DNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038494363626655931",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038493824645996925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raster_DNA 或者说, 不该在这种问题下争论常识, 如果喜欢争论常识下次就都用形式化的表达, 就是形式化表达难读."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2038480119342453050",
+        "created_at": "2026-03-30T05:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038493824645996925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1955831159507836930",
+              "start": 0,
+              "username": "Raster_DNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038493824645996925",
+        "in_reply_to_user_id": "1955831159507836930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038492349270274258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raster_DNA 比如公司聚会, 比如社团团建, 或者说由其中两个人组织起来的聚会, 出现这种情况很容易的, 不然为什么团建叫团建, 就是要增进大家感情才有的."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 215,
+          "like_count": 6577,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1738
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T03:18:22.000Z",
+        "description": "置顶帖 ver 1.0 release\n\n- 键政纯度高到可以核爆\n- 二次元浓度高到可以升天\n- 认为MtF就是魔法少女\n- 认为高市早苗就是东风谷早苗\n- 不管图灵是不是自愿嗑药反正ta是跨\n- 除了逻辑正常其它都不正常。。。",
+        "id": "1955831159507836930",
+        "location": "虛空/恒納蘭那",
+        "name": "光柵記憶體",
+        "pinned_tweet_id": "2029704620923326920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026337513149984768/zK_4nGB__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 134,
+          "like_count": 20423,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 2380
+        },
+        "username": "Raster_DNA",
+        "verified": false
+      }
+    ]
+  }
+}

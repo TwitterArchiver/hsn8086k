@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1895672924860006616",
+    "created_at": "2025-03-02T11:13:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T12:13:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896156787122085938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1481149459211816962",
+          "start": 0,
+          "username": "chenjia74987529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896156787122085938",
+    "in_reply_to_user_id": "1481149459211816962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896119345920737434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenjia74987529 lgbt,就不是人了吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1895672924860006616",
+        "created_at": "2025-03-02T11:13:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T12:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896156787122085938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1481149459211816962",
+              "start": 0,
+              "username": "chenjia74987529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896156787122085938",
+        "in_reply_to_user_id": "1481149459211816962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896119345920737434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenjia74987529 lgbt,就不是人了吗?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481149459211816962",
+        "conversation_id": "1895672924860006616",
+        "created_at": "2025-03-02T08:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T09:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896119345920737434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896119345920737434",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895672924860006616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k \"这么好一个人\"--&gt;陌生人, lgbt, 紫砂.\n被攻击没什么好奇怪的, 网络上缺恶人吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 35,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 36
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T06:22:22.000Z",
+        "description": "politics hater | cyber security | Fuck u Konami",
+        "id": "1481149459211816962",
+        "name": "Nuwanda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835506937796190208/O9t8U_RG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 99,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 65
+        },
+        "username": "chenjia74987529",
+        "verified": false
+      }
+    ]
+  }
+}

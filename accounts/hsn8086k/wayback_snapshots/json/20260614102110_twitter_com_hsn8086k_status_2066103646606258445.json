@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2066103646606258445",
+    "created_at": "2026-06-14T10:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066103646606258445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yinsuecci/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/yinsuecci/status/2065459480972976312",
+          "start": 13,
+          "url": "https://t.co/MpEv2GZhZF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066103646606258445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065459480972976312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为把高考当成人生目标. https://t.co/MpEv2GZhZF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2066103646606258445",
+        "created_at": "2026-06-14T10:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066103646606258445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yinsuecci/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yinsuecci/status/2065459480972976312",
+              "start": 13,
+              "url": "https://t.co/MpEv2GZhZF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066103646606258445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065459480972976312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为把高考当成人生目标. https://t.co/MpEv2GZhZF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841098665001435141",
+        "conversation_id": "2065459480972976312",
+        "created_at": "2026-06-12T15:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065459480972976312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065459480972976312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 709,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么高考完对一切都失去兴趣了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 237,
+          "like_count": 9375,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2315
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T12:52:21.000Z",
+        "description": "思念無言，柔情滿庭院\n只想做个蠢蠢的萝莉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mathblog.udclass.top",
+                "end": 23,
+                "expanded_url": "http://www.mathblog.udclass.top/",
+                "start": 0,
+                "url": "https://t.co/2IdjFbFe0b"
+              }
+            ]
+          }
+        },
+        "id": "1841098665001435141",
+        "location": "Mars",
+        "name": "櫻序曦葉",
+        "pinned_tweet_id": "2065315056838168627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975161887664050176/xM8Jqs6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 232,
+          "like_count": 61,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/2IdjFbFe0b",
+        "username": "yinsuecci",
+        "verified": false
+      }
+    ]
+  }
+}

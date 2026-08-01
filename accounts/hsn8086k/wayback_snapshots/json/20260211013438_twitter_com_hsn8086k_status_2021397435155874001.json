@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2020909071151529995",
+    "created_at": "2026-02-11T01:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T02:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021397435155874001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806993387285057537",
+          "start": 0,
+          "username": "CR_Rabbit_Li"
+        },
+        {
+          "end": 26,
+          "id": "1953528457339834368",
+          "start": 14,
+          "username": "redraft2000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021397435155874001",
+    "in_reply_to_user_id": "1806993387285057537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021387784322195647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CR_Rabbit_Li @redraft2000 分!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2020909071151529995",
+        "created_at": "2026-02-11T01:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T02:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021397435155874001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806993387285057537",
+              "start": 0,
+              "username": "CR_Rabbit_Li"
+            },
+            {
+              "end": 26,
+              "id": "1953528457339834368",
+              "start": 14,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021397435155874001",
+        "in_reply_to_user_id": "1806993387285057537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021387784322195647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CR_Rabbit_Li @redraft2000 分!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806993387285057537",
+        "conversation_id": "2020909071151529995",
+        "created_at": "2026-02-11T00:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T01:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021387784322195647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 22,
+              "id": "1953528457339834368",
+              "start": 10,
+              "username": "redraft2000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021387784322195647",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021235242451808764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @redraft2000 给我给我 我170都没有😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 152,
+          "like_count": 3516,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 1019
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T10:09:50.000Z",
+        "description": "男｜08｜高三在家自学｜168｜算是直男吧｜轻度极限运动爱好者（很菜）｜Minecraft｜一念逍遥｜文明6｜戴森球｜INT？",
+        "id": "1806993387285057537",
+        "location": "广州",
+        "name": "一只屑兔子🚴🏃",
+        "pinned_tweet_id": "2017940983615529312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015402151824994304/dLXffYYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 96,
+          "like_count": 11404,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1079
+        },
+        "username": "CR_Rabbit_Li",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T18:47:53.000Z",
+        "description": "乘风好去，长空万里～",
+        "id": "1953528457339834368",
+        "name": "红筏🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968102545693528064/qrdJgaBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 70,
+          "like_count": 2695,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1361
+        },
+        "username": "redraft2000",
+        "verified": false
+      }
+    ]
+  }
+}

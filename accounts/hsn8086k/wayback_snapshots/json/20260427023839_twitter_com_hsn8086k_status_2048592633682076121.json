@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2048011104799031413",
+    "created_at": "2026-04-27T02:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048592633682076121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1431216306951372801",
+          "start": 0,
+          "username": "ftjvi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048592633682076121",
+    "in_reply_to_user_id": "1431216306951372801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048323789226942638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ftjvi1 其实我一直是一般路过程序员 ()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2048011104799031413",
+        "created_at": "2026-04-27T02:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048592633682076121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1431216306951372801",
+              "start": 0,
+              "username": "ftjvi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048592633682076121",
+        "in_reply_to_user_id": "1431216306951372801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048323789226942638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ftjvi1 其实我一直是一般路过程序员 ()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431216306951372801",
+        "conversation_id": "2048011104799031413",
+        "created_at": "2026-04-26T08:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T09:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048323789226942638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048323789226942638",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048011104799031413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 我确实关注了好多AI推主不假，但印象里你不是这个赛道了[捂脸]"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1785,
+          "following_count": 222,
+          "like_count": 7736,
+          "listed_count": 7,
+          "media_count": 180,
+          "tweet_count": 1960
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T11:25:54.000Z",
+        "description": "",
+        "id": "1431216306951372801",
+        "name": "moyuyjrj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431216457073922050/2T_WA_8U_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 94,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 135
+        },
+        "username": "ftjvi1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2026803667358429598",
+    "created_at": "2026-02-25T23:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T00:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026803667358429598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/didengshengwu/…",
+          "end": 170,
+          "expanded_url": "https://twitter.com/didengshengwu/status/2026437227354665324",
+          "start": 147,
+          "url": "https://t.co/kQsV2SSWLz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026803667358429598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026437227354665324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无敌.\n现在就一个人死家里, 一天到晚为了洗碗拖地扫地洗衣服晾衣服倒垃圾烦恼, 甚至拖延, 这些都是想象出来的吗.\n死家里吃泡面吃螺狮粉整外面还得擦桌子, 隔一阵子还要洗晒床单, 隔一会还要刷马桶, 夏天要洗空调滤网, 常用微波炉还得定期清理.\n说没家务不是在父母家里就是住宿, 不然就是编. https://t.co/kQsV2SSWLz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_2026437215430270976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB9Z6TFaYAAnG2I.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2026803667358429598",
+        "created_at": "2026-02-25T23:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T00:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026803667358429598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/didengshengwu/…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/didengshengwu/status/2026437227354665324",
+              "start": 147,
+              "url": "https://t.co/kQsV2SSWLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026803667358429598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026437227354665324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无敌.\n现在就一个人死家里, 一天到晚为了洗碗拖地扫地洗衣服晾衣服倒垃圾烦恼, 甚至拖延, 这些都是想象出来的吗.\n死家里吃泡面吃螺狮粉整外面还得擦桌子, 隔一阵子还要洗晒床单, 隔一会还要刷马桶, 夏天要洗空调滤网, 常用微波炉还得定期清理.\n说没家务不是在父母家里就是住宿, 不然就是编. https://t.co/kQsV2SSWLz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026437215430270976"
+          ]
+        },
+        "author_id": "1593547850637791233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026437227354665324",
+        "created_at": "2026-02-24T23:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T00:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026437227354665324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2x6bWYyITN",
+              "end": 79,
+              "expanded_url": "https://x.com/didengshengwu/status/2026437227354665324/photo/1",
+              "media_key": "3_2026437215430270976",
+              "start": 56,
+              "url": "https://t.co/2x6bWYyITN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026437227354665324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 313969,
+          "like_count": 1679,
+          "quote_count": 7,
+          "reply_count": 217,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "每周的家务 我20分钟就能搞定，\n\n剩下的时间全部用来赚钱和玩，\n\n为什么身边结了婚朋友 每天忙的晕头转向？？ https://t.co/2x6bWYyITN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1453,
+          "following_count": 172,
+          "like_count": 4746,
+          "listed_count": 5,
+          "media_count": 133,
+          "tweet_count": 1374
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187832,
+          "following_count": 1316,
+          "like_count": 3284,
+          "listed_count": 740,
+          "media_count": 3545,
+          "tweet_count": 6573
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

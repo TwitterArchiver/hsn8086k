@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2039153144882667931",
+    "created_at": "2026-04-01T01:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T02:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039153144882667931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2039152705378365799",
+          "start": 37,
+          "url": "https://t.co/EB1BVjvVMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039153144882667931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039152705378365799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦等等, 我有个想法, 那啥现身日不会是专门设置在愚人节前一天的吧?!! https://t.co/EB1BVjvVMx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2039153144882667931",
+        "created_at": "2026-04-01T01:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039153144882667931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2039152705378365799",
+              "start": 37,
+              "url": "https://t.co/EB1BVjvVMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039153144882667931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039152705378365799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦等等, 我有个想法, 那啥现身日不会是专门设置在愚人节前一天的吧?!! https://t.co/EB1BVjvVMx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2039152705378365799",
+        "created_at": "2026-04-01T01:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T02:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039152705378365799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039152705378365799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "愚人节, 更新一下名字!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 216,
+          "like_count": 6671,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1750
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

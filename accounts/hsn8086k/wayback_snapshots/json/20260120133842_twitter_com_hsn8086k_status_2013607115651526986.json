@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013607111486312448",
+        "3_2013607112153120768",
+        "3_2013607111800901632"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2013607115651526986",
+    "created_at": "2026-01-20T13:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T14:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013607115651526986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CLPcMPBf1Q",
+          "end": 23,
+          "expanded_url": "https://x.com/hsn8086k/status/2013607115651526986/photo/1",
+          "media_key": "3_2013607111486312448",
+          "start": 0,
+          "url": "https://t.co/CLPcMPBf1Q"
+        },
+        {
+          "display_url": "pic.x.com/CLPcMPBf1Q",
+          "end": 23,
+          "expanded_url": "https://x.com/hsn8086k/status/2013607115651526986/photo/1",
+          "media_key": "3_2013607112153120768",
+          "start": 0,
+          "url": "https://t.co/CLPcMPBf1Q"
+        },
+        {
+          "display_url": "pic.x.com/CLPcMPBf1Q",
+          "end": 23,
+          "expanded_url": "https://x.com/hsn8086k/status/2013607115651526986/photo/1",
+          "media_key": "3_2013607111800901632",
+          "start": 0,
+          "url": "https://t.co/CLPcMPBf1Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013607115651526986",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/CLPcMPBf1Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2013607111486312448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HE_9VXkAAnX6D.jpg",
+        "width": 576
+      },
+      {
+        "height": 1087,
+        "media_key": "3_2013607112153120768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HE__0WQAA0g2u.jpg",
+        "width": 641
+      },
+      {
+        "height": 743,
+        "media_key": "3_2013607111800901632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HE_-gX0AACbLo.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013607111486312448",
+            "3_2013607112153120768",
+            "3_2013607111800901632"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013607115651526986",
+        "created_at": "2026-01-20T13:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T14:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013607115651526986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLPcMPBf1Q",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2013607115651526986/photo/1",
+              "media_key": "3_2013607111486312448",
+              "start": 0,
+              "url": "https://t.co/CLPcMPBf1Q"
+            },
+            {
+              "display_url": "pic.x.com/CLPcMPBf1Q",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2013607115651526986/photo/1",
+              "media_key": "3_2013607112153120768",
+              "start": 0,
+              "url": "https://t.co/CLPcMPBf1Q"
+            },
+            {
+              "display_url": "pic.x.com/CLPcMPBf1Q",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2013607115651526986/photo/1",
+              "media_key": "3_2013607111800901632",
+              "start": 0,
+              "url": "https://t.co/CLPcMPBf1Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013607115651526986",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CLPcMPBf1Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 72,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 178
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

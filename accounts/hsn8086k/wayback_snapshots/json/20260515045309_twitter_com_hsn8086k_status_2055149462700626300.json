@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2055149462700626300",
+    "created_at": "2026-05-15T04:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055149462700626300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2049825426441433090",
+          "start": 3,
+          "username": "AirisTendouX2K"
+        },
+        {
+          "end": 36,
+          "id": "1759787246587379712",
+          "start": 20,
+          "username": "RainEngine2024m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055149462700626300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054846642881470738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AirisTendouX2K: @RainEngine2024m 真是奇怪，必须要有监护人陪同，家长在旁边我敢说真话吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2055149462700626300",
+        "created_at": "2026-05-15T04:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055149462700626300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2049825426441433090",
+              "start": 3,
+              "username": "AirisTendouX2K"
+            },
+            {
+              "end": 36,
+              "id": "1759787246587379712",
+              "start": 20,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055149462700626300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054846642881470738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AirisTendouX2K: @RainEngine2024m 真是奇怪，必须要有监护人陪同，家长在旁边我敢说真话吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049825426441433090",
+        "conversation_id": "2054826626983276666",
+        "created_at": "2026-05-14T08:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054846642881470738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054846642881470738",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054826626983276666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024m 真是奇怪，必须要有监护人陪同，家长在旁边我敢说真话吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 219,
+          "like_count": 8061,
+          "listed_count": 8,
+          "media_count": 193,
+          "tweet_count": 2039
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T12:17:28.000Z",
+        "description": "不支持od，但尊重od。未成年人|编译日期2011.1.9|，无证含糖|2026.5.1|mtf🏳️‍⚧️，以前是粉红，现在没力气力(疑似每个长大后的小粉红必经之路)。\n喜欢“蝙蝠”？\n🦇不!这是咱的文件名后缀。\n随性回复，请不要骂我，如果我骂你了，4/29/2026的我向你对不起 ＞人＜",
+        "id": "2049825426441433090",
+        "name": "airis_batN🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049825544964046848/B2XUWWeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 57,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 25
+        },
+        "username": "AirisTendouX2K",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "专注次元联合创始人、FOCUSPACE品牌总经理、中国区市场部总经理｜雨擎项目组公关部总经理、产品高级体验官丨前小米门店运营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/teamrain_2025",
+                "end": 23,
+                "expanded_url": "https://ngl.link/teamrain_2025",
+                "start": 0,
+                "url": "https://t.co/9qpFDKrzW9"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "IP 属地 ：伊朗",
+        "name": "高坂穗嘉图_Kernel",
+        "pinned_tweet_id": "2043020664203022783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053668091486445568/2Q--XKwu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 1436,
+          "like_count": 2712,
+          "listed_count": 12,
+          "media_count": 477,
+          "tweet_count": 1683
+        },
+        "url": "https://t.co/9qpFDKrzW9",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

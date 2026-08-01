@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015762462973596140",
+    "created_at": "2026-01-26T12:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T13:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015762462973596140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aliciahan007/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/aliciahan007/status/2015719182562705743",
+          "start": 4,
+          "url": "https://t.co/05C49fRk2J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015762462973596140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015719182562705743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这对吗 https://t.co/05C49fRk2J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_2015717047020199936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lD-XtWoAAYLQf.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2736,
+        "media_key": "3_2015719089969221632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_lF1SSW0AAiKKG.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015762462973596140",
+        "created_at": "2026-01-26T12:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T13:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015762462973596140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aliciahan007/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/aliciahan007/status/2015719182562705743",
+              "start": 4,
+              "url": "https://t.co/05C49fRk2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015762462973596140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015719182562705743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这对吗 https://t.co/05C49fRk2J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015717047020199936",
+            "3_2015719089969221632"
+          ]
+        },
+        "author_id": "376396452",
+        "conversation_id": "2015719182562705743",
+        "created_at": "2026-01-26T09:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015719182562705743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMKqoZhNAq",
+              "end": 60,
+              "expanded_url": "https://x.com/aliciahan007/status/2015719182562705743/photo/1",
+              "media_key": "3_2015717047020199936",
+              "start": 37,
+              "url": "https://t.co/uMKqoZhNAq"
+            },
+            {
+              "display_url": "pic.x.com/uMKqoZhNAq",
+              "end": 60,
+              "expanded_url": "https://x.com/aliciahan007/status/2015719182562705743/photo/1",
+              "media_key": "3_2015719089969221632",
+              "start": 37,
+              "url": "https://t.co/uMKqoZhNAq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015719182562705743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 48649,
+          "like_count": 196,
+          "quote_count": 8,
+          "reply_count": 33,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "借用某位大神网友留言。我觉得，我们计算机的祖坟，最近可能出了点什么问题。 https://t.co/uMKqoZhNAq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 91,
+          "like_count": 819,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 367
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-19T20:24:12.000Z",
+        "description": "今天仍旧没有变瘦喔😭",
+        "id": "376396452",
+        "location": "France",
+        "name": "污妖王的远征",
+        "pinned_tweet_id": "1823264456367100214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875676632351965185/xLRn2hTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5033,
+          "following_count": 925,
+          "like_count": 2722,
+          "listed_count": 25,
+          "media_count": 1282,
+          "tweet_count": 4570
+        },
+        "username": "aliciahan007",
+        "verified": false
+      }
+    ]
+  }
+}

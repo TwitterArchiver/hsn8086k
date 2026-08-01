@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2077054997511209273",
+    "created_at": "2026-07-14T15:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077054997511209273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JawenZhu/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/JawenZhu/status/2077052109296718044",
+          "start": 15,
+          "url": "https://t.co/fRNPk32nds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077054997511209273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077052109296718044",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在中推圈能算是小有名气吗🧐 https://t.co/fRNPk32nds"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2077054997511209273",
+        "created_at": "2026-07-14T15:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077054997511209273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JawenZhu/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/JawenZhu/status/2077052109296718044",
+              "start": 15,
+              "url": "https://t.co/fRNPk32nds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077054997511209273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077052109296718044",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在中推圈能算是小有名气吗🧐 https://t.co/fRNPk32nds"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1272930023926665216",
+        "conversation_id": "2077052109296718044",
+        "created_at": "2026-07-14T15:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077052109296718044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bolckAshley/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/bolckAshley/status/2076916625513808365",
+              "start": 15,
+              "url": "https://t.co/fJTBWmTcK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077052109296718044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076916625513808365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在中推圈能算是小有名气吗🧐 https://t.co/fJTBWmTcK9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 245,
+          "like_count": 10305,
+          "listed_count": 8,
+          "media_count": 233,
+          "tweet_count": 2636
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-16T16:32:36.000Z",
+        "description": "最爱@Masochiat 亲爱的@Zane_III_Ren 好同志@Aboubac68719912 @_Weace_ @NationalPureVF4死宅，左，反帝反修，支持LGBT。沒玩過東方正作云東方眾。不喜歡滯納笑话。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Masochiat"
+              },
+              {
+                "end": 29,
+                "start": 16,
+                "username": "Zane_III_Ren"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Aboubac68719912"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "_Weace_"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "NationalPureVF4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilipili.com",
+                "end": 23,
+                "expanded_url": "http://www.pilipili.com",
+                "start": 0,
+                "url": "https://t.co/wylUGcFYaG"
+              }
+            ]
+          }
+        },
+        "id": "1272930023926665216",
+        "location": "대한민국",
+        "name": "🌹Jawen🌹（淡推中）",
+        "pinned_tweet_id": "1910882349757444541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004503761163841536/XIqMmJl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4305,
+          "following_count": 2112,
+          "like_count": 76312,
+          "listed_count": 24,
+          "media_count": 1278,
+          "tweet_count": 23538
+        },
+        "url": "https://t.co/wylUGcFYaG",
+        "username": "JawenZhu",
+        "verified": false
+      }
+    ]
+  }
+}

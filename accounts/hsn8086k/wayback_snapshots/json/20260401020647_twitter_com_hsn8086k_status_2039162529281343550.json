@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2039161575777694193",
+    "created_at": "2026-04-01T02:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039162529281343550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1285078620860346368",
+          "start": 0,
+          "username": "Eric275028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039162529281343550",
+    "in_reply_to_user_id": "1285078620860346368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039161575777694193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eric275028 这样吗, 不然下次现身日和愚人节对调一下(雾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2039161575777694193",
+        "created_at": "2026-04-01T02:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039162529281343550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1285078620860346368",
+              "start": 0,
+              "username": "Eric275028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039162529281343550",
+        "in_reply_to_user_id": "1285078620860346368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039161575777694193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eric275028 这样吗, 不然下次现身日和愚人节对调一下(雾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285078620860346368",
+        "conversation_id": "2039161575777694193",
+        "created_at": "2026-04-01T02:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039161575777694193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2039152705378365799",
+              "start": 20,
+              "url": "https://t.co/LKj776r7Mx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039161575777694193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039152705378365799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我怎么感觉愚人节已经可以改名真话节了🤔 https://t.co/LKj776r7Mx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃🍥; 🏳️‍⚧️",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1643,
+          "following_count": 216,
+          "like_count": 6675,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1752
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-20T05:06:46.000Z",
+        "description": "河南人)\n目前在长三角电子厂打工)\n厌蠢症，看到外网内宣号会直接b)",
+        "id": "1285078620860346368",
+        "location": " weizhi",
+        "name": "ゆず茶味の猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1468766372498849792/gmopcc5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 953,
+          "like_count": 103817,
+          "listed_count": 4,
+          "media_count": 48,
+          "tweet_count": 1468
+        },
+        "username": "Eric275028",
+        "verified": false
+      }
+    ]
+  }
+}

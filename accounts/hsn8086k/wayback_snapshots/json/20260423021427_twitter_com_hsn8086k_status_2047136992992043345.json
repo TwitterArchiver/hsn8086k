@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2047136992992043345",
+    "created_at": "2026-04-23T02:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T03:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047136992992043345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizu_bai/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/mizu_bai/status/2046962518367916178",
+          "start": 16,
+          "url": "https://t.co/keIZ8fJK2J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047136992992043345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046962518367916178",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发现人分两种，活着的，死了的 https://t.co/keIZ8fJK2J"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2047136992992043345",
+        "created_at": "2026-04-23T02:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047136992992043345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizu_bai/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/mizu_bai/status/2046962518367916178",
+              "start": 16,
+              "url": "https://t.co/keIZ8fJK2J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047136992992043345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046962518367916178",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现人分两种，活着的，死了的 https://t.co/keIZ8fJK2J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724630965551865856",
+        "conversation_id": "2046962518367916178",
+        "created_at": "2026-04-22T14:41:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046962518367916178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046962518367916178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3790,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现小跨妹的男朋友分两种，一种是给她出手术费的，另一种是不出手术费的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 220,
+          "like_count": 7636,
+          "listed_count": 7,
+          "media_count": 178,
+          "tweet_count": 1942
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T03:30:55.000Z",
+        "description": "Theoretical Chemistry Ph. D. Student/AI for Science",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/mizu-bai",
+                "end": 23,
+                "expanded_url": "https://github.com/mizu-bai",
+                "start": 0,
+                "url": "https://t.co/N7irDlk8Gg"
+              }
+            ]
+          }
+        },
+        "id": "1724630965551865856",
+        "name": "mizu-bai",
+        "pinned_tweet_id": "2006359072699019432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009525486503043073/_-DBU265_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 770,
+          "like_count": 9166,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 4107
+        },
+        "url": "https://t.co/N7irDlk8Gg",
+        "username": "mizu_bai",
+        "verified": false
+      }
+    ]
+  }
+}

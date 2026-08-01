@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2014954405377024099",
+    "created_at": "2026-01-24T06:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T07:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014954405377024099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        },
+        {
+          "end": 25,
+          "id": "1640312069948932096",
+          "start": 12,
+          "username": "waveking1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014954405377024099",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014558808333484093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: @waveking1314 写给所有 16-25 岁还一无所有的兄弟们。\n\n炒币有风险，投资需谨慎。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2014954405377024099",
+        "created_at": "2026-01-24T06:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T07:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014954405377024099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            },
+            {
+              "end": 25,
+              "id": "1640312069948932096",
+              "start": 12,
+              "username": "waveking1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014954405377024099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014558808333484093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: @waveking1314 写给所有 16-25 岁还一无所有的兄弟们。\n\n炒币有风险，投资需谨慎。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "2014237986016358791",
+        "created_at": "2026-01-23T04:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014558808333484093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1640312069948932096",
+              "start": 0,
+              "username": "waveking1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014558808333484093",
+        "in_reply_to_user_id": "1640312069948932096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9481,
+          "like_count": 296,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014237986016358791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waveking1314 写给所有 16-25 岁还一无所有的兄弟们。\n\n炒币有风险，投资需谨慎。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 86,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 285
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2006394934333710386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98719,
+          "following_count": 686,
+          "like_count": 33972,
+          "listed_count": 277,
+          "media_count": 15322,
+          "tweet_count": 22058
+        },
+        "username": "Cldeop",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-27T11:17:38.000Z",
+        "description": "Meme币A9玩家 ｜@UniteFNF member ｜自研首个由AI集成的meme币金狗信号 @Golddogcall\nSol 信号群:  https://t.co/DjxjXNyLHv\nBsc信号群:  https://t.co/kt5Hj0Rz3d\n\n我会让你买在车头之前🚘",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "UniteFNF"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "Golddogcall"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/duanlang1000x",
+                "end": 95,
+                "expanded_url": "https://t.me/duanlang1000x",
+                "start": 72,
+                "url": "https://t.co/DjxjXNyLHv"
+              },
+              {
+                "display_url": "t.me/duanlang2000",
+                "end": 128,
+                "expanded_url": "https://t.me/duanlang2000",
+                "start": 105,
+                "url": "https://t.co/kt5Hj0Rz3d"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/waveking1314",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/waveking1314",
+                "start": 0,
+                "url": "https://t.co/JhpiU1KEsV"
+              }
+            ]
+          }
+        },
+        "id": "1640312069948932096",
+        "location": "财富密码👉🏻 ",
+        "name": "断浪",
+        "pinned_tweet_id": "1996873964292018205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993879414208385024/3zH9Dcvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39424,
+          "following_count": 1051,
+          "like_count": 1082,
+          "listed_count": 79,
+          "media_count": 369,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/JhpiU1KEsV",
+        "username": "waveking1314",
+        "verified": true
+      }
+    ]
+  }
+}

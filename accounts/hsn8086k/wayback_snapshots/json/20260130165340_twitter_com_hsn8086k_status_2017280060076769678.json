@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2017103899996672482",
+    "created_at": "2026-01-30T16:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T17:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017280060076769678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1153917593352204289",
+          "start": 0,
+          "username": "Fangliding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017280060076769678",
+    "in_reply_to_user_id": "1153917593352204289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017277502474096672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fangliding 因为这是文本能力, 由用户评定, 所以延迟也是很重要的一环.\n另外, 这个榜单其实是最早 lmsys 的榜单, 前两年就在看, 只是后来基准测试越来越多了热度才下去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2017103899996672482",
+        "created_at": "2026-01-30T16:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017280060076769678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153917593352204289",
+              "start": 0,
+              "username": "Fangliding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017280060076769678",
+        "in_reply_to_user_id": "1153917593352204289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017277502474096672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fangliding 因为这是文本能力, 由用户评定, 所以延迟也是很重要的一环.\n另外, 这个榜单其实是最早 lmsys 的榜单, 前两年就在看, 只是后来基准测试越来越多了热度才下去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153917593352204289",
+        "conversation_id": "2017103899996672482",
+        "created_at": "2026-01-30T16:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T17:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017277502474096672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017277502474096672",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017276036254478457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 这榜挺怪的 gemini3flash think不如不think opus4.5甚至不如gemini3flash"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 119,
+          "like_count": 1927,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 640
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-24T06:39:27.000Z",
+        "description": "ℱ𝓐𝓝𝓖𝓛𝓘𝓓𝓘𝓝𝓖\n必然的食雪中蕴含着简单的会员\n基本不发推但是评论一大堆\nACCEED集团食品安全总监(食安投诉信请放旁边垃圾箱)\n点兔依赖症晚期（求医无果）\nXray-core & doc Maintainer\nPGP key:c71fb17fb95c109c",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Fangliding",
+                "end": 23,
+                "expanded_url": "https://github.com/Fangliding",
+                "start": 0,
+                "url": "https://t.co/vheaUA459c"
+              }
+            ]
+          }
+        },
+        "id": "1153917593352204289",
+        "location": "下北泽联邦",
+        "name": "风扇滑翔翼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1403339825135063044/aGIlgT4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 41,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 1708
+        },
+        "url": "https://t.co/vheaUA459c",
+        "username": "Fangliding",
+        "verified": false
+      }
+    ]
+  }
+}

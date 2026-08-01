@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026388990",
+          "name": "Straight Talk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2081324959423402086",
+    "created_at": "2026-07-26T10:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081324959423402086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DeeperThrill/s…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/DeeperThrill/status/2081202256607670653",
+          "start": 45,
+          "url": "https://t.co/d7cnAP0LEV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081324959423402086",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081202256607670653",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我: 说中文!\nClaude: もちろんです。以下、先ほどの内容を中国語でお伝えします。 https://t.co/d7cnAP0LEV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081202253256400896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHqbDMXIAA-5jw.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026388990",
+              "name": "Straight Talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2081324959423402086",
+        "created_at": "2026-07-26T10:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081324959423402086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DeeperThrill/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/DeeperThrill/status/2081202256607670653",
+              "start": 45,
+              "url": "https://t.co/d7cnAP0LEV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081324959423402086",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081202256607670653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我: 说中文!\nClaude: もちろんです。以下、先ほどの内容を中国語でお伝えします。 https://t.co/d7cnAP0LEV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081202253256400896"
+          ]
+        },
+        "author_id": "2252943488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026388990",
+              "name": "Straight Talk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2081202256607670653",
+        "created_at": "2026-07-26T02:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081202256607670653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1353836358901501952",
+              "start": 4,
+              "username": "AnthropicAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CwiWMPLFSV",
+              "end": 246,
+              "expanded_url": "https://x.com/DeeperThrill/status/2081202256607670653/photo/1",
+              "media_key": "3_2081202253256400896",
+              "start": 223,
+              "url": "https://t.co/CwiWMPLFSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081202256607670653",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 198763,
+          "like_count": 1397,
+          "quote_count": 38,
+          "reply_count": 192,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "Hey @AnthropicAI why are there Chinese(?) characters in your Opus 5 output messages to me?\n\nI don’t read Chinese. And I thought you never distill any other model, right?\n\nWhat does, “Two things, both需要 straight talk” mean? https://t.co/CwiWMPLFSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 247,
+          "like_count": 10681,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 2711
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-19T04:06:21.000Z",
+        "description": "🤖 Entrepreneur. Healthcare AI. Biomedical Engineer PhD. Futurist. Optimist. Unvaxxed. 39 yo.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/deepthrill",
+                "end": 23,
+                "expanded_url": "https://t.me/deepthrill",
+                "start": 0,
+                "url": "https://t.co/8tMjqTyMBs"
+              }
+            ]
+          }
+        },
+        "id": "2252943488",
+        "name": "Deep Thrill",
+        "pinned_tweet_id": "2010894030087860271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005437648756740096/fBF7y924_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35855,
+          "following_count": 5828,
+          "like_count": 553410,
+          "listed_count": 452,
+          "media_count": 9339,
+          "tweet_count": 145318
+        },
+        "url": "https://t.co/8tMjqTyMBs",
+        "username": "DeeperThrill",
+        "verified": true
+      }
+    ]
+  }
+}

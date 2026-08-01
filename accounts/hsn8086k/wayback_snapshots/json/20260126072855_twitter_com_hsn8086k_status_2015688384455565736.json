@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015688382245163008"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015499946557149316",
+    "created_at": "2026-01-26T07:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T08:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015688384455565736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1516975944484990977",
+          "start": 0,
+          "username": "SuisPasDaVinci"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q1nb8e2RWm",
+          "end": 56,
+          "expanded_url": "https://x.com/hsn8086k/status/2015688384455565736/photo/1",
+          "media_key": "3_2015688382245163008",
+          "start": 33,
+          "url": "https://t.co/Q1nb8e2RWm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015688384455565736",
+    "in_reply_to_user_id": "1516975944484990977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015536100597502058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuisPasDaVinci 基本都是下午两点三点四点五点起床 https://t.co/Q1nb8e2RWm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2015688382245163008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_kp53Ga0AAtjsG.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015688382245163008"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015499946557149316",
+        "created_at": "2026-01-26T07:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T08:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015688384455565736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516975944484990977",
+              "start": 0,
+              "username": "SuisPasDaVinci"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q1nb8e2RWm",
+              "end": 56,
+              "expanded_url": "https://x.com/hsn8086k/status/2015688384455565736/photo/1",
+              "media_key": "3_2015688382245163008",
+              "start": 33,
+              "url": "https://t.co/Q1nb8e2RWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015688384455565736",
+        "in_reply_to_user_id": "1516975944484990977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015536100597502058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuisPasDaVinci 基本都是下午两点三点四点五点起床 https://t.co/Q1nb8e2RWm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516975944484990977",
+        "conversation_id": "2015499946557149316",
+        "created_at": "2026-01-25T21:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T22:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015536100597502058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015536100597502058",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015499946557149316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 哈哈哈哈哈，赔率如何😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 90,
+          "like_count": 782,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 358
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "穷开心就完了",
+        "id": "1516975944484990977",
+        "location": "CANADIAN TIRED",
+        "name": "达芬七",
+        "pinned_tweet_id": "2012731969344241707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009859078135201792/aaWw7l_i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 1687,
+          "like_count": 6703,
+          "listed_count": 1,
+          "media_count": 381,
+          "tweet_count": 4426
+        },
+        "username": "SuisPasDaVinci",
+        "verified": true
+      }
+    ]
+  }
+}

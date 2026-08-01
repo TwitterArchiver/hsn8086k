@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2060243251165385023",
+    "created_at": "2026-05-29T06:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060243251165385023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lustre_Blade/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Lustre_Blade/status/2060240123116294659",
+          "start": 17,
+          "url": "https://t.co/qG3Kgicwmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060243251165385023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060240123116294659",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上机考试还能挂就有点不像人类了. https://t.co/qG3Kgicwmr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2060243251165385023",
+        "created_at": "2026-05-29T06:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060243251165385023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lustre_Blade/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Lustre_Blade/status/2060240123116294659",
+              "start": 17,
+              "url": "https://t.co/qG3Kgicwmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060243251165385023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060240123116294659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上机考试还能挂就有点不像人类了. https://t.co/qG3Kgicwmr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "713889171962667008",
+        "conversation_id": "2060049352362688516",
+        "created_at": "2026-05-29T06:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060240123116294659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Fuugetsu_808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060240123116294659",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060049352362688516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuugetsu_808 宝子，你要上机考老师没得操作空间想捞你都捞不了等着下学期重修吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 227,
+          "like_count": 8465,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2132
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-27T00:43:36.000Z",
+        "description": "The verdict doesn't love our soul.\nThe digital won't let me go",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "isblade.com",
+                "end": 23,
+                "expanded_url": "https://isblade.com",
+                "start": 0,
+                "url": "https://t.co/NvgDyoyN0J"
+              }
+            ]
+          }
+        },
+        "id": "713889171962667008",
+        "location": "Superfast Jellyfish",
+        "name": "光锋",
+        "pinned_tweet_id": "1705971238215283141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014395004643651584/1mj6nY4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 623,
+          "like_count": 5136,
+          "listed_count": 4,
+          "media_count": 7310,
+          "tweet_count": 13958
+        },
+        "url": "https://t.co/NvgDyoyN0J",
+        "username": "Lustre_Blade",
+        "verified": false
+      }
+    ]
+  }
+}

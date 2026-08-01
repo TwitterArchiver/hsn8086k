@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2059911212801110468",
+    "created_at": "2026-05-28T08:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T09:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059911212801110468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YongQuan/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/YongQuan/status/2059862228413858087",
+          "start": 22,
+          "url": "https://t.co/HT9GVGggOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059911212801110468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059862228413858087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "性别\n* 勾选\"其他\"\n* 输入: 女\n😋 https://t.co/HT9GVGggOG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_2059426747012284416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJSNtxCbAAAhepf.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2059911212801110468",
+        "created_at": "2026-05-28T08:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059911212801110468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YongQuan/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/YongQuan/status/2059862228413858087",
+              "start": 22,
+              "url": "https://t.co/HT9GVGggOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059911212801110468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059862228413858087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "性别\n* 勾选\"其他\"\n* 输入: 女\n😋 https://t.co/HT9GVGggOG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059426747012284416"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2059862228413858087",
+        "created_at": "2026-05-28T05:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059862228413858087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zAk0jD2Od",
+              "end": 63,
+              "expanded_url": "https://x.com/YongQuan/status/2059862228413858087/photo/1",
+              "media_key": "3_2059426747012284416",
+              "start": 40,
+              "url": "https://t.co/5zAk0jD2Od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059862228413858087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 695,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真正的混乱邪恶belike: \n*性别填写:男  \n*报错:“该性别已被占用” https://t.co/5zAk0jD2Od"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2138,
+          "following_count": 225,
+          "like_count": 8320,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2105
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常@yqua_｜爱人❤️@XUEQIUxka\n🏳️‍⚧️家暴党 #MtX｜reHRT：2026.5.5｜小证2025.11.29\n大一AI/ML在修｜Premium+用户｜meme和亮点内容\n#小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 33,
+                "tag": "MtX"
+              },
+              {
+                "end": 104,
+                "start": 97,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 111,
+                "start": 105,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "yqua_"
+              },
+              {
+                "end": 23,
+                "start": 13,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "铨Quan🏳️‍⚧️🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10124,
+          "following_count": 4409,
+          "like_count": 47722,
+          "listed_count": 30,
+          "media_count": 3812,
+          "tweet_count": 13230
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

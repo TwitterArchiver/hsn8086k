@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2069761816369242127",
+    "created_at": "2026-06-24T12:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069761816369242127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2069375426896761192",
+          "start": 13,
+          "url": "https://t.co/IAjAWJDAbE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069761816369242127",
+    "lang": "sv",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069375426896761192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "OJ: Accepted https://t.co/IAjAWJDAbE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_2069375401273729024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfl9qPaIAAVs66.jpg",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2069761816369242127",
+        "created_at": "2026-06-24T12:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069761816369242127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2069375426896761192",
+              "start": 13,
+              "url": "https://t.co/IAjAWJDAbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069761816369242127",
+        "lang": "sv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069375426896761192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OJ: Accepted https://t.co/IAjAWJDAbE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069375401273729024"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069375426896761192",
+        "created_at": "2026-06-23T11:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069375426896761192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0jmTwRbfQb",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2069375426896761192/photo/1",
+              "media_key": "3_2069375401273729024",
+              "start": 0,
+              "url": "https://t.co/0jmTwRbfQb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069375426896761192",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1080,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0jmTwRbfQb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 241,
+          "like_count": 9740,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 2398
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36512,
+          "following_count": 371,
+          "like_count": 229,
+          "listed_count": 110,
+          "media_count": 16316,
+          "tweet_count": 16400
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

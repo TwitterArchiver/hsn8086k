@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2062898745633874187",
+    "created_at": "2026-06-06T06:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063144372947001396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647979969111261186",
+          "start": 0,
+          "username": "permanent_yin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063144372947001396",
+    "in_reply_to_user_id": "1647979969111261186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063140774628454632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@permanent_yin 那就艾草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2062898745633874187",
+        "created_at": "2026-06-06T06:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063144372947001396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647979969111261186",
+              "start": 0,
+              "username": "permanent_yin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063144372947001396",
+        "in_reply_to_user_id": "1647979969111261186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063140774628454632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@permanent_yin 那就艾草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647979969111261186",
+        "conversation_id": "2062898745633874187",
+        "created_at": "2026-06-06T06:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063140774628454632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063140774628454632",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062898745633874187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 不信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 234,
+          "like_count": 9012,
+          "listed_count": 9,
+          "media_count": 204,
+          "tweet_count": 2207
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:07:12.000Z",
+        "description": "悲慘大陸大學生（//lgbt群體友好🏳️‍🌈🏳️‍⚧️\namateur radio operator \ncall sign BH6RJM",
+        "id": "1647979969111261186",
+        "location": "Japan",
+        "name": "permanent",
+        "pinned_tweet_id": "1733676116370502096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647980187210993664/pcgfLrwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 433,
+          "like_count": 6351,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 2416
+        },
+        "username": "permanent_yin",
+        "verified": false
+      }
+    ]
+  }
+}

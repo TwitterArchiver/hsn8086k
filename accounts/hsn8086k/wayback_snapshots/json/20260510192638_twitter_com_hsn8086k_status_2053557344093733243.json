@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053554670090739714",
+        "3_2053554671646912513"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2053557344093733243",
+    "created_at": "2026-05-10T19:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053557344093733243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F3K1BgR9G0",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086k/status/2053557344093733243/photo/1",
+          "media_key": "3_2053554670090739714",
+          "start": 13,
+          "url": "https://t.co/F3K1BgR9G0"
+        },
+        {
+          "display_url": "pic.x.com/F3K1BgR9G0",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086k/status/2053557344093733243/photo/1",
+          "media_key": "3_2053554671646912513",
+          "start": 13,
+          "url": "https://t.co/F3K1BgR9G0"
+        },
+        {
+          "display_url": "x.com/jerell24446666…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/jerell244466666/status/2053494548844741020",
+          "start": 37,
+          "url": "https://t.co/tZpFTaLWuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053557344093733243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053494548844741020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "草, ds真是这么建议的 https://t.co/F3K1BgR9G0 https://t.co/tZpFTaLWuT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_2053554670090739714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-xF52aYAI4PFh.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1331,
+        "media_key": "3_2053554671646912513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-xF_pbsAEheb-.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053554670090739714",
+            "3_2053554671646912513"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2053557344093733243",
+        "created_at": "2026-05-10T19:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053557344093733243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F3K1BgR9G0",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086k/status/2053557344093733243/photo/1",
+              "media_key": "3_2053554670090739714",
+              "start": 13,
+              "url": "https://t.co/F3K1BgR9G0"
+            },
+            {
+              "display_url": "pic.x.com/F3K1BgR9G0",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086k/status/2053557344093733243/photo/1",
+              "media_key": "3_2053554671646912513",
+              "start": 13,
+              "url": "https://t.co/F3K1BgR9G0"
+            },
+            {
+              "display_url": "x.com/jerell24446666…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/jerell244466666/status/2053494548844741020",
+              "start": 37,
+              "url": "https://t.co/tZpFTaLWuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053557344093733243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053494548844741020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草, ds真是这么建议的 https://t.co/F3K1BgR9G0 https://t.co/tZpFTaLWuT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682044209518497801",
+        "conversation_id": "2053489319734862091",
+        "created_at": "2026-05-10T15:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053494548844741020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467102254",
+              "start": 0,
+              "username": "disksing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053494548844741020",
+        "in_reply_to_user_id": "467102254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5276,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053489319734862091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@disksing 发布nlp领域的重量级论文: Attention is all your need 😤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 219,
+          "like_count": 7993,
+          "listed_count": 7,
+          "media_count": 190,
+          "tweet_count": 2020
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T15:06:14.000Z",
+        "description": "",
+        "id": "1682044209518497801",
+        "location": "England, United Kingdom",
+        "name": "Michael_Yuen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032688302487220224/g3z8FbIi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 690,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 15
+        },
+        "username": "jerell244466666",
+        "verified": false
+      }
+    ]
+  }
+}

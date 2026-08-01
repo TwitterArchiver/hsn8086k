@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2027085198064791642",
+    "created_at": "2026-02-27T17:21:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T18:21:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027433858418020594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822380396497313792",
+          "start": 0,
+          "username": "FascinatingAnon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027433858418020594",
+    "in_reply_to_user_id": "1822380396497313792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027423318601818457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FascinatingAnon 就是啊, 所以拿 qq 号当用户名, 或者说用默认用户名的很掉分啊, 记又难记, 输又难输"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2027423316563378176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCLaw8EawAAZvPd.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2027085198064791642",
+        "created_at": "2026-02-27T17:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027433858418020594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822380396497313792",
+              "start": 0,
+              "username": "FascinatingAnon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027433858418020594",
+        "in_reply_to_user_id": "1822380396497313792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027423318601818457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FascinatingAnon 就是啊, 所以拿 qq 号当用户名, 或者说用默认用户名的很掉分啊, 记又难记, 输又难输"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027423316563378176"
+          ]
+        },
+        "author_id": "1822380396497313792",
+        "conversation_id": "2027085198064791642",
+        "created_at": "2026-02-27T16:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T17:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027423318601818457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/14X1f2nhU8",
+              "end": 49,
+              "expanded_url": "https://x.com/FascinatingAnon/status/2027423318601818457/photo/1",
+              "media_key": "3_2027423316563378176",
+              "start": 26,
+              "url": "https://t.co/14X1f2nhU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027423318601818457",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027085198064791642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k qq邮箱可以设置自定义前缀啊🤔 https://t.co/14X1f2nhU8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 172,
+          "like_count": 4862,
+          "listed_count": 5,
+          "media_count": 135,
+          "tweet_count": 1418
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T21:12:13.000Z",
+        "description": "バンドリ/プロセカ/maimai | 中/Eng/日本語（まだ勉強中）",
+        "id": "1822380396497313792",
+        "location": "Shodoshima-cho, Kagawa",
+        "name": "Yαchiyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026233521908670464/j-tNoled_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1006,
+          "following_count": 955,
+          "like_count": 20193,
+          "listed_count": 2,
+          "media_count": 1678,
+          "tweet_count": 10318
+        },
+        "username": "FascinatingAnon",
+        "verified": false
+      }
+    ]
+  }
+}

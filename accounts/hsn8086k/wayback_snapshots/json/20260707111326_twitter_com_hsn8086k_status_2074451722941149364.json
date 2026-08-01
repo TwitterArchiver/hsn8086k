@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2074390882447716760",
+    "created_at": "2026-07-07T11:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T12:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074451722941149364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1226334672856256514",
+          "start": 0,
+          "username": "dia_doyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074451722941149364",
+    "in_reply_to_user_id": "1226334672856256514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074450460753457339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dia_doyo 这次就是, 第二次的诉求是让更上一级的经理回复我."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074390882447716760",
+        "created_at": "2026-07-07T11:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074451722941149364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1226334672856256514",
+              "start": 0,
+              "username": "dia_doyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074451722941149364",
+        "in_reply_to_user_id": "1226334672856256514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074450460753457339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dia_doyo 这次就是, 第二次的诉求是让更上一级的经理回复我."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1226334672856256514",
+        "conversation_id": "2074390882447716760",
+        "created_at": "2026-07-07T11:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074450460753457339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074450460753457339",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074390882447716760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 麦当劳最神的就是你给总部客服打电话投诉，最后会是这家店的经理给你打电话回访问题。这种管理太容易滋生皇帝店长和皇帝店员了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 246,
+          "like_count": 10097,
+          "listed_count": 8,
+          "media_count": 223,
+          "tweet_count": 2549
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-09T02:39:17.000Z",
+        "description": "计算机大二在读｜什么都试着在做:全栈、具身智能（rl）、视觉丨脑子像悬浊液，偶尔宁静下来才能沉淀一些思维碎片👀",
+        "id": "1226334672856256514",
+        "location": "生化斯坦",
+        "name": "DOYO(散装ver)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563032953873375232/f5GVx4hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 1706,
+          "like_count": 39409,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "dia_doyo",
+        "verified": true
+      }
+    ]
+  }
+}

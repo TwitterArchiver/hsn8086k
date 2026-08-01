@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015905591152271381",
+    "created_at": "2026-01-27T08:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T09:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016066793245442269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1848314728080388096",
+          "start": 0,
+          "username": "alan70999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016066793245442269",
+    "in_reply_to_user_id": "1848314728080388096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016016403556663456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alan70999 其实是刷推刷到了, 群里也见到好多次, 纠正后\n对面说: 听得懂不就行了\nhsn: 问题在于分不清啊!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015905591152271381",
+        "created_at": "2026-01-27T08:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T09:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016066793245442269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1848314728080388096",
+              "start": 0,
+              "username": "alan70999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016066793245442269",
+        "in_reply_to_user_id": "1848314728080388096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016016403556663456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alan70999 其实是刷推刷到了, 群里也见到好多次, 纠正后\n对面说: 听得懂不就行了\nhsn: 问题在于分不清啊!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848314728080388096",
+        "conversation_id": "2015905591152271381",
+        "created_at": "2026-01-27T05:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T06:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016016403556663456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016016403556663456",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 771,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015905591152271381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 没有什么人这么简称，真有说明你遇到外行或是少数人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 934,
+          "following_count": 92,
+          "like_count": 972,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 397
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T10:46:07.000Z",
+        "description": "一名热爱Electron、Vue Capacitor、React的黑匣开发者，不被任何混向信息所左右",
+        "id": "1848314728080388096",
+        "name": "Shown Alan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981916120954044416/cLm7Z09x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 25,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 205
+        },
+        "username": "alan70999",
+        "verified": false
+      }
+    ]
+  }
+}

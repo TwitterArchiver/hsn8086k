@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2053111106235965625",
+    "created_at": "2026-05-10T08:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053393808545763506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1672995207800037378",
+          "start": 0,
+          "username": "NULLCOLORCAT"
+        },
+        {
+          "end": 25,
+          "id": "1804344378338480128",
+          "start": 14,
+          "username": "Acmduemsks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053393808545763506",
+    "in_reply_to_user_id": "1672995207800037378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053196463686226136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NULLCOLORCAT @Acmduemsks 我说购买价格而不是票价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2053111106235965625",
+        "created_at": "2026-05-10T08:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053393808545763506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1672995207800037378",
+              "start": 0,
+              "username": "NULLCOLORCAT"
+            },
+            {
+              "end": 25,
+              "id": "1804344378338480128",
+              "start": 14,
+              "username": "Acmduemsks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053393808545763506",
+        "in_reply_to_user_id": "1672995207800037378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053196463686226136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NULLCOLORCAT @Acmduemsks 我说购买价格而不是票价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672995207800037378",
+        "conversation_id": "2053111106235965625",
+        "created_at": "2026-05-09T19:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053196463686226136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 21,
+              "id": "1804344378338480128",
+              "start": 10,
+              "username": "Acmduemsks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053196463686226136",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053126965260161279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @Acmduemsks 看情况的，有些高铁顺路的时候有短程的，两站之间距离大概30~100km左右，价格通常不贵，30~60，跑的速度基本上也是高铁速度，不过由于站程短，300的话可能会有点悬，大概会徘徊在240~260之间，偶尔可能有300"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 220,
+          "like_count": 7970,
+          "listed_count": 7,
+          "media_count": 189,
+          "tweet_count": 2017
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T15:49:00.000Z",
+        "description": "18岁可爱男娘/有男朋友/音乐制作者/稍微画点画/游戏制作中/Yes my English is really suck",
+        "id": "1672995207800037378",
+        "location": "苍白世界",
+        "name": "无色猫猫NULLCOLOR();🍔",
+        "pinned_tweet_id": "1988444844755410993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021066301100462080/rPdFxxLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 467,
+          "like_count": 595,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1006
+        },
+        "username": "NULLCOLORCAT",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n｜萍水相逢有缘人@jazzvoid7｜好猫猫@maoxian1527｜好朋友@aoi4uto｜会说普通话🇨🇳廣東話🇭🇰 and English 🇬🇧｜自我认同是GHC的STG机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "jazzvoid7"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "username": "aoi4uto"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "name": "我爱食麦当劳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 432,
+          "like_count": 5045,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 2658
+        },
+        "username": "Acmduemsks",
+        "verified": true
+      }
+    ]
+  }
+}

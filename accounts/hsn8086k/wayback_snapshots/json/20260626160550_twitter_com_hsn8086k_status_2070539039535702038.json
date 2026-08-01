@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2070536451805339948",
+    "created_at": "2026-06-26T16:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070539039535702038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1445354657161699331",
+          "start": 0,
+          "username": "Patrick_W626"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070539039535702038",
+    "in_reply_to_user_id": "1445354657161699331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070537307233587256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Patrick_W626 概率问题罢了, 如果有人和同性打到半夜相信绝对会再加上新的规则的."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2070536451805339948",
+        "created_at": "2026-06-26T16:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070539039535702038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1445354657161699331",
+              "start": 0,
+              "username": "Patrick_W626"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070539039535702038",
+        "in_reply_to_user_id": "1445354657161699331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070537307233587256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Patrick_W626 概率问题罢了, 如果有人和同性打到半夜相信绝对会再加上新的规则的."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445354657161699331",
+        "conversation_id": "2070536451805339948",
+        "created_at": "2026-06-26T15:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070537307233587256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070537307233587256",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070536451805339948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 但这和异性和同性有啥关系哇。想要舍友在夜晚保持安静不打扰他人休息我可以理解，但和同性打电话就行异性打电话就不行又是什么逻辑呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 242,
+          "like_count": 9783,
+          "listed_count": 8,
+          "media_count": 216,
+          "tweet_count": 2432
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T11:46:31.000Z",
+        "description": "Wubba lubba dub dub…",
+        "id": "1445354657161699331",
+        "location": "Hong Kong",
+        "name": "Pat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445354851613904904/EP5XSTlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 91,
+          "like_count": 2873,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 516
+        },
+        "url": "",
+        "username": "Patrick_W626",
+        "verified": false
+      }
+    ]
+  }
+}

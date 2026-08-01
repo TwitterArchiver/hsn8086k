@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2083291238678351976",
+    "created_at": "2026-07-31T20:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T21:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083291238678351976"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083291238678351976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为防止上推太多智力减退，请完成以下小学数学题： \n一组小朋友在一起玩耍，他们试图分成人数相等的多人小组却发现无法做到，这时来了两个小朋友想加入，却发现依然无法分组。凯西叔叔想对小朋友的人数进行猜测，请证明聪明的凯西叔叔无论猜多少次也不能保证一定猜中小朋友的数目。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2083291238678351976",
+        "created_at": "2026-07-31T20:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T21:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083291238678351976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083291238678351976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为防止上推太多智力减退，请完成以下小学数学题： \n一组小朋友在一起玩耍，他们试图分成人数相等的多人小组却发现无法做到，这时来了两个小朋友想加入，却发现依然无法分组。凯西叔叔想对小朋友的人数进行猜测，请证明聪明的凯西叔叔无论猜多少次也不能保证一定猜中小朋友的数目。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 247,
+          "like_count": 10762,
+          "listed_count": 9,
+          "media_count": 243,
+          "tweet_count": 2724
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

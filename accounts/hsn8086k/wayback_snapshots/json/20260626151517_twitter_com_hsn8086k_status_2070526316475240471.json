@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070526311609815040"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      }
+    ],
+    "conversation_id": "2070526316475240471",
+    "created_at": "2026-06-26T15:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T16:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070526316475240471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sOlkwljZFK",
+          "end": 29,
+          "expanded_url": "https://x.com/hsn8086k/status/2070526316475240471/photo/1",
+          "media_key": "3_2070526311609815040",
+          "start": 6,
+          "url": "https://t.co/sOlkwljZFK"
+        },
+        {
+          "display_url": "x.com/Interlukein4/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Interlukein4/status/2069979744964120974",
+          "start": 30,
+          "url": "https://t.co/OxATyyFgEb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070526316475240471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069979744964120974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也讨厌. https://t.co/sOlkwljZFK https://t.co/OxATyyFgEb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 890,
+        "media_key": "3_2070526311609815040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv8tdWaUAA_X6j.jpg",
+        "width": 938
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2069979737871527936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoLmrgWsAAz4nr.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070526311609815040"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2070526316475240471",
+        "created_at": "2026-06-26T15:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T16:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070526316475240471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOlkwljZFK",
+              "end": 29,
+              "expanded_url": "https://x.com/hsn8086k/status/2070526316475240471/photo/1",
+              "media_key": "3_2070526311609815040",
+              "start": 6,
+              "url": "https://t.co/sOlkwljZFK"
+            },
+            {
+              "display_url": "x.com/Interlukein4/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Interlukein4/status/2069979744964120974",
+              "start": 30,
+              "url": "https://t.co/OxATyyFgEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070526316475240471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069979744964120974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也讨厌. https://t.co/sOlkwljZFK https://t.co/OxATyyFgEb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069979737871527936"
+          ]
+        },
+        "author_id": "1927979469131726850",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2069979744964120974",
+        "created_at": "2026-06-25T03:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069979744964120974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hv1Bdvmsqf",
+              "end": 115,
+              "expanded_url": "https://x.com/Interlukein4/status/2069979744964120974/photo/1",
+              "media_key": "3_2069979737871527936",
+              "start": 92,
+              "url": "https://t.co/hv1Bdvmsqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069979744964120974",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1276,
+          "impression_count": 912428,
+          "like_count": 71059,
+          "quote_count": 143,
+          "reply_count": 180,
+          "retweet_count": 3657
+        },
+        "reply_settings": "everyone",
+        "text": "I'm tired of tech companies treating my storage like it's infinite. Optimize your damn apps https://t.co/hv1Bdvmsqf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 242,
+          "like_count": 9780,
+          "listed_count": 8,
+          "media_count": 215,
+          "tweet_count": 2426
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-29T06:45:24.000Z",
+        "description": "23 | Candidate for a BS in Biomedical Science | Photographer | Chicagopilled",
+        "id": "1927979469131726850",
+        "location": "United States",
+        "name": "Luke",
+        "pinned_tweet_id": "2056442257239085151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927982625139904512/qt9BitMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 250,
+          "like_count": 91353,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 2833
+        },
+        "url": "",
+        "username": "Interlukein4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2074497770136993984",
+    "created_at": "2026-07-07T14:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074497770136993984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2074495888739979507",
+          "start": 26,
+          "url": "https://t.co/fYmU61u6pg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074497770136993984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074495888739979507",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉回到了小学的时候, \"他打你你还手就是错的\". https://t.co/fYmU61u6pg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074497770136993984",
+        "created_at": "2026-07-07T14:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074497770136993984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2074495888739979507",
+              "start": 26,
+              "url": "https://t.co/fYmU61u6pg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074497770136993984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074495888739979507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉回到了小学的时候, \"他打你你还手就是错的\". https://t.co/fYmU61u6pg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074495888739979507",
+        "created_at": "2026-07-07T14:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074495888739979507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2074390882447716760",
+              "start": 83,
+              "url": "https://t.co/LibGU4FG5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074495888739979507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074390882447716760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉真的很恶心, 我经历了这么多, 我投诉这么多此啥答复没有, 终于有个回电了又是车轱辘话, 得了我急了骂几句就变成我素质低我是恶人我有问题, 别人做的恶就一笔勾销. https://t.co/LibGU4FG5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 245,
+          "like_count": 10105,
+          "listed_count": 8,
+          "media_count": 223,
+          "tweet_count": 2554
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

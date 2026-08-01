@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024387123970003197",
+    "created_at": "2026-02-19T07:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T08:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024387123970003197"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024387123970003197",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉 x 上给皮下男回复 约等于 b 站转发元神抽奖动态.\n每次吵架 x 上就找别人的回复,  站就找别人的动态."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024387123970003197",
+        "created_at": "2026-02-19T07:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T08:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024387123970003197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024387123970003197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉 x 上给皮下男回复 约等于 b 站转发元神抽奖动态.\n每次吵架 x 上就找别人的回复,  站就找别人的动态."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 163,
+          "like_count": 4129,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1207
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

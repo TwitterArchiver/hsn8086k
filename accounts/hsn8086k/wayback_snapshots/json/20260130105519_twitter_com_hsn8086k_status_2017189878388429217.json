@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017189876450598912"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2017189878388429217",
+    "created_at": "2026-01-30T10:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T11:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017189878388429217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1zaBqQdOXl",
+          "end": 33,
+          "expanded_url": "https://x.com/hsn8086k/status/2017189878388429217/photo/1",
+          "media_key": "3_2017189876450598912",
+          "start": 10,
+          "url": "https://t.co/1zaBqQdOXl"
+        },
+        {
+          "display_url": "x.com/amecandy_x/sta…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/amecandy_x/status/2017177349129969997",
+          "start": 34,
+          "url": "https://t.co/83JfXrLTma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017189878388429217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017177349129969997",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看成lcy还有救吗 https://t.co/1zaBqQdOXl https://t.co/83JfXrLTma"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2017189876450598912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_5_gU5aIAAOV2B.jpg",
+        "width": 512
+      },
+      {
+        "height": 447,
+        "media_key": "3_2017177342129614849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_50Gu6aMAEHdMf.jpg",
+        "width": 1240
+      },
+      {
+        "height": 890,
+        "media_key": "3_2017177342402310144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_50Gv7bMAAIhOc.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017189876450598912"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2017189878388429217",
+        "created_at": "2026-01-30T10:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T11:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017189878388429217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zaBqQdOXl",
+              "end": 33,
+              "expanded_url": "https://x.com/hsn8086k/status/2017189878388429217/photo/1",
+              "media_key": "3_2017189876450598912",
+              "start": 10,
+              "url": "https://t.co/1zaBqQdOXl"
+            },
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/amecandy_x/status/2017177349129969997",
+              "start": 34,
+              "url": "https://t.co/83JfXrLTma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017189878388429217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017177349129969997",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看成lcy还有救吗 https://t.co/1zaBqQdOXl https://t.co/83JfXrLTma"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017177342129614849",
+            "3_2017177342402310144"
+          ]
+        },
+        "author_id": "1621552410048237569",
+        "conversation_id": "2017177349129969997",
+        "created_at": "2026-01-30T10:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T11:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017177349129969997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAwBMQHpuz",
+              "end": 55,
+              "expanded_url": "https://x.com/amecandy_x/status/2017177349129969997/photo/1",
+              "media_key": "3_2017177342129614849",
+              "start": 32,
+              "url": "https://t.co/jAwBMQHpuz"
+            },
+            {
+              "display_url": "pic.x.com/jAwBMQHpuz",
+              "end": 55,
+              "expanded_url": "https://x.com/amecandy_x/status/2017177349129969997/photo/1",
+              "media_key": "3_2017177342402310144",
+              "start": 32,
+              "url": "https://t.co/jAwBMQHpuz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017177349129969997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我训的小模型好像特别喜欢i开头的词\n尤其是Icy\n萌萌的🥹🥹🥹 https://t.co/jAwBMQHpuz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 115,
+          "like_count": 1811,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 609
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🌧/18yo-Transfem/She·Her/HRT 2022.7🍥/Fullstack💻/LLM/Vibe Coding/Blogger/欢迎互fo互转",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "📍济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2015800491364803008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5275,
+          "following_count": 1810,
+          "like_count": 24001,
+          "listed_count": 16,
+          "media_count": 1045,
+          "tweet_count": 8288
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

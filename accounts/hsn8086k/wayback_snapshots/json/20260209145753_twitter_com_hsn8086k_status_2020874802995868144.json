@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2020874802995868144",
+    "created_at": "2026-02-09T14:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T15:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020874802995868144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1507980068613595138",
+          "start": 3,
+          "username": "inowuekaoru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020874802995868144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020571700627165656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inowuekaoru: 今晚吃饭隔壁桌的小孩一直盯着我看，跟她妈妈说这个人头发好长啊脸上还有钉子，，，我后面听到她妈妈说的，“人是多样性的，多元化的，哪怕是留长发的男生，剪短发的女生，那都是多姿多彩的，世界上这么多人也不可能都是一个样子，尊重他人的自由，试着去理解也是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2020874802995868144",
+        "created_at": "2026-02-09T14:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020874802995868144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1507980068613595138",
+              "start": 3,
+              "username": "inowuekaoru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020874802995868144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020571700627165656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inowuekaoru: 今晚吃饭隔壁桌的小孩一直盯着我看，跟她妈妈说这个人头发好长啊脸上还有钉子，，，我后面听到她妈妈说的，“人是多样性的，多元化的，哪怕是留长发的男生，剪短发的女生，那都是多姿多彩的，世界上这么多人也不可能都是一个样子，尊重他人的自由，试着去理解也是…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507980068613595138",
+        "conversation_id": "2020571700627165656",
+        "created_at": "2026-02-08T18:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T19:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020571700627165656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020571700627165656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 26489,
+          "like_count": 646,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "今晚吃饭隔壁桌的小孩一直盯着我看，跟她妈妈说这个人头发好长啊脸上还有钉子，，，我后面听到她妈妈说的，“人是多样性的，多元化的，哪怕是留长发的男生，剪短发的女生，那都是多姿多彩的，世界上这么多人也不可能都是一个样子，尊重他人的自由，试着去理解也是一种礼貌”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 149,
+          "like_count": 3330,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 945
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-27T07:17:36.000Z",
+        "description": "独一无二的情怀与牵绊，是人类短暂而脆弱的一生中，最闪耀的光辉，最值得珍藏的宝藏",
+        "id": "1507980068613595138",
+        "location": "人间之里",
+        "name": "橘草橘草橘",
+        "pinned_tweet_id": "2011835495941349592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997734860786741248/dFFnB4kJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12245,
+          "following_count": 612,
+          "like_count": 2931,
+          "listed_count": 43,
+          "media_count": 136,
+          "tweet_count": 369
+        },
+        "username": "inowuekaoru",
+        "verified": false
+      }
+    ]
+  }
+}

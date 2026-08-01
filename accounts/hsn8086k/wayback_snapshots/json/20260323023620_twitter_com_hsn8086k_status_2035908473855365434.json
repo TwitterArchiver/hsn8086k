@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2035908473855365434",
+    "created_at": "2026-03-23T02:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T03:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035908473855365434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MizukiWorkshop…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/MizukiWorkshop/status/2035737772955251045",
+          "start": 42,
+          "url": "https://t.co/KfSc1dDgvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035908473855365434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035737772955251045",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主要是习惯了 (挠头\n大学学数电的时候就很不熟悉啊, 又要重新记一堆, 好无语啊. https://t.co/KfSc1dDgvT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2035908473855365434",
+        "created_at": "2026-03-23T02:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T03:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035908473855365434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MizukiWorkshop…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/MizukiWorkshop/status/2035737772955251045",
+              "start": 42,
+              "url": "https://t.co/KfSc1dDgvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035908473855365434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035737772955251045",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主要是习惯了 (挠头\n大学学数电的时候就很不熟悉啊, 又要重新记一堆, 好无语啊. https://t.co/KfSc1dDgvT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455052587145723904",
+        "conversation_id": "2035737772955251045",
+        "created_at": "2026-03-22T15:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035737772955251045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunkya2/status…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/yunkya2/status/2035647273137590419",
+              "start": 60,
+              "url": "https://t.co/cp9FtG7fon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035737772955251045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 410,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035647273137590419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我觉得左边这种文本符号比起右边那些形状对我来说更易于辨认……\n≥1 也很直观，意思是高电平输入信号的数量大于等于 1 https://t.co/cp9FtG7fon"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 194,
+          "like_count": 5959,
+          "listed_count": 5,
+          "media_count": 156,
+          "tweet_count": 1630
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-01T06:02:30.000Z",
+        "description": "🫧 ⬩ ME JIANG ⬩ @ringochichidim ⬩ @stellachan0w0 ⬩ @NekoChan6684816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "ringochichidim"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "stellachan0w0"
+              },
+              {
+                "end": 66,
+                "start": 50,
+                "username": "NekoChan6684816"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Muentzer",
+                "end": 23,
+                "expanded_url": "https://t.me/Muentzer",
+                "start": 0,
+                "url": "https://t.co/uom95KFHj4"
+              }
+            ]
+          }
+        },
+        "id": "1455052587145723904",
+        "location": "L'Internationale",
+        "name": "水月 遥 🪼🫧",
+        "pinned_tweet_id": "1865957499418951947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791874009308545025/7yD_VYMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1736,
+          "following_count": 1135,
+          "like_count": 112873,
+          "listed_count": 8,
+          "media_count": 1609,
+          "tweet_count": 22283
+        },
+        "url": "https://t.co/uom95KFHj4",
+        "username": "MizukiWorkshop",
+        "verified": false
+      }
+    ]
+  }
+}

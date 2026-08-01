@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2021758619134693816",
+    "created_at": "2026-02-12T01:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T02:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021759022525972534"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021759022525972534",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021758619134693816",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实他也这样.\nhsn: 怎么这几件衣服加起来就三百了我靠.\n他: 你别管, 买就对了.\n\n同样是他: xxx 好贵, 一千"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2021758619134693816",
+        "created_at": "2026-02-12T01:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T02:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021759022525972534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021759022525972534",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021758619134693816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实他也这样.\nhsn: 怎么这几件衣服加起来就三百了我靠.\n他: 你别管, 买就对了.\n\n同样是他: xxx 好贵, 一千"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2021758619134693816",
+        "created_at": "2026-02-12T01:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T02:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021758619134693816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AcboxLiu/statu…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/AcboxLiu/status/2021665025585557742",
+              "start": 72,
+              "url": "https://t.co/EpbV4ZBG7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021758619134693816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021665025585557742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对象: xxx 好贵, 一千快\nhsn: 买, 不就一千吗\n\n还是 hsn: 我靠 coding plan 订阅怎么要 50 一个月, 好贵哦 https://t.co/EpbV4ZBG7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 154,
+          "like_count": 3566,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 1033
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

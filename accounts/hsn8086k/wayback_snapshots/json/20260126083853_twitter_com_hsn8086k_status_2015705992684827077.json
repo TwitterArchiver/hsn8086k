@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015705992684827077",
+    "created_at": "2026-01-26T08:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T09:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015705992684827077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2015320543499878884",
+          "start": 8,
+          "url": "https://t.co/rQMXIYcUJ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015705992684827077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015320543499878884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "含金量还在上升 https://t.co/rQMXIYcUJ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1189,
+        "media_key": "3_2015320456728076288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fbRxva4AA7xaE.jpg",
+        "width": 1440
+      },
+      {
+        "height": 630,
+        "media_key": "3_2015320541205245952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fbWscWMAA5VDD.jpg",
+        "width": 1200
+      },
+      {
+        "height": 830,
+        "media_key": "3_2015320540584771584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fbWqIagAA5KGu.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1074,
+        "media_key": "3_2015320526726815744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fbV2ga4AARs5A.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015705992684827077",
+        "created_at": "2026-01-26T08:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015705992684827077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2015320543499878884",
+              "start": 8,
+              "url": "https://t.co/rQMXIYcUJ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015705992684827077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015320543499878884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "含金量还在上升 https://t.co/rQMXIYcUJ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015320456728076288",
+            "3_2015320541205245952",
+            "3_2015320540584771584",
+            "3_2015320526726815744"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015320543499878884",
+        "created_at": "2026-01-25T07:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015320543499878884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/saJyUJkr89",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2015320543499878884/photo/1",
+              "media_key": "3_2015320456728076288",
+              "start": 0,
+              "url": "https://t.co/saJyUJkr89"
+            },
+            {
+              "display_url": "pic.x.com/saJyUJkr89",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2015320543499878884/photo/1",
+              "media_key": "3_2015320541205245952",
+              "start": 0,
+              "url": "https://t.co/saJyUJkr89"
+            },
+            {
+              "display_url": "pic.x.com/saJyUJkr89",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2015320543499878884/photo/1",
+              "media_key": "3_2015320540584771584",
+              "start": 0,
+              "url": "https://t.co/saJyUJkr89"
+            },
+            {
+              "display_url": "pic.x.com/saJyUJkr89",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2015320543499878884/photo/1",
+              "media_key": "3_2015320526726815744",
+              "start": 0,
+              "url": "https://t.co/saJyUJkr89"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015320543499878884",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 27202,
+          "like_count": 197,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/saJyUJkr89"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 91,
+          "like_count": 793,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 361
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

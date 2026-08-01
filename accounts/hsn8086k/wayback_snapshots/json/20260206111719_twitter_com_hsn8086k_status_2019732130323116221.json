@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019732130323116221",
+    "created_at": "2026-02-06T11:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T12:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019732130323116221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2019720402164195619",
+          "start": 123,
+          "url": "https://t.co/Qz6Aykulny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019732130323116221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019720402164195619",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再之前是这样的。\nhsn：我想去 xx 玩\n爹妈：你先自己去省会找你姨，再平安跑回来，能达成的话你去哪我都不管。\n两周后的高考假，hsn 一张火车票直达省会，跟阿姨合了个影。\n爹妈：？你下次出门前说一声啊\n\n啊反正后来就是，有事没事就往省会跑。 https://t.co/Qz6Aykulny"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019732130323116221",
+        "created_at": "2026-02-06T11:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T12:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019732130323116221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2019720402164195619",
+              "start": 123,
+              "url": "https://t.co/Qz6Aykulny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019732130323116221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019720402164195619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再之前是这样的。\nhsn：我想去 xx 玩\n爹妈：你先自己去省会找你姨，再平安跑回来，能达成的话你去哪我都不管。\n两周后的高考假，hsn 一张火车票直达省会，跟阿姨合了个影。\n爹妈：？你下次出门前说一声啊\n\n啊反正后来就是，有事没事就往省会跑。 https://t.co/Qz6Aykulny"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019720402164195619",
+        "created_at": "2026-02-06T10:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019720402164195619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2019564348562370950",
+              "start": 55,
+              "url": "https://t.co/LzNcAsp4lV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019720402164195619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019564348562370950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很怀念啊, 上高中的时候, \"补课\", 问候了年级主任祖宗十八代后, 买了两张火车票跑省会玩了, 成功翘掉. https://t.co/LzNcAsp4lV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 147,
+          "like_count": 2715,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 822
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

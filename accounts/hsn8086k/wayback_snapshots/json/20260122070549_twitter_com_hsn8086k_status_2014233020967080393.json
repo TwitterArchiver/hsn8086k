@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2013994252129484982",
+    "created_at": "2026-01-22T07:05:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014233020967080393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748411440124592128",
+          "start": 0,
+          "username": "heyefu2265"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014233020967080393",
+    "in_reply_to_user_id": "1748411440124592128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014206444283851092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heyefu2265 吃了热干面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2013994252129484982",
+        "created_at": "2026-01-22T07:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014233020967080393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748411440124592128",
+              "start": 0,
+              "username": "heyefu2265"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014233020967080393",
+        "in_reply_to_user_id": "1748411440124592128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014206444283851092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heyefu2265 吃了热干面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748411440124592128",
+        "conversation_id": "2013994252129484982",
+        "created_at": "2026-01-22T05:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014206444283851092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014206444283851092",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013994252129484982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 那打算吃什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 76,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 204
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T18:25:55.000Z",
+        "description": "电子穷鬼，赛博乞丐，无门槛，纯绿聊",
+        "id": "1748411440124592128",
+        "location": "你猜",
+        "name": "何老师",
+        "pinned_tweet_id": "1771853312133857365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771848140481757184/_CnZnoRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 49,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 392
+        },
+        "username": "heyefu2265",
+        "verified": false
+      }
+    ]
+  }
+}

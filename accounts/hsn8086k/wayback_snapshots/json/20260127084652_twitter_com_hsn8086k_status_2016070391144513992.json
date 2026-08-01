@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015905591152271381",
+    "created_at": "2026-01-27T08:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T09:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016070391144513992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "33466711",
+          "start": 0,
+          "username": "gongminmin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016070391144513992",
+    "in_reply_to_user_id": "33466711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016066177651638753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gongminmin 纠正不了啊, 内存那件事, 总有人和我杠, \"在手机上内存就是指存储\""
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015905591152271381",
+        "created_at": "2026-01-27T08:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T09:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016070391144513992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "33466711",
+              "start": 0,
+              "username": "gongminmin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016070391144513992",
+        "in_reply_to_user_id": "33466711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016066177651638753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gongminmin 纠正不了啊, 内存那件事, 总有人和我杠, \"在手机上内存就是指存储\""
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "33466711",
+        "conversation_id": "2015905591152271381",
+        "created_at": "2026-01-27T08:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T09:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016066177651638753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "21a7f3fb0c84e956"
+        },
+        "id": "2016066177651638753",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016065479719452863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 心中默念世界是个草台班子。纠正每一个用错的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 92,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 406
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-20T09:10:52.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "klayge.org",
+                "end": 23,
+                "expanded_url": "http://www.klayge.org",
+                "start": 0,
+                "url": "https://t.co/NhVWlx0BID"
+              }
+            ]
+          }
+        },
+        "id": "33466711",
+        "location": "Redmond, WA",
+        "name": "Minmin Gong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1107021399/41464_100001469863441_6805_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 84,
+          "like_count": 205,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 1712
+        },
+        "url": "https://t.co/NhVWlx0BID",
+        "username": "gongminmin",
+        "verified": false
+      }
+    ]
+  }
+}

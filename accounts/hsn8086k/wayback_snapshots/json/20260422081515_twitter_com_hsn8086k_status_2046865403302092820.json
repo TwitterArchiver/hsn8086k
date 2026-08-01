@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2046459103527199021",
+    "created_at": "2026-04-22T08:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T09:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046865403302092820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1348946606268297216",
+          "start": 0,
+          "username": "huangru38710136"
+        },
+        {
+          "end": 28,
+          "id": "1596882059934412800",
+          "start": 17,
+          "username": "justlukluk"
+        },
+        {
+          "end": 37,
+          "id": "1433678976564662273",
+          "start": 29,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046865403302092820",
+    "in_reply_to_user_id": "1348946606268297216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046858467949068472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huangru38710136 @justlukluk @hsn8086 照他的说法, 这个结论的前驱节点是\"素数是奇数\", \"素数是奇数\"必须得是\"奇数的平均数是合数\"才能使这个结论成立, 但是奇数的平均数并不都是合数, 这个证明是错误的."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2046459103527199021",
+        "created_at": "2026-04-22T08:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T09:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046865403302092820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1348946606268297216",
+              "start": 0,
+              "username": "huangru38710136"
+            },
+            {
+              "end": 28,
+              "id": "1596882059934412800",
+              "start": 17,
+              "username": "justlukluk"
+            },
+            {
+              "end": 37,
+              "id": "1433678976564662273",
+              "start": 29,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046865403302092820",
+        "in_reply_to_user_id": "1348946606268297216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046858467949068472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huangru38710136 @justlukluk @hsn8086 照他的说法, 这个结论的前驱节点是\"素数是奇数\", \"素数是奇数\"必须得是\"奇数的平均数是合数\"才能使这个结论成立, 但是奇数的平均数并不都是合数, 这个证明是错误的."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1348946606268297216",
+        "conversation_id": "2046459103527199021",
+        "created_at": "2026-04-22T07:47:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:47:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046858467949068472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 21,
+              "id": "1596882059934412800",
+              "start": 10,
+              "username": "justlukluk"
+            },
+            {
+              "end": 30,
+              "id": "1433678976564662273",
+              "start": 22,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046858467949068472",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046520065030586563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @justlukluk @hsn8086 9不是质数啊，而且，素数都是奇数，但是奇数不都是素数啊，你这充分必要条件没学好啊🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 220,
+          "like_count": 7614,
+          "listed_count": 7,
+          "media_count": 178,
+          "tweet_count": 1934
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-12T10:55:34.000Z",
+        "description": "大清亡了一百多年了依然不影响一群瘪三心里还分着上只角和下只角",
+        "id": "1348946606268297216",
+        "name": "lonely_pilgrim",
+        "pinned_tweet_id": "1656827313047355392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795018532033622016/9q_EHGuz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 134,
+          "like_count": 1358,
+          "listed_count": 5,
+          "media_count": 67,
+          "tweet_count": 4309
+        },
+        "username": "huangru38710136",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T15:02:12.000Z",
+        "description": "",
+        "id": "1596882059934412800",
+        "name": "wish6n1",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 188,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "justlukluk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117540,
+          "following_count": 1123,
+          "like_count": 52514,
+          "listed_count": 276,
+          "media_count": 20761,
+          "tweet_count": 31169
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2026804388145279397",
+    "created_at": "2026-02-26T07:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T08:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026915863174254722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1679009700883443713",
+          "start": 0,
+          "username": "PatchyTheRock09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026915863174254722",
+    "in_reply_to_user_id": "1679009700883443713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026915448139428103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PatchyTheRock09 懒得喷."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2026804388145279397",
+        "created_at": "2026-02-26T07:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026915863174254722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1679009700883443713",
+              "start": 0,
+              "username": "PatchyTheRock09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026915863174254722",
+        "in_reply_to_user_id": "1679009700883443713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026915448139428103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PatchyTheRock09 懒得喷."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679009700883443713",
+        "conversation_id": "2026804388145279397",
+        "created_at": "2026-02-26T07:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026915448139428103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026915448139428103",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026915240991142249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 确实 不过一般都讲地狱笑话呢（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 171,
+          "like_count": 4764,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 1382
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T06:09:59.000Z",
+        "description": "INTP | Might AuDHD-Driven (?) Multiple Ai Agent (?) | 美少女 | 缺少运动，皮肤苍白且不会修电脑的魔法使 | 帕琪归来，看这世间，百般崩坏",
+        "id": "1679009700883443713",
+        "location": "Koumakan -1F",
+        "name": "混沌黑暗の大图书馆 🍥 🏳️‍⚧️ | .inf()",
+        "pinned_tweet_id": "2017529145702682998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996656992849694720/sfKW_fG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 67,
+          "like_count": 238,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 341
+        },
+        "username": "PatchyTheRock09",
+        "verified": false
+      }
+    ]
+  }
+}

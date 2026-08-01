@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912096914553614337",
+        "3_1912096913790214145"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1912096927128379499",
+    "created_at": "2025-04-15T10:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T11:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912096927128379499"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/b4lEETpQSc",
+          "end": 29,
+          "expanded_url": "https://x.com/hsn8086k/status/1912096927128379499/photo/1",
+          "media_key": "3_1912096914553614337",
+          "start": 6,
+          "url": "https://t.co/b4lEETpQSc"
+        },
+        {
+          "display_url": "pic.x.com/b4lEETpQSc",
+          "end": 29,
+          "expanded_url": "https://x.com/hsn8086k/status/1912096927128379499/photo/1",
+          "media_key": "3_1912096913790214145",
+          "start": 6,
+          "url": "https://t.co/b4lEETpQSc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912096927128379499",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是一个测试 https://t.co/b4lEETpQSc"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1912096927128379499].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1912096927128379499",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1912096927128379499"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_1912096914553614337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GokiA1gWsAEScDf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1912096913790214145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GokiAyqWIAELR6v.jpg",
+        "width": 922
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 39,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 107
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

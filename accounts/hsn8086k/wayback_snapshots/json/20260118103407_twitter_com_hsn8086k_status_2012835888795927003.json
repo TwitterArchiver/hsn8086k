@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2012384997945311563",
+    "created_at": "2026-01-18T10:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T11:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012835888795927003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1294884293756383232",
+          "start": 0,
+          "username": "KawaiiZapic"
+        },
+        {
+          "end": 22,
+          "id": "1271652280438308864",
+          "start": 13,
+          "username": "Jaciezyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012835888795927003",
+    "in_reply_to_user_id": "1294884293756383232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012577178987495782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiiZapic @Jaciezyt 用双拼用的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_2012577167012466688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4cRTLXEAAKJq9.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2012384997945311563",
+        "created_at": "2026-01-18T10:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012835888795927003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1294884293756383232",
+              "start": 0,
+              "username": "KawaiiZapic"
+            },
+            {
+              "end": 22,
+              "id": "1271652280438308864",
+              "start": 13,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012835888795927003",
+        "in_reply_to_user_id": "1294884293756383232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012577178987495782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiZapic @Jaciezyt 用双拼用的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012577167012466688"
+          ]
+        },
+        "author_id": "1294884293756383232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012384997945311563",
+        "created_at": "2026-01-17T17:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T18:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012577178987495782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUzY0v3SqP",
+              "end": 33,
+              "expanded_url": "https://x.com/KawaiiZapic/status/2012577178987495782/photo/1",
+              "media_key": "3_2012577167012466688",
+              "start": 10,
+              "url": "https://t.co/bUzY0v3SqP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012577178987495782",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012384997945311563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt https://t.co/bUzY0v3SqP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 47,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 127
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T06:30:56.000Z",
+        "description": "世界爆炸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "i.zapic.moe",
+                "end": 23,
+                "expanded_url": "http://i.zapic.moe",
+                "start": 0,
+                "url": "https://t.co/c8TgR7GzDA"
+              }
+            ]
+          }
+        },
+        "id": "1294884293756383232",
+        "location": "Asia/Shanghai +0800",
+        "name": "Zapic",
+        "pinned_tweet_id": "1622228533857886210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712547258212995072/368m0MHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2145,
+          "following_count": 243,
+          "like_count": 11200,
+          "listed_count": 23,
+          "media_count": 1042,
+          "tweet_count": 3790
+        },
+        "url": "https://t.co/c8TgR7GzDA",
+        "username": "KawaiiZapic",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 即将过期JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅🚢 | Former Dev @levimc_org | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 101,
+                "username": "levimc_org"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFiZW"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 ❄🏳️",
+        "pinned_tweet_id": "1997887382092443786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3420,
+          "following_count": 828,
+          "like_count": 55713,
+          "listed_count": 8,
+          "media_count": 1146,
+          "tweet_count": 13730
+        },
+        "url": "https://t.co/v1k3icFiZW",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

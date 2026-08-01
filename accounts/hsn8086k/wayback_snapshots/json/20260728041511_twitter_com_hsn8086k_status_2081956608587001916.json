@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2081956608587001916",
+    "created_at": "2026-07-28T04:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081956608587001916"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YunJiu/status/…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/YunJiu/status/2081819881826365482",
+          "start": 25,
+          "url": "https://t.co/RbUPXIDGiE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081956608587001916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081819881826365482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知道, 但是这里是推特, 所以先猜2635(雾 https://t.co/RbUPXIDGiE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1121,
+        "media_key": "3_2081819875706892288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQcJaHbcAA3l_f.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2081956608587001916",
+        "created_at": "2026-07-28T04:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081956608587001916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YunJiu/status/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/YunJiu/status/2081819881826365482",
+              "start": 25,
+              "url": "https://t.co/RbUPXIDGiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081956608587001916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081819881826365482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知道, 但是这里是推特, 所以先猜2635(雾 https://t.co/RbUPXIDGiE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081819875706892288"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2081819881826365482",
+        "created_at": "2026-07-27T19:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081819881826365482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ooc6gfjGYE",
+              "end": 35,
+              "expanded_url": "https://x.com/YunJiu/status/2081819881826365482/photo/1",
+              "media_key": "3_2081819875706892288",
+              "start": 12,
+              "url": "https://t.co/ooc6gfjGYE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081819881826365482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11938,
+          "like_count": 98,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "算出来的可以统治弱智吧 https://t.co/ooc6gfjGYE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 247,
+          "like_count": 10698,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 2713
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2049199149959221320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106528,
+          "following_count": 821,
+          "like_count": 37598,
+          "listed_count": 297,
+          "media_count": 20409,
+          "tweet_count": 29024
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "YunJiu",
+        "verified": true
+      }
+    ]
+  }
+}

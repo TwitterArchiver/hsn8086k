@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2034881872665485763",
+    "created_at": "2026-03-20T06:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T07:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034881872665485763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oakvale5/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/oakvale5/status/2034573339478675830",
+          "start": 16,
+          "url": "https://t.co/cHioE957nk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034881872665485763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034573339478675830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以什么时候 ai 能替我活着 https://t.co/cHioE957nk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2034881872665485763",
+        "created_at": "2026-03-20T06:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034881872665485763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oakvale5/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/oakvale5/status/2034573339478675830",
+              "start": 16,
+              "url": "https://t.co/cHioE957nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034881872665485763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034573339478675830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以什么时候 ai 能替我活着 https://t.co/cHioE957nk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "96453272",
+        "conversation_id": "2034573339478675830",
+        "created_at": "2026-03-19T10:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034573339478675830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034573339478675830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18114,
+          "like_count": 97,
+          "quote_count": 4,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "2024：AI不会替代人\n2025：会用AI的人会替代不会用AI的人\n2026：AI会替代人\n2027： ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 192,
+          "like_count": 5789,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 1608
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-13T00:51:58.000Z",
+        "description": "Rest at the edge of chaos. \n .... . .-.. .--. -....- -- .\nGod plays dice. Maybe that's a feature, not a bug.\n一切都会好起来。",
+        "id": "96453272",
+        "location": "崩溃边缘 Edge of Chaos",
+        "name": "阿橡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420050931660443649/YbZuFX0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16692,
+          "following_count": 2998,
+          "like_count": 5249,
+          "listed_count": 127,
+          "media_count": 3247,
+          "tweet_count": 92492
+        },
+        "username": "oakvale5",
+        "verified": false
+      }
+    ]
+  }
+}

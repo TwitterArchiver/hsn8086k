@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016516390921130014",
+    "created_at": "2026-01-28T16:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T17:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016547144510124173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1310469818374447105",
+          "start": 0,
+          "username": "CroxxMr"
+        },
+        {
+          "end": 20,
+          "id": "1422919666305888264",
+          "start": 9,
+          "username": "0x88FFA357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016547144510124173",
+    "in_reply_to_user_id": "1310469818374447105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016546894429003994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CroxxMr @0x88FFA357 这位还把我 block 了来着 (挠头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016516390921130014",
+        "created_at": "2026-01-28T16:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016547144510124173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1310469818374447105",
+              "start": 0,
+              "username": "CroxxMr"
+            },
+            {
+              "end": 20,
+              "id": "1422919666305888264",
+              "start": 9,
+              "username": "0x88FFA357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016547144510124173",
+        "in_reply_to_user_id": "1310469818374447105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016546894429003994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CroxxMr @0x88FFA357 这位还把我 block 了来着 (挠头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1310469818374447105",
+        "conversation_id": "2016516390921130014",
+        "created_at": "2026-01-28T16:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016546894429003994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1422919666305888264",
+              "start": 0,
+              "username": "0x88FFA357"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 35,
+              "expanded_url": "https://x.com/hsn8086k/status/2016510864711671978?s=46&t=1AyLKCtm9k7BRBIqLx9Jmg",
+              "start": 12,
+              "url": "https://t.co/M1ucKOqVby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016546894429003994",
+        "in_reply_to_user_id": "1422919666305888264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016510864711671978",
+            "type": "quoted"
+          },
+          {
+            "id": "2016542948788412833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0x88FFA357 https://t.co/M1ucKOqVby\n\n😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 104,
+          "like_count": 1478,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 522
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-28T06:42:16.000Z",
+        "description": "🦀 | INFP | he/him | distributed system & storage system | watch more films & drink more beer | 🍺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/mrcroxx",
+                "end": 23,
+                "expanded_url": "https://github.com/mrcroxx",
+                "start": 0,
+                "url": "https://t.co/sR3Rja1XYl"
+              }
+            ]
+          }
+        },
+        "id": "1310469818374447105",
+        "location": "UTC+08:00",
+        "name": "叉叉叉叉叉叉叉",
+        "pinned_tweet_id": "1777335385997369534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016508570872020992/Zrq036HF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 1114,
+          "like_count": 66088,
+          "listed_count": 11,
+          "media_count": 516,
+          "tweet_count": 4570
+        },
+        "url": "https://t.co/sR3Rja1XYl",
+        "username": "CroxxMr",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T13:57:51.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nvme0n1p.dev",
+                "end": 23,
+                "expanded_url": "http://nvme0n1p.dev",
+                "start": 0,
+                "url": "https://t.co/M3EWZGYw8X"
+              }
+            ]
+          }
+        },
+        "id": "1422919666305888264",
+        "location": "__start + 0x14",
+        "name": "溴化锂",
+        "pinned_tweet_id": "1952732459063292199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012910534769737730/yalbwkm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 1476,
+          "like_count": 150276,
+          "listed_count": 7,
+          "media_count": 15,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/M3EWZGYw8X",
+        "username": "0x88FFA357",
+        "verified": false
+      }
+    ]
+  }
+}

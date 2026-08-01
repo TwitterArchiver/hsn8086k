@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074771314880245760"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2074390622275092808",
+    "created_at": "2026-07-08T08:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074771338561274094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1748411440124592128",
+          "start": 0,
+          "username": "heyefu2265"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OFAJ3HsNf4",
+          "end": 49,
+          "expanded_url": "https://x.com/hsn8086k/status/2074771338561274094/photo/1",
+          "media_key": "3_2074771314880245760",
+          "start": 26,
+          "url": "https://t.co/OFAJ3HsNf4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074771338561274094",
+    "in_reply_to_user_id": "1748411440124592128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074770152390873535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heyefu2265 并不算了, 中信持股52% https://t.co/OFAJ3HsNf4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1159,
+        "media_key": "3_2074771314880245760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsRhK2bcAAxi5l.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074771314880245760"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074390622275092808",
+        "created_at": "2026-07-08T08:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074771338561274094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1748411440124592128",
+              "start": 0,
+              "username": "heyefu2265"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFAJ3HsNf4",
+              "end": 49,
+              "expanded_url": "https://x.com/hsn8086k/status/2074771338561274094/photo/1",
+              "media_key": "3_2074771314880245760",
+              "start": 26,
+              "url": "https://t.co/OFAJ3HsNf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074771338561274094",
+        "in_reply_to_user_id": "1748411440124592128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074770152390873535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heyefu2265 并不算了, 中信持股52% https://t.co/OFAJ3HsNf4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748411440124592128",
+        "conversation_id": "2074390622275092808",
+        "created_at": "2026-07-08T08:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074770152390873535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074770152390873535",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074390622275092808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 麦当劳不是外企吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 245,
+          "like_count": 10139,
+          "listed_count": 8,
+          "media_count": 227,
+          "tweet_count": 2575
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-19T18:25:55.000Z",
+        "description": "电子穷鬼，赛博乞丐，无门槛，纯绿聊",
+        "id": "1748411440124592128",
+        "location": "你猜",
+        "name": "何老师",
+        "pinned_tweet_id": "1771853312133857365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771848140481757184/_CnZnoRx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 47,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "heyefu2265",
+        "verified": false
+      }
+    ]
+  }
+}

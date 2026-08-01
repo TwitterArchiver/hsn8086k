@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015841871638233260",
+    "created_at": "2026-01-26T17:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T18:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015841871638233260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ReedPascal/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/ReedPascal/status/2015793354102190238",
+          "start": 30,
+          "url": "https://t.co/E73PxOICTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015841871638233260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015793354102190238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很久以前我也信过这种话术, 用过一次微单之后就知道了... https://t.co/E73PxOICTS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8091,
+        "height": 720,
+        "media_key": "7_2015793310292746241",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015793310292746241/pu/img/2KhD7-utUYfL43VG.jpg",
+        "public_metrics": {
+          "view_count": 320
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015793310292746241/pu/vid/avc1/480x270/U5GsviDV1CxhlvjU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015793310292746241/pu/vid/avc1/640x360/KdosAO2TmmMeRNmc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015793310292746241/pu/vid/avc1/1280x720/MLLdk-sfLtBX3SKB.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015793310292746241/pu/pl/_pnn-k4IJHh68mhI.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015841871638233260",
+        "created_at": "2026-01-26T17:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015841871638233260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ReedPascal/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ReedPascal/status/2015793354102190238",
+              "start": 30,
+              "url": "https://t.co/E73PxOICTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015841871638233260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015793354102190238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很久以前我也信过这种话术, 用过一次微单之后就知道了... https://t.co/E73PxOICTS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015793310292746241"
+          ]
+        },
+        "author_id": "1723047974677479424",
+        "conversation_id": "2015793354102190238",
+        "created_at": "2026-01-26T14:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015793354102190238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4BSwZJy8U",
+              "end": 78,
+              "expanded_url": "https://x.com/ReedPascal/status/2015793354102190238/video/1",
+              "media_key": "7_2015793310292746241",
+              "start": 55,
+              "url": "https://t.co/q4BSwZJy8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015793354102190238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 733,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“你的相机财2400w像素，我的手机已经到2亿像素了，你这相机买了有啥用？”\n\n呐..这就是我选择相机的原因 https://t.co/q4BSwZJy8U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 91,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 372
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T18:40:48.000Z",
+        "description": "和平，自由，勇气与爱.",
+        "id": "1723047974677479424",
+        "location": "Yamanashi-ken, Japan",
+        "name": "Pascal Reed❄️",
+        "pinned_tweet_id": "2006756660673720629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004477500307787776/a2EiMpJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 102,
+          "like_count": 85552,
+          "listed_count": 4,
+          "media_count": 2631,
+          "tweet_count": 8335
+        },
+        "username": "ReedPascal",
+        "verified": false
+      }
+    ]
+  }
+}

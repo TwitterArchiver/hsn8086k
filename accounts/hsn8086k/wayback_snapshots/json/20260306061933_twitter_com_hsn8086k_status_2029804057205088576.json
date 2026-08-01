@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029804052742295552"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2029786597357687157",
+    "created_at": "2026-03-06T06:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T07:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029804057205088576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1709376564713127936",
+          "start": 0,
+          "username": "guanjiao_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "源代码 Lib/fractions.py fractions 模块支持分数运算。 Fraction 实例可以由一对有理数、一个单独数字或一个字符串构建而成。",
+          "display_url": "docs.python.org/zh-cn/3.13/lib…",
+          "end": 34,
+          "expanded_url": "https://docs.python.org/zh-cn/3.13/library/fractions.html",
+          "start": 11,
+          "status": 200,
+          "title": "fractions --- 有理数",
+          "unwound_url": "https://docs.python.org/zh-cn/3.13/library/fractions.html",
+          "url": "https://t.co/DBZ22QGHhF"
+        },
+        {
+          "display_url": "pic.x.com/hMLF2Afg9s",
+          "end": 58,
+          "expanded_url": "https://x.com/hsn8086k/status/2029804057205088576/photo/1",
+          "media_key": "3_2029804052742295552",
+          "start": 35,
+          "url": "https://t.co/hMLF2Afg9s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029804057205088576",
+    "in_reply_to_user_id": "1709376564713127936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029791077646180453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guanjiao_ https://t.co/DBZ22QGHhF https://t.co/hMLF2Afg9s"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2029791077646180453].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2029791077646180453",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2029791077646180453"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2761,
+        "media_key": "3_2029804052742295552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtQCBdaUAATGmn.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029804052742295552"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2029786597357687157",
+        "created_at": "2026-03-06T06:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T07:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029804057205088576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1709376564713127936",
+              "start": 0,
+              "username": "guanjiao_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "源代码 Lib/fractions.py fractions 模块支持分数运算。 Fraction 实例可以由一对有理数、一个单独数字或一个字符串构建而成。",
+              "display_url": "docs.python.org/zh-cn/3.13/lib…",
+              "end": 34,
+              "expanded_url": "https://docs.python.org/zh-cn/3.13/library/fractions.html",
+              "start": 11,
+              "status": 200,
+              "title": "fractions --- 有理数",
+              "unwound_url": "https://docs.python.org/zh-cn/3.13/library/fractions.html",
+              "url": "https://t.co/DBZ22QGHhF"
+            },
+            {
+              "display_url": "pic.x.com/hMLF2Afg9s",
+              "end": 58,
+              "expanded_url": "https://x.com/hsn8086k/status/2029804057205088576/photo/1",
+              "media_key": "3_2029804052742295552",
+              "start": 35,
+              "url": "https://t.co/hMLF2Afg9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029804057205088576",
+        "in_reply_to_user_id": "1709376564713127936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029791077646180453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guanjiao_ https://t.co/DBZ22QGHhF https://t.co/hMLF2Afg9s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 177,
+          "like_count": 5130,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 1495
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "/生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了/我情愿躺在虚无主义的深渊里，什么也不做，静静地看着一切，等待终结的降临。",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006928708179996672/pdnTrQ4E_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 1059,
+          "like_count": 74277,
+          "listed_count": 2,
+          "media_count": 2121,
+          "tweet_count": 14109
+        },
+        "username": "guanjiao_",
+        "verified": false
+      }
+    ]
+  }
+}

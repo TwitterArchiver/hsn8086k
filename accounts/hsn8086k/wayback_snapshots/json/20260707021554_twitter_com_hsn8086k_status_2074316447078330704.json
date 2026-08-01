@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      }
+    ],
+    "conversation_id": "2074316447078330704",
+    "created_at": "2026-07-07T02:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074316447078330704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Heyabhi_21/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Heyabhi_21/status/2074042236065730847",
+          "start": 37,
+          "url": "https://t.co/lyzuGkFX8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074316447078330704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074042236065730847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "外国人就是不一样啊, 国内许多人都是严防死守不让家人看到自己的数字遗产. https://t.co/lyzuGkFX8R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2074316447078330704",
+        "created_at": "2026-07-07T02:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074316447078330704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Heyabhi_21/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Heyabhi_21/status/2074042236065730847",
+              "start": 37,
+              "url": "https://t.co/lyzuGkFX8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074316447078330704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074042236065730847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "外国人就是不一样啊, 国内许多人都是严防死守不让家人看到自己的数字遗产. https://t.co/lyzuGkFX8R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796523193978490880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2074042236065730847",
+        "created_at": "2026-07-06T08:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074042236065730847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074042236065730847",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4380,
+          "impression_count": 649174,
+          "like_count": 1266,
+          "quote_count": 7,
+          "reply_count": 35,
+          "retweet_count": 291
+        },
+        "reply_settings": "everyone",
+        "text": "IF YOU DIED TOMORROW, YOUR FAMILY WOULDN'T BE ABLE TO ACCESS A SINGLE THING YOU OWN DIGITALLY.\n\nBANK ACCOUNTS. PASSWORDS. CLOUD STORAGE. ALL OF IT PERMANENTLY LOCKED AWAY.\n\nHERE'S HOW TO FIX IT IN 30 MINUTES:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 245,
+          "like_count": 10080,
+          "listed_count": 8,
+          "media_count": 222,
+          "tweet_count": 2538
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T12:46:16.000Z",
+        "description": "Web3 content creator | Exploring AI-driven systems & sharing what I learn 🤖✨",
+        "id": "1796523193978490880",
+        "name": "Abhi AI",
+        "pinned_tweet_id": "2074042236065730847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053098480047144960/ZFI1hYGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2980,
+          "following_count": 3308,
+          "like_count": 6026,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 6207
+        },
+        "url": "",
+        "username": "Heyabhi_21",
+        "verified": true
+      }
+    ]
+  }
+}

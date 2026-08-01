@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2053558134258704768",
+    "created_at": "2026-05-10T19:29:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T20:29:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053558134258704768"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SparrowHe/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/SparrowHe/status/2053481221884362820",
+          "start": 33,
+          "url": "https://t.co/MtVzNTlITp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053558134258704768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053481221884362820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实是计算机迭代太快了吧，隔壁数院还在啃几十年、上百年前的东西。 https://t.co/MtVzNTlITp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2053558134258704768",
+        "created_at": "2026-05-10T19:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053558134258704768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SparrowHe/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/SparrowHe/status/2053481221884362820",
+              "start": 33,
+              "url": "https://t.co/MtVzNTlITp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053558134258704768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053481221884362820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实是计算机迭代太快了吧，隔壁数院还在啃几十年、上百年前的东西。 https://t.co/MtVzNTlITp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451053796549857282",
+        "conversation_id": "2053481221884362820",
+        "created_at": "2026-05-10T14:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053481221884362820"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053481221884362820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1027,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么现在的教材还在讲RHEL这个没有有效许可证连yum都用不了的操作系统？甚至还是 RHEL 7 这个死了EOL了几百年的版本。无语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 219,
+          "like_count": 7993,
+          "listed_count": 7,
+          "media_count": 190,
+          "tweet_count": 2021
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-21T05:12:45.000Z",
+        "description": "🚆/🛫/📻KO6BHN/💻/🎮/🐱 | Languages: zh_CN/en_US | Coding | @YANTEOXCY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "YANTEOXCY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SparrowHe",
+                "end": 23,
+                "expanded_url": "http://t.me/SparrowHe",
+                "start": 0,
+                "url": "https://t.co/FqRNI3UBlM"
+              }
+            ]
+          }
+        },
+        "id": "1451053796549857282",
+        "location": "P223 | 122.9 MHz | GND-7800M",
+        "name": "Sparrow He",
+        "pinned_tweet_id": "2032272232110833897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524979053048266753/OhIl5Qhc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 579,
+          "like_count": 2032,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 2127
+        },
+        "url": "https://t.co/FqRNI3UBlM",
+        "username": "SparrowHe",
+        "verified": false
+      }
+    ]
+  }
+}

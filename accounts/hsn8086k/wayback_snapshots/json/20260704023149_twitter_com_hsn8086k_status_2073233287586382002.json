@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2073233287586382002",
+    "created_at": "2026-07-04T02:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T03:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073233287586382002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Poca2381/statu…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Poca2381/status/2072932747518312460",
+          "start": 22,
+          "url": "https://t.co/fBBIUxHAHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073233287586382002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072932747518312460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要是推特有极速版我已经提现ln(两百万)了 https://t.co/fBBIUxHAHH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2073233287586382002",
+        "created_at": "2026-07-04T02:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T03:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073233287586382002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Poca2381/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Poca2381/status/2072932747518312460",
+              "start": 22,
+              "url": "https://t.co/fBBIUxHAHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073233287586382002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072932747518312460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要是推特有极速版我已经提现ln(两百万)了 https://t.co/fBBIUxHAHH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2072932747518312460",
+        "created_at": "2026-07-03T06:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072932747518312460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072932747518312460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特要是改成极速版我已经提现两百万了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 243,
+          "like_count": 9974,
+          "listed_count": 8,
+          "media_count": 221,
+          "tweet_count": 2502
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22483,
+          "following_count": 9797,
+          "like_count": 152920,
+          "listed_count": 52,
+          "media_count": 5221,
+          "tweet_count": 53056
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2035889797735371232",
+    "created_at": "2026-03-23T01:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035889797735371232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TitusFaye21130…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/TitusFaye21130/status/2035721380445208724",
+          "start": 14,
+          "url": "https://t.co/2qZJIPO8lC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035889797735371232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035721380445208724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "公共卫生间, 后面自己联想 https://t.co/2qZJIPO8lC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2035889797735371232",
+        "created_at": "2026-03-23T01:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035889797735371232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TitusFaye21130…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/TitusFaye21130/status/2035721380445208724",
+              "start": 14,
+              "url": "https://t.co/2qZJIPO8lC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035889797735371232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035721380445208724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "公共卫生间, 后面自己联想 https://t.co/2qZJIPO8lC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741384905307910144",
+        "conversation_id": "2035720237551702479",
+        "created_at": "2026-03-22T14:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035721380445208724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035721380445208724",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48834,
+          "like_count": 198,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035720237551702479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 马桶正确的用法其实就是男的也应该坐在上面尿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 194,
+          "like_count": 5948,
+          "listed_count": 5,
+          "media_count": 156,
+          "tweet_count": 1626
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-31T09:05:03.000Z",
+        "description": "",
+        "id": "1741384905307910144",
+        "name": "Faye Titus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741384964577570816/C0xtqYrN_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 30,
+          "like_count": 2201,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "TitusFaye21130",
+        "verified": false
+      }
+    ]
+  }
+}

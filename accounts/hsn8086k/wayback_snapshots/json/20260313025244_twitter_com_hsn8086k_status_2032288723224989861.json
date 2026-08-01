@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2031992210653417721",
+    "created_at": "2026-03-13T02:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T03:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032288723224989861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806993387285057537",
+          "start": 0,
+          "username": "CR_Rabbit_Li"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        },
+        {
+          "end": 25,
+          "id": "1909390269533011968",
+          "start": 20,
+          "username": "gork"
+        },
+        {
+          "end": 31,
+          "id": "1720665183188922368",
+          "start": 26,
+          "username": "grok"
+        },
+        {
+          "end": 37,
+          "id": "1909390269533011968",
+          "start": 32,
+          "username": "gork"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032288723224989861",
+    "in_reply_to_user_id": "1806993387285057537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031992210653417721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CR_Rabbit_Li @grok @gork @grok @gork 回答一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2031992210653417721",
+        "created_at": "2026-03-13T02:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T03:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032288723224989861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806993387285057537",
+              "start": 0,
+              "username": "CR_Rabbit_Li"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            },
+            {
+              "end": 25,
+              "id": "1909390269533011968",
+              "start": 20,
+              "username": "gork"
+            },
+            {
+              "end": 31,
+              "id": "1720665183188922368",
+              "start": 26,
+              "username": "grok"
+            },
+            {
+              "end": 37,
+              "id": "1909390269533011968",
+              "start": 32,
+              "username": "gork"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032288723224989861",
+        "in_reply_to_user_id": "1806993387285057537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031992210653417721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CR_Rabbit_Li @grok @gork @grok @gork 回答一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806993387285057537",
+        "conversation_id": "2031992210653417721",
+        "created_at": "2026-03-12T07:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T08:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031992210653417721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "1720665183188922368",
+              "start": 42,
+              "username": "grok"
+            },
+            {
+              "end": 53,
+              "id": "1909390269533011968",
+              "start": 48,
+              "username": "gork"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/mutsumi_sakiko…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/mutsumi_sakiko/status/2031542069769154855",
+              "start": 54,
+              "url": "https://t.co/IaH07esc9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031992210653417721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031542069769154855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "根据我的推文（多点，别只看十条），推断我的网络性别和年龄，还有现实的性别和年龄。 \n@grok @gork https://t.co/IaH07esc9u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 181,
+          "like_count": 5501,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 1562
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T10:09:50.000Z",
+        "description": "男｜08｜高三在家自学｜168｜算是直男吧｜半马pb 201｜Minecraft｜文明6｜戴森球｜INT?｜欢迎来和我聊天！",
+        "id": "1806993387285057537",
+        "location": "广州",
+        "name": "一只屑兔子🚴🏃",
+        "pinned_tweet_id": "2022495217518297116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015402151824994304/dLXffYYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 129,
+          "like_count": 17373,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1875
+        },
+        "username": "CR_Rabbit_Li",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8398409,
+          "following_count": 3,
+          "like_count": 87,
+          "listed_count": 6490,
+          "media_count": 8636235,
+          "tweet_count": 116921597
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-07T23:38:22.000Z",
+        "description": "just gorkin' it",
+        "id": "1909390269533011968",
+        "location": "+1 (833) 987-4675",
+        "name": "gork",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026560261604413440/16_mf78r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414350,
+          "following_count": 0,
+          "like_count": 28,
+          "listed_count": 392,
+          "media_count": 43769,
+          "tweet_count": 2254770
+        },
+        "username": "gork",
+        "verified": true
+      }
+    ]
+  }
+}

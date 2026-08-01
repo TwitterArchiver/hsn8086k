@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2073756294113284526",
+    "created_at": "2026-07-06T11:53:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074099505100890474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1551855613738491905",
+          "start": 0,
+          "username": "rfujytguj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074099505100890474",
+    "in_reply_to_user_id": "1551855613738491905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073769670419845378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rfujytguj 但是思维链是rl出来的, 理论上完全可以加入非人话的token, 另外我更想知道的是为什么要强迫llm用同一种语言思考."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2073756294113284526",
+        "created_at": "2026-07-06T11:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074099505100890474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1551855613738491905",
+              "start": 0,
+              "username": "rfujytguj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074099505100890474",
+        "in_reply_to_user_id": "1551855613738491905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073769670419845378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rfujytguj 但是思维链是rl出来的, 理论上完全可以加入非人话的token, 另外我更想知道的是为什么要强迫llm用同一种语言思考."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551855613738491905",
+        "conversation_id": "2073756294113284526",
+        "created_at": "2026-07-05T14:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073769670419845378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073769670419845378",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073756294113284526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 训练素材就是语言啊，他本质是一直在预测下一个词元"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270,
+          "following_count": 245,
+          "like_count": 10061,
+          "listed_count": 8,
+          "media_count": 222,
+          "tweet_count": 2528
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T09:03:41.000Z",
+        "description": "",
+        "id": "1551855613738491905",
+        "name": "julgjuhngk rfujytguj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551855769686908928/It8uyQHQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 42
+        },
+        "url": "",
+        "username": "rfujytguj",
+        "verified": false
+      }
+    ]
+  }
+}

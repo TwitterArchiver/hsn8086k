@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1896777227062399269",
+    "created_at": "2025-03-05T08:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T09:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897207390036238403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552254771062788097",
+          "start": 0,
+          "username": "Dahuangniao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897207390036238403",
+    "in_reply_to_user_id": "1552254771062788097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896938404413317368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dahuangniao 有人v我50就有🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_1896938388068118528",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GlNHad2aMAA1GCf.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GlNHad2aMAA1GCf.mp4"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1896777227062399269",
+        "created_at": "2025-03-05T08:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T09:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897207390036238403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552254771062788097",
+              "start": 0,
+              "username": "Dahuangniao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897207390036238403",
+        "in_reply_to_user_id": "1552254771062788097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896938404413317368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dahuangniao 有人v我50就有🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1896938388068118528"
+          ]
+        },
+        "author_id": "1552254771062788097",
+        "conversation_id": "1896777227062399269",
+        "created_at": "2025-03-04T14:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T15:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896938404413317368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ahdgjh7oH7",
+              "end": 43,
+              "expanded_url": "https://x.com/Dahuangniao/status/1896938404413317368/photo/1",
+              "media_key": "16_1896938388068118528",
+              "start": 20,
+              "url": "https://t.co/Ahdgjh7oH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896938404413317368",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896777227062399269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 这样真的能有收益吗 https://t.co/Ahdgjh7oH7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 40,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 64
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T11:29:24.000Z",
+        "description": "见人说人话，见鬼说鬼话",
+        "id": "1552254771062788097",
+        "name": "人形诱饵弹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552254827346132992/4l69z1wR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 180,
+          "like_count": 1087,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 402
+        },
+        "username": "Dahuangniao",
+        "verified": false
+      }
+    ]
+  }
+}

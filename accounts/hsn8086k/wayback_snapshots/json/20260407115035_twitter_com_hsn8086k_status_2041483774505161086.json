@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2040979672746622998",
+    "created_at": "2026-04-07T11:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T12:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041483774505161086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450114426716131341",
+          "start": 0,
+          "username": "Natsuhane_Ayari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041483774505161086",
+    "in_reply_to_user_id": "1450114426716131341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041482552939319633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuhane_Ayari gnome 的文件管理器可以右键空白处/文件夹/文件, 有一栏用 app 打开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-07T11:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041483774505161086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450114426716131341",
+              "start": 0,
+              "username": "Natsuhane_Ayari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041483774505161086",
+        "in_reply_to_user_id": "1450114426716131341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041482552939319633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuhane_Ayari gnome 的文件管理器可以右键空白处/文件夹/文件, 有一栏用 app 打开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450114426716131341",
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-07T11:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041482552939319633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041482552939319633",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040979672746622998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 既然沒有右鍵新增檔案，那麼拜託Mac或Gnome3+，能不能在文件管理器複製當前路徑，以便於在App裡存檔的時候貼上路徑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 218,
+          "like_count": 7120,
+          "listed_count": 5,
+          "media_count": 166,
+          "tweet_count": 1831
+        },
+        "username": "hsn8086k",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-18T15:00:10.000Z",
+        "description": "",
+        "id": "1450114426716131341",
+        "name": "夏羽綾理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991818431050739712/4mLMcimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 144,
+          "like_count": 1417,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1655
+        },
+        "username": "Natsuhane_Ayari",
+        "verified": false
+      }
+    ]
+  }
+}

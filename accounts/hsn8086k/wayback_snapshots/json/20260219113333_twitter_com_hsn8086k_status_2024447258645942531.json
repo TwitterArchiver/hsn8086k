@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024415815953764471",
+    "created_at": "2026-02-19T11:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024447258645942531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "772322000865943552",
+          "start": 0,
+          "username": "a602693793"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024447258645942531",
+    "in_reply_to_user_id": "772322000865943552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024445549186076861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a602693793 我要轻薄全能本!\n钱包: 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024415815953764471",
+        "created_at": "2026-02-19T11:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024447258645942531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "772322000865943552",
+              "start": 0,
+              "username": "a602693793"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024447258645942531",
+        "in_reply_to_user_id": "772322000865943552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024445549186076861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a602693793 我要轻薄全能本!\n钱包: 6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "772322000865943552",
+        "conversation_id": "2024415815953764471",
+        "created_at": "2026-02-19T11:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024445549186076861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024445549186076861",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024415815953764471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 感觉游戏本和全能本界限愈发模糊了，类似灵刃和幻14这样的本子还是相当棒的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 163,
+          "like_count": 4210,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1223
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-04T06:34:48.000Z",
+        "description": "https://t.co/HFMfIh7wOd\n\nNaive Coder / Open Source Rookie  / @dify_ai Dev / 我没有敌人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "dify_ai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/zhsama",
+                "end": 23,
+                "expanded_url": "https://github.com/zhsama",
+                "start": 0,
+                "url": "https://t.co/HFMfIh7wOd"
+              }
+            ]
+          }
+        },
+        "id": "772322000865943552",
+        "location": "Otaru-shi, Hokkaidō",
+        "name": "zhcf1ess",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909459060623392769/bxGKuwij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 555,
+          "like_count": 4301,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1272
+        },
+        "username": "a602693793",
+        "verified": false
+      }
+    ]
+  }
+}

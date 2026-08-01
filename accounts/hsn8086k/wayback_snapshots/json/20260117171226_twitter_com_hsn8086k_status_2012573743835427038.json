@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2012272935382434291",
+    "created_at": "2026-01-17T17:12:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T18:12:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012573743835427038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565553094909276161",
+          "start": 0,
+          "username": "qianyuqiong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012573743835427038",
+    "in_reply_to_user_id": "1565553094909276161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012573508874985740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianyuqiong 哈你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2012272935382434291",
+        "created_at": "2026-01-17T17:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T18:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012573743835427038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565553094909276161",
+              "start": 0,
+              "username": "qianyuqiong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012573743835427038",
+        "in_reply_to_user_id": "1565553094909276161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012573508874985740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianyuqiong 哈你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565553094909276161",
+        "conversation_id": "2012272935382434291",
+        "created_at": "2026-01-17T17:11:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T18:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012573508874985740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012573508874985740",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012558282108674208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k hsn今天哈什么（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 44,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 119
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T04:12:08.000Z",
+        "description": "/平平无奇武汉（退役）女高/爱好 （？粥 O π  舞萌舞萌舞萌舞萌怎么你了/欢迎交友ww/只想当个正常人//中推圈好乱一堆破圈子都与我无关/时不时上线视奸👀一下大家的美好生活罢了/求求你们***别那么抽象了",
+        "id": "1565553094909276161",
+        "location": "距离你-0.1m",
+        "name": "浅羽穹(IP:罗德岛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883986313604653060/4-ngtBT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 1153,
+          "like_count": 10168,
+          "listed_count": 13,
+          "media_count": 333,
+          "tweet_count": 3259
+        },
+        "username": "qianyuqiong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2051587310819651867",
+    "created_at": "2026-05-05T08:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051587310819651867"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051587310819651867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "您好喵，由于我们公司操作失误导致五一假期时间流速加快喵，为了补偿喵，我们将在5月5日后的5天降低时间流速喵，希望您喜欢喵。感谢您对本公司的支持喵，期待下次能为您带来更好的服务喵。请您给客服进行评价喵，好评回1喵，差评回2喵，拒收请回复TD喵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2051587310819651867",
+        "created_at": "2026-05-05T08:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051587310819651867"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051587310819651867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "您好喵，由于我们公司操作失误导致五一假期时间流速加快喵，为了补偿喵，我们将在5月5日后的5天降低时间流速喵，希望您喜欢喵。感谢您对本公司的支持喵，期待下次能为您带来更好的服务喵。请您给客服进行评价喵，好评回1喵，差评回2喵，拒收请回复TD喵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 221,
+          "like_count": 7868,
+          "listed_count": 8,
+          "media_count": 186,
+          "tweet_count": 1987
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2040979672746622998",
+    "created_at": "2026-04-06T02:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040980023411450344"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040980023411450344",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040979672746622998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或者说, 像占位符这种需求, 一般用户真的需要吗."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-06T02:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040980023411450344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040980023411450344",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040979672746622998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或者说, 像占位符这种需求, 一般用户真的需要吗."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-06T02:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040979672746622998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MrYANFD/status…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/MrYANFD/status/2040735800644825176",
+              "start": 94,
+              "url": "https://t.co/aFKvCJM8VS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040979672746622998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040735800644825176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还是没明白, 所以到底为什么要凭空创建一个文件并且啥也不写, 哦首先声明我不是苹果用户, 但是我在自己电脑上确实从来没右键生成文件 (或者说 gnome 默认没有), 明明就很反直觉. https://t.co/aFKvCJM8VS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 219,
+          "like_count": 7028,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1809
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

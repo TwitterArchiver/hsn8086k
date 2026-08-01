@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2065790051557273704",
+    "created_at": "2026-06-14T12:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T13:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066137339936882794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959679805139652608",
+          "start": 0,
+          "username": "qingchengshan37"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20660…",
+          "end": 40,
+          "expanded_url": "https://x.com/i/status/2066062597338890244",
+          "start": 17,
+          "url": "https://t.co/5TvKJvCN0O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066137339936882794",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066062597338890244",
+        "type": "quoted"
+      },
+      {
+        "id": "2066136910184288464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingchengshan37 https://t.co/5TvKJvCN0O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065790051557273704",
+        "created_at": "2026-06-14T12:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066137339936882794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959679805139652608",
+              "start": 0,
+              "username": "qingchengshan37"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20660…",
+              "end": 40,
+              "expanded_url": "https://x.com/i/status/2066062597338890244",
+              "start": 17,
+              "url": "https://t.co/5TvKJvCN0O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066137339936882794",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066062597338890244",
+            "type": "quoted"
+          },
+          {
+            "id": "2066136910184288464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingchengshan37 https://t.co/5TvKJvCN0O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065790051557273704",
+        "created_at": "2026-06-14T07:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066062597338890244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902916066176806912",
+              "start": 0,
+              "username": "zllllyan"
+            },
+            {
+              "end": 17,
+              "id": "1164491062527680512",
+              "start": 10,
+              "username": "ccxxt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066062597338890244",
+        "in_reply_to_user_id": "1902916066176806912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066062194647908604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zllllyan @ccxxt2 我不想也不敢再多说了, 我认为有些权利是一个人该有的, 你之前说过的某些问题, 我觉得不是问题, 那就是人们该有的权利, 就这样吧."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065790051557273704",
+        "created_at": "2026-06-14T12:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066136910184288464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959679805139652608",
+              "start": 0,
+              "username": "qingchengshan37"
+            },
+            {
+              "end": 24,
+              "id": "1164491062527680512",
+              "start": 17,
+              "username": "ccxxt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066136910184288464",
+        "in_reply_to_user_id": "1959679805139652608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066135007706685926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingchengshan37 @ccxxt2 我敢说吗, 笑死了, 我可不想第二天喝茶去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 237,
+          "like_count": 9399,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2321
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T18:11:12.000Z",
+        "description": "变色龙",
+        "id": "1959679805139652608",
+        "name": "青橙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037605543452536833/CEeJhcsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 80,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 441
+        },
+        "username": "qingchengshan37",
+        "verified": false
+      }
+    ]
+  }
+}

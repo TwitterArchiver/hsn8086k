@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040273775443468288"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2040273778970960267",
+    "created_at": "2026-04-04T03:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T04:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040273778970960267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5h5OotlyQv",
+          "end": 66,
+          "expanded_url": "https://x.com/hsn8086k/status/2040273778970960267/photo/1",
+          "media_key": "3_2040273775443468288",
+          "start": 43,
+          "url": "https://t.co/5h5OotlyQv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040273778970960267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把订阅开了, 设置的最低, 一刀, 暂时没啥东西, 图一乐, 或者大伙有啥想法吗(? https://t.co/5h5OotlyQv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2040273775443468288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCCMF3aYAA95gC.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040273775443468288"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040273778970960267",
+        "created_at": "2026-04-04T03:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T04:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040273778970960267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5h5OotlyQv",
+              "end": 66,
+              "expanded_url": "https://x.com/hsn8086k/status/2040273778970960267/photo/1",
+              "media_key": "3_2040273775443468288",
+              "start": 43,
+              "url": "https://t.co/5h5OotlyQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040273778970960267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把订阅开了, 设置的最低, 一刀, 暂时没啥东西, 图一乐, 或者大伙有啥想法吗(? https://t.co/5h5OotlyQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 216,
+          "like_count": 6891,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1779
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

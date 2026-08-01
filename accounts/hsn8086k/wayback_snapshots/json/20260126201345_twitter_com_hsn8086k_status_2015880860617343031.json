@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015880860617343031",
+    "created_at": "2026-01-26T20:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T21:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015880860617343031"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2015880860617343031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不过我到现在还是那个想法: 真赚钱的事儿,能轮得到分享给我?\n虽然可能有点动摇了("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015880860617343031",
+        "created_at": "2026-01-26T20:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T21:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015880860617343031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015880860617343031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不过我到现在还是那个想法: 真赚钱的事儿,能轮得到分享给我?\n虽然可能有点动摇了("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 92,
+          "like_count": 921,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 380
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

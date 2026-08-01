@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2013605184346243517",
+    "created_at": "2026-01-21T17:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014034368650682441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1401196707266715652",
+          "start": 0,
+          "username": "Eason_Jan2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014034368650682441",
+    "in_reply_to_user_id": "1401196707266715652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013999280084726182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eason_Jan2025 反乌托邦, 只在网易云音乐和b站有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2013605184346243517",
+        "created_at": "2026-01-21T17:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014034368650682441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1401196707266715652",
+              "start": 0,
+              "username": "Eason_Jan2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014034368650682441",
+        "in_reply_to_user_id": "1401196707266715652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013999280084726182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eason_Jan2025 反乌托邦, 只在网易云音乐和b站有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401196707266715652",
+        "conversation_id": "2013605184346243517",
+        "created_at": "2026-01-21T15:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013999280084726182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013999280084726182",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013605184346243517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 好看好听\n想知道这是哪首歌👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 76,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 197
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-05T15:18:34.000Z",
+        "description": "我的书签被折坏了\n很抱歉我被推送给你\n谢谢",
+        "id": "1401196707266715652",
+        "name": "Eason.J",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842246028487168000/ED_yvU7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 186,
+          "like_count": 4938,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 372
+        },
+        "username": "Eason_Jan2025",
+        "verified": false
+      }
+    ]
+  }
+}

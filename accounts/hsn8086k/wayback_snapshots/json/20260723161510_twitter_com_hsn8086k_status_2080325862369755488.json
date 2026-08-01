@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2080325862369755488",
+    "created_at": "2026-07-23T16:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080325862369755488"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080325862369755488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "折腾了一下, 发现iD的接口暴露的很齐全, Agent写了个桥, 现在OSM也可以Vibe了.\n不过现在仍然比较克制, 都是AI发现问题, 人工确认问题, AI做出修改, 人工审核提交."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2080325862369755488",
+        "created_at": "2026-07-23T16:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080325862369755488"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080325862369755488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "折腾了一下, 发现iD的接口暴露的很齐全, Agent写了个桥, 现在OSM也可以Vibe了.\n不过现在仍然比较克制, 都是AI发现问题, 人工确认问题, AI做出修改, 人工审核提交."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 245,
+          "like_count": 10635,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 2699
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

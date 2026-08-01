@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2040979672746622998",
+    "created_at": "2026-04-07T12:25:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:25:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041492527262687561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450114426716131341",
+          "start": 0,
+          "username": "Natsuhane_Ayari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041492527262687561",
+    "in_reply_to_user_id": "1450114426716131341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041487357376078149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuhane_Ayari 那就自己写自己添加这个功能呗, mac 可以加插件, gnome 也是开源的, 也能加插件, 而不是让系统为了你的各种要求而妥协, 更不是去攻击某个系统的用户.\n特别 gnome 这种, 说白了, 要觉得你的观念比较符合人类的需求, 就 fork 一个, 写出 better gnome. 从来没有人限制你的选择."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-07T12:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041492527262687561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450114426716131341",
+              "start": 0,
+              "username": "Natsuhane_Ayari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041492527262687561",
+        "in_reply_to_user_id": "1450114426716131341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041487357376078149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuhane_Ayari 那就自己写自己添加这个功能呗, mac 可以加插件, gnome 也是开源的, 也能加插件, 而不是让系统为了你的各种要求而妥协, 更不是去攻击某个系统的用户.\n特别 gnome 这种, 说白了, 要觉得你的观念比较符合人类的需求, 就 fork 一个, 写出 better gnome. 从来没有人限制你的选择."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450114426716131341",
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-07T12:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041487357376078149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041487357376078149",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041483774505161086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 好吧我認了 好不\n這就跟咖喱飯要不要攪拌的問題一樣\n拌的人認為到最後吃下去還不是一樣混在一起\n不拌的人認為既然最後都會混在一起那幹嘛先拌\n\n說到底就是習慣性的問題，但作業系統不像咖喱飯可以自由決定，要它原生支持，或裝第三方軟件，才能做\n\n但是，第三方軟件有風險，沒開源裡面有啥後門不知道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 218,
+          "like_count": 7122,
+          "listed_count": 5,
+          "media_count": 166,
+          "tweet_count": 1832
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T15:00:10.000Z",
+        "description": "",
+        "id": "1450114426716131341",
+        "name": "夏羽綾理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991818431050739712/4mLMcimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 144,
+          "like_count": 1420,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1657
+        },
+        "username": "Natsuhane_Ayari",
+        "verified": false
+      }
+    ]
+  }
+}

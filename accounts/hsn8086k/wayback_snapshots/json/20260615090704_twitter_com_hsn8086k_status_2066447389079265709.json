@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2066080572733325683",
+    "created_at": "2026-06-15T09:07:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:07:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066447389079265709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512182771900329987",
+          "start": 0,
+          "username": "yuzizisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066447389079265709",
+    "in_reply_to_user_id": "1512182771900329987",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066389139000558067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzizisuki 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2066080572733325683",
+        "created_at": "2026-06-15T09:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066447389079265709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512182771900329987",
+              "start": 0,
+              "username": "yuzizisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066447389079265709",
+        "in_reply_to_user_id": "1512182771900329987",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066389139000558067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzizisuki 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512182771900329987",
+        "conversation_id": "2066080572733325683",
+        "created_at": "2026-06-15T05:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066389139000558067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066389139000558067",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066080572733325683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k hsn就是好淑女（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2227,
+          "following_count": 237,
+          "like_count": 9445,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2328
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T21:37:30.000Z",
+        "description": "试作人型猫娘ver！点兔难民 \n翻车含糖男娘（ fps双端又菜又爱玩\n大概算是一般可爱的音游人\n我的管人痴可爱老公 @shirosakihitomi ！     \n 68🚪\n188🚪线下喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "shirosakihitomi"
+              }
+            ]
+          }
+        },
+        "id": "1512182771900329987",
+        "location": "v我50告诉你（",
+        "name": "钰子子",
+        "pinned_tweet_id": "1962300173306270160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735674631388823552/imN_HpEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10093,
+          "following_count": 95,
+          "like_count": 3297,
+          "listed_count": 19,
+          "media_count": 971,
+          "tweet_count": 3557
+        },
+        "username": "yuzizisuki",
+        "verified": false
+      }
+    ]
+  }
+}

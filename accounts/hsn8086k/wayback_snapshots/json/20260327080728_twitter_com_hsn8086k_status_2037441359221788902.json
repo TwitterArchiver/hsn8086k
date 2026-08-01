@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037441357191725056"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2037441359221788902",
+    "created_at": "2026-03-27T08:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037441359221788902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yc3gWqu2r2",
+          "end": 71,
+          "expanded_url": "https://x.com/hsn8086k/status/2037441359221788902/photo/1",
+          "media_key": "3_2037441357191725056",
+          "start": 48,
+          "url": "https://t.co/yc3gWqu2r2"
+        },
+        {
+          "display_url": "x.com/shun_chan20/st…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/shun_chan20/status/2037098600451498154",
+          "start": 72,
+          "url": "https://t.co/bwnoCMKWui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037441359221788902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037098600451498154",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起武汉一号线, 但是可惜一号线是第三轨 (x\n但是话又说回来了, 一号线是不是统一换屏蔽门? https://t.co/yc3gWqu2r2 https://t.co/bwnoCMKWui"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_2037441357191725056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZyHpoaQAAFmfp.jpg",
+        "width": 474
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037098595489660928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEU6YSybwAAH1mI.jpg",
+        "width": 1363
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037441357191725056"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2037441359221788902",
+        "created_at": "2026-03-27T08:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037441359221788902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yc3gWqu2r2",
+              "end": 71,
+              "expanded_url": "https://x.com/hsn8086k/status/2037441359221788902/photo/1",
+              "media_key": "3_2037441357191725056",
+              "start": 48,
+              "url": "https://t.co/yc3gWqu2r2"
+            },
+            {
+              "display_url": "x.com/shun_chan20/st…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/shun_chan20/status/2037098600451498154",
+              "start": 72,
+              "url": "https://t.co/bwnoCMKWui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037441359221788902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037098600451498154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起武汉一号线, 但是可惜一号线是第三轨 (x\n但是话又说回来了, 一号线是不是统一换屏蔽门? https://t.co/yc3gWqu2r2 https://t.co/bwnoCMKWui"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037098595489660928"
+          ]
+        },
+        "author_id": "1222036319024472064",
+        "conversation_id": "2037098600451498154",
+        "created_at": "2026-03-26T09:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037098600451498154"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MkRdsQ68if",
+              "end": 36,
+              "expanded_url": "https://x.com/shun_chan20/status/2037098600451498154/photo/1",
+              "media_key": "3_2037098595489660928",
+              "start": 13,
+              "url": "https://t.co/MkRdsQ68if"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037098600451498154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 14148,
+          "like_count": 1148,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "駅のホームで待ち合わせ。 https://t.co/MkRdsQ68if"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 213,
+          "like_count": 6370,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1702
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-28T05:59:05.000Z",
+        "description": "Photographer / 夕暮れ世界 / 夕方の日常風景 / ノスタルジック / 写真の転載禁止 ■ YouTube https://t.co/EKgRKNTiCA / ■note https://t.co/YYORiFdwau / Contact ■ Instagramから↓",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@BlueSunsetSSN",
+                "end": 84,
+                "expanded_url": "https://www.youtube.com/@BlueSunsetSSN",
+                "start": 61,
+                "url": "https://t.co/EKgRKNTiCA"
+              },
+              {
+                "display_url": "note.com/shyers5296",
+                "end": 116,
+                "expanded_url": "http://note.com/shyers5296",
+                "start": 93,
+                "url": "https://t.co/YYORiFdwau"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shun_saka.moto…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shun_saka.moto?igsh=MTFyN2hhdzJnMGRieg%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/F2GcQ7cO32"
+              }
+            ]
+          }
+        },
+        "id": "1222036319024472064",
+        "location": "日本",
+        "name": "Shun Sakamoto",
+        "pinned_tweet_id": "1367774873343332352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1373517539242696704/qlShp36r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75937,
+          "following_count": 431,
+          "like_count": 99263,
+          "listed_count": 884,
+          "media_count": 2425,
+          "tweet_count": 59903
+        },
+        "url": "https://t.co/F2GcQ7cO32",
+        "username": "shun_chan20",
+        "verified": true
+      }
+    ]
+  }
+}

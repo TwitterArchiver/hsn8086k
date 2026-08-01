@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2023301038816837715",
+    "created_at": "2026-02-16T07:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023301038816837715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/geekbb/status/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/geekbb/status/2023205034767561053",
+          "start": 33,
+          "url": "https://t.co/WvYLehrPPh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023301038816837715",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023205034767561053",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hsn 越来越不喜欢 md3 就是因为圆角太过了, 好腻啊... https://t.co/WvYLehrPPh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1039,
+        "media_key": "3_2023203791412346881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBPdIP9bQAE1mk_.jpg",
+        "width": 1909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2023301038816837715",
+        "created_at": "2026-02-16T07:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023301038816837715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/geekbb/status/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/geekbb/status/2023205034767561053",
+              "start": 33,
+              "url": "https://t.co/WvYLehrPPh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023301038816837715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023205034767561053",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hsn 越来越不喜欢 md3 就是因为圆角太过了, 好腻啊... https://t.co/WvYLehrPPh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023203791412346881"
+          ]
+        },
+        "author_id": "168139512",
+        "conversation_id": "2023205034767561053",
+        "created_at": "2026-02-16T01:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T02:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023205034767561053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "VSCode theme based off the new Jetbrains islands theme - GitHub - bwya77/vscode-dark-islands: VSCode theme based off the new Jetbrains islands theme",
+              "display_url": "github.com/bwya77/vscode-…",
+              "end": 147,
+              "expanded_url": "https://github.com/bwya77/vscode-dark-islands",
+              "start": 124,
+              "status": 200,
+              "title": "GitHub - bwya77/vscode-dark-islands: VSCode theme based off the new Jetbrains islands theme",
+              "unwound_url": "https://github.com/bwya77/vscode-dark-islands",
+              "url": "https://t.co/aJ8GmtQ1ga"
+            },
+            {
+              "display_url": "pic.x.com/EKtyngYY0k",
+              "end": 171,
+              "expanded_url": "https://x.com/geekbb/status/2023205034767561053/photo/1",
+              "media_key": "3_2023203791412346881",
+              "start": 148,
+              "url": "https://t.co/EKtyngYY0k"
+            },
+            {
+              "display_url": "x.com/QingQ77/status…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/QingQ77/status/2022667742692954430",
+              "start": 172,
+              "url": "https://t.co/cGZ2WN5Nbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023205034767561053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 999,
+          "impression_count": 77351,
+          "like_count": 746,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022667742692954430",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看我找到了什么\n\n一款专为 Visual Studio Code 设计的深色主题，灵感源于 JetBrains 的 Islands Dark 主题。\n\n悬浮面板、语法高亮、深邃底色、玻璃边框、流畅动画、24px 大圆角美学，连滚动条都是药丸形。\n\nhttps://t.co/aJ8GmtQ1ga https://t.co/EKtyngYY0k https://t.co/cGZ2WN5Nbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 158,
+          "like_count": 3820,
+          "listed_count": 3,
+          "media_count": 112,
+          "tweet_count": 1113
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-18T14:10:39.000Z",
+        "description": "🧠在家居士 | 🥦素食者 | 🏃🏻马拉松爱好者 | 💰省钱小能手 | 搭🪜技术资深学者 | 👨‍💻科技宅 | 🆕更新狂 | 🆅 六边型战五渣 | ⚡️ Geek Lite ➮ @QingQ77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "QingQ77"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "igeekbb.com",
+                "end": 23,
+                "expanded_url": "https://www.igeekbb.com",
+                "start": 0,
+                "url": "https://t.co/lNbogZ0jXq"
+              }
+            ]
+          }
+        },
+        "id": "168139512",
+        "location": "火星",
+        "name": "Geek",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644898947272671233/7959WGOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106631,
+          "following_count": 473,
+          "like_count": 19047,
+          "listed_count": 1139,
+          "media_count": 6608,
+          "tweet_count": 25586
+        },
+        "url": "https://t.co/lNbogZ0jXq",
+        "username": "geekbb",
+        "verified": true
+      }
+    ]
+  }
+}

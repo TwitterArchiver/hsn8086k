@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020737658730000384"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2020737661473030310",
+    "created_at": "2026-02-09T05:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T06:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020737661473030310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KNGL3bOKQ0",
+          "end": 59,
+          "expanded_url": "https://x.com/hsn8086k/status/2020737661473030310/photo/1",
+          "media_key": "3_2020737658730000384",
+          "start": 36,
+          "url": "https://t.co/KNGL3bOKQ0"
+        },
+        {
+          "display_url": "x.com/Yujiudu/status…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/Yujiudu/status/2020477224554815564",
+          "start": 60,
+          "url": "https://t.co/WixFGpgzDt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020737661473030310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020477224554815564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要ntr不要ntr不要ntr!\n纯爱才是对的纯爱才是对的纯爱才是对的 https://t.co/KNGL3bOKQ0 https://t.co/WixFGpgzDt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2020737661473030310].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2020737661473030310",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2020737661473030310"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2020737658730000384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsaMbzbMAA1CVS.jpg",
+        "width": 484
+      },
+      {
+        "height": 993,
+        "media_key": "3_2020477216409440256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAotUsja0AAzL8u.jpg",
+        "width": 632
+      },
+      {
+        "height": 718,
+        "media_key": "3_2020477216396865537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAotUsga8AEsUPR.jpg",
+        "width": 605
+      },
+      {
+        "height": 1126,
+        "media_key": "3_2020477216677937152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAotUtjbwAA5eM3.jpg",
+        "width": 621
+      },
+      {
+        "height": 899,
+        "media_key": "3_2020477222122106881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAotVB1bMAEnNSj.jpg",
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020477216409440256",
+            "3_2020477216396865537",
+            "3_2020477216677937152",
+            "3_2020477222122106881"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020477224554815564",
+        "created_at": "2026-02-08T12:38:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020477224554815564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fl75NzzMEi",
+              "end": 170,
+              "expanded_url": "https://x.com/Yujiudu/status/2020477224554815564/photo/1",
+              "media_key": "3_2020477216409440256",
+              "start": 147,
+              "url": "https://t.co/Fl75NzzMEi"
+            },
+            {
+              "display_url": "pic.x.com/Fl75NzzMEi",
+              "end": 170,
+              "expanded_url": "https://x.com/Yujiudu/status/2020477224554815564/photo/1",
+              "media_key": "3_2020477216396865537",
+              "start": 147,
+              "url": "https://t.co/Fl75NzzMEi"
+            },
+            {
+              "display_url": "pic.x.com/Fl75NzzMEi",
+              "end": 170,
+              "expanded_url": "https://x.com/Yujiudu/status/2020477224554815564/photo/1",
+              "media_key": "3_2020477216677937152",
+              "start": 147,
+              "url": "https://t.co/Fl75NzzMEi"
+            },
+            {
+              "display_url": "pic.x.com/Fl75NzzMEi",
+              "end": 170,
+              "expanded_url": "https://x.com/Yujiudu/status/2020477224554815564/photo/1",
+              "media_key": "3_2020477222122106881",
+              "start": 147,
+              "url": "https://t.co/Fl75NzzMEi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020477224554815564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 16601,
+          "like_count": 93,
+          "quote_count": 34,
+          "reply_count": 60,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "这辈子第一次挂人我本来还想着能接受三角恋的但是她的语气让我不得不难蚌 什么叫我给她养的这么可爱我陪了我对象将近两年了 跟你一天就跑了对象有m倾向 这出生跟我兑现第一次面基就带四联和小玩具也不避嫌在知道有对象的情况下跟她去开房 甚至我去私信求她还叫我找个比我对象更好看的 18342960374 https://t.co/Fl75NzzMEi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 148,
+          "like_count": 3233,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 925
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役  欢迎私信找我交朋友\n买🍬可以找找@Minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Minokakay"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3266,
+          "following_count": 2663,
+          "like_count": 34288,
+          "listed_count": 7,
+          "media_count": 1069,
+          "tweet_count": 6835
+        },
+        "username": "Yujiudu",
+        "verified": false
+      }
+    ]
+  }
+}

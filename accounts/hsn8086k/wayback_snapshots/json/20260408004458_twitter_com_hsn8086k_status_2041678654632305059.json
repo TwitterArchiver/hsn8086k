@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2041678654632305059",
+    "created_at": "2026-04-08T00:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T01:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041678654632305059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2041492527262687561",
+          "start": 52,
+          "url": "https://t.co/OSJG8PScO9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041678654632305059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041492527262687561",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那件事情, 不再回了, 只是真的很恶心, 就算真的是 mac 的功能缺失, 也不该攻击 mac 用户. https://t.co/OSJG8PScO9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2041678654632305059",
+        "created_at": "2026-04-08T00:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041678654632305059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2041492527262687561",
+              "start": 52,
+              "url": "https://t.co/OSJG8PScO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041678654632305059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041492527262687561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那件事情, 不再回了, 只是真的很恶心, 就算真的是 mac 的功能缺失, 也不该攻击 mac 用户. https://t.co/OSJG8PScO9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-07T12:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041492527262687561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450114426716131341",
+              "start": 0,
+              "username": "Natsuhane_Ayari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041492527262687561",
+        "in_reply_to_user_id": "1450114426716131341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041487357376078149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuhane_Ayari 那就自己写自己添加这个功能呗, mac 可以加插件, gnome 也是开源的, 也能加插件, 而不是让系统为了你的各种要求而妥协, 更不是去攻击某个系统的用户.\n特别 gnome 这种, 说白了, 要觉得你的观念比较符合人类的需求, 就 fork 一个, 写出 better gnome. 从来没有人限制你的选择."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 218,
+          "like_count": 7170,
+          "listed_count": 5,
+          "media_count": 167,
+          "tweet_count": 1843
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

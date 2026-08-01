@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1920630446750118210",
+    "created_at": "2025-05-09T00:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T01:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1920630446750118210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rosmontis233/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Rosmontis233/status/1920520672222073048",
+          "start": 19,
+          "url": "https://t.co/tqHDsUUN9v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920630446750118210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920520672222073048",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我应该声明一点, 我是真正的hsn( https://t.co/tqHDsUUN9v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1920630446750118210",
+        "created_at": "2025-05-09T00:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T01:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920630446750118210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rosmontis233/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Rosmontis233/status/1920520672222073048",
+              "start": 19,
+              "url": "https://t.co/tqHDsUUN9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920630446750118210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920520672222073048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我应该声明一点, 我是真正的hsn( https://t.co/tqHDsUUN9v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618324076992548865",
+        "conversation_id": "1920520672222073048",
+        "created_at": "2025-05-08T16:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T17:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920520672222073048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MizukiWorkshop…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/MizukiWorkshop/status/1920196661017501844",
+              "start": 32,
+              "url": "https://t.co/3K2EyEoVxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920520672222073048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920196661017501844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我应该声明一点，我不是真正的迷迭香，我只是很喜欢可爱的迷迭香（ https://t.co/3K2EyEoVxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 38,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 114
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T19:05:09.000Z",
+        "description": "人｜大一｜🍥｜PGP：3CFE FAB3 CAC1 CC73 5D67 DF41 BFFB 7708 8E66 43DC｜https://t.co/I60tmXcy7z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rosmontis233",
+                "end": 84,
+                "expanded_url": "http://t.me/Rosmontis233",
+                "start": 61,
+                "url": "https://t.co/I60tmXcy7z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/jyk4w3TKRn"
+              }
+            ]
+          }
+        },
+        "id": "1618324076992548865",
+        "location": "尤拉 IX - 统一合作关系部 办公署",
+        "name": "Rosmontic",
+        "pinned_tweet_id": "1682926645836148736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906737688025411584/NWUJFhEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 487,
+          "like_count": 7790,
+          "listed_count": 5,
+          "media_count": 630,
+          "tweet_count": 6495
+        },
+        "url": "https://t.co/jyk4w3TKRn",
+        "username": "Rosmontis233",
+        "verified": false
+      }
+    ]
+  }
+}

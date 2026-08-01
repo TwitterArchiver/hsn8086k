@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016495873803641094",
+    "created_at": "2026-01-28T13:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T14:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016509988169306388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "566408563",
+          "start": 0,
+          "username": "Microstrongs"
+        },
+        {
+          "end": 26,
+          "id": "1828985250162323456",
+          "start": 14,
+          "username": "hishn948957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016509988169306388",
+    "in_reply_to_user_id": "566408563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016509914957660671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Microstrongs @hishn948957 有钱真好啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016495873803641094",
+        "created_at": "2026-01-28T13:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016509988169306388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "566408563",
+              "start": 0,
+              "username": "Microstrongs"
+            },
+            {
+              "end": 26,
+              "id": "1828985250162323456",
+              "start": 14,
+              "username": "hishn948957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016509988169306388",
+        "in_reply_to_user_id": "566408563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016509914957660671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Microstrongs @hishn948957 有钱真好啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "566408563",
+        "conversation_id": "2016495873803641094",
+        "created_at": "2026-01-28T13:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016509914957660671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828985250162323456",
+              "start": 0,
+              "username": "hishn948957"
+            },
+            {
+              "end": 22,
+              "id": "1842504398850928640",
+              "start": 13,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016509914957660671",
+        "in_reply_to_user_id": "1828985250162323456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016496591901954318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hishn948957 @hsn8086k codex、cc都没用完，哪有时间试这个，哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 104,
+          "like_count": 1439,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 507
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-29T15:39:15.000Z",
+        "description": "Engineer | Lifelong Learner | AI Practitioner · Optimist 🤖 | Building, not watching",
+        "id": "566408563",
+        "location": "California, USA",
+        "name": "microstrong",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011618101956399104/Ob0ETyly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 1580,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 610
+        },
+        "username": "Microstrongs",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-29T02:37:49.000Z",
+        "description": "沉淀ing.",
+        "id": "1828985250162323456",
+        "name": "白",
+        "pinned_tweet_id": "2014678800689435113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941141219477712896/2rdSKM0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 134,
+          "like_count": 2617,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 524
+        },
+        "username": "hishn948957",
+        "verified": true
+      }
+    ]
+  }
+}

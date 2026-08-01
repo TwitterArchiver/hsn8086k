@@ -1,0 +1,102 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016741363543658783",
+    "created_at": "2026-01-29T05:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {},
+    "geo": {},
+    "id": "2016741369025626161",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016741365657542988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "12%。\"\n\n我望着碗里冒着热气的米饭，忽然意识到——\n那些被我忽略的身体信号，\n终于有人，或者说有什么东西，\n比我自己更早听见了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016741363543658783",
+        "created_at": "2026-01-29T05:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {},
+        "geo": {},
+        "id": "2016741365657542988",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016741363543658783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "定了。冰箱自动下单了鸡蛋和青菜。凌晨两点，台灯突然变暗，弹窗显示：\"低血糖会影响代码质量。\"\n\n它没逼我规律三餐。它只是把我常买的胃药加入了购物车提醒，每次我想删除，它就在旁边标注：\"上次进食是 11 小时前。\"\n\n第七天，它发来一份报告：\n\"你的血糖曲线已经平稳 48 小时。\"\n\"焦虑指数下降了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 109,
+          "like_count": 1544,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 543
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

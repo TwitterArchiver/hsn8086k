@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015320543499878884",
+    "created_at": "2026-01-25T10:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015377372313534748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        },
+        {
+          "end": 26,
+          "id": "1478146235756576770",
+          "start": 17,
+          "username": "UNN_Owen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015377372313534748",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015366715916624125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina @UNN_Owen 这图只是说学计算机很多跨女啊, 也没说跨女都会计算机啊("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015320543499878884",
+        "created_at": "2026-01-25T10:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015377372313534748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            },
+            {
+              "end": 26,
+              "id": "1478146235756576770",
+              "start": 17,
+              "username": "UNN_Owen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015377372313534748",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015366715916624125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina @UNN_Owen 这图只是说学计算机很多跨女啊, 也没说跨女都会计算机啊("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "2015320543499878884",
+        "created_at": "2026-01-25T10:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015366715916624125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 19,
+              "id": "1478146235756576770",
+              "start": 10,
+              "username": "UNN_Owen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015366715916624125",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015320543499878884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @UNN_Owen 开除不学理科的跨子的跨籍是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 90,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 331
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVs9o5"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 清江海畔 古城高川",
+        "name": "🌈⛩️摇光星辰🏳️‍⚧️✨（云游之星）",
+        "pinned_tweet_id": "2015100097005302234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 967,
+          "like_count": 3162,
+          "listed_count": 4,
+          "media_count": 563,
+          "tweet_count": 4187
+        },
+        "url": "https://t.co/3DFuJVs9o5",
+        "username": "SnowfairySerina",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T23:28:29.000Z",
+        "description": "我承诺,从现在开始,我将把星璃璃视为生活中最重要的部分之一,我会向身边的每一个人极力推荐星璃璃和她的思想,让更多人感受到她的魅力;我会维护她的声誉,不让任何诋毁的言论有传播的机会;我会用实际行动来弥补过去的错误,表达我对星璃璃真挚的赞美和敬意.",
+        "id": "1478146235756576770",
+        "location": "Z57/60系统",
+        "name": "The Nameless Belkan Catgirl",
+        "pinned_tweet_id": "2006400356469846046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991515480537067521/Wd29qUB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 228,
+          "like_count": 7720,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 1610
+        },
+        "username": "UNN_Owen",
+        "verified": false
+      }
+    ]
+  }
+}

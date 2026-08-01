@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2022119338166362116",
+    "created_at": "2026-02-14T05:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T06:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022538481814393127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "18571275",
+          "start": 0,
+          "username": "balconychy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022538481814393127",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022538430442520659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@balconychy 比40%多得多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2022119338166362116",
+        "created_at": "2026-02-14T05:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022538481814393127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "18571275",
+              "start": 0,
+              "username": "balconychy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022538481814393127",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022538430442520659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@balconychy 比40%多得多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2022119338166362116",
+        "created_at": "2026-02-14T05:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T06:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022538430442520659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "18571275",
+              "start": 0,
+              "username": "balconychy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "译者：rui_er，转载请注明出处。 （备份自 2020 年 11 月 2 日的同名博客）本博客为了方便自己查阅，同时也方便大家了解，但因为我英语很菜，所以难免有翻译错的地方，还请评论区纠正。 未注明资料来源的均为常识积累。 1 CodeForces rating 规则 1.1 CodeForces",
+              "display_url": "cnblogs.com/ruierqwq/p/179…",
+              "end": 149,
+              "expanded_url": "https://www.cnblogs.com/ruierqwq/p/17973570/cf-at-rating",
+              "start": 126,
+              "status": 200,
+              "title": "CodeForces & AtCoder rating 规则简述（最后更新于 2024.12.21） - rui_er - 博客园",
+              "unwound_url": "https://www.cnblogs.com/ruierqwq/p/17973570/cf-at-rating",
+              "url": "https://t.co/onT2AIXsWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022538430442520659",
+        "in_reply_to_user_id": "18571275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022119338166362116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@balconychy cf 分数是实力的 log 所以其实不是 40% 的能力提升\n\n\"如果两个人的 rating 差为 200，则 rating 高的人赢过另一方的概率被认为是 0.75；若 rating 差为 400，则这一概率约为 0.9。\"\nhttps://t.co/onT2AIXsWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 156,
+          "like_count": 3715,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 1084
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-03T02:54:44.000Z",
+        "description": "探索，分享，不设限。\n关注认知成长、个人IP。深度探索AI。\n独立开发者，Think in public, INTJ，\n博客：https://t.co/mGGfJlYbas\nYT：https://t.co/nNArsuaUBP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tedcai.cc",
+                "end": 86,
+                "expanded_url": "https://tedcai.cc",
+                "start": 63,
+                "url": "https://t.co/mGGfJlYbas"
+              },
+              {
+                "display_url": "youtube.com/@balconychy",
+                "end": 113,
+                "expanded_url": "https://www.youtube.com/@balconychy",
+                "start": 90,
+                "url": "https://t.co/nNArsuaUBP"
+              }
+            ]
+          }
+        },
+        "id": "18571275",
+        "name": "balconychy(贝壳里奇)",
+        "pinned_tweet_id": "1913207590865023168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642760288406769665/YsX3blNL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14269,
+          "following_count": 739,
+          "like_count": 2892,
+          "listed_count": 201,
+          "media_count": 1372,
+          "tweet_count": 4043
+        },
+        "username": "balconychy",
+        "verified": true
+      }
+    ]
+  }
+}

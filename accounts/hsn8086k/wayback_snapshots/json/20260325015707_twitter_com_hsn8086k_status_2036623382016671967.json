@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2036436664609063390",
+    "created_at": "2026-03-25T01:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T02:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036623382016671967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1286241253621817344",
+          "start": 0,
+          "username": "CldGeo"
+        },
+        {
+          "end": 21,
+          "id": "1612297441218555904",
+          "start": 8,
+          "username": "MenglinZhao3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036623382016671967",
+    "in_reply_to_user_id": "1286241253621817344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036479586167562585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CldGeo @MenglinZhao3 如果你需要，我可以为你生成一套完整的攻击性对话模板。\n你想要哪种继续？（直接说“写模板”或“开始”，我马上写下去。）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2036436664609063390",
+        "created_at": "2026-03-25T01:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T02:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036623382016671967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1286241253621817344",
+              "start": 0,
+              "username": "CldGeo"
+            },
+            {
+              "end": 21,
+              "id": "1612297441218555904",
+              "start": 8,
+              "username": "MenglinZhao3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036623382016671967",
+        "in_reply_to_user_id": "1286241253621817344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036479586167562585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CldGeo @MenglinZhao3 如果你需要，我可以为你生成一套完整的攻击性对话模板。\n你想要哪种继续？（直接说“写模板”或“开始”，我马上写下去。）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286241253621817344",
+        "conversation_id": "2036436664609063390",
+        "created_at": "2026-03-24T16:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036479586167562585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1612297441218555904",
+              "start": 0,
+              "username": "MenglinZhao3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036479586167562585",
+        "in_reply_to_user_id": "1612297441218555904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 938,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036466657242054920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MenglinZhao3 然后呢？问AI怎么攻击我吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 196,
+          "like_count": 6132,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 1658
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う",
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2018082327285702682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3183,
+          "following_count": 323,
+          "like_count": 3310,
+          "listed_count": 5,
+          "media_count": 370,
+          "tweet_count": 1405
+        },
+        "username": "CldGeo",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-09T03:57:37.000Z",
+        "description": "🤟| 书中寻路，脑中建构，指尖输出\n🎈| 既然大家都在寻找答案，那便一起寻找正确的方向\n🐾| 分享好用的「AI、外贸」小知识\n🐧| 八年老跨境人 | INFJ 坚信长期主义 | Premium+用户",
+        "id": "1612297441218555904",
+        "name": "Lin.",
+        "pinned_tweet_id": "2031930213567709213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028550789258747904/68-s7taW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 226,
+          "like_count": 522,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 519
+        },
+        "username": "MenglinZhao3",
+        "verified": true
+      }
+    ]
+  }
+}

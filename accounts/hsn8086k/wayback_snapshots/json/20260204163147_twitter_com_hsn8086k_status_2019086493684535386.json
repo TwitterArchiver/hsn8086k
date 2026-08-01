@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019086493684535386",
+    "created_at": "2026-02-04T16:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019086493684535386"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OliviaWantsHug…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/OliviaWantsHugs/status/2018641580786417964",
+          "start": 37,
+          "url": "https://t.co/JORINBLyrw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019086493684535386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018641580786417964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "多年以后，你躺在布林面前，准会想起母亲带你去广脑的那个遥远的下午。(错乱 https://t.co/JORINBLyrw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019086493684535386",
+        "created_at": "2026-02-04T16:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019086493684535386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OliviaWantsHug…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/OliviaWantsHugs/status/2018641580786417964",
+              "start": 37,
+              "url": "https://t.co/JORINBLyrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019086493684535386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018641580786417964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多年以后，你躺在布林面前，准会想起母亲带你去广脑的那个遥远的下午。(错乱 https://t.co/JORINBLyrw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004362078956613632",
+        "conversation_id": "2018641580786417964",
+        "created_at": "2026-02-03T11:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018641580786417964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018641580786417964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 43346,
+          "like_count": 223,
+          "quote_count": 24,
+          "reply_count": 39,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "多年以后\n你也进入了srs群\n发现群里最多的还是年纪很小家里出钱陪着一起来的小妹妹\n你自己经历的苦难独立坚强在真正遮风挡雨的爱面前碎了一地，毫无意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 144,
+          "like_count": 2538,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 780
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "🇸🇬 \\ 萨摩耶bot \\ 女的活的素质差的 \\ Sub小狗 \\ Bi偏直 \\ open mind but not heart",
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "⭕泡耶奶 @ 狗白白 🇸🇬",
+        "pinned_tweet_id": "1996591212963545292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970319303691182080/fNJSghhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4656,
+          "following_count": 572,
+          "like_count": 24957,
+          "listed_count": 18,
+          "media_count": 1471,
+          "tweet_count": 27355
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

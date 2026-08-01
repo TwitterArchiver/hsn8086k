@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2077034025143906364",
+    "created_at": "2026-07-14T14:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077034025143906364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CCA8798suki/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/CCA8798suki/status/2076708376483110961",
+          "start": 16,
+          "url": "https://t.co/tAdlIRkfkL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077034025143906364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076708376483110961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦牛还能这样的, 李保兴2.0 https://t.co/tAdlIRkfkL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1344,
+        "media_key": "3_2076708360293097473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHzQDVaoAE-iij.jpg",
+        "width": 1056
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2076708362457358338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHzQLZaoAIeBTh.jpg",
+        "width": 720
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2076708365229793283",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHzQVuaoAMPmzH.jpg",
+        "width": 720
+      },
+      {
+        "height": 1868,
+        "media_key": "3_2076708373542891520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHzQ0sacAAzI3R.jpg",
+        "width": 1163
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2077034025143906364",
+        "created_at": "2026-07-14T14:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077034025143906364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CCA8798suki/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/CCA8798suki/status/2076708376483110961",
+              "start": 16,
+              "url": "https://t.co/tAdlIRkfkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077034025143906364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076708376483110961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦牛还能这样的, 李保兴2.0 https://t.co/tAdlIRkfkL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076708360293097473",
+            "3_2076708362457358338",
+            "3_2076708365229793283",
+            "3_2076708373542891520"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2076708376483110961",
+        "created_at": "2026-07-13T16:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076708376483110961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1589235830731997188",
+              "start": 28,
+              "username": "PWaterawa"
+            },
+            {
+              "end": 73,
+              "id": "1719356938050527232",
+              "start": 62,
+              "username": "PWaterawa_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWHpBTd87z",
+              "end": 180,
+              "expanded_url": "https://x.com/CCA8798suki/status/2076708376483110961/photo/1",
+              "media_key": "3_2076708360293097473",
+              "start": 157,
+              "url": "https://t.co/jWHpBTd87z"
+            },
+            {
+              "display_url": "pic.x.com/jWHpBTd87z",
+              "end": 180,
+              "expanded_url": "https://x.com/CCA8798suki/status/2076708376483110961/photo/1",
+              "media_key": "3_2076708362457358338",
+              "start": 157,
+              "url": "https://t.co/jWHpBTd87z"
+            },
+            {
+              "display_url": "pic.x.com/jWHpBTd87z",
+              "end": 180,
+              "expanded_url": "https://x.com/CCA8798suki/status/2076708376483110961/photo/1",
+              "media_key": "3_2076708365229793283",
+              "start": 157,
+              "url": "https://t.co/jWHpBTd87z"
+            },
+            {
+              "display_url": "pic.x.com/jWHpBTd87z",
+              "end": 180,
+              "expanded_url": "https://x.com/CCA8798suki/status/2076708376483110961/photo/1",
+              "media_key": "3_2076708373542891520",
+              "start": 157,
+              "url": "https://t.co/jWHpBTd87z"
+            },
+            {
+              "display_url": "x.com/zhiii_tan/stat…",
+              "end": 204,
+              "expanded_url": "https://twitter.com/zhiii_tan/status/2076684723229966583",
+              "start": 181,
+              "url": "https://t.co/0wmeSpKSFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076708376483110961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2044,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076684723229966583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "罗*熙你个傻逼，冒认别人领奖\n大家一定要警惕骗局\n原本是@PWaterawa中的我的奖(正主)\n这个傻逼用自己注册的仿冒账号@PWaterawa_主动冒认成功领走了奖\n我今天在此把整件事情挂出来\n最近大家有搞抽奖的一定要警惕！！！！\n一定要确认id是否一致！！！\n图里有他的QQ号和大致名字\n小心这个傻逼惯犯！！ https://t.co/jWHpBTd87z https://t.co/0wmeSpKSFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 244,
+          "like_count": 10302,
+          "listed_count": 8,
+          "media_count": 232,
+          "tweet_count": 2632
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 1326,
+          "like_count": 4774,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}

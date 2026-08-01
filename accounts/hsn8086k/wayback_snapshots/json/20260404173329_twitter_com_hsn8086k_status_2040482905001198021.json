@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2040482905001198021",
+    "created_at": "2026-04-04T17:33:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040482905001198021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MrYANFD/status…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/MrYANFD/status/2040402729793900593",
+          "start": 66,
+          "url": "https://t.co/SbHzWNvuSc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040482905001198021",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040402729793900593",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发现 gnome 也是没创建文件的, 但是完全无感, 需要创建文件大概都是要写入内容, 不是在编辑器里就是在终端, 直接写就是了. https://t.co/SbHzWNvuSc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040402719794671616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFD3dpAaMAAO5C7.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040482905001198021",
+        "created_at": "2026-04-04T17:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040482905001198021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MrYANFD/status…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/MrYANFD/status/2040402729793900593",
+              "start": 66,
+              "url": "https://t.co/SbHzWNvuSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040482905001198021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040402729793900593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现 gnome 也是没创建文件的, 但是完全无感, 需要创建文件大概都是要写入内容, 不是在编辑器里就是在终端, 直接写就是了. https://t.co/SbHzWNvuSc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040402719794671616"
+          ]
+        },
+        "author_id": "820599551375511556",
+        "conversation_id": "2040402729793900593",
+        "created_at": "2026-04-04T12:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040402729793900593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J5bdkqwJ2S",
+              "end": 64,
+              "expanded_url": "https://x.com/MrYANFD/status/2040402729793900593/photo/1",
+              "media_key": "3_2040402719794671616",
+              "start": 41,
+              "url": "https://t.co/J5bdkqwJ2S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040402729793900593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 18575,
+          "like_count": 76,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Mac最蠢的逻辑就是不能直接右键新建文件。每次要打开终端再touch，真的很烦人 https://t.co/J5bdkqwJ2S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 219,
+          "like_count": 6948,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1796
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-15T11:52:33.000Z",
+        "description": "| EN/CN/DE | DIGITAL ALCOHOLIC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanfd.cn",
+                "end": 23,
+                "expanded_url": "http://www.yanfd.cn",
+                "start": 0,
+                "url": "https://t.co/RJct1X3MFo"
+              }
+            ]
+          }
+        },
+        "id": "820599551375511556",
+        "location": "AIR",
+        "name": "YANFD",
+        "pinned_tweet_id": "1795381476625944884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883544923699646464/BaD8leBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 921,
+          "like_count": 10197,
+          "listed_count": 3,
+          "media_count": 613,
+          "tweet_count": 2979
+        },
+        "url": "https://t.co/RJct1X3MFo",
+        "username": "MrYANFD",
+        "verified": false
+      }
+    ]
+  }
+}

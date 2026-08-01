@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2065033003366330568",
+    "created_at": "2026-06-12T06:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065317682896085301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1629845526970798081",
+          "start": 0,
+          "username": "Anci7e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065317682896085301",
+    "in_reply_to_user_id": "1629845526970798081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065197465889128694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anci7e 其实是在说arch"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065033003366330568",
+        "created_at": "2026-06-12T06:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065317682896085301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1629845526970798081",
+              "start": 0,
+              "username": "Anci7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065317682896085301",
+        "in_reply_to_user_id": "1629845526970798081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065197465889128694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anci7e 其实是在说arch"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629845526970798081",
+        "conversation_id": "2065033003366330568",
+        "created_at": "2026-06-11T22:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065197465889128694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065197465889128694",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065033003366330568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 你说的是Ubuntu server吧🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 236,
+          "like_count": 9185,
+          "listed_count": 9,
+          "media_count": 209,
+          "tweet_count": 2265
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T14:07:22.000Z",
+        "description": "过期高中生",
+        "id": "1629845526970798081",
+        "location": "1",
+        "name": "41 6e 63 69 37 65",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920636669767610368/Q7M74tOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 292,
+          "like_count": 34123,
+          "listed_count": 1,
+          "media_count": 786,
+          "tweet_count": 8028
+        },
+        "username": "Anci7e",
+        "verified": false
+      }
+    ]
+  }
+}

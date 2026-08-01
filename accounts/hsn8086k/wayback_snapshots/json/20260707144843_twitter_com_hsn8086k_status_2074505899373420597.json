@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2074460626290979320",
+    "created_at": "2026-07-07T14:48:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:48:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074505899373420597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "779405903305011200",
+          "start": 0,
+          "username": "Nickel_Schwarz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074505899373420597",
+    "in_reply_to_user_id": "779405903305011200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074505209330417740",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nickel_Schwarz 不算吧, 其实是我俩一起宅在家里.\n认识也都是网上认识的."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074460626290979320",
+        "created_at": "2026-07-07T14:48:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074505899373420597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "779405903305011200",
+              "start": 0,
+              "username": "Nickel_Schwarz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074505899373420597",
+        "in_reply_to_user_id": "779405903305011200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074505209330417740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nickel_Schwarz 不算吧, 其实是我俩一起宅在家里.\n认识也都是网上认识的."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "779405903305011200",
+        "conversation_id": "2074460626290979320",
+        "created_at": "2026-07-07T14:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074505209330417740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074505209330417740",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074500282072105234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 原来你是线虫😿😾😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 245,
+          "like_count": 10109,
+          "listed_count": 8,
+          "media_count": 223,
+          "tweet_count": 2560
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-23T19:43:42.000Z",
+        "description": "Old Otaku, Computer Engineering, https://t.co/GT1GCmZgA5 Aviation,turbomachienay,CFD. Thanks for follow. Wer die Zwangsgebühren für ZDF und ARD zustimmt, der ist Hurensohn.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "M.Sc",
+                "end": 56,
+                "expanded_url": "http://M.Sc",
+                "start": 33,
+                "url": "https://t.co/GT1GCmZgA5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Rundfunk-frei.de",
+                "end": 23,
+                "expanded_url": "http://Rundfunk-frei.de",
+                "start": 0,
+                "url": "https://t.co/jdGSbgwHiT"
+              }
+            ]
+          }
+        },
+        "id": "779405903305011200",
+        "location": "Japan",
+        "name": "Nickel",
+        "pinned_tweet_id": "1063516333621559298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614495857520574464/Hb9U2xcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 472,
+          "like_count": 22024,
+          "listed_count": 15,
+          "media_count": 13295,
+          "tweet_count": 77542
+        },
+        "url": "https://t.co/jdGSbgwHiT",
+        "username": "Nickel_Schwarz",
+        "verified": false
+      }
+    ]
+  }
+}

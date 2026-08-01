@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019645415453540352"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019645418322423928",
+    "created_at": "2026-02-06T05:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T06:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019645418322423928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HKS3kDnsQ1",
+          "end": 28,
+          "expanded_url": "https://x.com/hsn8086k/status/2019645418322423928/photo/1",
+          "media_key": "3_2019645415453540352",
+          "start": 5,
+          "url": "https://t.co/HKS3kDnsQ1"
+        },
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2019636453949755610",
+          "start": 29,
+          "url": "https://t.co/UCAjqI2xMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019645418322423928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019636453949755610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已品尝! https://t.co/HKS3kDnsQ1 https://t.co/UCAjqI2xMB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2019645415453540352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAc4zghawAAKocK.jpg",
+        "width": 1520
+      },
+      {
+        "height": 3276,
+        "media_key": "3_2019636449591869440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAcwpoFawAA61Uu.jpg",
+        "width": 2457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019645415453540352"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019645418322423928",
+        "created_at": "2026-02-06T05:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T06:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019645418322423928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKS3kDnsQ1",
+              "end": 28,
+              "expanded_url": "https://x.com/hsn8086k/status/2019645418322423928/photo/1",
+              "media_key": "3_2019645415453540352",
+              "start": 5,
+              "url": "https://t.co/HKS3kDnsQ1"
+            },
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2019636453949755610",
+              "start": 29,
+              "url": "https://t.co/UCAjqI2xMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019645418322423928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019636453949755610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已品尝! https://t.co/HKS3kDnsQ1 https://t.co/UCAjqI2xMB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019636449591869440"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019636453949755610",
+        "created_at": "2026-02-06T04:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019636453949755610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iMTvbZubVZ",
+              "end": 31,
+              "expanded_url": "https://x.com/hsn8086k/status/2019636453949755610/photo/1",
+              "media_key": "3_2019636449591869440",
+              "start": 8,
+              "url": "https://t.co/iMTvbZubVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019636453949755610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 104,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃品尝绿猫酱 https://t.co/iMTvbZubVZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 147,
+          "like_count": 2698,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 816
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

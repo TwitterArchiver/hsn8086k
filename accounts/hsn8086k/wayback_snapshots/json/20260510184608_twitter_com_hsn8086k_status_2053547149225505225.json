@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2053547149225505225",
+    "created_at": "2026-05-10T18:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053547149225505225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LwrDHYyuxR2249…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2053502741771903321",
+          "start": 21,
+          "url": "https://t.co/0tBXZhYcUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053547149225505225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053502741771903321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有能扭转成跨男/跨女的扭转机构(不是 https://t.co/0tBXZhYcUn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2053547149225505225",
+        "created_at": "2026-05-10T18:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053547149225505225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2053502741771903321",
+              "start": 21,
+              "url": "https://t.co/0tBXZhYcUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053547149225505225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053502741771903321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有能扭转成跨男/跨女的扭转机构(不是 https://t.co/0tBXZhYcUn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2053502741771903321",
+        "created_at": "2026-05-10T15:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053502741771903321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053502741771903321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 8054,
+          "like_count": 187,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "🫪一个认识的前扭转机构救援者\n兼受害者\n自己去开了个扭转机构\n我佛了🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1892,
+          "following_count": 219,
+          "like_count": 7988,
+          "listed_count": 7,
+          "media_count": 189,
+          "tweet_count": 2019
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5006,
+          "following_count": 2728,
+          "like_count": 2671,
+          "listed_count": 18,
+          "media_count": 407,
+          "tweet_count": 2706
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

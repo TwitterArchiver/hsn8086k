@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016495873803641094",
+    "created_at": "2026-01-28T12:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T13:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016495873803641094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2016220464839065855",
+          "start": 21,
+          "url": "https://t.co/s7ZMpkcbHG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016495873803641094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016220464839065855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不够用啊, 两个对话跑完93次, 这对吗 https://t.co/s7ZMpkcbHG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016495873803641094",
+        "created_at": "2026-01-28T12:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T13:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016495873803641094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2016220464839065855",
+              "start": 21,
+              "url": "https://t.co/s7ZMpkcbHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016495873803641094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016220464839065855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不够用啊, 两个对话跑完93次, 这对吗 https://t.co/s7ZMpkcbHG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016220464839065855",
+        "created_at": "2026-01-27T18:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T19:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016220464839065855"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016220464839065855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1370,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "kimi2.5 好用吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 104,
+          "like_count": 1423,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 497
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

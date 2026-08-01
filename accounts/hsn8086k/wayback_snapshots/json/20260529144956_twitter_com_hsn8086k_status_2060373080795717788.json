@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2060243760580378776",
+    "created_at": "2026-05-29T14:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060373080795717788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2040038854401368065",
+          "start": 0,
+          "username": "alice127228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060373080795717788",
+    "in_reply_to_user_id": "2040038854401368065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060369141392134370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alice127228 首先, 如果老师故意出难了让你们过不了, 那是教学事故, 要被批的. 这里主要是讨论以目前试卷的难度改成上机考."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2060243760580378776",
+        "created_at": "2026-05-29T14:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060373080795717788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040038854401368065",
+              "start": 0,
+              "username": "alice127228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060373080795717788",
+        "in_reply_to_user_id": "2040038854401368065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060369141392134370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alice127228 首先, 如果老师故意出难了让你们过不了, 那是教学事故, 要被批的. 这里主要是讨论以目前试卷的难度改成上机考."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040038854401368065",
+        "conversation_id": "2060243760580378776",
+        "created_at": "2026-05-29T14:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060369141392134370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060369141392134370",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060243760580378776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 话虽如此，但也得看题目是什么以及给了多少时间吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 227,
+          "like_count": 8503,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2138
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T12:09:16.000Z",
+        "description": "健全逼一枚，只是有一点点网瘾(真的只有一点点🤏)\n喜欢玩烤(港服)欢迎找我玩😘",
+        "id": "2040038854401368065",
+        "name": "alice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051316297678610432/8jcyh5n1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "username": "alice127228",
+        "verified": false
+      }
+    ]
+  }
+}

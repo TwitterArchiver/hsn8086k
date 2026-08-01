@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019006515315912926",
+    "created_at": "2026-02-04T11:13:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T12:13:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019006515315912926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2018926144058441922",
+          "start": 8,
+          "url": "https://t.co/KCxAP8WXtO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019006515315912926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018926144058441922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么又发错号了 https://t.co/KCxAP8WXtO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 739,
+        "media_key": "3_2018926139516055552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASqoI2a8AAsk-W.jpg",
+        "width": 601
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019006515315912926",
+        "created_at": "2026-02-04T11:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019006515315912926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2018926144058441922",
+              "start": 8,
+              "url": "https://t.co/KCxAP8WXtO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019006515315912926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018926144058441922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么又发错号了 https://t.co/KCxAP8WXtO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018926139516055552"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2018926144058441922",
+        "created_at": "2026-02-04T05:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018926144058441922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jehPbgebcf",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2018926144058441922/photo/1",
+              "media_key": "3_2018926139516055552",
+              "start": 0,
+              "url": "https://t.co/jehPbgebcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018926144058441922",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3363,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jehPbgebcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 144,
+          "like_count": 2513,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 776
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

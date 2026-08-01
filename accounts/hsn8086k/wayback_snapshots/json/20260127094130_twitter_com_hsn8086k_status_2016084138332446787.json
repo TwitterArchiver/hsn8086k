@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016084138332446787",
+    "created_at": "2026-01-27T09:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T10:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016084138332446787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Zesee/status/2…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Zesee/status/2015881525460664380",
+          "start": 22,
+          "url": "https://t.co/8CXt4F5Nam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016084138332446787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015881525460664380",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hsn: 能帮我干活的 ai 就是好 ai https://t.co/8CXt4F5Nam"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016084138332446787",
+        "created_at": "2026-01-27T09:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T10:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016084138332446787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zesee/status/2…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Zesee/status/2015881525460664380",
+              "start": 22,
+              "url": "https://t.co/8CXt4F5Nam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016084138332446787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015881525460664380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hsn: 能帮我干活的 ai 就是好 ai https://t.co/8CXt4F5Nam"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "14930941",
+        "conversation_id": "2015881525460664380",
+        "created_at": "2026-01-26T20:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T21:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015881525460664380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015881525460664380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我身边现在大概有两类朋友。\n\n第一类，AI 重度上瘾型。\n每天用 AI 用到不睡觉，工具一堆：模型、Agent、插件、自动化流程全都试一遍。\n\n不断探索“这个能不能”“那个行不行”，做一堆现实里有需求但并不急需的需求。\n\nVibe Coding 对他们来说像赛博毒药，一旦进入状态就停不下来，一边震撼 AI 的能力，一边被新工具持续刺激，永远在 next level。\n\n第二类，传统行业躺赚型。\n\n早几年踩对了行业，现金流很好，生意稳定。日常 AI 使用止步于“豆包能不能帮我写点东西”，\n\n分不清 GPT、DeepSeek、Manus、Claude 到底有什么区别，也不太关心。\n\n在他们眼里，AI 是锦上添花，不是生产资料。\n\n有意思的是，这两类人彼此都看不太懂对方。\n第一类觉得第二类“迟早会被 AI 淘汰”，\n第二类觉得第一类“太兴奋、太折腾”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 9137,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我身边现在大概有两类朋友。\n\n第一类，AI 重度上瘾型。\n每天用 AI 用到不睡觉，工具一堆：模型、Agent、插件、自动化流程全都试一遍。\n\n不断探索“这个能不能”“那个行不行”，做一堆现实里有需求但并不急需的需求。\n\nVibe Coding 对他们来说像赛博毒药，一旦进入状态就停不下来，一边震撼 AI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 92,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 413
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-28T06:04:45.000Z",
+        "description": "00年｜Building @Pulsetact｜连续创业者｜前大厂AI产品经理｜分享AI使用与商业化变现｜创业日记@Rourou0413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 13,
+                "username": "Pulsetact"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "Rourou0413"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkedin.com/in/jingyi-rach…",
+                "end": 23,
+                "expanded_url": "https://www.linkedin.com/in/jingyi-rachel-wu-b5a5bb1b3",
+                "start": 0,
+                "url": "https://t.co/GsGX1KlgMd"
+              }
+            ]
+          }
+        },
+        "id": "14930941",
+        "location": "Hong Kong",
+        "name": "Rachel🥥",
+        "pinned_tweet_id": "2010594363987165203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993325481211678720/9yyFA-jT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3423,
+          "following_count": 199,
+          "like_count": 2380,
+          "listed_count": 37,
+          "media_count": 49,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/GsGX1KlgMd",
+        "username": "Zesee",
+        "verified": true
+      }
+    ]
+  }
+}

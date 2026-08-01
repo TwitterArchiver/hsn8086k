@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2077056352367861999",
+    "created_at": "2026-07-14T15:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T16:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077056352367861999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nagis1a/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/nagis1a/status/2077009097199878313",
+          "start": 5,
+          "url": "https://t.co/TSwT457O65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077056352367861999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077009097199878313",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比如钱. https://t.co/TSwT457O65"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2077056352367861999",
+        "created_at": "2026-07-14T15:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077056352367861999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nagis1a/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nagis1a/status/2077009097199878313",
+              "start": 5,
+              "url": "https://t.co/TSwT457O65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077056352367861999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077009097199878313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比如钱. https://t.co/TSwT457O65"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045224199120191488",
+        "conversation_id": "2077009097199878313",
+        "created_at": "2026-07-14T12:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077009097199878313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/James483582762…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/James483582762/status/2076989074540212702",
+              "start": 38,
+              "url": "https://t.co/qVrCZ1L6YB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077009097199878313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076989074540212702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后天也不代表可以矫正\n人类的很多东西都是后天的，可是强行拆除只会把人弄崩溃 https://t.co/qVrCZ1L6YB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 245,
+          "like_count": 10307,
+          "listed_count": 8,
+          "media_count": 233,
+          "tweet_count": 2637
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T19:34:04.000Z",
+        "description": "MtF || 2009 ||  广东 || 糖商（暂停营业）\n原号浅葱🍥@qiancongxyn\n二代目互fo巡回中…\n联系方式QQ，tg，xchat\n\n愿以温柔为骨，活成一束柔光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "qiancongxyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/qiancong1",
+                "end": 23,
+                "expanded_url": "http://telegram.me/qiancong1",
+                "start": 0,
+                "url": "https://t.co/vCiTzdsVc3"
+              }
+            ]
+          }
+        },
+        "id": "2045224199120191488",
+        "name": "芊小丛🍥（糖商）",
+        "pinned_tweet_id": "2075159330962506026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068938612213989376/ZDOr5smz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 287,
+          "like_count": 625,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/vCiTzdsVc3",
+        "username": "nagis1a",
+        "verified": true
+      }
+    ]
+  }
+}

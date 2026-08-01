@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2077600652788994048",
+    "created_at": "2026-07-16T03:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T04:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077600652788994048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2077563707077673336",
+          "start": 45,
+          "url": "https://t.co/OQ3EFhIUu6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077600652788994048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077563707077673336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "更新了一下人脸屏蔽模型, 但是强度开的很低, 只是看不清细节了, 表情啥的都还是能看到的 https://t.co/OQ3EFhIUu6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2077563681135865856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNT9KRxbMAA9yDC.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2077600652788994048",
+        "created_at": "2026-07-16T03:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T04:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077600652788994048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2077563707077673336",
+              "start": 45,
+              "url": "https://t.co/OQ3EFhIUu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077600652788994048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077563707077673336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新了一下人脸屏蔽模型, 但是强度开的很低, 只是看不清细节了, 表情啥的都还是能看到的 https://t.co/OQ3EFhIUu6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077563681135865856"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2077563707077673336",
+        "created_at": "2026-07-16T01:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T02:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077563707077673336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wa36qScSQg",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2077563707077673336/photo/1",
+              "media_key": "3_2077563681135865856",
+              "start": 0,
+              "url": "https://t.co/Wa36qScSQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077563707077673336",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4399,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Wa36qScSQg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 245,
+          "like_count": 10419,
+          "listed_count": 8,
+          "media_count": 236,
+          "tweet_count": 2662
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36843,
+          "following_count": 368,
+          "like_count": 262,
+          "listed_count": 110,
+          "media_count": 17702,
+          "tweet_count": 17803
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

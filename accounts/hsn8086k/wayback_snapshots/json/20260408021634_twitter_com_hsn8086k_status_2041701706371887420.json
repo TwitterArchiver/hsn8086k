@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2041500936741454213",
+    "created_at": "2026-04-08T02:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041701706371887420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2039705073442340864",
+          "start": 0,
+          "username": "aibii_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20416…",
+          "end": 39,
+          "expanded_url": "https://x.com/i/status/2041678654632305059",
+          "start": 16,
+          "url": "https://t.co/72UFlUs5l8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041701706371887420",
+    "in_reply_to_user_id": "2039705073442340864",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041678654632305059",
+        "type": "quoted"
+      },
+      {
+        "id": "2041699913860563211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aibii_official https://t.co/72UFlUs5l8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2041500936741454213",
+        "created_at": "2026-04-08T02:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041701706371887420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2039705073442340864",
+              "start": 0,
+              "username": "aibii_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20416…",
+              "end": 39,
+              "expanded_url": "https://x.com/i/status/2041678654632305059",
+              "start": 16,
+              "url": "https://t.co/72UFlUs5l8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041701706371887420",
+        "in_reply_to_user_id": "2039705073442340864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041678654632305059",
+            "type": "quoted"
+          },
+          {
+            "id": "2041699913860563211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aibii_official https://t.co/72UFlUs5l8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2041678654632305059",
+        "created_at": "2026-04-08T00:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041678654632305059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2041492527262687561",
+              "start": 52,
+              "url": "https://t.co/OSJG8PScO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041678654632305059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041492527262687561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那件事情, 不再回了, 只是真的很恶心, 就算真的是 mac 的功能缺失, 也不该攻击 mac 用户. https://t.co/OSJG8PScO9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039705073442340864",
+        "conversation_id": "2041500936741454213",
+        "created_at": "2026-04-08T02:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041699913860563211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041699913860563211",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041500936741454213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 看起来主要论点其实是苹果和苹果用户不行（），不是用户体验、用户自定义能力和技术问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 218,
+          "like_count": 7177,
+          "listed_count": 5,
+          "media_count": 167,
+          "tweet_count": 1846
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T14:02:51.000Z",
+        "description": "碳基生物赛博乞讨中",
+        "id": "2039705073442340864",
+        "location": "Terra",
+        "name": "aibii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039720602039377920/5JGVnF87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 60,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 36
+        },
+        "username": "aibii_official",
+        "verified": true
+      }
+    ]
+  }
+}

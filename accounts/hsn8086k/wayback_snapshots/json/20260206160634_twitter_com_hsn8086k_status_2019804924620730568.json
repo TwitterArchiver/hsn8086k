@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019792823953084775",
+    "created_at": "2026-02-06T16:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T17:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019804924620730568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1640917359493005313",
+          "start": 0,
+          "username": "yuxia_shizuku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019804924620730568",
+    "in_reply_to_user_id": "1640917359493005313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019800907966218399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuxia_shizuku 哭哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019792823953084775",
+        "created_at": "2026-02-06T16:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019804924620730568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1640917359493005313",
+              "start": 0,
+              "username": "yuxia_shizuku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019804924620730568",
+        "in_reply_to_user_id": "1640917359493005313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019800907966218399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuxia_shizuku 哭哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640917359493005313",
+        "conversation_id": "2019792823953084775",
+        "created_at": "2026-02-06T15:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019800907966218399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019800907966218399",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019792823953084775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 星book ultra好像还可以，lunarlake的就是很贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 147,
+          "like_count": 2761,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 839
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "可以叫我Shizuku哒｜东方、ACG相关一般浓度、百合豚、交通迷｜偶尔负面情绪警告‼️｜Student｜生活记录说是，偶尔发电",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Shizukuyuxia",
+                "end": 23,
+                "expanded_url": "https://t.me/Shizukuyuxia",
+                "start": 0,
+                "url": "https://t.co/q5sBaVN5xQ"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "location": "NKG/SHA",
+        "name": "雨下",
+        "pinned_tweet_id": "2019593198621061385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019047723983659008/8k0_rEIt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 1080,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/q5sBaVN5xQ",
+        "username": "yuxia_shizuku",
+        "verified": false
+      }
+    ]
+  }
+}

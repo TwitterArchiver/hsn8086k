@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2047914484396913011",
+    "created_at": "2026-04-25T05:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T06:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047914484396913011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DianJ71828/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/DianJ71828/status/2047871454193291433",
+          "start": 21,
+          "url": "https://t.co/r8nUrLqywX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047914484396913011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047871454193291433",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "早说了, 按身份证去, 吓死他们, 呵. https://t.co/r8nUrLqywX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2047914484396913011",
+        "created_at": "2026-04-25T05:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T06:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047914484396913011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DianJ71828/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/DianJ71828/status/2047871454193291433",
+              "start": 21,
+              "url": "https://t.co/r8nUrLqywX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047914484396913011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047871454193291433",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "早说了, 按身份证去, 吓死他们, 呵. https://t.co/r8nUrLqywX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880140645454725120",
+        "conversation_id": "2047871454193291433",
+        "created_at": "2026-04-25T02:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047871454193291433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047871454193291433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1213,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别应该上什么厕所？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1773,
+          "following_count": 222,
+          "like_count": 7696,
+          "listed_count": 7,
+          "media_count": 180,
+          "tweet_count": 1954
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T06:30:45.000Z",
+        "description": "跨女同💕/intp/闲聊推/持证含糖/我喜欢口嗨😋/爱保(万一呢😇😈/🚪52\\128\\256/转载置顶互fo喵喵喵💀💀💀₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "id": "1880140645454725120",
+        "location": "火星～",
+        "name": "虚拟砂糖猫₍˄·͈༝·͈˄*₎◞ ̑̑",
+        "pinned_tweet_id": "2035588536318271664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963035861492367361/hXZj087A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 536,
+          "like_count": 12935,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 2503
+        },
+        "username": "DianJ71828",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2067236157126275252",
+    "created_at": "2026-06-17T13:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067236157126275252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MaxForAI/statu…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/MaxForAI/status/2067172550078251355",
+          "start": 25,
+          "url": "https://t.co/2WjMstP6xB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067236157126275252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067172550078251355",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不奇怪, gpt的设计/前端一如既往的难看... https://t.co/2WjMstP6xB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2067236157126275252",
+        "created_at": "2026-06-17T13:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067236157126275252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MaxForAI/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/MaxForAI/status/2067172550078251355",
+              "start": 25,
+              "url": "https://t.co/2WjMstP6xB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067236157126275252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067172550078251355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不奇怪, gpt的设计/前端一如既往的难看... https://t.co/2WjMstP6xB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699797396589588480",
+        "conversation_id": "2067172550078251355",
+        "created_at": "2026-06-17T09:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067172550078251355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1938019865841016832",
+              "start": 18,
+              "username": "Designarena"
+            },
+            {
+              "end": 61,
+              "id": "1743487864934162432",
+              "start": 45,
+              "username": "ArtificialAnlys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Designarena/st…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/Designarena/status/2066940737011560652",
+              "start": 144,
+              "url": "https://t.co/F622v2PCbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067172550078251355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4982,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066940737011560652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我宣布这个Design Arena @Designarena  是一个比Analysis @ArtificialAnlys 更幽默的榜单🤣\n\nGLM5.2比Fable 5更强就算了...\n毕竟Fable 5不是AGI，是有可能出现这种情况的\n\n但把GPT5.5排到倒数第二就有点招笑了😅 https://t.co/F622v2PCbx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233,
+          "following_count": 242,
+          "like_count": 9502,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2338
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（78.4K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 73,
+                "start": 63,
+                "username": "listenhub"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14244,
+          "following_count": 2088,
+          "like_count": 12869,
+          "listed_count": 136,
+          "media_count": 678,
+          "tweet_count": 5610
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

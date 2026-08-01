@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2079585642502332900",
+    "created_at": "2026-07-22T19:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T20:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080011830987227358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "200045609",
+          "start": 0,
+          "username": "zxytim"
+        },
+        {
+          "end": 20,
+          "id": "1086543777051828225",
+          "start": 8,
+          "username": "abc30037274"
+        },
+        {
+          "end": 32,
+          "id": "1102444843140182016",
+          "start": 21,
+          "username": "real_kai42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080011830987227358",
+    "in_reply_to_user_id": "200045609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079633951115878684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxytim @abc30037274 @real_kai42 自动休眠倒是有自带的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2079585642502332900",
+        "created_at": "2026-07-22T19:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080011830987227358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "200045609",
+              "start": 0,
+              "username": "zxytim"
+            },
+            {
+              "end": 20,
+              "id": "1086543777051828225",
+              "start": 8,
+              "username": "abc30037274"
+            },
+            {
+              "end": 32,
+              "id": "1102444843140182016",
+              "start": 21,
+              "username": "real_kai42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080011830987227358",
+        "in_reply_to_user_id": "200045609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079633951115878684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxytim @abc30037274 @real_kai42 自动休眠倒是有自带的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "200045609",
+        "conversation_id": "2079585642502332900",
+        "created_at": "2026-07-21T18:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079633951115878684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1086543777051828225",
+              "start": 0,
+              "username": "abc30037274"
+            },
+            {
+              "end": 24,
+              "id": "1102444843140182016",
+              "start": 13,
+              "username": "real_kai42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079633951115878684",
+        "in_reply_to_user_id": "1086543777051828225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079631061164990494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abc30037274 @real_kai42 自动关闭没用的tab呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2294,
+          "following_count": 246,
+          "like_count": 10622,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 2695
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-08T09:37:00.000Z",
+        "description": "",
+        "id": "200045609",
+        "location": "Beijing",
+        "name": "Xinyu Zhou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/812699632618729472/Qjl5tIAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12851,
+          "following_count": 1314,
+          "like_count": 6363,
+          "listed_count": 132,
+          "media_count": 30,
+          "tweet_count": 4123
+        },
+        "url": "",
+        "username": "zxytim",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-19T08:39:58.000Z",
+        "description": "A web dev",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.codertony.com",
+                "end": 23,
+                "expanded_url": "http://blog.codertony.com/",
+                "start": 0,
+                "url": "https://t.co/CaEgxkcz2M"
+              }
+            ]
+          }
+        },
+        "id": "1086543777051828225",
+        "name": "Tony",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725491323812327424/O-BD2XRc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 3017,
+          "like_count": 1777,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/CaEgxkcz2M",
+        "username": "abc30037274",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-04T05:45:07.000Z",
+        "description": "独立开发者，20k stars 开源项目 Qwerty Learner 作者，《Web Worker 播客》主播\n\n仅聊技术和生活，仅代表个人观点，不太擅长文字，但话痨∠(｀ω´*) \n\n主页/咨询服务/内推 : https://t.co/ZCsVg4sr1t\nex @Microsoft @BytedanceTalk @hulu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 134,
+                "username": "Microsoft"
+              },
+              {
+                "end": 159,
+                "start": 145,
+                "username": "BytedanceTalk"
+              },
+              {
+                "end": 165,
+                "start": 160,
+                "username": "hulu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kaiyi.cool",
+                "end": 130,
+                "expanded_url": "https://kaiyi.cool",
+                "start": 107,
+                "url": "https://t.co/ZCsVg4sr1t"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaiyi.cool",
+                "end": 23,
+                "expanded_url": "https://kaiyi.cool",
+                "start": 0,
+                "url": "https://t.co/ZCsVg4sr1t"
+              }
+            ]
+          }
+        },
+        "id": "1102444843140182016",
+        "location": "Vancouver, British Columbia",
+        "name": "Kai",
+        "pinned_tweet_id": "1693098323551596945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045812881338560512/td46aZSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37538,
+          "following_count": 1199,
+          "like_count": 6457,
+          "listed_count": 339,
+          "media_count": 870,
+          "tweet_count": 5048
+        },
+        "url": "https://t.co/ZCsVg4sr1t",
+        "username": "real_kai42",
+        "verified": true
+      }
+    ]
+  }
+}

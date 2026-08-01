@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2064552813439680513",
+    "created_at": "2026-06-10T03:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064552813439680513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rococo90933671…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/Rococo90933671/status/2064326645352390793",
+          "start": 87,
+          "url": "https://t.co/zYUSXL1pAE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064552813439680513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064326645352390793",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得, 提意见是一个人该有的权利, 无论有何种见解, 都应该鼓励.\n嗯不过可能我并不配说这样的话, 希望我也能接受更多的意见.\n另外, hsn其实是反对提高性同意年龄的. https://t.co/zYUSXL1pAE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 99,
+        "media_key": "3_2064323809478664192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXzkUVbYAAKKaa.png",
+        "width": 620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2064552813439680513",
+        "created_at": "2026-06-10T03:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064552813439680513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rococo90933671…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/Rococo90933671/status/2064326645352390793",
+              "start": 87,
+              "url": "https://t.co/zYUSXL1pAE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064552813439680513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064326645352390793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得, 提意见是一个人该有的权利, 无论有何种见解, 都应该鼓励.\n嗯不过可能我并不配说这样的话, 希望我也能接受更多的意见.\n另外, hsn其实是反对提高性同意年龄的. https://t.co/zYUSXL1pAE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064323809478664192"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2064326645352390793",
+        "created_at": "2026-06-09T12:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064326645352390793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CgEpofoA3Y",
+              "end": 52,
+              "expanded_url": "https://x.com/Rococo90933671/status/2064326645352390793/photo/1",
+              "media_key": "3_2064323809478664192",
+              "start": 29,
+              "url": "https://t.co/CgEpofoA3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064326645352390793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6598,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但凡就问一下AI提升到18岁会带来什么麻烦都不至于这么说 https://t.co/CgEpofoA3Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 234,
+          "like_count": 9111,
+          "listed_count": 9,
+          "media_count": 205,
+          "tweet_count": 2219
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12688,
+          "following_count": 3082,
+          "like_count": 40306,
+          "listed_count": 41,
+          "media_count": 4278,
+          "tweet_count": 22422
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2064541879707058353",
+    "created_at": "2026-06-10T07:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064615116063359338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1099585219047223297",
+          "start": 0,
+          "username": "alcab_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064615116063359338",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064614868242837810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alcab_ 至于\"性防卫能力测试\", 仅适用于已满14周岁、疑似有精神障碍/智力残疾的被害人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2064541879707058353",
+        "created_at": "2026-06-10T07:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064615116063359338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1099585219047223297",
+              "start": 0,
+              "username": "alcab_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064615116063359338",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064614868242837810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alcab_ 至于\"性防卫能力测试\", 仅适用于已满14周岁、疑似有精神障碍/智力残疾的被害人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2064541879707058353",
+        "created_at": "2026-06-10T07:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064614868242837810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1099585219047223297",
+              "start": 0,
+              "username": "alcab_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "npc.gov.cn/zgrdw/npc/flsy…",
+              "end": 158,
+              "expanded_url": "http://www.npc.gov.cn/zgrdw/npc/flsyywd/flwd/2002-04/19/content_293426.htm",
+              "start": 135,
+              "status": 403,
+              "unwound_url": "http://www.npc.gov.cn/zgrdw/npc/flsyywd/flwd/2002-04/19/content_293426.htm",
+              "url": "https://t.co/wstnZ92SEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064614868242837810",
+        "in_reply_to_user_id": "1099585219047223297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064541879707058353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alcab_ 并没有取消.\n刑法第二百三十六条仍然写着奸淫不满十四周岁的幼女的，以强奸论，从重处罚。\n而奸淫这个词, 可以查到对已经被取消的奸淫幼女罪的司法解释, \"也不论幼女本人是否同意，只要双方生殖器接触，即应视为奸淫既遂\", 所以性同意年龄在法律上依旧存在.\n\nhttps://t.co/wstnZ92SEN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2198,
+          "following_count": 234,
+          "like_count": 9112,
+          "listed_count": 9,
+          "media_count": 205,
+          "tweet_count": 2221
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-24T08:22:00.000Z",
+        "description": "",
+        "id": "1099585219047223297",
+        "name": "大反派",
+        "pinned_tweet_id": "1577577465404600321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788555377455374336/H7zXneh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 190,
+          "like_count": 15745,
+          "listed_count": 1,
+          "media_count": 453,
+          "tweet_count": 3962
+        },
+        "username": "alcab_",
+        "verified": false
+      }
+    ]
+  }
+}

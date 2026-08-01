@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2066562777687433635",
+    "created_at": "2026-06-15T16:45:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066562777687433635"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066562777687433635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水，又称一氧化二氢。一口上瘾，终生强制依赖。戒断七天，全身细胞集体自爆死亡。历史上无一幸存者，致死率100%，成瘾率100%。而它，就藏在你家水龙头里。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2066562777687433635",
+        "created_at": "2026-06-15T16:45:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066562777687433635"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066562777687433635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水，又称一氧化二氢。一口上瘾，终生强制依赖。戒断七天，全身细胞集体自爆死亡。历史上无一幸存者，致死率100%，成瘾率100%。而它，就藏在你家水龙头里。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2229,
+          "following_count": 237,
+          "like_count": 9469,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2330
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

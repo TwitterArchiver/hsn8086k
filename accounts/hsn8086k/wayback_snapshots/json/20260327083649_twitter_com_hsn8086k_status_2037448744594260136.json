@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2037448744594260136",
+    "created_at": "2026-03-27T08:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037448744594260136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/hsn8086/status/2037423637419204654",
+          "start": 59,
+          "url": "https://t.co/BRhRhUxXoD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037448744594260136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037423637419204654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发现需要计算器的时候, 往算器的功能往往满足不了需求.\nhsn 大概需要一个可以常驻的 Python REPL... https://t.co/BRhRhUxXoD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2037423628531400704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZh_tOaAAASvDl.jpg",
+        "width": 1186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2037448744594260136",
+        "created_at": "2026-03-27T08:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037448744594260136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/hsn8086/status/2037423637419204654",
+              "start": 59,
+              "url": "https://t.co/BRhRhUxXoD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037448744594260136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037423637419204654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现需要计算器的时候, 往算器的功能往往满足不了需求.\nhsn 大概需要一个可以常驻的 Python REPL... https://t.co/BRhRhUxXoD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037423628531400704"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2037423637419204654",
+        "created_at": "2026-03-27T06:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037423637419204654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3FFo6VwMeX",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2037423637419204654/photo/1",
+              "media_key": "3_2037423628531400704",
+              "start": 0,
+              "url": "https://t.co/3FFo6VwMeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037423637419204654",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8953,
+          "like_count": 34,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3FFo6VwMeX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1609,
+          "following_count": 213,
+          "like_count": 6380,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1705
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036780825325576192/hV1zXUhb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118180,
+          "following_count": 1123,
+          "like_count": 52219,
+          "listed_count": 275,
+          "media_count": 20098,
+          "tweet_count": 30316
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

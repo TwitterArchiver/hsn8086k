@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2062158665524867378",
+    "created_at": "2026-06-03T13:05:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062158665524867378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0TwT012/status…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/0TwT012/status/2061676451917910179",
+          "start": 26,
+          "url": "https://t.co/JtnSmmrd8R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062158665524867378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061676451917910179",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鉴于对地球的失望, 我决定多买些猫粮支持母星事业。 https://t.co/JtnSmmrd8R"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2062158665524867378",
+        "created_at": "2026-06-03T13:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062158665524867378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0TwT012/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/0TwT012/status/2061676451917910179",
+              "start": 26,
+              "url": "https://t.co/JtnSmmrd8R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062158665524867378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061676451917910179",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鉴于对地球的失望, 我决定多买些猫粮支持母星事业。 https://t.co/JtnSmmrd8R"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2061676451917910179",
+        "created_at": "2026-06-02T05:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061676451917910179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061676451917910179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 67405,
+          "like_count": 2949,
+          "quote_count": 10,
+          "reply_count": 175,
+          "retweet_count": 213
+        },
+        "reply_settings": "everyone",
+        "text": "鉴于对地球的失望，我决定多买些外星人电解质水支持母星事业。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 228,
+          "like_count": 8813,
+          "listed_count": 9,
+          "media_count": 199,
+          "tweet_count": 2163
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQANuU"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "location": "188/288🚪纯绿",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3276,
+          "following_count": 208,
+          "like_count": 1215,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 1579
+        },
+        "url": "https://t.co/hLLfQQANuU",
+        "username": "0TwT012",
+        "verified": false
+      }
+    ]
+  }
+}

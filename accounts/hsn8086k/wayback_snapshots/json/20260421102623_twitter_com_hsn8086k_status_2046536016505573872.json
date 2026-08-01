@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2046459103527199021",
+    "created_at": "2026-04-21T10:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046536016505573872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1551082329652600833",
+          "start": 0,
+          "username": "cantsleep572"
+        },
+        {
+          "end": 25,
+          "id": "1596882059934412800",
+          "start": 14,
+          "username": "justlukluk"
+        },
+        {
+          "end": 34,
+          "id": "1433678976564662273",
+          "start": 26,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046536016505573872",
+    "in_reply_to_user_id": "1551082329652600833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046533886122115394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cantsleep572 @justlukluk @hsn8086 只是为了证明奇数平均数不一定是合数, 所以不能以素数都是奇数来证明素数的平均数都是合数, 只是为了证伪他的结论.\n就像, \"证明1+1是偶数\", 而A说, \"注意到1小于2\", 而B说\"注意到1+0不是偶数\", C说\"你这0也不是1啊\"."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2046459103527199021",
+        "created_at": "2026-04-21T10:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046536016505573872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1551082329652600833",
+              "start": 0,
+              "username": "cantsleep572"
+            },
+            {
+              "end": 25,
+              "id": "1596882059934412800",
+              "start": 14,
+              "username": "justlukluk"
+            },
+            {
+              "end": 34,
+              "id": "1433678976564662273",
+              "start": 26,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046536016505573872",
+        "in_reply_to_user_id": "1551082329652600833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046533886122115394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cantsleep572 @justlukluk @hsn8086 只是为了证明奇数平均数不一定是合数, 所以不能以素数都是奇数来证明素数的平均数都是合数, 只是为了证伪他的结论.\n就像, \"证明1+1是偶数\", 而A说, \"注意到1小于2\", 而B说\"注意到1+0不是偶数\", C说\"你这0也不是1啊\"."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551082329652600833",
+        "conversation_id": "2046459103527199021",
+        "created_at": "2026-04-21T10:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046533886122115394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 21,
+              "id": "1596882059934412800",
+              "start": 10,
+              "username": "justlukluk"
+            },
+            {
+              "end": 30,
+              "id": "1433678976564662273",
+              "start": 22,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046533886122115394",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046520065030586563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @justlukluk @hsn8086 9本身也不是奇素数"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 217,
+          "like_count": 7546,
+          "listed_count": 6,
+          "media_count": 176,
+          "tweet_count": 1916
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T05:51:02.000Z",
+        "description": "",
+        "id": "1551082329652600833",
+        "name": "Sekiwhat",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046269681062060032/BA9KIOyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 51,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "cantsleep572",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T15:02:12.000Z",
+        "description": "",
+        "id": "1596882059934412800",
+        "name": "wish6n1",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 188,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "justlukluk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117601,
+          "following_count": 1122,
+          "like_count": 52514,
+          "listed_count": 275,
+          "media_count": 20752,
+          "tweet_count": 31156
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

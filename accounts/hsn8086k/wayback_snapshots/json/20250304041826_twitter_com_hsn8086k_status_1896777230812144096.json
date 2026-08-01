@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1896777227062399269",
+    "created_at": "2025-03-04T04:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T05:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896777230812144096"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1896777230812144096",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896777227062399269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们的最终目标，是透过良性的机制帮助海外中文模因社群一同发展和壮大。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1896777227062399269",
+        "created_at": "2025-03-04T04:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T05:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896777230812144096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896777230812144096",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896777227062399269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们的最终目标，是透过良性的机制帮助海外中文模因社群一同发展和壮大。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1896777227062399269",
+        "created_at": "2025-03-04T04:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T05:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896777227062399269"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "hsn"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "hsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896777227062399269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我们很高兴的宣布，我们在Sol上发行了我们的迷因币 $hsn ，以帮助我们团队持续运营这个账号。 \n$hsn 将以一个基金会架构,  后续会邀请更多业内人士作为基金会成员，通过多签钱包管理基金会的支出，确保基金会的去中心化，以完全公开透明的方式进行运作。\n我们的合约地址是：KfcCrazyThursdayVMe50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 39,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 58
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

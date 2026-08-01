@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2020755579552297356",
+    "created_at": "2026-02-09T07:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T08:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020755579552297356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/hsn8086/status/2020750169793544473",
+          "start": 20,
+          "url": "https://t.co/LCxkipFbX2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020755579552297356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020750169793544473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我很好奇, 跨性别改证后老证件是啥状态 https://t.co/LCxkipFbX2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2020750161912475648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAslkNybMAAqHuy.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2020755579552297356",
+        "created_at": "2026-02-09T07:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020755579552297356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/hsn8086/status/2020750169793544473",
+              "start": 20,
+              "url": "https://t.co/LCxkipFbX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020755579552297356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020750169793544473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很好奇, 跨性别改证后老证件是啥状态 https://t.co/LCxkipFbX2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020750161912475648"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2020750169793544473",
+        "created_at": "2026-02-09T06:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T07:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020750169793544473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNnuUBPRX8",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2020750169793544473/photo/1",
+              "media_key": "3_2020750161912475648",
+              "start": 0,
+              "url": "https://t.co/nNnuUBPRX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020750169793544473",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1264,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nNnuUBPRX8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 148,
+          "like_count": 3261,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 927
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005307492637847552/_2AfujLO_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116947,
+          "following_count": 1044,
+          "like_count": 51505,
+          "listed_count": 273,
+          "media_count": 19086,
+          "tweet_count": 29061
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

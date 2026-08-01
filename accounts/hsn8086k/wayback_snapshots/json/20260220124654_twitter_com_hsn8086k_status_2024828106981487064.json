@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024825106468634904",
+    "created_at": "2026-02-20T12:46:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024828106981487064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "779405903305011200",
+          "start": 0,
+          "username": "Nickel_Schwarz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024828106981487064",
+    "in_reply_to_user_id": "779405903305011200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024827661344788516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nickel_Schwarz 看啥方向吧, 我熟的就ok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024825106468634904",
+        "created_at": "2026-02-20T12:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024828106981487064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "779405903305011200",
+              "start": 0,
+              "username": "Nickel_Schwarz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024828106981487064",
+        "in_reply_to_user_id": "779405903305011200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024827661344788516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nickel_Schwarz 看啥方向吧, 我熟的就ok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "779405903305011200",
+        "conversation_id": "2024825106468634904",
+        "created_at": "2026-02-20T12:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024827661344788516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024827661344788516",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024825106468634904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 🥺🥺能不能问编程问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 165,
+          "like_count": 4384,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 1257
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-23T19:43:42.000Z",
+        "description": "Old Otaku, Computer Engineering, https://t.co/GT1GCmZgA5 Aviation,turbomachienay,CFD. Thanks for follow. Wer die Zwangsgebühren für ZDF und ARD zustimmt, der ist Hurensohn.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "M.Sc",
+                "end": 56,
+                "expanded_url": "http://M.Sc",
+                "start": 33,
+                "url": "https://t.co/GT1GCmZgA5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Rundfunk-frei.de",
+                "end": 23,
+                "expanded_url": "http://Rundfunk-frei.de",
+                "start": 0,
+                "url": "https://t.co/jdGSbgwHiT"
+              }
+            ]
+          }
+        },
+        "id": "779405903305011200",
+        "location": "Japan",
+        "name": "Nickel",
+        "pinned_tweet_id": "1063516333621559298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614495857520574464/Hb9U2xcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 470,
+          "like_count": 21991,
+          "listed_count": 13,
+          "media_count": 12804,
+          "tweet_count": 71645
+        },
+        "url": "https://t.co/jdGSbgwHiT",
+        "username": "Nickel_Schwarz",
+        "verified": false
+      }
+    ]
+  }
+}

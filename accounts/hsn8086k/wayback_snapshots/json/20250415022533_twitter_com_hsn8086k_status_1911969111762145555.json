@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1911969111762145555",
+    "created_at": "2025-04-15T02:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T03:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911969111762145555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ggdxfulan/stat…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ggdxfulan/status/1911708699590042007",
+          "start": 5,
+          "url": "https://t.co/d67iFkENPf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911969111762145555",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911708699590042007",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼小米 https://t.co/d67iFkENPf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 820,
+        "media_key": "3_1911708697178378241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GofA7nFXkAEZfEK.jpg",
+        "width": 811
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1911969111762145555",
+        "created_at": "2025-04-15T02:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T03:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911969111762145555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ggdxfulan/stat…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ggdxfulan/status/1911708699590042007",
+              "start": 5,
+              "url": "https://t.co/d67iFkENPf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911969111762145555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911708699590042007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼小米 https://t.co/d67iFkENPf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911708697178378241"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "1911708699590042007",
+        "created_at": "2025-04-14T09:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T10:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911708699590042007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nR7nHInVoq",
+              "end": 101,
+              "expanded_url": "https://x.com/ggdxfulan/status/1911708699590042007/photo/1",
+              "media_key": "3_1911708697178378241",
+              "start": 78,
+              "url": "https://t.co/nR7nHInVoq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911708699590042007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重大消息，如果你的手机升级到了澎湃，再降级到MIUI，则无法进行绑定，也就是说升级澎湃以后再降级MIUI的，继续遵循澎湃解锁政策，请各位谨慎升级澎湃2.0 https://t.co/nR7nHInVoq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 39,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 103
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "💛🤍💜🖤是个憨批",
+        "id": "1639816523190763521",
+        "location": "太阳系",
+        "name": "芙兰doro",
+        "pinned_tweet_id": "1910003277158404520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908193594189705217/P6z46tXn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5869,
+          "following_count": 396,
+          "like_count": 15524,
+          "listed_count": 15,
+          "media_count": 2235,
+          "tweet_count": 8038
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

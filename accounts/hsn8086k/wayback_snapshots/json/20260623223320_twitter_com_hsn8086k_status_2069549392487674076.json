@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2069549391124537344"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2069549392487674076",
+    "created_at": "2026-06-23T22:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T23:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069549392487674076"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069549392487674076",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类的平均睾丸数量应该是&gt;1还是&lt;1还是几乎等于1"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-06-24T22:33:19.000Z",
+        "id": "2069549391124537344",
+        "options": [
+          {
+            "label": ">1",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "<1",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "几乎等于1",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "?",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2069549391124537344"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2069549392487674076",
+        "created_at": "2026-06-23T22:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T23:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069549392487674076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069549392487674076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类的平均睾丸数量应该是&gt;1还是&lt;1还是几乎等于1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 241,
+          "like_count": 9731,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 2392
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

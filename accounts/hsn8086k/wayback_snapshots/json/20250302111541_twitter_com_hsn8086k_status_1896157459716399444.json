@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1895754092582227989",
+    "created_at": "2025-03-02T11:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T12:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896157459716399444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647979969111261186",
+          "start": 0,
+          "username": "permanent_yin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896157459716399444",
+    "in_reply_to_user_id": "1647979969111261186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895754092582227989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@permanent_yin 强强"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1895754084785020928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8SS8UbYAA0mUH.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1895754092582227989",
+        "created_at": "2025-03-02T11:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T12:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896157459716399444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647979969111261186",
+              "start": 0,
+              "username": "permanent_yin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896157459716399444",
+        "in_reply_to_user_id": "1647979969111261186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895754092582227989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@permanent_yin 强强"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895754084785020928"
+          ]
+        },
+        "author_id": "1647979969111261186",
+        "conversation_id": "1895754092582227989",
+        "created_at": "2025-03-01T08:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T09:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895754092582227989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KagxYRuptf",
+              "end": 27,
+              "expanded_url": "https://x.com/permanent_yin/status/1895754092582227989/photo/1",
+              "media_key": "3_1895754084785020928",
+              "start": 4,
+              "url": "https://t.co/KagxYRuptf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895754092582227989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 608,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新玩具 https://t.co/KagxYRuptf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 36,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 38
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T15:07:12.000Z",
+        "description": "悲慘大陸大學生（//lgbt群體友好🏳️‍🌈🏳️‍⚧️",
+        "id": "1647979969111261186",
+        "location": "Japan",
+        "name": "permanent",
+        "pinned_tweet_id": "1733676116370502096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647980187210993664/pcgfLrwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 223,
+          "like_count": 3494,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1251
+        },
+        "username": "permanent_yin",
+        "verified": false
+      }
+    ]
+  }
+}

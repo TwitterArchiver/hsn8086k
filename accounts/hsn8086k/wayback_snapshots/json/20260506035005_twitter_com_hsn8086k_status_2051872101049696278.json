@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2051872091495170334",
+    "created_at": "2026-05-06T03:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051872101049696278"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051872101049696278",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051872094737359031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后30天，比的是谁的心态更稳，谁的表情更沉得住气。如果你现在松懈，这30天就会变成对手甩开你的30天。收起你的浮躁，保持高三冲刺的姿态。现在多学一小时，高考报志愿时就多十分的底气！@全体成员"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2051872091495170334",
+        "created_at": "2026-05-06T03:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051872101049696278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051872101049696278",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051872094737359031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后30天，比的是谁的心态更稳，谁的表情更沉得住气。如果你现在松懈，这30天就会变成对手甩开你的30天。收起你的浮躁，保持高三冲刺的姿态。现在多学一小时，高考报志愿时就多十分的底气！@全体成员"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2051872091495170334",
+        "created_at": "2026-05-06T03:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051872094737359031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051872094737359031",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051872091495170334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么叫学生的样子？\n       是哪怕还剩一天，也要把当天的卷子做完；是哪怕背了100遍，也要把第101遍背得更熟；是哪怕周围再嘈杂，也能心无旁骛地看进书。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 221,
+          "like_count": 7872,
+          "listed_count": 8,
+          "media_count": 186,
+          "tweet_count": 1993
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

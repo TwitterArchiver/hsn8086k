@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2041031857094152243",
+    "created_at": "2026-04-07T05:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041389778307027067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778293240132759552",
+          "start": 0,
+          "username": "Yuanrpa"
+        },
+        {
+          "end": 24,
+          "id": "1759787246587379712",
+          "start": 9,
+          "username": "RainBuild_2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041389778307027067",
+    "in_reply_to_user_id": "1778293240132759552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041077592250634397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuanrpa @RainBuild_2025 三星有啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2041031857094152243",
+        "created_at": "2026-04-07T05:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041389778307027067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778293240132759552",
+              "start": 0,
+              "username": "Yuanrpa"
+            },
+            {
+              "end": 24,
+              "id": "1759787246587379712",
+              "start": 9,
+              "username": "RainBuild_2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041389778307027067",
+        "in_reply_to_user_id": "1778293240132759552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041077592250634397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuanrpa @RainBuild_2025 三星有啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778293240132759552",
+        "conversation_id": "2041031857094152243",
+        "created_at": "2026-04-06T08:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T09:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041077592250634397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "RainBuild_2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041077592250634397",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041031857094152243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainBuild_2025 没有魅族三星就算了，连小米都没有？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 219,
+          "like_count": 7086,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1823
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-11T05:27:02.000Z",
+        "description": "芋圆圆🥺😭🥵😍😋😡😈 发的东西虽然有点煌，但是墙内也能过审，所以不算😈/ENFP/讨厌：赌，毒，鉴政，伤害，od/",
+        "id": "1778293240132759552",
+        "location": "福建",
+        "name": "芋圆圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004816052107333632/JyJWS9kB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 436,
+          "like_count": 7695,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 3191
+        },
+        "username": "Yuanrpa",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "English/日本語/简繁中文 \nChina Xiaomi Promoter UTC+8｜专注次元联合创始人、产品经理、中国区市场部总经理｜RainEngine 团队产品 UI 体验官｜平行世界另一个我@RainBuild_2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 102,
+                "username": "RainBuild_2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "The United Kingdom",
+        "name": "高坂穗嘉图",
+        "pinned_tweet_id": "2038399801893794249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034672368472432640/-AarshaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 1205,
+          "like_count": 1718,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "RainBuild_2025",
+        "verified": true
+      }
+    ]
+  }
+}

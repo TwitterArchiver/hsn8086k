@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075421181671620608"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2075421190362206621",
+    "created_at": "2026-07-10T03:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075421190362206621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nklNoO1GrN",
+          "end": 54,
+          "expanded_url": "https://x.com/hsn8086k/status/2075421190362206621/photo/1",
+          "media_key": "3_2075421181671620608",
+          "start": 31,
+          "url": "https://t.co/nklNoO1GrN"
+        },
+        {
+          "display_url": "x.com/baharkarakrt/s…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/baharkarakrt/status/2075230281305333853",
+          "start": 55,
+          "url": "https://t.co/dDSGucXDqv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075421190362206621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075230281305333853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果你解开了这个, 你的智商就 低于 平均水平。\nK是多少? https://t.co/nklNoO1GrN https://t.co/dDSGucXDqv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2075421181671620608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1gkZTbwAAGo5y.jpg",
+        "width": 1206
+      },
+      {
+        "height": 779,
+        "media_key": "3_2075230276968423425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyy8R3WoAExs5g.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075421181671620608"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2075421190362206621",
+        "created_at": "2026-07-10T03:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075421190362206621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nklNoO1GrN",
+              "end": 54,
+              "expanded_url": "https://x.com/hsn8086k/status/2075421190362206621/photo/1",
+              "media_key": "3_2075421181671620608",
+              "start": 31,
+              "url": "https://t.co/nklNoO1GrN"
+            },
+            {
+              "display_url": "x.com/baharkarakrt/s…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/baharkarakrt/status/2075230281305333853",
+              "start": 55,
+              "url": "https://t.co/dDSGucXDqv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075421190362206621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075230281305333853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你解开了这个, 你的智商就 低于 平均水平。\nK是多少? https://t.co/nklNoO1GrN https://t.co/dDSGucXDqv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075230276968423425"
+          ]
+        },
+        "author_id": "1067876728310308865",
+        "conversation_id": "2075230281305333853",
+        "created_at": "2026-07-09T14:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075230281305333853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C18SKwgtrK",
+              "end": 87,
+              "expanded_url": "https://x.com/baharkarakrt/status/2075230281305333853/photo/1",
+              "media_key": "3_2075230276968423425",
+              "start": 64,
+              "url": "https://t.co/C18SKwgtrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075230281305333853",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 487,
+          "impression_count": 2235112,
+          "like_count": 1550,
+          "quote_count": 131,
+          "reply_count": 2512,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "Bunu çözersen, zeka seviyen ortalamanın üstündedir.\n\nK kaçtır ? https://t.co/C18SKwgtrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 244,
+          "like_count": 10195,
+          "listed_count": 8,
+          "media_count": 232,
+          "tweet_count": 2609
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T20:23:46.000Z",
+        "description": "Fenerbahçe 💙💛 🪄ɪş ʙɪʀʟɪɢ̆ɪ ɪᴄ̧ɪɴ ᴅᴍ 💌                                                         🪄✨ ℙ𝕠𝕨𝕖𝕣𝕡𝕦𝕗𝕗 🪄✨",
+        "id": "1067876728310308865",
+        "name": "Bahar",
+        "pinned_tweet_id": "1732518499371655197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816258057300508672/bRHwiCvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19070,
+          "following_count": 8182,
+          "like_count": 199499,
+          "listed_count": 30,
+          "media_count": 1188,
+          "tweet_count": 110157
+        },
+        "url": "",
+        "username": "baharkarakrt",
+        "verified": true
+      }
+    ]
+  }
+}

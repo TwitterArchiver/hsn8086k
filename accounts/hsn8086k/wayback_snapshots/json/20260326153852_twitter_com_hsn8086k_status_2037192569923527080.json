@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2037138236888490188",
+    "created_at": "2026-03-26T15:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037192569923527080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527114974841012225",
+          "start": 0,
+          "username": "Kiger_YuQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037192569923527080",
+    "in_reply_to_user_id": "1527114974841012225",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037138236888490188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiger_YuQing xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 82,
+        "media_key": "3_2037138204915359750",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVeZ3ZbYAYwcBs.png",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2037138236888490188",
+        "created_at": "2026-03-26T15:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037192569923527080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527114974841012225",
+              "start": 0,
+              "username": "Kiger_YuQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037192569923527080",
+        "in_reply_to_user_id": "1527114974841012225",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037138236888490188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiger_YuQing xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037138204915359750"
+          ]
+        },
+        "author_id": "1527114974841012225",
+        "conversation_id": "2037138236888490188",
+        "created_at": "2026-03-26T12:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037138236888490188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDIkJPA1KZ",
+              "end": 30,
+              "expanded_url": "https://x.com/Kiger_YuQing/status/2037138236888490188/photo/1",
+              "media_key": "3_2037138204915359750",
+              "start": 7,
+              "url": "https://t.co/CDIkJPA1KZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037138236888490188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 466,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "追星成功（） https://t.co/CDIkJPA1KZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 202,
+          "like_count": 6267,
+          "listed_count": 5,
+          "media_count": 159,
+          "tweet_count": 1681
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫我小雨丨是清水 不涩涩丨注孤之人丨定焦战神丨键政禁止 看到就ban丨会按快门丨头壳是自设+特蕾西娅丨脾气很大丨Aquarius丨 INFP-T 4w5丨社恐丨可能友跨丨中日英OK",
+        "id": "1527114974841012225",
+        "location": "垃姬桶",
+        "name": "咕咕雨",
+        "pinned_tweet_id": "2020464992466657542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010763568497807360/FxMLCd-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 915,
+          "like_count": 5454,
+          "listed_count": 14,
+          "media_count": 204,
+          "tweet_count": 5030
+        },
+        "username": "Kiger_YuQing",
+        "verified": true
+      }
+    ]
+  }
+}

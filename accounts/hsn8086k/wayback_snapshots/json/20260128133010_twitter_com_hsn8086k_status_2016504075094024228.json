@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016495873803641094",
+    "created_at": "2026-01-28T13:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T14:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016504075094024228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1801216598008848384",
+          "start": 0,
+          "username": "BH3GEI_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016504075094024228",
+    "in_reply_to_user_id": "1801216598008848384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016502839007494279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BH3GEI_CN 主要是不能导到opencode里(\n现在离不开opencode了("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016495873803641094",
+        "created_at": "2026-01-28T13:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016504075094024228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801216598008848384",
+              "start": 0,
+              "username": "BH3GEI_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016504075094024228",
+        "in_reply_to_user_id": "1801216598008848384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016502839007494279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BH3GEI_CN 主要是不能导到opencode里(\n现在离不开opencode了("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801216598008848384",
+        "conversation_id": "2016495873803641094",
+        "created_at": "2026-01-28T13:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016502839007494279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016502839007494279",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016495873803641094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k kilo code有免费额度，可以试试看。官方的跑太快了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 104,
+          "like_count": 1433,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 503
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T11:34:43.000Z",
+        "description": "Courage: 1%\nStupidity: 100%\n\n24+1岁｜学生｜咸蛋黄肉粽狂热爱好者\n\n@dwnduni117550♥️\n\nTelegram: \nhttps://t.co/87Xp3uxDt4\n\nEnglish Version: \n@BH3GEI_EN\n\n日本語版: \n@BH3GEI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "dwnduni117550"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "BH3GEI_EN"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "BH3GEI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/BH3GEI",
+                "end": 102,
+                "expanded_url": "http://t.me/BH3GEI",
+                "start": 79,
+                "url": "https://t.co/87Xp3uxDt4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/4j0trxf",
+                "end": 23,
+                "expanded_url": "https://bit.ly/4j0trxf",
+                "start": 0,
+                "url": "https://t.co/wv2Bzd9NJp"
+              }
+            ]
+          }
+        },
+        "id": "1801216598008848384",
+        "location": "Tsukuba-shi, Ibaraki",
+        "name": "BH3GEI",
+        "pinned_tweet_id": "1949994093180047823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922208049466359808/ow9aGZDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 1434,
+          "like_count": 13845,
+          "listed_count": 2,
+          "media_count": 468,
+          "tweet_count": 3401
+        },
+        "url": "https://t.co/wv2Bzd9NJp",
+        "username": "BH3GEI_CN",
+        "verified": false
+      }
+    ]
+  }
+}

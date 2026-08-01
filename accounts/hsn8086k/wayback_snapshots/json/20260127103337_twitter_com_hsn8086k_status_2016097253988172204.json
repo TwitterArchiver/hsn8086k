@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016097253988172204",
+    "created_at": "2026-01-27T10:33:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T11:33:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016097253988172204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Megabits_mzq/s…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/Megabits_mzq/status/2015833849754968253",
+          "start": 48,
+          "url": "https://t.co/ty23DHyXug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016097253988172204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015833849754968253",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hsn 入门写的是按键精灵, 第二个学的是易语言, 之后才慢慢接触的 Java/Py/Kt ( https://t.co/ty23DHyXug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 472,
+        "media_key": "3_2015833841966186497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_muMuybAAEBgei.jpg",
+        "width": 504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016097253988172204",
+        "created_at": "2026-01-27T10:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T11:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016097253988172204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Megabits_mzq/s…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Megabits_mzq/status/2015833849754968253",
+              "start": 48,
+              "url": "https://t.co/ty23DHyXug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016097253988172204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015833849754968253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hsn 入门写的是按键精灵, 第二个学的是易语言, 之后才慢慢接触的 Java/Py/Kt ( https://t.co/ty23DHyXug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015833841966186497"
+          ]
+        },
+        "author_id": "1079519718",
+        "conversation_id": "2015833849754968253",
+        "created_at": "2026-01-26T17:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T18:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015833849754968253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lEoRuOSls",
+              "end": 28,
+              "expanded_url": "https://x.com/Megabits_mzq/status/2015833849754968253/photo/1",
+              "media_key": "3_2015833841966186497",
+              "start": 5,
+              "url": "https://t.co/8lEoRuOSls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015833849754968253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5833,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中文编程 https://t.co/8lEoRuOSls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 92,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 417
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-11T12:34:38.000Z",
+        "description": "English: @Megabits_Studio / 日本語: @Megabits_mzq_jp 金鱼一条 / 想当个艺术家，但只会写代码 / 这个世界还有未来吗？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "Megabits_Studio"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Megabits_mzq_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "megabits.xyz",
+                "end": 23,
+                "expanded_url": "http://megabits.xyz",
+                "start": 0,
+                "url": "https://t.co/Y0tbaG653d"
+              }
+            ]
+          }
+        },
+        "id": "1079519718",
+        "location": "東京·鱼缸",
+        "name": "Megabits ❄️",
+        "pinned_tweet_id": "2015833849754968253",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729733422757892096/WEmf0gS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10129,
+          "following_count": 1417,
+          "like_count": 27198,
+          "listed_count": 115,
+          "media_count": 2185,
+          "tweet_count": 10261
+        },
+        "url": "https://t.co/Y0tbaG653d",
+        "username": "Megabits_mzq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2062354278401118306",
+    "created_at": "2026-06-04T02:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062354278401118306"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PoyotanP/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/PoyotanP/status/2062118133083799641",
+          "start": 2,
+          "url": "https://t.co/kUjE4PqaPK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062354278401118306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062118133083799641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猫 https://t.co/kUjE4PqaPK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2062354278401118306",
+        "created_at": "2026-06-04T02:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062354278401118306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PoyotanP/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/PoyotanP/status/2062118133083799641",
+              "start": 2,
+              "url": "https://t.co/kUjE4PqaPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062354278401118306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062118133083799641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫 https://t.co/kUjE4PqaPK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812440603734806528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2062118133083799641",
+        "created_at": "2026-06-03T10:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062118133083799641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/knenet/status/…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/knenet/status/2062041252888195085",
+              "start": 84,
+              "url": "https://t.co/E0Jfdy2Zq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062118133083799641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 314732,
+          "like_count": 1234,
+          "quote_count": 21,
+          "reply_count": 15,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062041252888195085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "そんなに難しいかな、\n少し考えたら\ncp → カップルコマンド\nls → リストコマンド\nrm → リムーブコマンド\ncat → 猫コマンド\nってのすぐ分かる気がする https://t.co/E0Jfdy2Zq3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 229,
+          "like_count": 8867,
+          "listed_count": 9,
+          "media_count": 200,
+          "tweet_count": 2178
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T10:55:49.000Z",
+        "description": "どこにも居場所が無い真冬\n\nVRChat↓\nhttps://t.co/OpdNvSPvbx \nBooth ↓\nhttps://t.co/D7ZS4bH4Sx\nSoundCloud ↓\nhttps://t.co/q50tvWjtKr\n\n表 @poyotanfrontend\n裏 @poyotanbackend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 119,
+                "username": "poyotanfrontend"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "poyotanbackend"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/HtYkv",
+                "end": 45,
+                "expanded_url": "https://x.gd/HtYkv",
+                "start": 22,
+                "url": "https://t.co/OpdNvSPvbx"
+              },
+              {
+                "display_url": "poyotanp.booth.pm",
+                "end": 78,
+                "expanded_url": "https://poyotanp.booth.pm/",
+                "start": 55,
+                "url": "https://t.co/D7ZS4bH4Sx"
+              },
+              {
+                "display_url": "soundcloud.com/poyotanp",
+                "end": 115,
+                "expanded_url": "https://soundcloud.com/poyotanp",
+                "start": 92,
+                "url": "https://t.co/q50tvWjtKr"
+              }
+            ]
+          }
+        },
+        "id": "1812440603734806528",
+        "location": "日本",
+        "name": "ぽよたんぴ@VRC垢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973604533369708545/5y4PpWdy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 588,
+          "like_count": 22712,
+          "listed_count": 2,
+          "media_count": 383,
+          "tweet_count": 3225
+        },
+        "username": "PoyotanP",
+        "verified": false
+      }
+    ]
+  }
+}

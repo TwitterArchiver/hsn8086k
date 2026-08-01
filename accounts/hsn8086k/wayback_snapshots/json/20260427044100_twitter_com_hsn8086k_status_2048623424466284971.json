@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048623396993568768",
+        "3_2048623398990024704",
+        "3_2048623420833968128"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2048623424466284971",
+    "created_at": "2026-04-27T04:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048623424466284971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4LJl4lsFCa",
+          "end": 66,
+          "expanded_url": "https://x.com/hsn8086k/status/2048623424466284971/photo/1",
+          "media_key": "3_2048623396993568768",
+          "start": 43,
+          "url": "https://t.co/4LJl4lsFCa"
+        },
+        {
+          "display_url": "pic.x.com/4LJl4lsFCa",
+          "end": 66,
+          "expanded_url": "https://x.com/hsn8086k/status/2048623424466284971/photo/1",
+          "media_key": "3_2048623398990024704",
+          "start": 43,
+          "url": "https://t.co/4LJl4lsFCa"
+        },
+        {
+          "display_url": "pic.x.com/4LJl4lsFCa",
+          "end": 66,
+          "expanded_url": "https://x.com/hsn8086k/status/2048623424466284971/photo/1",
+          "media_key": "3_2048623420833968128",
+          "start": 43,
+          "url": "https://t.co/4LJl4lsFCa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048623424466284971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就这样, 大号私信不想看, 小号私信请求不想看, 各种 im 都只水群, 不私聊. https://t.co/4LJl4lsFCa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2381,
+        "media_key": "3_2048623396993568768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4sICBbEAAz990.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2405,
+        "media_key": "3_2048623398990024704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4sIJdakAAyPPm.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3073,
+        "media_key": "3_2048623420833968128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4sJa1asAAwmM4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048623396993568768",
+            "3_2048623398990024704",
+            "3_2048623420833968128"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2048623424466284971",
+        "created_at": "2026-04-27T04:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048623424466284971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LJl4lsFCa",
+              "end": 66,
+              "expanded_url": "https://x.com/hsn8086k/status/2048623424466284971/photo/1",
+              "media_key": "3_2048623396993568768",
+              "start": 43,
+              "url": "https://t.co/4LJl4lsFCa"
+            },
+            {
+              "display_url": "pic.x.com/4LJl4lsFCa",
+              "end": 66,
+              "expanded_url": "https://x.com/hsn8086k/status/2048623424466284971/photo/1",
+              "media_key": "3_2048623398990024704",
+              "start": 43,
+              "url": "https://t.co/4LJl4lsFCa"
+            },
+            {
+              "display_url": "pic.x.com/4LJl4lsFCa",
+              "end": 66,
+              "expanded_url": "https://x.com/hsn8086k/status/2048623424466284971/photo/1",
+              "media_key": "3_2048623420833968128",
+              "start": 43,
+              "url": "https://t.co/4LJl4lsFCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048623424466284971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样, 大号私信不想看, 小号私信请求不想看, 各种 im 都只水群, 不私聊. https://t.co/4LJl4lsFCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1785,
+          "following_count": 222,
+          "like_count": 7737,
+          "listed_count": 7,
+          "media_count": 181,
+          "tweet_count": 1961
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

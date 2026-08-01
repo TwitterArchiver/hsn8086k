@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017326859411984385"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2017283482016461192",
+    "created_at": "2026-01-30T19:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T20:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017326862096306453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "772002208812367872",
+          "start": 0,
+          "username": "picknobnb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fvNkuogDMr",
+          "end": 46,
+          "expanded_url": "https://x.com/hsn8086k/status/2017326862096306453/photo/1",
+          "media_key": "3_2017326859411984385",
+          "start": 23,
+          "url": "https://t.co/fvNkuogDMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017326862096306453",
+    "in_reply_to_user_id": "772002208812367872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017326222444016110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@picknobnb 这个吗, 我也不懂啊( https://t.co/fvNkuogDMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2017326859411984385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_78FyMbEAE-xLq.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017326859411984385"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2017283482016461192",
+        "created_at": "2026-01-30T19:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T20:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017326862096306453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "772002208812367872",
+              "start": 0,
+              "username": "picknobnb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvNkuogDMr",
+              "end": 46,
+              "expanded_url": "https://x.com/hsn8086k/status/2017326862096306453/photo/1",
+              "media_key": "3_2017326859411984385",
+              "start": 23,
+              "url": "https://t.co/fvNkuogDMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017326862096306453",
+        "in_reply_to_user_id": "772002208812367872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017326222444016110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@picknobnb 这个吗, 我也不懂啊( https://t.co/fvNkuogDMr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "772002208812367872",
+        "conversation_id": "2017283482016461192",
+        "created_at": "2026-01-30T19:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T20:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017326222444016110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017326222444016110",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017313897351680165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k Hsn为什么你bot那个号会有何一的fo，我真的很羡慕…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 121,
+          "like_count": 1956,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 655
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T09:24:04.000Z",
+        "description": "learning crypto /老人/最喜欢的人是@jilianmeing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "jilianmeing"
+              }
+            ]
+          }
+        },
+        "id": "772002208812367872",
+        "name": "pickno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587004101837352961/96JEyvfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 133,
+          "like_count": 2136,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 546
+        },
+        "username": "picknobnb",
+        "verified": true
+      }
+    ]
+  }
+}

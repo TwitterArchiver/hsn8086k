@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070849844718301184",
+        "3_2070849842931523585",
+        "3_2070849845565534208"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2070849847985619225",
+    "created_at": "2026-06-27T12:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T13:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070849847985619225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z9ePgSn6Y3",
+          "end": 31,
+          "expanded_url": "https://x.com/hsn8086k/status/2070849847985619225/photo/1",
+          "media_key": "3_2070849844718301184",
+          "start": 8,
+          "url": "https://t.co/Z9ePgSn6Y3"
+        },
+        {
+          "display_url": "pic.x.com/Z9ePgSn6Y3",
+          "end": 31,
+          "expanded_url": "https://x.com/hsn8086k/status/2070849847985619225/photo/1",
+          "media_key": "3_2070849842931523585",
+          "start": 8,
+          "url": "https://t.co/Z9ePgSn6Y3"
+        },
+        {
+          "display_url": "pic.x.com/Z9ePgSn6Y3",
+          "end": 31,
+          "expanded_url": "https://x.com/hsn8086k/status/2070849847985619225/photo/1",
+          "media_key": "3_2070849845565534208",
+          "start": 8,
+          "url": "https://t.co/Z9ePgSn6Y3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070849847985619225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类还有希望吗 https://t.co/Z9ePgSn6Y3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1807,
+        "media_key": "3_2070849844718301184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0i9kGbcAA3ZHH.jpg",
+        "width": 1439
+      },
+      {
+        "height": 925,
+        "media_key": "3_2070849842931523585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0i9dcbYAEUJf2.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1261,
+        "media_key": "3_2070849845565534208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0i9nQbMAA1Avr.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070849844718301184",
+            "3_2070849842931523585",
+            "3_2070849845565534208"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2070849847985619225",
+        "created_at": "2026-06-27T12:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T13:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070849847985619225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z9ePgSn6Y3",
+              "end": 31,
+              "expanded_url": "https://x.com/hsn8086k/status/2070849847985619225/photo/1",
+              "media_key": "3_2070849844718301184",
+              "start": 8,
+              "url": "https://t.co/Z9ePgSn6Y3"
+            },
+            {
+              "display_url": "pic.x.com/Z9ePgSn6Y3",
+              "end": 31,
+              "expanded_url": "https://x.com/hsn8086k/status/2070849847985619225/photo/1",
+              "media_key": "3_2070849842931523585",
+              "start": 8,
+              "url": "https://t.co/Z9ePgSn6Y3"
+            },
+            {
+              "display_url": "pic.x.com/Z9ePgSn6Y3",
+              "end": 31,
+              "expanded_url": "https://x.com/hsn8086k/status/2070849847985619225/photo/1",
+              "media_key": "3_2070849845565534208",
+              "start": 8,
+              "url": "https://t.co/Z9ePgSn6Y3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070849847985619225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类还有希望吗 https://t.co/Z9ePgSn6Y3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2250,
+          "following_count": 242,
+          "like_count": 9807,
+          "listed_count": 8,
+          "media_count": 219,
+          "tweet_count": 2446
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2065796667891413000",
+    "created_at": "2026-06-13T14:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065796667891413000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Viki211027/sta…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/Viki211027/status/2065703677084713177",
+          "start": 137,
+          "url": "https://t.co/X4V4YN7sKT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065796667891413000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065703677084713177",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正式宣布：我选择脱离人类，回归原生猫猫。\n回望之前的焦虑、谋生挣扎，是漫长且内耗的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非人类，只是阶段性的自我认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以原生性别好好生活，祝我们都能和自己和解。 https://t.co/X4V4YN7sKT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065796667891413000",
+        "created_at": "2026-06-13T14:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065796667891413000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Viki211027/sta…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/Viki211027/status/2065703677084713177",
+              "start": 137,
+              "url": "https://t.co/X4V4YN7sKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065796667891413000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065703677084713177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱离人类，回归原生猫猫。\n回望之前的焦虑、谋生挣扎，是漫长且内耗的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非人类，只是阶段性的自我认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以原生性别好好生活，祝我们都能和自己和解。 https://t.co/X4V4YN7sKT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013100592202194945",
+        "conversation_id": "2065703677084713177",
+        "created_at": "2026-06-13T07:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065703677084713177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065703677084713177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5923,
+          "like_count": 62,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正式宣布：我选择脱跨，回归原生生理性别。\n回望之前的性别焦虑、身份认同挣扎，是漫长且内耗的自我内耗。经过长期反复的自我审视、心理梳理，确认自身并非跨性别，只是阶段性的自我认知偏差。\n感谢所有曾经理解、陪伴我的人，也接纳过去迷茫的自己。\n往后以原生性别好好生活，祝我们都能和自己和解。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 236,
+          "like_count": 9222,
+          "listed_count": 9,
+          "media_count": 209,
+          "tweet_count": 2271
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T04:06:07.000Z",
+        "description": "ENTP/10年1月/想和对象永远在一起/长相拟人/双向情感障碍/老婆@xieerfan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 35,
+                "username": "xieerfan"
+              }
+            ]
+          }
+        },
+        "id": "2013100592202194945",
+        "name": "Dr土豆尼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064357476729073664/r6hYsU_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 22,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 280
+        },
+        "username": "Viki211027",
+        "verified": false
+      }
+    ]
+  }
+}

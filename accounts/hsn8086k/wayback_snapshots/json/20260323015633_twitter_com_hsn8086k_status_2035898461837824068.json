@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2035708627869409784",
+    "created_at": "2026-03-23T01:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035898461837824068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1901551022604222464",
+          "start": 0,
+          "username": "uero146"
+        },
+        {
+          "end": 17,
+          "id": "1433678976564662273",
+          "start": 9,
+          "username": "hsn8086"
+        },
+        {
+          "end": 32,
+          "id": "1983727547142828035",
+          "start": 18,
+          "username": "copper1234000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035898461837824068",
+    "in_reply_to_user_id": "1901551022604222464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035746147697131853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uero146 @hsn8086 @copper1234000 额, 从别的地方转来的, 如果你或其他人是原作者可以联系我小号删, 而不是一上来就这样."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2035708627869409784",
+        "created_at": "2026-03-23T01:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035898461837824068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1901551022604222464",
+              "start": 0,
+              "username": "uero146"
+            },
+            {
+              "end": 17,
+              "id": "1433678976564662273",
+              "start": 9,
+              "username": "hsn8086"
+            },
+            {
+              "end": 32,
+              "id": "1983727547142828035",
+              "start": 18,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035898461837824068",
+        "in_reply_to_user_id": "1901551022604222464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035746147697131853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uero146 @hsn8086 @copper1234000 额, 从别的地方转来的, 如果你或其他人是原作者可以联系我小号删, 而不是一上来就这样."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901551022604222464",
+        "conversation_id": "2035708627869409784",
+        "created_at": "2026-03-22T15:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035746147697131853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            },
+            {
+              "end": 42,
+              "id": "1983727547142828035",
+              "start": 28,
+              "username": "copper1234000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035746147697131853",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2080,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035708627869409784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 都盗上本来就发在X上的图了？\n原作者：@copper1234000"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 194,
+          "like_count": 5949,
+          "listed_count": 5,
+          "media_count": 156,
+          "tweet_count": 1627
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T08:27:54.000Z",
+        "description": "Attention is all you need",
+        "id": "1901551022604222464",
+        "location": "距离你 14.7 km",
+        "name": "EivleQ綪黎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976328228148228096/7LzTLg3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 64,
+          "like_count": 1160,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "uero146",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035331409880170496/APcUmEBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118021,
+          "following_count": 1037,
+          "like_count": 51760,
+          "listed_count": 274,
+          "media_count": 19976,
+          "tweet_count": 30129
+        },
+        "username": "hsn8086",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T02:48:11.000Z",
+        "description": "我是Cu，可以叫我小铜，这里是囤积我和两只机日常的小角落…(＞＜;) 帖子里的画都由本人纯手工绘制… NSFW/r18g内容请注意避雷 我很恶俗，非常之恶俗，创到你的话…是你非要看的🥹",
+        "id": "1983727547142828035",
+        "name": "Cu",
+        "pinned_tweet_id": "1994957222217187503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029403852902912000/MvRb_FES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3313,
+          "following_count": 293,
+          "like_count": 1289,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 3687
+        },
+        "username": "copper1234000",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024150383581393170",
+    "created_at": "2026-02-18T15:54:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024150523293929825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1554803647909097472",
+          "start": 0,
+          "username": "HaikuoLin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024150523293929825",
+    "in_reply_to_user_id": "1554803647909097472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024150383581393170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaikuoLin 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024150383581393170",
+        "created_at": "2026-02-18T15:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024150523293929825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "HaikuoLin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024150523293929825",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024150383581393170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaikuoLin 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2024150383581393170",
+        "created_at": "2026-02-18T15:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024150383581393170"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2024148979030831343",
+              "start": 15,
+              "url": "https://t.co/D75Jp6kSjs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024150383581393170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024148979030831343",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我舍友天天煮屎，我真的受不了 https://t.co/D75Jp6kSjs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 163,
+          "like_count": 4031,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 1172
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "IE+CS大一/留学中/1i/4i/有很爱的对象/平和/2007/死鱼被水推着游",
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 379,
+          "like_count": 5241,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 4258
+        },
+        "username": "HaikuoLin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1938587180437532672",
+        "13_1938587203544010752",
+        "13_1938587219532693504"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "1938587280161247600",
+    "created_at": "2025-06-27T13:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T14:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938587280161247600"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MXpGqjFvom",
+          "end": 28,
+          "expanded_url": "https://x.com/hsn8086k/status/1938587280161247600/video/1",
+          "media_key": "13_1938587180437532672",
+          "start": 5,
+          "url": "https://t.co/MXpGqjFvom"
+        },
+        {
+          "display_url": "pic.x.com/MXpGqjFvom",
+          "end": 28,
+          "expanded_url": "https://x.com/hsn8086k/status/1938587280161247600/video/1",
+          "media_key": "13_1938587203544010752",
+          "start": 5,
+          "url": "https://t.co/MXpGqjFvom"
+        },
+        {
+          "display_url": "pic.x.com/MXpGqjFvom",
+          "end": 28,
+          "expanded_url": "https://x.com/hsn8086k/status/1938587280161247600/video/1",
+          "media_key": "13_1938587219532693504",
+          "start": 5,
+          "url": "https://t.co/MXpGqjFvom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938587280161247600",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1111 https://t.co/MXpGqjFvom"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1938587280161247600].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1938587280161247600",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1938587280161247600"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10983,
+        "height": 1252,
+        "media_key": "13_1938587180437532672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938587180437532672/img/L_Vm8Bi1DVBs2xeC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938587180437532672/vid/avc1/320x556/0Mbn0NttvmVJETNW.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938587180437532672/vid/avc1/480x834/fu5uFF59AhhG3Gvt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938587180437532672/vid/avc1/720x1252/nFdukYdTW7cTKmNA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938587180437532672/pl/U0mAeI8CNloN3C5P.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 65493,
+        "height": 456,
+        "media_key": "13_1938587203544010752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938587203544010752/img/9tK8Lsfnk-pgGnFb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938587203544010752/vid/avc1/320x404/G5Z_on9JvRy2L-E4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938587203544010752/vid/avc1/360x456/ICoUq_jOXOkXQqNC.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938587203544010752/pl/N6E-_oxvxnEKuxi4.m3u8?tag=14"
+          }
+        ],
+        "width": 360
+      },
+      {
+        "duration_ms": 4628,
+        "height": 1280,
+        "media_key": "13_1938587219532693504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938587219532693504/img/bjQagF3-0tpKZa3N.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938587219532693504/vid/avc1/320x568/FQTqaI_7WpM2ON2E.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938587219532693504/vid/avc1/480x852/7BxRGr0qZKI1_IhV.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938587219532693504/vid/avc1/720x1280/Mjaj4r9dOG2tnKMf.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938587219532693504/pl/XUD5-lClHawCNnTb.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 38,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 119
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074801869080416256"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2074801884452585615",
+    "created_at": "2026-07-08T10:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T11:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074801884452585615"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YT7uZZVawx",
+          "end": 48,
+          "expanded_url": "https://x.com/hsn8086k/status/2074801884452585615/photo/1",
+          "media_key": "3_2074801869080416256",
+          "start": 25,
+          "url": "https://t.co/YT7uZZVawx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074801884452585615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已力竭, 槽点太多, 这种应该抓去隔壁写rs. https://t.co/YT7uZZVawx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074801869080416256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMstTqHa0AA9Uch.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074801869080416256"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074801884452585615",
+        "created_at": "2026-07-08T10:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T11:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074801884452585615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YT7uZZVawx",
+              "end": 48,
+              "expanded_url": "https://x.com/hsn8086k/status/2074801884452585615/photo/1",
+              "media_key": "3_2074801869080416256",
+              "start": 25,
+              "url": "https://t.co/YT7uZZVawx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074801884452585615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已力竭, 槽点太多, 这种应该抓去隔壁写rs. https://t.co/YT7uZZVawx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 245,
+          "like_count": 10139,
+          "listed_count": 8,
+          "media_count": 228,
+          "tweet_count": 2580
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

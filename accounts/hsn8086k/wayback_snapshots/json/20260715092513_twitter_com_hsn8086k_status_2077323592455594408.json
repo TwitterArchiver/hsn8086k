@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077323582640881664"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2077323592455594408",
+    "created_at": "2026-07-15T09:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077323592455594408"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZNiw9sm1Zu",
+          "end": 144,
+          "expanded_url": "https://x.com/hsn8086k/status/2077323592455594408/photo/1",
+          "media_key": "3_2077323582640881664",
+          "start": 121,
+          "url": "https://t.co/ZNiw9sm1Zu"
+        },
+        {
+          "display_url": "x.com/jkliu_tt/statu…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/jkliu_tt/status/2077247331502838272",
+          "start": 145,
+          "url": "https://t.co/jGa8baeYZx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077323592455594408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077247331502838272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我已经无语了. 一会激素一会荷尔蒙的, 生怕大伙看得懂.\n另外就是词元其实也不准确, 视觉token也是\"词\"元吗, 很明显不是啊, 那难道再翻译成视元吗, 那这样token的翻译就有: 象征令牌代币词元视元声元了, 请选择你的token. https://t.co/ZNiw9sm1Zu https://t.co/jGa8baeYZx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 835,
+        "media_key": "3_2077323582640881664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQiytLaAAAKszR.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077323582640881664"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2077323592455594408",
+        "created_at": "2026-07-15T09:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077323592455594408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNiw9sm1Zu",
+              "end": 144,
+              "expanded_url": "https://x.com/hsn8086k/status/2077323592455594408/photo/1",
+              "media_key": "3_2077323582640881664",
+              "start": 121,
+              "url": "https://t.co/ZNiw9sm1Zu"
+            },
+            {
+              "display_url": "x.com/jkliu_tt/statu…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/jkliu_tt/status/2077247331502838272",
+              "start": 145,
+              "url": "https://t.co/jGa8baeYZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077323592455594408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077247331502838272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经无语了. 一会激素一会荷尔蒙的, 生怕大伙看得懂.\n另外就是词元其实也不准确, 视觉token也是\"词\"元吗, 很明显不是啊, 那难道再翻译成视元吗, 那这样token的翻译就有: 象征令牌代币词元视元声元了, 请选择你的token. https://t.co/ZNiw9sm1Zu https://t.co/jGa8baeYZx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "768570232877174784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2077207365213155726",
+        "created_at": "2026-07-15T04:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077247331502838272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1764818331822182400",
+              "start": 0,
+              "username": "xiaohu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077247331502838272",
+        "in_reply_to_user_id": "1764818331822182400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3698,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077207365213155726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaohu 词元至少还算翻译的准确的。像健康领域乱翻译的例子更多，把 enzyme 一会儿翻译成酶，一会儿翻译成酵素。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 246,
+          "like_count": 10362,
+          "listed_count": 8,
+          "media_count": 235,
+          "tweet_count": 2655
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-24T22:06:37.000Z",
+        "description": "",
+        "id": "768570232877174784",
+        "name": "jkliu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1070052347307450368/rQTe-4Pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 320,
+          "like_count": 495,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1611
+        },
+        "url": "",
+        "username": "jkliu_tt",
+        "verified": false
+      }
+    ]
+  }
+}

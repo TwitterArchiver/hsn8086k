@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016544825823400032",
+    "created_at": "2026-01-29T04:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4786181070",
+          "start": 0,
+          "username": "li_christoph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016729466366808528",
+    "in_reply_to_user_id": "4786181070",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016582168714367179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@li_christoph 笑死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4786181070",
+        "conversation_id": "2016544825823400032",
+        "created_at": "2026-01-28T18:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016582168714367179",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016544825823400032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 00后药娘到现在都没有活过30岁的😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 108,
+          "like_count": 1497,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 530
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-20T00:51:58.000Z",
+        "description": "First of all, Fact-checking.会拉黑种族主义者 Anti-racism/Anti-reverse racism. Self-hating won't change anything.\n互联网人设是地域黑； 混沌乐子人；平子你做个体面人吧",
+        "id": "4786181070",
+        "name": "That's bait.",
+        "pinned_tweet_id": "1263881724309778433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1478094471422267392/0VAwY2an_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 613,
+          "like_count": 12059,
+          "listed_count": 4,
+          "media_count": 497,
+          "tweet_count": 3116
+        },
+        "username": "li_christoph",
+        "verified": false
+      }
+    ]
+  }
+}

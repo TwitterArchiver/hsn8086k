@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2020523589309456476",
+    "created_at": "2026-02-09T19:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T20:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020941942557901099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1257540561189302274",
+          "start": 0,
+          "username": "Minatooo_O"
+        },
+        {
+          "end": 22,
+          "id": "1709376564713127936",
+          "start": 12,
+          "username": "guanjiao_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020941942557901099",
+    "in_reply_to_user_id": "1257540561189302274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020939948334223485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minatooo_O @guanjiao_ 这样吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2020523589309456476",
+        "created_at": "2026-02-09T19:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T20:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020941942557901099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1257540561189302274",
+              "start": 0,
+              "username": "Minatooo_O"
+            },
+            {
+              "end": 22,
+              "id": "1709376564713127936",
+              "start": 12,
+              "username": "guanjiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020941942557901099",
+        "in_reply_to_user_id": "1257540561189302274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020939948334223485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minatooo_O @guanjiao_ 这样吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257540561189302274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2020523589309456476",
+        "created_at": "2026-02-09T19:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T20:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020939948334223485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 20,
+              "id": "1709376564713127936",
+              "start": 10,
+              "username": "guanjiao_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020939948334223485",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020901697472606705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @guanjiao_ 现在的规则是禁止常驻在大陆的居民前往台湾自由行，我们这种就算人出去了申请入台证也会卡死在程序上，在港澳读书留学工作的就不受影响"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1308,
+          "following_count": 150,
+          "like_count": 3365,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 960
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T05:20:20.000Z",
+        "description": "学生|ACG|公路&轨道交通|地理好き|数学苦手|模拟经营|轻度galgame|音游|点赞bot|可爱🩷@Chinonya1 @KawaiiSmolChino @hikawarinaOvO 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Chinonya1"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "KawaiiSmolChino"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "hikawarinaOvO"
+              }
+            ]
+          }
+        },
+        "id": "1257540561189302274",
+        "location": "某个阴暗的角落里",
+        "name": "MinatoOvO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950575474335498240/mtY1YqTM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 304,
+          "like_count": 36965,
+          "listed_count": 5,
+          "media_count": 245,
+          "tweet_count": 7690
+        },
+        "username": "Minatooo_O",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T01:15:25.000Z",
+        "description": "/生于虚无，走向虚无/ 我只会躲在墙角，看着别人的成就和未来自己什么都做不了/我情愿躺在虚无主义的深渊里，什么也不做，静静地看着一切，等待终结的降临。",
+        "id": "1709376564713127936",
+        "name": "管脚🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006928708179996672/pdnTrQ4E_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 1059,
+          "like_count": 73305,
+          "listed_count": 2,
+          "media_count": 2099,
+          "tweet_count": 13957
+        },
+        "username": "guanjiao_",
+        "verified": false
+      }
+    ]
+  }
+}

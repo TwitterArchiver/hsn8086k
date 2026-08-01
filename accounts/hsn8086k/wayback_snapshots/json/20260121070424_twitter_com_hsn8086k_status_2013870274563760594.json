@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2013592513618289044",
+    "created_at": "2026-01-21T07:04:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T08:04:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013870274563760594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1981730639524114435",
+          "start": 0,
+          "username": "jeankirsteemd0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013870274563760594",
+    "in_reply_to_user_id": "1981730639524114435",
+    "lang": "ht",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013867847328444860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jeankirsteemd0 male to female"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2013592513618289044",
+        "created_at": "2026-01-21T07:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013870274563760594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1981730639524114435",
+              "start": 0,
+              "username": "jeankirsteemd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013870274563760594",
+        "in_reply_to_user_id": "1981730639524114435",
+        "lang": "ht",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013867847328444860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jeankirsteemd0 male to female"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981730639524114435",
+        "conversation_id": "2013592513618289044",
+        "created_at": "2026-01-21T06:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013867847328444860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013867847328444860",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013592513618289044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k mtf是什么🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 74,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 184
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T14:33:33.000Z",
+        "description": "Don't forget me, doctor. I will definitely find you.",
+        "id": "1981730639524114435",
+        "name": "Preses",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006292881674256384/IqgAxAmB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 10,
+          "like_count": 198,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 121
+        },
+        "username": "jeankirsteemd0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2076297901735813136",
+    "created_at": "2026-07-12T13:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T14:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076297901735813136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/onlyskypace/st…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/onlyskypace/status/2076225106611683563",
+          "start": 42,
+          "url": "https://t.co/3SLldkdQla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076297901735813136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076225106611683563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "外区怎么这么多弱智题...\n还要说啥\"不用笔和纸就解出来是不可能的!\"\n有点难绷. https://t.co/3SLldkdQla"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_2076225100844507136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNA7upmWIAAlAWM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2076297901735813136",
+        "created_at": "2026-07-12T13:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076297901735813136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/onlyskypace/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/onlyskypace/status/2076225106611683563",
+              "start": 42,
+              "url": "https://t.co/3SLldkdQla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076297901735813136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076225106611683563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "外区怎么这么多弱智题...\n还要说啥\"不用笔和纸就解出来是不可能的!\"\n有点难绷. https://t.co/3SLldkdQla"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076225100844507136"
+          ]
+        },
+        "author_id": "1576933381769760768",
+        "conversation_id": "2076225106611683563",
+        "created_at": "2026-07-12T08:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076225106611683563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJjKZkR9Wr",
+              "end": 81,
+              "expanded_url": "https://x.com/onlyskypace/status/2076225106611683563/photo/1",
+              "media_key": "3_2076225100844507136",
+              "start": 58,
+              "url": "https://t.co/cJjKZkR9Wr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076225106611683563",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 385,
+          "impression_count": 817226,
+          "like_count": 1205,
+          "quote_count": 177,
+          "reply_count": 3689,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "kalem ve kağıt kullanmadan çözmek imkansız ! \n\nx kaçtır ? https://t.co/cJjKZkR9Wr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 243,
+          "like_count": 10234,
+          "listed_count": 8,
+          "media_count": 232,
+          "tweet_count": 2616
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T13:53:37.000Z",
+        "description": "̶n̶e̶y̶s̶e̶",
+        "id": "1576933381769760768",
+        "location": "𝐏𝐅  🧚🏻‍♀️🪄",
+        "name": "𝐒.",
+        "pinned_tweet_id": "2076225106611683563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057417007067205632/3UZTG4Il_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8044,
+          "following_count": 1383,
+          "like_count": 117331,
+          "listed_count": 5,
+          "media_count": 5442,
+          "tweet_count": 26575
+        },
+        "url": "",
+        "username": "onlyskypace",
+        "verified": true
+      }
+    ]
+  }
+}

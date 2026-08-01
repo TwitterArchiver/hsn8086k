@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2059959601181950080",
+    "created_at": "2026-05-28T11:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059961623830548658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018976131849039872",
+          "start": 0,
+          "username": "sheriyuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059961623830548658",
+    "in_reply_to_user_id": "2018976131849039872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059959601181950080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheriyuo 啊日本游戏吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2059959253813915648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZyBvdbcAAGW_o.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2059959601181950080",
+        "created_at": "2026-05-28T11:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059961623830548658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018976131849039872",
+              "start": 0,
+              "username": "sheriyuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059961623830548658",
+        "in_reply_to_user_id": "2018976131849039872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059959601181950080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheriyuo 啊日本游戏吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059959253813915648"
+          ]
+        },
+        "author_id": "2018976131849039872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059959601181950080",
+        "created_at": "2026-05-28T11:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:25:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059959264844902736",
+          "2059959601181950080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGTmYZLlU0",
+              "end": 158,
+              "expanded_url": "https://x.com/sheriyuo/status/2059959601181950080/photo/1",
+              "media_key": "3_2059959253813915648",
+              "start": 135,
+              "url": "https://t.co/aGTmYZLlU0"
+            },
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2059947029443584249",
+              "start": 159,
+              "url": "https://t.co/iHqvoesz1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059959601181950080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "高中卷竞赛，退役了卷文化课，上大学了继续卷竞赛，退役了发现别人都在卷科研，于是你也继续卷科研，卷什么都是图一乐…\n\n那场 EC Final 是我第一次去上海，和队友去街机烈火玩日本游戏，去南京西路吃鳗鱼饭，骑车几公里去上交对面吃本帮菜，打炸了和朋友一起在外滩散步看电影\n\n没人在意队友前一天晚上凌晨三点才睡觉，打铁了也不会少块肉。竞赛和科研，最有意义的那个部分也就是出去玩吧，享受这浮躁社会难得的几天假期吧\n\n要学会多给自己放假，图片拍摄于 2023.3.24"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 93,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059947029443584249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高中卷竞赛，退役了卷文化课，上大学了继续卷竞赛，退役了发现别人都在卷科研，于是你也继续卷科研，卷什么都是图一乐…\n\n那场 EC Final 是我第一次去上海，和队友去街机烈火玩日本游戏，去南京西路吃鳗鱼饭，骑车几公里去上交对面吃本帮菜，打炸了和朋友一起在外滩散步看电影 https://t.co/aGTmYZLlU0 https://t.co/iHqvoesz1E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 225,
+          "like_count": 8345,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2117
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T09:13:26.000Z",
+        "description": "Undergrad @RUC1937 | RL, Optimization, dLLM | Intern @JD_Corporate | Applying for Fall 27 PhD | Friend @dviolettchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "RUC1937"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "JD_Corporate"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "dviolettchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheriyuo.github.io",
+                "end": 23,
+                "expanded_url": "http://sheriyuo.github.io",
+                "start": 0,
+                "url": "https://t.co/7yHglOnlhA"
+              }
+            ]
+          }
+        },
+        "id": "2018976131849039872",
+        "location": "Beijing, China",
+        "name": "Xiuyu Li",
+        "pinned_tweet_id": "2042072816712085577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018976441795502081/bpw974ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7826,
+          "following_count": 1232,
+          "like_count": 9513,
+          "listed_count": 55,
+          "media_count": 228,
+          "tweet_count": 1794
+        },
+        "url": "https://t.co/7yHglOnlhA",
+        "username": "sheriyuo",
+        "verified": true
+      }
+    ]
+  }
+}

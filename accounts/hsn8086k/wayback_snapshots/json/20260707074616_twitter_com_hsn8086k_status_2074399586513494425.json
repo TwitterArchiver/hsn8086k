@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2074399586513494425",
+    "created_at": "2026-07-07T07:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074399586513494425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2074399155611709638",
+          "start": 54,
+          "url": "https://t.co/jTotz9eNc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074399586513494425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074399155611709638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "倒是我才知道这边mdl时薪10元, mdl有点不像人了, 另外就是为什么我不能付更多钱换更像人的服务... https://t.co/jTotz9eNc4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074399586513494425",
+        "created_at": "2026-07-07T07:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074399586513494425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2074399155611709638",
+              "start": 54,
+              "url": "https://t.co/jTotz9eNc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074399586513494425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074399155611709638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "倒是我才知道这边mdl时薪10元, mdl有点不像人了, 另外就是为什么我不能付更多钱换更像人的服务... https://t.co/jTotz9eNc4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074398730481283436",
+        "created_at": "2026-07-07T07:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074399155611709638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074399155611709638",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074398730481283436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后就说人多少工资都不该被我骂, 那能不能找个不是人的代表mdl被我骂, 哎哟."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 246,
+          "like_count": 10085,
+          "listed_count": 8,
+          "media_count": 223,
+          "tweet_count": 2544
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

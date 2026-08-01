@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2057708265027649975",
+    "created_at": "2026-05-22T06:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057708265027649975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xSilver_Time/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/0xSilver_Time/status/2057405506092941754",
+          "start": 18,
+          "url": "https://t.co/ZtUT5KKnnU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057708265027649975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057405506092941754",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猫猫寿命即将赶上 xyn (并不是 https://t.co/ZtUT5KKnnU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_2057405487159930880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1fY9UbcAAESqV.jpg",
+        "width": 1098
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2057708265027649975",
+        "created_at": "2026-05-22T06:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057708265027649975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xSilver_Time/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/0xSilver_Time/status/2057405506092941754",
+              "start": 18,
+              "url": "https://t.co/ZtUT5KKnnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057708265027649975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057405506092941754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫猫寿命即将赶上 xyn (并不是 https://t.co/ZtUT5KKnnU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057405487159930880"
+          ]
+        },
+        "author_id": "1564866203914743808",
+        "conversation_id": "2057405506092941754",
+        "created_at": "2026-05-21T10:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057405506092941754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTx5qG7owG",
+              "end": 122,
+              "expanded_url": "https://x.com/0xSilver_Time/status/2057405506092941754/photo/1",
+              "media_key": "3_2057405487159930880",
+              "start": 99,
+              "url": "https://t.co/WTx5qG7owG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057405506092941754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日本科学家开发突破性疗法，有望将猫咪平均寿命翻倍——从约15年延至近30年。\n\n关键在于一种名为AIM的蛋白质。虽然猫咪体内天然产生AIM，但无法有效激活它，导致肾脏废物堆积，这是家猫的主要死因。\n\n宫崎透博士团队研制出注射型激活AIM，能直接恢复肾脏自洁功能。临床试验显示，晚期肾病猫咪治疗后显著好转。\n\n预计2025年在日本商用，2027年更广泛推广。这项研究也引发人类医学应用的期待。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 225,
+          "impression_count": 88405,
+          "like_count": 606,
+          "quote_count": 18,
+          "reply_count": 58,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "日本科学家开发突破性疗法，有望将猫咪平均寿命翻倍——从约15年延至近30年。\n\n关键在于一种名为AIM的蛋白质。虽然猫咪体内天然产生AIM，但无法有效激活它，导致肾脏废物堆积，这是家猫的主要死因。 https://t.co/WTx5qG7owG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026,
+          "following_count": 222,
+          "like_count": 8153,
+          "listed_count": 8,
+          "media_count": 194,
+          "tweet_count": 2061
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T06:42:51.000Z",
+        "description": "认知本身并不创造财富，具体的行动才会创造财富。 撸毛 | 二级 | 投研 | 吹牛 都是一家之言，如有意见，你说得都对",
+        "id": "1564866203914743808",
+        "location": "Satoshi Nakamoto",
+        "name": "A9樱木",
+        "pinned_tweet_id": "2057405506092941754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925735712080408576/1lJgoiai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73491,
+          "following_count": 968,
+          "like_count": 16184,
+          "listed_count": 818,
+          "media_count": 1745,
+          "tweet_count": 4898
+        },
+        "username": "0xSilver_Time",
+        "verified": true
+      }
+    ]
+  }
+}

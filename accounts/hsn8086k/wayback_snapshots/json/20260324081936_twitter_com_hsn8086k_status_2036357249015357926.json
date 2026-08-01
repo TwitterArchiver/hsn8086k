@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2036357249015357926",
+    "created_at": "2026-03-24T08:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T09:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036357249015357926"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2036357249015357926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帝高阳之苗裔喵，朕皇考曰伯庸。\n摄提贞于孟陬喵，惟庚寅吾以降。\n皇览揆余初度喵，肇锡余以嘉名。\n名余曰正则喵，字余曰灵均。\n纷吾既有此内美喵，又重之以修能。\n扈江离与辟芷喵，纫秋兰以为佩。\n汩余若将不及喵，恐年岁之不吾与。\n朝搴阰之木兰喵，夕揽洲之宿莽。\n日月忽其不淹喵，春与秋其代序。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2036357249015357926",
+        "created_at": "2026-03-24T08:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T09:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036357249015357926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036357249015357926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帝高阳之苗裔喵，朕皇考曰伯庸。\n摄提贞于孟陬喵，惟庚寅吾以降。\n皇览揆余初度喵，肇锡余以嘉名。\n名余曰正则喵，字余曰灵均。\n纷吾既有此内美喵，又重之以修能。\n扈江离与辟芷喵，纫秋兰以为佩。\n汩余若将不及喵，恐年岁之不吾与。\n朝搴阰之木兰喵，夕揽洲之宿莽。\n日月忽其不淹喵，春与秋其代序。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 194,
+          "like_count": 6060,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 1637
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

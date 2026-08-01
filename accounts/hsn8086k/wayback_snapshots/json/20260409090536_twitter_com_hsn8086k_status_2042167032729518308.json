@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2041678654632305059",
+    "created_at": "2026-04-09T09:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042167032729518308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450114426716131341",
+          "start": 0,
+          "username": "Natsuhane_Ayari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20407…",
+          "end": 49,
+          "expanded_url": "https://x.com/i/status/2040735800644825176",
+          "start": 26,
+          "url": "https://t.co/n0PuD7iFgd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042167032729518308",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040735800644825176",
+        "type": "quoted"
+      },
+      {
+        "id": "2042166933223825484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsuhane_Ayari 最开始那个帖子:\nhttps://t.co/n0PuD7iFgd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2010,
+        "media_key": "3_2040735663549808640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFImRhJbgAAdxdy.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2041678654632305059",
+        "created_at": "2026-04-09T09:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042167032729518308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450114426716131341",
+              "start": 0,
+              "username": "Natsuhane_Ayari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20407…",
+              "end": 49,
+              "expanded_url": "https://x.com/i/status/2040735800644825176",
+              "start": 26,
+              "url": "https://t.co/n0PuD7iFgd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042167032729518308",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040735800644825176",
+            "type": "quoted"
+          },
+          {
+            "id": "2042166933223825484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuhane_Ayari 最开始那个帖子:\nhttps://t.co/n0PuD7iFgd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040735663549808640"
+          ]
+        },
+        "author_id": "820599551375511556",
+        "conversation_id": "2040735800644825176",
+        "created_at": "2026-04-05T10:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040735800644825176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQshEiaiDy",
+              "end": 108,
+              "expanded_url": "https://x.com/MrYANFD/status/2040735800644825176/photo/1",
+              "media_key": "3_2040735663549808640",
+              "start": 85,
+              "url": "https://t.co/lQshEiaiDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040735800644825176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 63255,
+          "like_count": 111,
+          "quote_count": 14,
+          "reply_count": 87,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "世界上忍耐力最强的就是苹果用户。没有右键新建文件功能都能洗，要让普通用户去打开终端，cd到对应文件夹，用vim xxx.txt点击i输入内容之后按esc、再输入:wq。 https://t.co/lQshEiaiDy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2041678654632305059",
+        "created_at": "2026-04-09T09:05:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042166933223825484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450114426716131341",
+              "start": 0,
+              "username": "Natsuhane_Ayari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042166933223825484",
+        "in_reply_to_user_id": "1450114426716131341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042123382632927646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuhane_Ayari 我说最开始那个帖子, 没说你."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 217,
+          "like_count": 7238,
+          "listed_count": 5,
+          "media_count": 167,
+          "tweet_count": 1850
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T15:00:10.000Z",
+        "description": "",
+        "id": "1450114426716131341",
+        "name": "夏羽綾理",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991818431050739712/4mLMcimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 144,
+          "like_count": 1424,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1658
+        },
+        "username": "Natsuhane_Ayari",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-15T11:52:33.000Z",
+        "description": "| EN/CN/DE | DIGITAL ALCOHOLIC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanfd.cn",
+                "end": 23,
+                "expanded_url": "http://www.yanfd.cn",
+                "start": 0,
+                "url": "https://t.co/RJct1X3MFo"
+              }
+            ]
+          }
+        },
+        "id": "820599551375511556",
+        "location": "AIR",
+        "name": "YANFD",
+        "pinned_tweet_id": "1795381476625944884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883544923699646464/BaD8leBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1461,
+          "following_count": 919,
+          "like_count": 10253,
+          "listed_count": 3,
+          "media_count": 618,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/RJct1X3MFo",
+        "username": "MrYANFD",
+        "verified": false
+      }
+    ]
+  }
+}

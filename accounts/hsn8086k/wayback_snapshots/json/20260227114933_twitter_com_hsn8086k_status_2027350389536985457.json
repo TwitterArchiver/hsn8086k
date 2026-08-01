@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2027350389536985457",
+    "created_at": "2026-02-27T11:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027350389536985457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2027347258463912004",
+          "start": 16,
+          "url": "https://t.co/Poz73rP8LO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027350389536985457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027347258463912004",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下馆子了, 大家支持一下 (? https://t.co/Poz73rP8LO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2027347256152870912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKVlo9a0AAlz_j.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2027350389536985457",
+        "created_at": "2026-02-27T11:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027350389536985457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2027347258463912004",
+              "start": 16,
+              "url": "https://t.co/Poz73rP8LO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027350389536985457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027347258463912004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下馆子了, 大家支持一下 (? https://t.co/Poz73rP8LO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027347256152870912"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027347258463912004",
+        "created_at": "2026-02-27T11:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027347258463912004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuJxHuCqvu",
+              "end": 28,
+              "expanded_url": "https://x.com/hsn8086k/status/2027347258463912004/photo/1",
+              "media_key": "3_2027347256152870912",
+              "start": 5,
+              "url": "https://t.co/WuJxHuCqvu"
+            },
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/gdioiui/status/2026909985473720388",
+              "start": 29,
+              "url": "https://t.co/dAth2ejJpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027347258463912004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026909985473720388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次麦 https://t.co/WuJxHuCqvu https://t.co/dAth2ejJpJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 172,
+          "like_count": 4843,
+          "listed_count": 5,
+          "media_count": 135,
+          "tweet_count": 1412
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

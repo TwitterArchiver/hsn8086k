@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2025560017353801800",
+    "created_at": "2026-02-22T13:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T14:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025560017353801800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2025555845900357899",
+          "start": 38,
+          "url": "https://t.co/Z4yEpXnID1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025560017353801800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025555845900357899",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很好笑的是, 和群友最相关的是\"偷听\"\"聊天\"\"药娘\"\n黑猫你害人不浅啊! https://t.co/Z4yEpXnID1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2025560017353801800",
+        "created_at": "2026-02-22T13:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025560017353801800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2025555845900357899",
+              "start": 38,
+              "url": "https://t.co/Z4yEpXnID1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025560017353801800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025555845900357899",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很好笑的是, 和群友最相关的是\"偷听\"\"聊天\"\"药娘\"\n黑猫你害人不浅啊! https://t.co/Z4yEpXnID1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2025555845900357899",
+        "created_at": "2026-02-22T12:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T13:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025555845900357899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2025554526653252092",
+              "start": 24,
+              "url": "https://t.co/BQvlOhJyEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025555845900357899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025554526653252092",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "倒是可以导出数据, 但是怎么整理呢, 是聚类吗 https://t.co/BQvlOhJyEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 168,
+          "like_count": 4548,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1304
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

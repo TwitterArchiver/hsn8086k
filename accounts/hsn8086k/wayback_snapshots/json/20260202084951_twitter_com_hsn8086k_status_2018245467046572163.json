@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2018212252843905414",
+    "created_at": "2026-02-02T08:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T09:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018245467046572163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1693873810469199872",
+          "start": 0,
+          "username": "eve_city"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018245467046572163",
+    "in_reply_to_user_id": "1693873810469199872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018243492183736586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eve_city 可能有机会吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2018212252843905414",
+        "created_at": "2026-02-02T08:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018245467046572163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1693873810469199872",
+              "start": 0,
+              "username": "eve_city"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018245467046572163",
+        "in_reply_to_user_id": "1693873810469199872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018243492183736586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eve_city 可能有机会吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693873810469199872",
+        "conversation_id": "2018212252843905414",
+        "created_at": "2026-02-02T08:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018243492183736586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018243492183736586",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018212252843905414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 线下能和hsn面基嘛）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 138,
+          "like_count": 2327,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 744
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T06:32:52.000Z",
+        "description": "HRT 2024.3.4 / 07年 高二在读 成都📖 / 1056540854🐧 /  喜欢音游 MC 轨交🐱 / 最可爱的猫猫🐈 @Jin_Ge233 @TianshaYS / 最可爱的月月🌕@Dymoons_tis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "Jin_Ge233"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "TianshaYS"
+              },
+              {
+                "end": 110,
+                "start": 98,
+                "username": "Dymoons_tis"
+              }
+            ]
+          }
+        },
+        "id": "1693873810469199872",
+        "location": "Estradiol Planet",
+        "name": "雨城EveCity🎅🏻🍥",
+        "pinned_tweet_id": "1992962235057205687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000061133101965312/uBoKp1Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 993,
+          "like_count": 24107,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 6234
+        },
+        "username": "eve_city",
+        "verified": false
+      }
+    ]
+  }
+}

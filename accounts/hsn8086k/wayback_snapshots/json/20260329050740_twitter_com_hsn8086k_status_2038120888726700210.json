@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2038120888726700210",
+    "created_at": "2026-03-29T05:07:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T06:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038120888726700210"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038120888726700210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喜欢吃麦辣的有福了, 去麦当劳首页点击麦麦日历投票后可领取\"麦辣鸡翅+雪碧 0 元卷\", 然后点餐单点一个麦辣鸡腿堡, 11.9 吃三件套!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2038120888726700210",
+        "created_at": "2026-03-29T05:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T06:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038120888726700210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038120888726700210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢吃麦辣的有福了, 去麦当劳首页点击麦麦日历投票后可领取\"麦辣鸡翅+雪碧 0 元卷\", 然后点餐单点一个麦辣鸡腿堡, 11.9 吃三件套!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 214,
+          "like_count": 6479,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1725
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

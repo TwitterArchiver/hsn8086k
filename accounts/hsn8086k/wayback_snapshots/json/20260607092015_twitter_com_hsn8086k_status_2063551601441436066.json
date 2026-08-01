@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2063551601441436066",
+    "created_at": "2026-06-07T09:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063551601441436066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Desvl_/status/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Desvl_/status/2063257213804708129",
+          "start": 20,
+          "url": "https://t.co/wWkup9evYP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063551601441436066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063257213804708129",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "笑不出来, 我真的在猫猫养殖中心 (? https://t.co/wWkup9evYP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2063551601441436066",
+        "created_at": "2026-06-07T09:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063551601441436066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Desvl_/status/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Desvl_/status/2063257213804708129",
+              "start": 20,
+              "url": "https://t.co/wWkup9evYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063551601441436066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063257213804708129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "笑不出来, 我真的在猫猫养殖中心 (? https://t.co/wWkup9evYP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882637113",
+        "conversation_id": "2063257213804708129",
+        "created_at": "2026-06-06T13:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063257213804708129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063257213804708129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 17187,
+          "like_count": 179,
+          "quote_count": 3,
+          "reply_count": 44,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大学生be like\n一定要反向装逼，说自己是xx男子职业技术学院、yy培训基地、zz养殖中心，写在自己个人介绍里，甚至认真对待这些。\n一定要把病态的自谦当作礼貌：“本学弱垃圾3.9低绩点”，“大佬带带我~~~”，“膜拜膜拜~~~”\n后来就在社交网络发出疑问，为什么不能把账号和学信网绑定（方便自己正向装b）？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2188,
+          "following_count": 234,
+          "like_count": 9033,
+          "listed_count": 9,
+          "media_count": 204,
+          "tweet_count": 2210
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-19T09:56:48.000Z",
+        "description": "- La terre est ronde et non plate\n- Grok, est-ce que c'est vrai ?\n\nVague poster",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "desvl.xyz",
+                "end": 23,
+                "expanded_url": "https://desvl.xyz",
+                "start": 0,
+                "url": "https://t.co/Fruonij57W"
+              }
+            ]
+          }
+        },
+        "id": "1882637113",
+        "location": "Île-de-France, France ",
+        "name": "Desvl",
+        "pinned_tweet_id": "1921357447853191324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915553113164898304/DxTkTyLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7560,
+          "following_count": 1070,
+          "like_count": 30849,
+          "listed_count": 41,
+          "media_count": 3855,
+          "tweet_count": 34755
+        },
+        "url": "https://t.co/Fruonij57W",
+        "username": "Desvl_",
+        "verified": false
+      }
+    ]
+  }
+}

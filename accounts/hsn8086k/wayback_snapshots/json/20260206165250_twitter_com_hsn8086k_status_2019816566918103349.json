@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019816566918103349",
+    "created_at": "2026-02-06T16:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T17:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019816566918103349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momo_yu_Apple/…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/momo_yu_Apple/status/2019671918379725172",
+          "start": 49,
+          "url": "https://t.co/0RiIU3PpPV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019816566918103349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019671918379725172",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看到可爱的不自卑, 看到技术力高的不自卑, 看到可爱还技术力高的就会自卑, 难受, 躲被窝哭哭 https://t.co/0RiIU3PpPV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019816566918103349",
+        "created_at": "2026-02-06T16:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019816566918103349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momo_yu_Apple/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/momo_yu_Apple/status/2019671918379725172",
+              "start": 49,
+              "url": "https://t.co/0RiIU3PpPV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019816566918103349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019671918379725172",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到可爱的不自卑, 看到技术力高的不自卑, 看到可爱还技术力高的就会自卑, 难受, 躲被窝哭哭 https://t.co/0RiIU3PpPV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505851491734720515",
+        "conversation_id": "2019671918379725172",
+        "created_at": "2026-02-06T07:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019671918379725172"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019671918379725172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2534,
+          "like_count": 28,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人和我一样，看到好看的顺女不自卑\n看到好看的同类不自卑\n看到好看的男娘就开始怀疑自己hrt是否有用？\n\n我真的感觉hrt走的是法抗路线，只是为了在指定年龄区间没有性别烦躁\n\n对于长相好坏，随便一个好看的顺男女装都比你好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 147,
+          "like_count": 2773,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 844
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T10:19:23.000Z",
+        "description": "04年大龄||178/70(减肥中)/80a||🚪60接线下实习圆角||部分言论不要太较真||学习化妆ing｜离开地球准备中",
+        "id": "1505851491734720515",
+        "name": "玉茉茉喵🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982279720688320512/fMn-1YUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2684,
+          "following_count": 291,
+          "like_count": 537,
+          "listed_count": 8,
+          "media_count": 132,
+          "tweet_count": 1158
+        },
+        "username": "momo_yu_Apple",
+        "verified": false
+      }
+    ]
+  }
+}

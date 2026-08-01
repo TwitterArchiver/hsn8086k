@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2012787656271253655",
+    "created_at": "2026-01-18T15:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012909641265537449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1512280643761479680",
+          "start": 0,
+          "username": "nianshoulong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012909641265537449",
+    "in_reply_to_user_id": "1512280643761479680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012907124201058353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nianshoulong 那很不可能啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2012787656271253655",
+        "created_at": "2026-01-18T15:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012909641265537449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1512280643761479680",
+              "start": 0,
+              "username": "nianshoulong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012909641265537449",
+        "in_reply_to_user_id": "1512280643761479680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012907124201058353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nianshoulong 那很不可能啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512280643761479680",
+        "conversation_id": "2012787656271253655",
+        "created_at": "2026-01-18T15:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012907124201058353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012907124201058353",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012787656271253655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 要不你俩在一起好了🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 49,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 129
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T04:06:27.000Z",
+        "description": "愿你能拥抱希望和爱｜愿你有能力爱与被爱｜变成可爱毛茸茸的我@JiLi_Fox丨勿挂念坠入深渊的我@jilifuneng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "JiLi_Fox"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "jilifuneng"
+              }
+            ]
+          }
+        },
+        "id": "1512280643761479680",
+        "location": "Guangdong",
+        "name": "年兽龙（等待重生版）",
+        "pinned_tweet_id": "1792404911176728870",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659240762838781954/YNM77ZXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4109,
+          "following_count": 165,
+          "like_count": 2664,
+          "listed_count": 3,
+          "media_count": 646,
+          "tweet_count": 4881
+        },
+        "username": "nianshoulong",
+        "verified": false
+      }
+    ]
+  }
+}

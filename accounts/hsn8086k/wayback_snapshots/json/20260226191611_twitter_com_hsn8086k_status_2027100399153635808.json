@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2027100399153635808",
+    "created_at": "2026-02-26T19:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T20:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027100399153635808"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027100399153635808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说起来, hsn 是前端半桶水, 一直都不知道 tailwindcss 是什么, 只是听大伙都在说, hsn 也只专注于用 vuetify 写奇怪小玩具, 直到真正写了 tailwindcss, 发现和 vuetify 的 class 写法基本一致, 这真是好文明啊!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2027100399153635808",
+        "created_at": "2026-02-26T19:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027100399153635808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027100399153635808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来, hsn 是前端半桶水, 一直都不知道 tailwindcss 是什么, 只是听大伙都在说, hsn 也只专注于用 vuetify 写奇怪小玩具, 直到真正写了 tailwindcss, 发现和 vuetify 的 class 写法基本一致, 这真是好文明啊!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 172,
+          "like_count": 4796,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 1395
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

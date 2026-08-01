@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2038223620913401959",
+    "created_at": "2026-03-29T14:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038256400112251041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1027863149024870402",
+          "start": 0,
+          "username": "Xiong1207"
+        },
+        {
+          "end": 21,
+          "id": "1863439189909618688",
+          "start": 11,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038256400112251041",
+    "in_reply_to_user_id": "1027863149024870402",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038238434150826013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xiong1207 @hsn8086xe 答案是 1/2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2038223620913401959",
+        "created_at": "2026-03-29T14:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038256400112251041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1027863149024870402",
+              "start": 0,
+              "username": "Xiong1207"
+            },
+            {
+              "end": 21,
+              "id": "1863439189909618688",
+              "start": 11,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038256400112251041",
+        "in_reply_to_user_id": "1027863149024870402",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038238434150826013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiong1207 @hsn8086xe 答案是 1/2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1027863149024870402",
+        "conversation_id": "2038223620913401959",
+        "created_at": "2026-03-29T12:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038238434150826013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038238434150826013",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038223620913401959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 不是1/4？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 214,
+          "like_count": 6520,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1728
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T10:24:06.000Z",
+        "description": "无德无行，好色小人。",
+        "id": "1027863149024870402",
+        "location": "People's Republic of China",
+        "name": "白银之歌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1028227949881958400/eT9n87yV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 597,
+          "like_count": 228,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 603
+        },
+        "username": "Xiong1207",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35333,
+          "following_count": 381,
+          "like_count": 186,
+          "listed_count": 98,
+          "media_count": 12390,
+          "tweet_count": 12467
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

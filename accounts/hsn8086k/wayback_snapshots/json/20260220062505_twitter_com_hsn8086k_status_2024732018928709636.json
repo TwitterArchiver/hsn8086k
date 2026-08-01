@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024499027866468704",
+    "created_at": "2026-02-20T06:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024732018928709636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1919411422506913792",
+          "start": 0,
+          "username": "Reiko201314"
+        },
+        {
+          "end": 26,
+          "id": "1977321626917330946",
+          "start": 13,
+          "username": "GaiJiao96605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024732018928709636",
+    "in_reply_to_user_id": "1919411422506913792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024680877155110959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reiko201314 @GaiJiao96605 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024499027866468704",
+        "created_at": "2026-02-20T06:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024732018928709636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919411422506913792",
+              "start": 0,
+              "username": "Reiko201314"
+            },
+            {
+              "end": 26,
+              "id": "1977321626917330946",
+              "start": 13,
+              "username": "GaiJiao96605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024732018928709636",
+        "in_reply_to_user_id": "1919411422506913792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024680877155110959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiko201314 @GaiJiao96605 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919411422506913792",
+        "conversation_id": "2024499027866468704",
+        "created_at": "2026-02-20T03:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T04:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024680877155110959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977321626917330946",
+              "start": 0,
+              "username": "GaiJiao96605"
+            },
+            {
+              "end": 23,
+              "id": "1842504398850928640",
+              "start": 14,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024680877155110959",
+        "in_reply_to_user_id": "1977321626917330946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024650225286336903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GaiJiao96605 @hsn8086k 看着像qwen chat"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 164,
+          "like_count": 4344,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 1248
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T15:20:03.000Z",
+        "description": "I personally think 4o is the best.",
+        "id": "1919411422506913792",
+        "name": "Sylxxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024253613514903554/_k7C409y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 20,
+          "like_count": 3426,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 177
+        },
+        "username": "Reiko201314",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T10:33:16.000Z",
+        "description": "我不到啊",
+        "id": "1977321626917330946",
+        "name": "这该叫啥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978832266496299011/BaZZ7TN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 143,
+          "like_count": 39998,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 680
+        },
+        "username": "GaiJiao96605",
+        "verified": false
+      }
+    ]
+  }
+}

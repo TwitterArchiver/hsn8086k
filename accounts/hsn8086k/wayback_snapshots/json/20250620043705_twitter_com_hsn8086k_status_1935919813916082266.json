@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935919800753995776"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "1935919813916082266",
+    "created_at": "2025-06-20T04:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T05:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935919813916082266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tUhjx0TbmJ",
+          "end": 28,
+          "expanded_url": "https://x.com/hsn8086k/status/1935919813916082266/photo/1",
+          "media_key": "3_1935919800753995776",
+          "start": 5,
+          "url": "https://t.co/tUhjx0TbmJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935919813916082266",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "test https://t.co/tUhjx0TbmJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_1935919800753995776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gt3EzUWWQAA8q0X.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935919800753995776"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "1935919813916082266",
+        "created_at": "2025-06-20T04:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T05:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935919813916082266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tUhjx0TbmJ",
+              "end": 28,
+              "expanded_url": "https://x.com/hsn8086k/status/1935919813916082266/photo/1",
+              "media_key": "3_1935919800753995776",
+              "start": 5,
+              "url": "https://t.co/tUhjx0TbmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935919813916082266",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "test https://t.co/tUhjx0TbmJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 38,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 118
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

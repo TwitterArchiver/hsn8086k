@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2065790051557273704",
+    "created_at": "2026-06-14T07:32:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:32:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066061146675982399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902916066176806912",
+          "start": 0,
+          "username": "zllllyan"
+        },
+        {
+          "end": 17,
+          "id": "1164491062527680512",
+          "start": 10,
+          "username": "ccxxt2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066061146675982399",
+    "in_reply_to_user_id": "1902916066176806912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066060774557335734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zllllyan @ccxxt2 我从来没说过完全是厂商的问题, 我只是认为用户应该得到解bl的权利, 谁禁的, 与我无关, 我也不想, 不敢聊这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065790051557273704",
+        "created_at": "2026-06-14T07:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066061146675982399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902916066176806912",
+              "start": 0,
+              "username": "zllllyan"
+            },
+            {
+              "end": 17,
+              "id": "1164491062527680512",
+              "start": 10,
+              "username": "ccxxt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066061146675982399",
+        "in_reply_to_user_id": "1902916066176806912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066060774557335734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zllllyan @ccxxt2 我从来没说过完全是厂商的问题, 我只是认为用户应该得到解bl的权利, 谁禁的, 与我无关, 我也不想, 不敢聊这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902916066176806912",
+        "conversation_id": "2065790051557273704",
+        "created_at": "2026-06-14T07:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066060774557335734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 17,
+              "id": "1164491062527680512",
+              "start": 10,
+              "username": "ccxxt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066060774557335734",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066059412377317661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @ccxxt2 其实很多时候这些东西没你想的那么简单，厂商要考虑各种市场竞争法律，广告法，以及各种敏感话题，他们的程序员也是受过高等教育的人，为了让产品卖的更多，在尽可能降低法律风险的情况下会能给的都给"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 236,
+          "like_count": 9351,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2307
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T02:52:09.000Z",
+        "description": "人类以负熵为食   被沙东高考逼出腰间盘突出的学生  apple/小米/大疆/领克/极氪  拒绝台独/小粉红  远离精神疾病群体 理性看待事情  望多交朋友  kig latex 爱你们",
+        "id": "1902916066176806912",
+        "location": "波江座40三合星系统宜居带内侧轨道",
+        "name": "zlllyan 乐言（Lex Lan）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998799647704494081/rLCzvx3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 1651,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 745
+        },
+        "username": "zllllyan",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T10:54:52.000Z",
+        "description": "😘",
+        "id": "1164491062527680512",
+        "name": "你已经被锁定噜",
+        "pinned_tweet_id": "1546427394960924672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582996127460524032/4rHnlsfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 417,
+          "like_count": 5609,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 3635
+        },
+        "username": "ccxxt2",
+        "verified": false
+      }
+    ]
+  }
+}

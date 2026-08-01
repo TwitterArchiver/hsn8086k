@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2039152705378365799",
+    "created_at": "2026-04-01T03:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T04:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039181440727077089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1850201234801917952",
+          "start": 0,
+          "username": "theme_ocean_mo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039181440727077089",
+    "in_reply_to_user_id": "1850201234801917952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039181249236091231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theme_ocean_mo python, 后面可以不加分号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2039152705378365799",
+        "created_at": "2026-04-01T03:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039181440727077089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1850201234801917952",
+              "start": 0,
+              "username": "theme_ocean_mo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039181440727077089",
+        "in_reply_to_user_id": "1850201234801917952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039181249236091231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theme_ocean_mo python, 后面可以不加分号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850201234801917952",
+        "conversation_id": "2039152705378365799",
+        "created_at": "2026-04-01T03:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039181249236091231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039181249236091231",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039152705378365799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k error: expected ‘;’ before ‘🏳️‍⚧️’"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃🍥; 🏳️‍⚧️",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 216,
+          "like_count": 6688,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1754
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T15:42:23.000Z",
+        "description": "大学一年级   写诗&学计算机的  ovo                                              \n         \n                             📝🫧\n\nIn the flow of clock cycles.",
+        "id": "1850201234801917952",
+        "name": "陌上夏花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992101437569138688/I10iJkC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 114,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 338
+        },
+        "username": "theme_ocean_mo",
+        "verified": false
+      }
+    ]
+  }
+}

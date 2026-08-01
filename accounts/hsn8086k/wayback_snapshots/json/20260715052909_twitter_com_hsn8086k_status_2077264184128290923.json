@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2077264184128290923",
+    "created_at": "2026-07-15T05:29:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:29:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077264184128290923"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangxizhiKYWYW…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/wangxizhiKYWYW/status/2076530625511903626",
+          "start": 34,
+          "url": "https://t.co/HKWlRdWKrn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077264184128290923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076530625511903626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "得了吧, 啥也没有, 出处也没, 一眼假, 我还说英伟达起诉我呢. https://t.co/HKWlRdWKrn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1775,
+        "media_key": "3_2076530622957580288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFRmYKbcAA0MLQ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2077264184128290923",
+        "created_at": "2026-07-15T05:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077264184128290923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangxizhiKYWYW…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/wangxizhiKYWYW/status/2076530625511903626",
+              "start": 34,
+              "url": "https://t.co/HKWlRdWKrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077264184128290923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076530625511903626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "得了吧, 啥也没有, 出处也没, 一眼假, 我还说英伟达起诉我呢. https://t.co/HKWlRdWKrn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076530622957580288"
+          ]
+        },
+        "author_id": "1527586768891125760",
+        "conversation_id": "2076530625511903626",
+        "created_at": "2026-07-13T04:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076530625511903626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bVpXQ9ZeKU",
+              "end": 26,
+              "expanded_url": "https://x.com/wangxizhiKYWYW/status/2076530625511903626/photo/1",
+              "media_key": "3_2076530622957580288",
+              "start": 3,
+              "url": "https://t.co/bVpXQ9ZeKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076530625511903626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 277885,
+          "like_count": 552,
+          "quote_count": 13,
+          "reply_count": 241,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼 https://t.co/bVpXQ9ZeKU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 245,
+          "like_count": 10355,
+          "listed_count": 8,
+          "media_count": 234,
+          "tweet_count": 2653
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T09:47:40.000Z",
+        "description": "半文盲|\n我是回民见不得这个|\n为梁启超乐园而奋斗|\n学无止境|\n啊哈哈哈，我不识字|\n@wangzhixi_1\n这能写东西啊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "wangzhixi_1"
+              }
+            ]
+          }
+        },
+        "id": "1527586768891125760",
+        "location": "汉地",
+        "name": "怒尼威",
+        "pinned_tweet_id": "2040417016893636890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010168349041537025/dgUXtGIS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 1033,
+          "like_count": 49179,
+          "listed_count": 5,
+          "media_count": 3810,
+          "tweet_count": 15354
+        },
+        "url": "",
+        "username": "wangxizhiKYWYW",
+        "verified": false
+      }
+    ]
+  }
+}

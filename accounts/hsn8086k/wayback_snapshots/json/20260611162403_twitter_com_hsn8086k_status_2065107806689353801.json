@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2064860006445719949",
+    "created_at": "2026-06-11T16:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T17:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065107806689353801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4708674462",
+          "start": 0,
+          "username": "_shinhwe_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065107806689353801",
+    "in_reply_to_user_id": "4708674462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065057679882797309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_shinhwe_ 我也没说过我完全不用win啊, 你能不能脑子正常一点, 喜欢臆想右转精神科, 别几把在这转牛角尖."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2064860006445719949",
+        "created_at": "2026-06-11T16:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T17:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065107806689353801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4708674462",
+              "start": 0,
+              "username": "_shinhwe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065107806689353801",
+        "in_reply_to_user_id": "4708674462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065057679882797309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_shinhwe_ 我也没说过我完全不用win啊, 你能不能脑子正常一点, 喜欢臆想右转精神科, 别几把在这转牛角尖."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4708674462",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2064860006445719949",
+        "created_at": "2026-06-11T13:04:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:04:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065057679882797309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065057679882797309",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064885746448916854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 你自己说的 \"仅对我, 在 Linux 上用的东西都可以完美的迁移到 Mac 而不能迁移到 Win\" 可没有定语噢, 那请问我说的有哪里不对呢? 至于说急了, 笑死, 操作系统就是工具而已, 对我来说能解决问题的操作系统就是好操作系统, 有什么好急的?有些问题他就得在win32上解决, 那我就会选择win32, 这不是正常的吗?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 236,
+          "like_count": 9172,
+          "listed_count": 9,
+          "media_count": 209,
+          "tweet_count": 2241
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-04T13:08:34.000Z",
+        "description": "😇",
+        "id": "4708674462",
+        "location": "China",
+        "name": "Shinhwe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1316977700280528897/LtibV4xG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 940,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 326
+        },
+        "username": "_shinhwe_",
+        "verified": false
+      }
+    ]
+  }
+}

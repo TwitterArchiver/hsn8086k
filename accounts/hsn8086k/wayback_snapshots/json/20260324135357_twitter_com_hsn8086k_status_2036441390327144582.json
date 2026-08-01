@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2036441390327144582",
+    "created_at": "2026-03-24T13:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036441390327144582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/hsn8086/status/2036440465999012273",
+          "start": 21,
+          "url": "https://t.co/a2v9vT2ut9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036441390327144582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036440465999012273",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不得不说我和 npy 是水群认识的... https://t.co/a2v9vT2ut9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2036440457224527877",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELjzmsaIAUnoNu.jpg",
+        "width": 655
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2036441390327144582",
+        "created_at": "2026-03-24T13:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036441390327144582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/hsn8086/status/2036440465999012273",
+              "start": 21,
+              "url": "https://t.co/a2v9vT2ut9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036441390327144582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036440465999012273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不得不说我和 npy 是水群认识的... https://t.co/a2v9vT2ut9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036440457224527877"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2036440465999012273",
+        "created_at": "2026-03-24T13:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036440465999012273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vh6INk9Itu",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2036440465999012273/photo/1",
+              "media_key": "3_2036440457224527877",
+              "start": 0,
+              "url": "https://t.co/vh6INk9Itu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036440465999012273",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vh6INk9Itu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 194,
+          "like_count": 6068,
+          "listed_count": 5,
+          "media_count": 157,
+          "tweet_count": 1638
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035331409880170496/APcUmEBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118046,
+          "following_count": 1037,
+          "like_count": 51794,
+          "listed_count": 275,
+          "media_count": 20043,
+          "tweet_count": 30214
+        },
+        "username": "hsn8086",
+        "verified": false
+      }
+    ]
+  }
+}

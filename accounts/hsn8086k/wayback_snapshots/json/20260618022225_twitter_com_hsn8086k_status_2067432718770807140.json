@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2067432718770807140",
+    "created_at": "2026-06-18T02:22:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T03:22:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067432718770807140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991045969371361280",
+          "start": 3,
+          "username": "Russell3402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067432718770807140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066896600262418484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Russell3402: 建议大学把校园跑改成校园洗\n必须2天洗一次澡\n妈的上课快给我臭晕了😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2067432718770807140",
+        "created_at": "2026-06-18T02:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067432718770807140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991045969371361280",
+              "start": 3,
+              "username": "Russell3402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067432718770807140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066896600262418484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Russell3402: 建议大学把校园跑改成校园洗\n必须2天洗一次澡\n妈的上课快给我臭晕了😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991045969371361280",
+        "conversation_id": "2066896600262418484",
+        "created_at": "2026-06-16T14:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066896600262418484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066896600262418484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 177509,
+          "like_count": 2889,
+          "quote_count": 7,
+          "reply_count": 256,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "建议大学把校园跑改成校园洗\n必须2天洗一次澡\n妈的上课快给我臭晕了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 242,
+          "like_count": 9512,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2342
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-19T07:28:56.000Z",
+        "description": "05年大学生\n用AI赚到人生第123456789桶金\nAI玩咖 | 独立开发者 | 连续创业\n利他是最好的商业模式 坚信文字的力量\n保持谦逊",
+        "id": "1991045969371361280",
+        "name": "Russell",
+        "pinned_tweet_id": "2067095960275292287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027629616744304640/7fyIwFFU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5469,
+          "following_count": 208,
+          "like_count": 8487,
+          "listed_count": 18,
+          "media_count": 417,
+          "tweet_count": 4282
+        },
+        "url": "",
+        "username": "Russell3402",
+        "verified": true
+      }
+    ]
+  }
+}

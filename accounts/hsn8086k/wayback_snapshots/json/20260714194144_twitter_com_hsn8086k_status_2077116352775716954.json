@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1347257866864873473",
+          "name": "Apple Mac"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2077116352775716954",
+    "created_at": "2026-07-14T19:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T20:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077116352775716954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aylababe_/stat…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/Aylababe_/status/2076867841543004468",
+          "start": 74,
+          "url": "https://t.co/BTxE7wrMYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077116352775716954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076867841543004468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "首先苹果有在努力, 简单了解就知道, 现在游戏生态好很多了. 其次mac本来就不是为了性能放弃一切的电脑, 狭义上性价比并不高, 玩游戏的看不上. https://t.co/BTxE7wrMYK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2077116352775716954",
+        "created_at": "2026-07-14T19:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077116352775716954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aylababe_/stat…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/Aylababe_/status/2076867841543004468",
+              "start": 74,
+              "url": "https://t.co/BTxE7wrMYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077116352775716954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076867841543004468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先苹果有在努力, 简单了解就知道, 现在游戏生态好很多了. 其次mac本来就不是为了性能放弃一切的电脑, 狭义上性价比并不高, 玩游戏的看不上. https://t.co/BTxE7wrMYK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354198454541688833",
+        "conversation_id": "2076867841543004468",
+        "created_at": "2026-07-14T03:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076867841543004468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076867841543004468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2711,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苹果M芯片那么强 \n\n剪辑渲染乱杀\n\n为什么不涉猎游戏本行业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 245,
+          "like_count": 10341,
+          "listed_count": 8,
+          "media_count": 234,
+          "tweet_count": 2652
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T22:45:04.000Z",
+        "description": "做年轻人可复制的 0→1 创业者｜再看30s即可成功复活最幸运的kitty\n\n要做那个一边哭一边搞定所有事情的可爱女人",
+        "id": "1354198454541688833",
+        "name": "美少女战士_Ayla",
+        "pinned_tweet_id": "2043299379671380398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072666213155786752/a90mPWa3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9505,
+          "following_count": 303,
+          "like_count": 4193,
+          "listed_count": 52,
+          "media_count": 1487,
+          "tweet_count": 5059
+        },
+        "url": "",
+        "username": "Aylababe_",
+        "verified": true
+      }
+    ]
+  }
+}

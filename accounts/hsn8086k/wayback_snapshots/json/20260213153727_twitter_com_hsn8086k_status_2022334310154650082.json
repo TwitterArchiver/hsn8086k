@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2022334310154650082",
+    "created_at": "2026-02-13T15:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022334310154650082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cherylnatsu/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/cherylnatsu/status/2022242048565449082",
+          "start": 18,
+          "url": "https://t.co/pIWKqNuGyS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022334310154650082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022242048565449082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么好吗, AI 啥时候能替我活着 https://t.co/pIWKqNuGyS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2022334310154650082",
+        "created_at": "2026-02-13T15:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022334310154650082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cherylnatsu/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/cherylnatsu/status/2022242048565449082",
+              "start": 18,
+              "url": "https://t.co/pIWKqNuGyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022334310154650082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022242048565449082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么好吗, AI 啥时候能替我活着 https://t.co/pIWKqNuGyS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "188330055",
+        "conversation_id": "2022242048565449082",
+        "created_at": "2026-02-13T09:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T10:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022242048565449082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022242048565449082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3893,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我见过一个人，从GPT 3.x到Opus 4.6全程坚信自己不会被AI替代，并且每次AI进化都能提出各种不会被替代的理由。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 156,
+          "like_count": 3686,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 1070
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-08T13:43:45.000Z",
+        "description": "苹果产品相关话题优秀X友（前身为推友）",
+        "id": "188330055",
+        "name": "夏雨婷",
+        "pinned_tweet_id": "1853041525141217601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909990228821250049/60ODW_Qj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16258,
+          "following_count": 3800,
+          "like_count": 8149,
+          "listed_count": 136,
+          "media_count": 950,
+          "tweet_count": 51469
+        },
+        "username": "cherylnatsu",
+        "verified": false
+      }
+    ]
+  }
+}

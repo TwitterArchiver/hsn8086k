@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2040483517919113307",
+    "created_at": "2026-04-04T17:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T18:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040483517919113307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2040482905001198021",
+          "start": 31,
+          "url": "https://t.co/8k8fiVsv2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040483517919113307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040482905001198021",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或者说为什么要凭空创建一个文件并且不用编辑器编辑, 好奇怪. https://t.co/8k8fiVsv2D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040483517919113307",
+        "created_at": "2026-04-04T17:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040483517919113307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2040482905001198021",
+              "start": 31,
+              "url": "https://t.co/8k8fiVsv2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040483517919113307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040482905001198021",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或者说为什么要凭空创建一个文件并且不用编辑器编辑, 好奇怪. https://t.co/8k8fiVsv2D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040482905001198021",
+        "created_at": "2026-04-04T17:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040482905001198021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MrYANFD/status…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/MrYANFD/status/2040402729793900593",
+              "start": 66,
+              "url": "https://t.co/SbHzWNvuSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040482905001198021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040402729793900593",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现 gnome 也是没创建文件的, 但是完全无感, 需要创建文件大概都是要写入内容, 不是在编辑器里就是在终端, 直接写就是了. https://t.co/SbHzWNvuSc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 219,
+          "like_count": 6948,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1797
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

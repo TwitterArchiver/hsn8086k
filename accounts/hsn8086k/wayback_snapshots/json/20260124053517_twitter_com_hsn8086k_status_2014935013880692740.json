@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014935011901030400"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2014709553896849730",
+    "created_at": "2026-01-24T05:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T06:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014935013880692740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1282832893304242178",
+          "start": 0,
+          "username": "baihui_Ke"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z4z2nTRMPO",
+          "end": 34,
+          "expanded_url": "https://x.com/hsn8086k/status/2014935013880692740/photo/1",
+          "media_key": "3_2014935011901030400",
+          "start": 11,
+          "url": "https://t.co/Z4z2nTRMPO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014935013880692740",
+    "in_reply_to_user_id": "1282832893304242178",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014927530915172741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baihui_Ke https://t.co/Z4z2nTRMPO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 437,
+        "media_key": "3_2014935011901030400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Z8t73bwAAE-U6.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014935011901030400"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2014709553896849730",
+        "created_at": "2026-01-24T05:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014935013880692740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1282832893304242178",
+              "start": 0,
+              "username": "baihui_Ke"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z4z2nTRMPO",
+              "end": 34,
+              "expanded_url": "https://x.com/hsn8086k/status/2014935013880692740/photo/1",
+              "media_key": "3_2014935011901030400",
+              "start": 11,
+              "url": "https://t.co/Z4z2nTRMPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014935013880692740",
+        "in_reply_to_user_id": "1282832893304242178",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014927530915172741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baihui_Ke https://t.co/Z4z2nTRMPO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1282832893304242178",
+        "conversation_id": "2014709553896849730",
+        "created_at": "2026-01-24T05:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014927530915172741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014927530915172741",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014918887637430458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 盯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 86,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 275
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-14T00:23:01.000Z",
+        "description": "",
+        "id": "1282832893304242178",
+        "location": "距离你1.2km",
+        "name": "白灰",
+        "pinned_tweet_id": "1890054887813296135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010598382117740544/nyOfuwN2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 332,
+          "like_count": 32410,
+          "listed_count": 1,
+          "media_count": 1339,
+          "tweet_count": 13747
+        },
+        "username": "baihui_Ke",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019371420443439105"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019371423819772338",
+    "created_at": "2026-02-05T11:24:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019371423819772338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QK36nO3c4c",
+          "end": 23,
+          "expanded_url": "https://x.com/hsn8086k/status/2019371423819772338/photo/1",
+          "media_key": "3_2019371420443439105",
+          "start": 0,
+          "url": "https://t.co/QK36nO3c4c"
+        },
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2019086493684535386",
+          "start": 24,
+          "url": "https://t.co/LpEViMeSt2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019371423819772338",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019086493684535386",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/QK36nO3c4c https://t.co/LpEViMeSt2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2019371420443439105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAY_m5kbcAEx9uZ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019371420443439105"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019371423819772338",
+        "created_at": "2026-02-05T11:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019371423819772338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QK36nO3c4c",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2019371423819772338/photo/1",
+              "media_key": "3_2019371420443439105",
+              "start": 0,
+              "url": "https://t.co/QK36nO3c4c"
+            },
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2019086493684535386",
+              "start": 24,
+              "url": "https://t.co/LpEViMeSt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019371423819772338",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019086493684535386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/QK36nO3c4c https://t.co/LpEViMeSt2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019086493684535386",
+        "created_at": "2026-02-04T16:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019086493684535386"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OliviaWantsHug…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/OliviaWantsHugs/status/2018641580786417964",
+              "start": 37,
+              "url": "https://t.co/JORINBLyrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019086493684535386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 463,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018641580786417964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多年以后，你躺在布林面前，准会想起母亲带你去广脑的那个遥远的下午。(错乱 https://t.co/JORINBLyrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 145,
+          "like_count": 2627,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 793
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

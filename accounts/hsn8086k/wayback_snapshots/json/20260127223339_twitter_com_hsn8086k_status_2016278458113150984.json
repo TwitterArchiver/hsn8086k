@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016278456141819904"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015672810765697123",
+    "created_at": "2026-01-27T22:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T23:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016278458113150984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1689214483481452544",
+          "start": 0,
+          "username": "ZianTT_Official"
+        },
+        {
+          "end": 28,
+          "id": "1497241020303495168",
+          "start": 17,
+          "username": "mosscghere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UkzDyERu6Q",
+          "end": 52,
+          "expanded_url": "https://x.com/hsn8086k/status/2016278458113150984/photo/1",
+          "media_key": "3_2016278456141819904",
+          "start": 29,
+          "url": "https://t.co/UkzDyERu6Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016278458113150984",
+    "in_reply_to_user_id": "1689214483481452544",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016278331344486427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZianTT_Official @mosscghere https://t.co/UkzDyERu6Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_2016278456141819904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_tCkrqbMAA5aUs.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016278456141819904"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015672810765697123",
+        "created_at": "2026-01-27T22:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T23:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016278458113150984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689214483481452544",
+              "start": 0,
+              "username": "ZianTT_Official"
+            },
+            {
+              "end": 28,
+              "id": "1497241020303495168",
+              "start": 17,
+              "username": "mosscghere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UkzDyERu6Q",
+              "end": 52,
+              "expanded_url": "https://x.com/hsn8086k/status/2016278458113150984/photo/1",
+              "media_key": "3_2016278456141819904",
+              "start": 29,
+              "url": "https://t.co/UkzDyERu6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016278458113150984",
+        "in_reply_to_user_id": "1689214483481452544",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016278331344486427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZianTT_Official @mosscghere https://t.co/UkzDyERu6Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689214483481452544",
+        "conversation_id": "2015672810765697123",
+        "created_at": "2026-01-27T22:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T23:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016278331344486427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 21,
+              "id": "1497241020303495168",
+              "start": 10,
+              "username": "mosscghere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016278331344486427",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016278258007081165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @mosscghere 诶，我吃吃吃吃吃吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 104,
+          "like_count": 1288,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 471
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T09:58:21.000Z",
+        "description": "DevOps, SRE, Cyber Security,  Web Developer | Python & GoLang & JavaScript | LightXi Inc.",
+        "id": "1689214483481452544",
+        "location": "Shanghai, PRC",
+        "name": "ZianTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990826336236285956/BZi5flJ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 379,
+          "like_count": 1960,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 2130
+        },
+        "username": "ZianTT_Official",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-25T16:04:20.000Z",
+        "description": "这里是啥也不会的墨姐姐｜闲聊日常技术推｜后端Java+Python工程师｜伪全栈｜早退OIer｜远古MC服主｜MossFrp老板娘｜Trans周边绝赞贩售中",
+        "id": "1497241020303495168",
+        "name": "啥也不会墨姐姐 #三玖天下第一！",
+        "pinned_tweet_id": "1805802094882078995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866694402057572356/bVsoVvV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6082,
+          "following_count": 845,
+          "like_count": 18873,
+          "listed_count": 5,
+          "media_count": 1452,
+          "tweet_count": 5566
+        },
+        "username": "mosscghere",
+        "verified": false
+      }
+    ]
+  }
+}

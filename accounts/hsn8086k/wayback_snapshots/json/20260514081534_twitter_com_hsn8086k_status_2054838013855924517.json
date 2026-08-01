@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054838005865820160",
+        "3_2054838006260121600"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2054838013855924517",
+    "created_at": "2026-05-14T08:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T09:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054838013855924517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tWA04Ye04d",
+          "end": 32,
+          "expanded_url": "https://x.com/hsn8086k/status/2054838013855924517/photo/1",
+          "media_key": "3_2054838005865820160",
+          "start": 9,
+          "url": "https://t.co/tWA04Ye04d"
+        },
+        {
+          "display_url": "pic.x.com/tWA04Ye04d",
+          "end": 32,
+          "expanded_url": "https://x.com/hsn8086k/status/2054838013855924517/photo/1",
+          "media_key": "3_2054838006260121600",
+          "start": 9,
+          "url": "https://t.co/tWA04Ye04d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054838013855924517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哦牛还有这种东西 https://t.co/tWA04Ye04d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 802,
+        "media_key": "3_2054838005865820160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRAR4KasAAk1Rl.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1011,
+        "media_key": "3_2054838006260121600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRAR5obQAAKHL4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054838005865820160",
+            "3_2054838006260121600"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2054838013855924517",
+        "created_at": "2026-05-14T08:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054838013855924517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWA04Ye04d",
+              "end": 32,
+              "expanded_url": "https://x.com/hsn8086k/status/2054838013855924517/photo/1",
+              "media_key": "3_2054838005865820160",
+              "start": 9,
+              "url": "https://t.co/tWA04Ye04d"
+            },
+            {
+              "display_url": "pic.x.com/tWA04Ye04d",
+              "end": 32,
+              "expanded_url": "https://x.com/hsn8086k/status/2054838013855924517/photo/1",
+              "media_key": "3_2054838006260121600",
+              "start": 9,
+              "url": "https://t.co/tWA04Ye04d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054838013855924517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦牛还有这种东西 https://t.co/tWA04Ye04d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1921,
+          "following_count": 219,
+          "like_count": 8050,
+          "listed_count": 7,
+          "media_count": 193,
+          "tweet_count": 2035
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

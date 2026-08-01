@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065883275567251456"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2065883294093500586",
+    "created_at": "2026-06-13T19:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T20:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065883294093500586"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AeaSM55Hbi",
+          "end": 30,
+          "expanded_url": "https://x.com/hsn8086k/status/2065883294093500586/photo/1",
+          "media_key": "3_2065883275567251456",
+          "start": 7,
+          "url": "https://t.co/AeaSM55Hbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065883294093500586",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我讨厌蠢人. https://t.co/AeaSM55Hbi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2249,
+        "media_key": "3_2065883275567251456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKt95MObQAA5SW0.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065883275567251456"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065883294093500586",
+        "created_at": "2026-06-13T19:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065883294093500586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AeaSM55Hbi",
+              "end": 30,
+              "expanded_url": "https://x.com/hsn8086k/status/2065883294093500586/photo/1",
+              "media_key": "3_2065883275567251456",
+              "start": 7,
+              "url": "https://t.co/AeaSM55Hbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065883294093500586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌蠢人. https://t.co/AeaSM55Hbi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 236,
+          "like_count": 9282,
+          "listed_count": 9,
+          "media_count": 210,
+          "tweet_count": 2291
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

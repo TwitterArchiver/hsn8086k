@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019720402164195619",
+    "created_at": "2026-02-06T10:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T11:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019720402164195619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Snow_Xue_/stat…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/Snow_Xue_/status/2019564348562370950",
+          "start": 55,
+          "url": "https://t.co/LzNcAsp4lV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019720402164195619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019564348562370950",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很怀念啊, 上高中的时候, \"补课\", 问候了年级主任祖宗十八代后, 买了两张火车票跑省会玩了, 成功翘掉. https://t.co/LzNcAsp4lV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37682,
+        "height": 1280,
+        "media_key": "7_2019563764421718016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019563764421718016/pu/img/N_miWvqWwJRYDM2a.jpg",
+        "public_metrics": {
+          "view_count": 1670
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019563764421718016/pu/vid/avc1/320x568/9E2JU14qifz_Y33J.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019563764421718016/pu/vid/avc1/480x852/HQbQxjz6rsuvh8Sx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019563764421718016/pu/vid/avc1/720x1280/Oj_ihRdufH19Lzbq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019563764421718016/pu/pl/4VCgmMWKbpqLhj4E.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019720402164195619",
+        "created_at": "2026-02-06T10:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019720402164195619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snow_Xue_/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Snow_Xue_/status/2019564348562370950",
+              "start": 55,
+              "url": "https://t.co/LzNcAsp4lV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019720402164195619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019564348562370950",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很怀念啊, 上高中的时候, \"补课\", 问候了年级主任祖宗十八代后, 买了两张火车票跑省会玩了, 成功翘掉. https://t.co/LzNcAsp4lV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019563764421718016"
+          ]
+        },
+        "author_id": "1885154179922227200",
+        "conversation_id": "2019564348562370950",
+        "created_at": "2026-02-06T00:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T01:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019564348562370950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pNsxsGZgGF",
+              "end": 48,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2019564348562370950/video/1",
+              "media_key": "7_2019563764421718016",
+              "start": 25,
+              "url": "https://t.co/pNsxsGZgGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019564348562370950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3671,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有任何情况，高铁开了，没晶格来找窝。\n自由了！ https://t.co/pNsxsGZgGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1216,
+          "following_count": 147,
+          "like_count": 2713,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 820
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 前往合肥中 | 不见证 | 不割手 | 也不知道会不会o上 | 生产日期2010.3.16 | 无证含糖 | 🍥hrt 2025.11 | 已炸柜 | 家长不管党（？）大概率已成为家暴党 |\n| b站：屑冷雪 / 屑冷雪_ |\n提问箱 https://t.co/UJzajXA6Cp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 152,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 129,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2019404944802300334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 1398,
+          "like_count": 40665,
+          "listed_count": 3,
+          "media_count": 521,
+          "tweet_count": 3988
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

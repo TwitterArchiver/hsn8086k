@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2025862330047959088",
+    "created_at": "2026-02-23T10:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025874294295961604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912425245434380288",
+          "start": 0,
+          "username": "NikumaruNamo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025874294295961604",
+    "in_reply_to_user_id": "1912425245434380288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025874121427759295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikumaruNamo 主要是今天出门发现想去的店铺还没开门, 于是抱怨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2025862330047959088",
+        "created_at": "2026-02-23T10:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025874294295961604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912425245434380288",
+              "start": 0,
+              "username": "NikumaruNamo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025874294295961604",
+        "in_reply_to_user_id": "1912425245434380288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025874121427759295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikumaruNamo 主要是今天出门发现想去的店铺还没开门, 于是抱怨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912425245434380288",
+        "conversation_id": "2025862330047959088",
+        "created_at": "2026-02-23T10:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025874121427759295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025874121427759295",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025862330047959088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 马上年就结束嘞ᕙ(`▿´)ᕗ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 169,
+          "like_count": 4594,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1325
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T08:38:19.000Z",
+        "description": "(Your language is always OK for me)",
+        "id": "1912425245434380288",
+        "location": "Crescent Bay",
+        "name": "纳無",
+        "pinned_tweet_id": "2024146349852147775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994000253528518656/an6AXajE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 129,
+          "like_count": 4793,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 591
+        },
+        "username": "NikumaruNamo",
+        "verified": false
+      }
+    ]
+  }
+}

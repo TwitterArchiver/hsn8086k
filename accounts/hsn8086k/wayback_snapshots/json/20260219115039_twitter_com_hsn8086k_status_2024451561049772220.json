@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024451561049772220",
+    "created_at": "2026-02-19T11:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024451561049772220"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mtfmtx138248/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/mtfmtx138248/status/2024326329043472469",
+          "start": 20,
+          "url": "https://t.co/Vk7ww0ZYSs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024451561049772220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024326329043472469",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有权力做自己想做的事的人能不能叫自然人 https://t.co/Vk7ww0ZYSs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_2024326321862823938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfaEHwbUAIXB9g.jpg",
+        "width": 604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024451561049772220",
+        "created_at": "2026-02-19T11:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024451561049772220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mtfmtx138248/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/mtfmtx138248/status/2024326329043472469",
+              "start": 20,
+              "url": "https://t.co/Vk7ww0ZYSs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024451561049772220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024326329043472469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有权力做自己想做的事的人能不能叫自然人 https://t.co/Vk7ww0ZYSs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024326321862823938"
+          ]
+        },
+        "author_id": "1677383468660191232",
+        "conversation_id": "2024326329043472469",
+        "created_at": "2026-02-19T03:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024326329043472469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LaPq79Nl8q",
+              "end": 51,
+              "expanded_url": "https://x.com/mtfmtx138248/status/2024326329043472469/photo/1",
+              "media_key": "3_2024326321862823938",
+              "start": 28,
+              "url": "https://t.co/LaPq79Nl8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024326329043472469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 670,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女生把头发剪短叫自然女，那男生把头发留长能不能叫自然男 https://t.co/LaPq79Nl8q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 163,
+          "like_count": 4215,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1227
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T18:26:31.000Z",
+        "description": "我有易性症",
+        "id": "1677383468660191232",
+        "name": "神楽坂美緒",
+        "pinned_tweet_id": "1957726693109690513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763562734128607232/FH7wy4u__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1608,
+          "following_count": 415,
+          "like_count": 134054,
+          "listed_count": 7,
+          "media_count": 154,
+          "tweet_count": 1495
+        },
+        "username": "mtfmtx138248",
+        "verified": false
+      }
+    ]
+  }
+}

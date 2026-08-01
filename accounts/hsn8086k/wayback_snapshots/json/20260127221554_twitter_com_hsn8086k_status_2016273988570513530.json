@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016273988570513530",
+    "created_at": "2026-01-27T22:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T23:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016273988570513530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2015894311532106118",
+          "start": 37,
+          "url": "https://t.co/55uGETa7kr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016273988570513530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015894311532106118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过确实可以在网上找到hsn和队友讨论题目没讨论出来拿题面敲脑袋的视频( https://t.co/55uGETa7kr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016273988570513530",
+        "created_at": "2026-01-27T22:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T23:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016273988570513530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2015894311532106118",
+              "start": 37,
+              "url": "https://t.co/55uGETa7kr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016273988570513530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015894311532106118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过确实可以在网上找到hsn和队友讨论题目没讨论出来拿题面敲脑袋的视频( https://t.co/55uGETa7kr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015830471155106218",
+        "created_at": "2026-01-26T21:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T22:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015894311532106118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1251444237222240258",
+              "start": 0,
+              "username": "IIInoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015894311532106118",
+        "in_reply_to_user_id": "1251444237222240258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5278,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015891466271281503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIInoki 是不是真要开个订阅放我照片你们才会满意((("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 104,
+          "like_count": 1271,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 462
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

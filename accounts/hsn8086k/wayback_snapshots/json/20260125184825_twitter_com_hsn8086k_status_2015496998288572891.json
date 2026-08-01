@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015496995180576769"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015496998288572891",
+    "created_at": "2026-01-25T18:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T19:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015496998288572891"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eLsbpu7833",
+          "end": 34,
+          "expanded_url": "https://x.com/hsn8086k/status/2015496998288572891/photo/1",
+          "media_key": "3_2015496995180576769",
+          "start": 11,
+          "url": "https://t.co/eLsbpu7833"
+        },
+        {
+          "display_url": "x.com/SIRliquid_/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/SIRliquid_/status/2014974579584991651",
+          "start": 35,
+          "url": "https://t.co/mhSF1XrNst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015496998288572891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014974579584991651",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "分辨率太高导致的(逃 https://t.co/eLsbpu7833 https://t.co/mhSF1XrNst"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2015496995180576769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_h71qubAAEhjuk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015496995180576769"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015496998288572891",
+        "created_at": "2026-01-25T18:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T19:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015496998288572891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eLsbpu7833",
+              "end": 34,
+              "expanded_url": "https://x.com/hsn8086k/status/2015496998288572891/photo/1",
+              "media_key": "3_2015496995180576769",
+              "start": 11,
+              "url": "https://t.co/eLsbpu7833"
+            },
+            {
+              "display_url": "x.com/SIRliquid_/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/SIRliquid_/status/2014974579584991651",
+              "start": 35,
+              "url": "https://t.co/mhSF1XrNst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015496998288572891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014974579584991651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分辨率太高导致的(逃 https://t.co/eLsbpu7833 https://t.co/mhSF1XrNst"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786055418684264448",
+        "conversation_id": "2014974579584991651",
+        "created_at": "2026-01-24T08:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T09:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014974579584991651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SIRliquid_/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/SIRliquid_/status/2014974275372122506",
+              "start": 31,
+              "url": "https://t.co/Mde4KGJ01B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014974579584991651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014974275372122506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看着不清晰好难受😵‍💫\n谁能解决不点开图片看得不清晰的问题😭 https://t.co/Mde4KGJ01B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 90,
+          "like_count": 758,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 344
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T15:29:38.000Z",
+        "description": "17岁 笨蛋高中生× || 喜欢音乐🎶 || 喜欢有礼貌的人😘 || 电子信息与嵌入式相关爱好者/初学者💻 || 泛性恋 || 友跨 || 不含糖 || 我好无聊来找我玩 || (待补充)\n(Fan Account) || 详细说明见置顶推👇https://t.co/FPqDjlZjVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sirliquid_",
+                "end": 144,
+                "expanded_url": "https://ngl.link/sirliquid_",
+                "start": 121,
+                "url": "https://t.co/FPqDjlZjVl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kokomi_desu",
+                "end": 23,
+                "expanded_url": "http://t.me/Kokomi_desu",
+                "start": 0,
+                "url": "https://t.co/Yq2AmHnhNF"
+              }
+            ]
+          }
+        },
+        "id": "1786055418684264448",
+        "location": "日本 東京 特雷森學園",
+        "name": "Ring.✦不眠不醒不可思议",
+        "pinned_tweet_id": "2014974275372122506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956298910894313474/LjnX_i56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 299,
+          "like_count": 5841,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 2434
+        },
+        "url": "https://t.co/Yq2AmHnhNF",
+        "username": "SIRliquid_",
+        "verified": false
+      }
+    ]
+  }
+}

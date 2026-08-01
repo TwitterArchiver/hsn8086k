@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2025618167331221863",
+    "created_at": "2026-02-23T05:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T06:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025808904492630156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1195600976503197696",
+          "start": 0,
+          "username": "tech_yan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025808904492630156",
+    "in_reply_to_user_id": "1195600976503197696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025737953310626226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tech_yan 官方审查随便啥啥都会炸, 比较离谱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2025618167331221863",
+        "created_at": "2026-02-23T05:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025808904492630156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1195600976503197696",
+              "start": 0,
+              "username": "tech_yan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025808904492630156",
+        "in_reply_to_user_id": "1195600976503197696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025737953310626226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tech_yan 官方审查随便啥啥都会炸, 比较离谱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1195600976503197696",
+        "conversation_id": "2025618167331221863",
+        "created_at": "2026-02-23T01:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T02:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025737953310626226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025737953310626226",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 388,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025618167331221863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k deepseek官方不限速不限并发，我可以一小时就烧掉1000块的token"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 168,
+          "like_count": 4567,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1314
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-16T07:14:26.000Z",
+        "description": "Digital nomadic scientist and entrepreneur wannabe.",
+        "id": "1195600976503197696",
+        "name": "nomadicYank",
+        "pinned_tweet_id": "1977196660775403805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1250000294819192832/IOXoYosC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 167,
+          "like_count": 1812,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 2509
+        },
+        "username": "tech_yan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2065790051557273704",
+    "created_at": "2026-06-14T06:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066042632292454608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1164491062527680512",
+          "start": 0,
+          "username": "ccxxt2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066042632292454608",
+    "in_reply_to_user_id": "1164491062527680512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066040325949550874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccxxt2 能解bl锁, 万一厂商越来越恶心, 各种广告各种限制, 比如限制热点改名, 比如不能安装风险软件, 比如背屏更改审核, 都可以通过自己或者他人的力量绕过, 不能解bl就受者吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065790051557273704",
+        "created_at": "2026-06-14T06:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066042632292454608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1164491062527680512",
+              "start": 0,
+              "username": "ccxxt2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066042632292454608",
+        "in_reply_to_user_id": "1164491062527680512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066040325949550874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccxxt2 能解bl锁, 万一厂商越来越恶心, 各种广告各种限制, 比如限制热点改名, 比如不能安装风险软件, 比如背屏更改审核, 都可以通过自己或者他人的力量绕过, 不能解bl就受者吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164491062527680512",
+        "conversation_id": "2065790051557273704",
+        "created_at": "2026-06-14T06:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066040325949550874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066040325949550874",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065790051557273704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 不解bl锁会得到什么报应  好奇问下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 236,
+          "like_count": 9287,
+          "listed_count": 8,
+          "media_count": 210,
+          "tweet_count": 2296
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T10:54:52.000Z",
+        "description": "😘",
+        "id": "1164491062527680512",
+        "name": "你已经被锁定噜",
+        "pinned_tweet_id": "1546427394960924672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1582996127460524032/4rHnlsfS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 417,
+          "like_count": 5607,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 3634
+        },
+        "username": "ccxxt2",
+        "verified": false
+      }
+    ]
+  }
+}

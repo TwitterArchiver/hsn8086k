@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2041174658112967048",
+    "created_at": "2026-04-06T15:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041179733241872789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2692096819",
+          "start": 0,
+          "username": "user_uuid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041179733241872789",
+    "in_reply_to_user_id": "2692096819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041177230739386673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@user_uuid 你愿意这样折腾, 随你."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2041174658112967048",
+        "created_at": "2026-04-06T15:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041179733241872789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2692096819",
+              "start": 0,
+              "username": "user_uuid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041179733241872789",
+        "in_reply_to_user_id": "2692096819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041177230739386673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user_uuid 你愿意这样折腾, 随你."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2692096819",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "TXT (투모로우바이투게더)",
+              "id": "1083397690140971008",
+              "name": "TOMORROW X TOGETHER"
+            }
+          }
+        ],
+        "conversation_id": "2041174658112967048",
+        "created_at": "2026-04-06T15:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041177230739386673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041177230739386673",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041174658112967048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 你是觉得所有软件都要像Obsidian或是VSCode那样管理内容？我目录下新建个.env/sh/txt文件随手写几行又不是写小说，这种场景我只需要一个能秒开的单文本编辑器，带不带高亮我都不在乎。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 219,
+          "like_count": 7066,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1817
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-30T07:16:24.000Z",
+        "description": "大家死不是大家居住",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/user_uuid",
+                "end": 23,
+                "expanded_url": "https://x.com/user_uuid",
+                "start": 0,
+                "url": "https://t.co/dLSY2SolVd"
+              }
+            ]
+          }
+        },
+        "id": "2692096819",
+        "location": "万达广场附近",
+        "name": "🤎❤️🧡💛💚💙💜🩶🤍🖤",
+        "pinned_tweet_id": "1017580096637435905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737269526004199424/FFgM_KQZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1349,
+          "following_count": 5108,
+          "like_count": 624635,
+          "listed_count": 14,
+          "media_count": 2129,
+          "tweet_count": 36165
+        },
+        "url": "https://t.co/dLSY2SolVd",
+        "username": "user_uuid",
+        "verified": false
+      }
+    ]
+  }
+}

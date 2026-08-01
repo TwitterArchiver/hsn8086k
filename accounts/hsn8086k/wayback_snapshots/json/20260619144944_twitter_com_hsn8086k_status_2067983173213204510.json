@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2067983173213204510",
+    "created_at": "2026-06-19T14:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067983173213204510"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/auspiceshirley…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/auspiceshirley/status/2067843284433584491",
+          "start": 56,
+          "url": "https://t.co/d7kRpbwcUe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067983173213204510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067843284433584491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没意义, 也不需要知道, 对于许多人来说, 114514也是完全无意义的一串数字, 但是不妨碍他们喜欢这个梗. https://t.co/d7kRpbwcUe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2067983173213204510",
+        "created_at": "2026-06-19T14:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067983173213204510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/auspiceshirley…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/auspiceshirley/status/2067843284433584491",
+              "start": 56,
+              "url": "https://t.co/d7kRpbwcUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067983173213204510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067843284433584491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没意义, 也不需要知道, 对于许多人来说, 114514也是完全无意义的一串数字, 但是不妨碍他们喜欢这个梗. https://t.co/d7kRpbwcUe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050253104935997440",
+        "conversation_id": "2067843284433584491",
+        "created_at": "2026-06-19T05:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067843284433584491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067843284433584491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2052,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我至今仍未明白“67”这个梗是什么意思……🧐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 241,
+          "like_count": 9574,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 2368
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T16:38:27.000Z",
+        "description": "ENG/中文 | Daily life & Technology &「魔法少女ノ魔女裁判」🍎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/auspiceshirley",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/auspiceshirley",
+                "start": 0,
+                "url": "https://t.co/2Fyt0qKe8z"
+              }
+            ]
+          }
+        },
+        "id": "2050253104935997440",
+        "location": "Hong Kong",
+        "name": "Shirley Auspice",
+        "pinned_tweet_id": "2065781030783472110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050253824372412417/h-oCtpG6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 461,
+          "like_count": 374,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 864
+        },
+        "url": "https://t.co/2Fyt0qKe8z",
+        "username": "auspiceshirley",
+        "verified": true
+      }
+    ]
+  }
+}

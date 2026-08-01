@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2042101697082982848",
+    "created_at": "2026-04-09T09:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042174768640934198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012412499962802176",
+          "start": 0,
+          "username": "liuyan12306"
+        },
+        {
+          "end": 20,
+          "id": "1900168705847500800",
+          "start": 13,
+          "username": "wxb_NB"
+        },
+        {
+          "end": 32,
+          "id": "2030984381070761984",
+          "start": 21,
+          "username": "Cassianqvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042174768640934198",
+    "in_reply_to_user_id": "2012412499962802176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042134548021203055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuyan12306 @wxb_NB @Cassianqvd 正常人不傻, 但是傻子傻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2042101697082982848",
+        "created_at": "2026-04-09T09:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042174768640934198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012412499962802176",
+              "start": 0,
+              "username": "liuyan12306"
+            },
+            {
+              "end": 20,
+              "id": "1900168705847500800",
+              "start": 13,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 32,
+              "id": "2030984381070761984",
+              "start": 21,
+              "username": "Cassianqvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042174768640934198",
+        "in_reply_to_user_id": "2012412499962802176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042134548021203055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuyan12306 @wxb_NB @Cassianqvd 正常人不傻, 但是傻子傻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012412499962802176",
+        "conversation_id": "2042101697082982848",
+        "created_at": "2026-04-09T06:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042134548021203055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1900168705847500800",
+              "start": 0,
+              "username": "wxb_NB"
+            },
+            {
+              "end": 19,
+              "id": "2030984381070761984",
+              "start": 8,
+              "username": "Cassianqvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042134548021203055",
+        "in_reply_to_user_id": "1900168705847500800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1041,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042134278822322339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wxb_NB @Cassianqvd 不是我知道，我问的是正常人又不傻，整天千篇一律的是何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 217,
+          "like_count": 7242,
+          "listed_count": 5,
+          "media_count": 167,
+          "tweet_count": 1852
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T06:32:00.000Z",
+        "description": "汉室宗亲",
+        "id": "2012412499962802176",
+        "name": "刘焉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016453259741757440/SdVPu9V7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 57,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 517
+        },
+        "username": "liuyan12306",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T12:58:35.000Z",
+        "description": "互fo 请私信，看成分回\n16岁高中小废柴 / 泛性恋 / 上课听不懂 / 我的世界里才是家\n成分：互联网泔水爱好者 + 破防速通王 + 编程只会hello world循环\n作业写不完 / 梗图收不停\n评论分身 @wangxbNB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 106,
+                "username": "wangxbNB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awacat.cc",
+                "end": 23,
+                "expanded_url": "https://awacat.cc",
+                "start": 0,
+                "url": "https://t.co/kE5lN2orOL"
+              }
+            ]
+          }
+        },
+        "id": "1900168705847500800",
+        "location": "我喜欢你，请和我生小草莓！",
+        "name": "草莓走丢了",
+        "pinned_tweet_id": "2010609889283100788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025824314927534080/qJZtGZj5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 523,
+          "like_count": 8139,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1301
+        },
+        "url": "https://t.co/kE5lN2orOL",
+        "username": "wxb_NB",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-09T12:31:46.000Z",
+        "description": "🧭 长期主义｜在变化中寻找不变\n🤖 关注 AI、商业与自媒体运营的真实演化\n🔍 拆解趋势，过滤噪音，理解技术与人性的交汇\n✍️ 分享判断框架、实践观察与长期价值",
+        "id": "2030984381070761984",
+        "name": "Cassian",
+        "pinned_tweet_id": "2042151787138822474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041870266117079040/pbJXRorJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 80,
+          "like_count": 29,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 120
+        },
+        "username": "Cassianqvd",
+        "verified": true
+      }
+    ]
+  }
+}

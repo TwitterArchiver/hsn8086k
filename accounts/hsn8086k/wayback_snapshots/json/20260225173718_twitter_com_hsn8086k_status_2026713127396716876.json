@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026713124171300864"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2026712945682690480",
+    "created_at": "2026-02-25T17:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T18:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026713127396716876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ajN7zaxwU1",
+          "end": 40,
+          "expanded_url": "https://x.com/hsn8086k/status/2026713127396716876/photo/1",
+          "media_key": "3_2026713124171300864",
+          "start": 17,
+          "url": "https://t.co/ajN7zaxwU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026713127396716876",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026712945682690480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看来并不是错觉, 怎么还有炒冷饭 https://t.co/ajN7zaxwU1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1938,
+        "media_key": "3_2026713124171300864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBU2TPaQAAqiXa.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026713124171300864"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2026712945682690480",
+        "created_at": "2026-02-25T17:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026713127396716876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ajN7zaxwU1",
+              "end": 40,
+              "expanded_url": "https://x.com/hsn8086k/status/2026713127396716876/photo/1",
+              "media_key": "3_2026713124171300864",
+              "start": 17,
+              "url": "https://t.co/ajN7zaxwU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026713127396716876",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026712945682690480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来并不是错觉, 怎么还有炒冷饭 https://t.co/ajN7zaxwU1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2026712945682690480",
+        "created_at": "2026-02-25T17:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026712945682690480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/translate_cn/s…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/translate_cn/status/2026420709111771251",
+              "start": 13,
+              "url": "https://t.co/GG3mWk6TKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026712945682690480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026420709111771251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉看过一次了, 错觉吗 https://t.co/GG3mWk6TKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1449,
+          "following_count": 171,
+          "like_count": 4741,
+          "listed_count": 5,
+          "media_count": 131,
+          "tweet_count": 1369
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

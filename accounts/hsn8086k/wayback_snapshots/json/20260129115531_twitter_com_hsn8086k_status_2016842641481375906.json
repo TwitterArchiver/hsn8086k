@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016842641481375906",
+    "created_at": "2026-01-29T11:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T12:55:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016842641481375906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xushizhi/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/xushizhi/status/2016519041284976803",
+          "start": 14,
+          "url": "https://t.co/WvYSvT5PtH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016842641481375906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016519041284976803",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男的被草了皮燕子还算处男吗 https://t.co/WvYSvT5PtH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016842641481375906",
+        "created_at": "2026-01-29T11:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T12:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016842641481375906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xushizhi/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/xushizhi/status/2016519041284976803",
+              "start": 14,
+              "url": "https://t.co/WvYSvT5PtH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016842641481375906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016519041284976803",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男的被草了皮燕子还算处男吗 https://t.co/WvYSvT5PtH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318381367311224833",
+        "conversation_id": "2016519041284976803",
+        "created_at": "2026-01-28T14:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016519041284976803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016519041284976803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 600049,
+          "like_count": 714,
+          "quote_count": 1,
+          "reply_count": 183,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "假如说蛋蛋膜被自己玩没了，但没有和女生发生过性关系，这种情况下还是处男吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 113,
+          "like_count": 1630,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 565
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-20T02:39:54.000Z",
+        "description": "喜欢猫猫/接陪玩/推广自辨/小号@wkszjn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "wkszjn"
+              }
+            ]
+          }
+        },
+        "id": "1318381367311224833",
+        "name": "徐柿枳（恩师蛋蛋）",
+        "pinned_tweet_id": "1833100295091474500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1687885249127309313/sur_T4A6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54087,
+          "following_count": 36,
+          "like_count": 17162,
+          "listed_count": 82,
+          "media_count": 158,
+          "tweet_count": 3786
+        },
+        "username": "xushizhi",
+        "verified": false
+      }
+    ]
+  }
+}

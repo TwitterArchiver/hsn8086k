@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2029219331859698106",
+    "created_at": "2026-03-06T15:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T16:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029942941092040818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786622210326605824",
+          "start": 0,
+          "username": "Mikasa890604"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029942941092040818",
+    "in_reply_to_user_id": "1786622210326605824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029937537490505778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikasa890604 这么这么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2029219331859698106",
+        "created_at": "2026-03-06T15:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029942941092040818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786622210326605824",
+              "start": 0,
+              "username": "Mikasa890604"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029942941092040818",
+        "in_reply_to_user_id": "1786622210326605824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029937537490505778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikasa890604 这么这么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786622210326605824",
+        "conversation_id": "2029219331859698106",
+        "created_at": "2026-03-06T15:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029937537490505778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029937537490505778",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029219331859698106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 这时候你需要有个人来山寨你，然后上演真假hsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 177,
+          "like_count": 5155,
+          "listed_count": 5,
+          "media_count": 147,
+          "tweet_count": 1501
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T05:02:41.000Z",
+        "description": "莫名其妙冻结我账号",
+        "id": "1786622210326605824",
+        "name": "大地的影子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787141548507021312/uxz-rUdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 78,
+          "like_count": 3518,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 2307
+        },
+        "username": "Mikasa890604",
+        "verified": false
+      }
+    ]
+  }
+}

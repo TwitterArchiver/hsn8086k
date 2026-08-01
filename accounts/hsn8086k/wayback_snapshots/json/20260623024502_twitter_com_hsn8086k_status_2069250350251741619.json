@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2069250350251741619",
+    "created_at": "2026-06-23T02:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069250350251741619"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2069250255854641162",
+          "start": 9,
+          "url": "https://t.co/QvzdMFGz4M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069250350251741619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069250255854641162",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是啊, 吃什么呢 https://t.co/QvzdMFGz4M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2069250350251741619",
+        "created_at": "2026-06-23T02:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069250350251741619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2069250255854641162",
+              "start": 9,
+              "url": "https://t.co/QvzdMFGz4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069250350251741619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069250255854641162",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是啊, 吃什么呢 https://t.co/QvzdMFGz4M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2069250255854641162",
+        "created_at": "2026-06-23T02:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069250255854641162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y2D80355/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Y2D80355/status/2069090728324542913",
+              "start": 9,
+              "url": "https://t.co/b2o8gqjIO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069250255854641162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069090728324542913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是啊, 穿什么呢 https://t.co/b2o8gqjIO5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 241,
+          "like_count": 9715,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 2390
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

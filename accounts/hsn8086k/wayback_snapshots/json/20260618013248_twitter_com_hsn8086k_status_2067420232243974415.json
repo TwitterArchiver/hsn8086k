@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2067420232243974415",
+    "created_at": "2026-06-18T01:32:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T02:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067420232243974415"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) - fishjar/kiss-translator",
+          "display_url": "github.com/fishjar/kiss-t…",
+          "end": 52,
+          "expanded_url": "https://github.com/fishjar/kiss-translator",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2067192750777434112/LDwvrcd0?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2067192750777434112/LDwvrcd0?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 29,
+          "status": 200,
+          "title": "GitHub - fishjar/kiss-translator: A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)",
+          "unwound_url": "https://github.com/fishjar/kiss-translator",
+          "url": "https://t.co/5Iy3nCOZLd"
+        },
+        {
+          "display_url": "x.com/yanbo2004/stat…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/yanbo2004/status/2067163521528262935",
+          "start": 53,
+          "url": "https://t.co/R6ylZSuZUe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067420232243974415",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067163521528262935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是说 SaaS 已死吗?\n---\n话说回来, 我在用: https://t.co/5Iy3nCOZLd https://t.co/R6ylZSuZUe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2067163501064339456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAKQH2XwAAev8n.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2067420232243974415",
+        "created_at": "2026-06-18T01:32:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T02:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067420232243974415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) - fishjar/kiss-translator",
+              "display_url": "github.com/fishjar/kiss-t…",
+              "end": 52,
+              "expanded_url": "https://github.com/fishjar/kiss-translator",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2067192750777434112/LDwvrcd0?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067192750777434112/LDwvrcd0?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 29,
+              "status": 200,
+              "title": "GitHub - fishjar/kiss-translator: A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)",
+              "unwound_url": "https://github.com/fishjar/kiss-translator",
+              "url": "https://t.co/5Iy3nCOZLd"
+            },
+            {
+              "display_url": "x.com/yanbo2004/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/yanbo2004/status/2067163521528262935",
+              "start": 53,
+              "url": "https://t.co/R6ylZSuZUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067420232243974415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067163521528262935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是说 SaaS 已死吗?\n---\n话说回来, 我在用: https://t.co/5Iy3nCOZLd https://t.co/R6ylZSuZUe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067163501064339456"
+          ]
+        },
+        "author_id": "1420205241404772352",
+        "conversation_id": "2067163521528262935",
+        "created_at": "2026-06-17T08:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T09:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067163521528262935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YM8go5PJgB",
+              "end": 89,
+              "expanded_url": "https://x.com/yanbo2004/status/2067163521528262935/photo/1",
+              "media_key": "3_2067163501064339456",
+              "start": 66,
+              "url": "https://t.co/YM8go5PJgB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067163521528262935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 62108,
+          "like_count": 85,
+          "quote_count": 5,
+          "reply_count": 99,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "刚发现沉浸式翻译 只要是使用模型翻译 都要收费了......\nPro 69CNY一个月 还是不划算啊......\n有什么平替推荐吗 https://t.co/YM8go5PJgB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 242,
+          "like_count": 9509,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2341
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-28T02:11:40.000Z",
+        "description": "21 yo.｜prev. DevRel & Now building @WorkWorkOrg｜Drop out｜Digital Nomad & Ordinary Trader & Writer & Photoghapher｜Backpacking trip to 20 countries & all of China",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "WorkWorkOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanbowa.ng",
+                "end": 23,
+                "expanded_url": "http://yanbowa.ng",
+                "start": 0,
+                "url": "https://t.co/LIctNgXeI8"
+              }
+            ]
+          }
+        },
+        "id": "1420205241404772352",
+        "location": "Remote everywhere, Born in 延边.",
+        "name": "烟波 Yanbo🍡",
+        "pinned_tweet_id": "2047564211480351043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058876241566928896/lTiQJnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6402,
+          "following_count": 1887,
+          "like_count": 113461,
+          "listed_count": 42,
+          "media_count": 2836,
+          "tweet_count": 22984
+        },
+        "url": "https://t.co/LIctNgXeI8",
+        "username": "yanbo2004",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2059640259886154187",
+    "created_at": "2026-05-27T14:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059640259886154187"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2059625440348610808",
+          "start": 15,
+          "url": "https://t.co/zvi8IwdR8K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059640259886154187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059625440348610808",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要不我也来教一下信竞 (并不 https://t.co/zvi8IwdR8K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 969,
+        "media_key": "3_2059625437584646148",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVCbFGXYAQ9ozu.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2059640259886154187",
+        "created_at": "2026-05-27T14:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059640259886154187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2059625440348610808",
+              "start": 15,
+              "url": "https://t.co/zvi8IwdR8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059640259886154187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059625440348610808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要不我也来教一下信竞 (并不 https://t.co/zvi8IwdR8K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059625437584646148"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2059625440348610808",
+        "created_at": "2026-05-27T13:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059625440348610808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7MHSMDlKnX",
+              "end": 40,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2059625440348610808/photo/1",
+              "media_key": "3_2059625437584646148",
+              "start": 17,
+              "url": "https://t.co/7MHSMDlKnX"
+            },
+            {
+              "display_url": "x.com/yumesame10086/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/yumesame10086/status/2059481214059422204",
+              "start": 41,
+              "url": "https://t.co/sYd6AMGGfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059625440348610808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1286,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059481214059422204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "巧了，我确实是教英语的（趁机广告 https://t.co/7MHSMDlKnX https://t.co/sYd6AMGGfu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 224,
+          "like_count": 8269,
+          "listed_count": 9,
+          "media_count": 197,
+          "tweet_count": 2089
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🥰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres\n📣 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4666,
+          "following_count": 896,
+          "like_count": 3976,
+          "listed_count": 11,
+          "media_count": 80,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

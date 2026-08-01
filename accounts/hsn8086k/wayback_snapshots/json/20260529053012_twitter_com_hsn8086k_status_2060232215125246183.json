@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2060194175874953546",
+    "created_at": "2026-05-29T05:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060232215125246183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1924803095500095489",
+          "start": 0,
+          "username": "shine_gomiseifu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060232215125246183",
+    "in_reply_to_user_id": "1924803095500095489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060194175874953546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shine_gomiseifu 中国人不讨厌中国人, 我对象, 我朋友, 全都是中国人, 大家只是讨厌欺软怕硬的人渣."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2060194175874953546",
+        "created_at": "2026-05-29T05:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060232215125246183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1924803095500095489",
+              "start": 0,
+              "username": "shine_gomiseifu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060232215125246183",
+        "in_reply_to_user_id": "1924803095500095489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060194175874953546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shine_gomiseifu 中国人不讨厌中国人, 我对象, 我朋友, 全都是中国人, 大家只是讨厌欺软怕硬的人渣."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924803095500095489",
+        "conversation_id": "2060194175874953546",
+        "created_at": "2026-05-29T02:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060194175874953546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060194175874953546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 37092,
+          "like_count": 256,
+          "quote_count": 6,
+          "reply_count": 393,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "中国人って中国人嫌いなの？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 227,
+          "like_count": 8461,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2131
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T12:23:26.000Z",
+        "description": "【消し込み】に必死の自民党に対抗するためサブ垢作成（@shine_kusoseifu)。日本を壊す連中どもに嫌気がさして口が悪くなりました。大和魂を燃やしている同士がたくさんいる事に喜びを覚え冷静さを取り戻しつつあります。綺麗事は嫌い。私は日本を守りたいだけ。必殺技: さよならの吐息&ハサミギロチン",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "shine_kusoseifu"
+              }
+            ]
+          }
+        },
+        "id": "1924803095500095489",
+        "name": "🇯🇵ブチギレ🇯🇵",
+        "pinned_tweet_id": "1951051589961261318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031570007793217539/rRCQJ-gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26874,
+          "following_count": 5324,
+          "like_count": 37070,
+          "listed_count": 135,
+          "media_count": 779,
+          "tweet_count": 12178
+        },
+        "username": "shine_gomiseifu",
+        "verified": true
+      }
+    ]
+  }
+}

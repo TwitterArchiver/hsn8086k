@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2023673980461215820",
+    "created_at": "2026-02-17T08:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023673980461215820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2017858155045421180",
+          "start": 20,
+          "url": "https://t.co/0bIudmFK5Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023673980461215820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017858155045421180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草了能不能不要一天到晚给我推那种东西 https://t.co/0bIudmFK5Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2023673980461215820",
+        "created_at": "2026-02-17T08:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023673980461215820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2017858155045421180",
+              "start": 20,
+              "url": "https://t.co/0bIudmFK5Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023673980461215820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017858155045421180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草了能不能不要一天到晚给我推那种东西 https://t.co/0bIudmFK5Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2017858155045421180",
+        "created_at": "2026-02-01T07:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T08:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017858155045421180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2016147900221546631",
+              "start": 37,
+              "url": "https://t.co/Wwx3tHQr4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017858155045421180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1584,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016147900221546631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又开始了, 唉唉, 很难受啊, 为什么要花这么多年去追赶别人的起点... https://t.co/Wwx3tHQr4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 161,
+          "like_count": 3924,
+          "listed_count": 3,
+          "media_count": 118,
+          "tweet_count": 1140
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

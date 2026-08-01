@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2080953657512935687",
+    "created_at": "2026-07-25T15:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T16:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081038128996065371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721509979348488192",
+          "start": 0,
+          "username": "HaoyangZ20152"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081038128996065371",
+    "in_reply_to_user_id": "1721509979348488192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081018419433050227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaoyangZ20152 如果没有的话你应该屏蔽我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2080953657512935687",
+        "created_at": "2026-07-25T15:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T16:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081038128996065371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721509979348488192",
+              "start": 0,
+              "username": "HaoyangZ20152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081038128996065371",
+        "in_reply_to_user_id": "1721509979348488192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081018419433050227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaoyangZ20152 如果没有的话你应该屏蔽我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721509979348488192",
+        "conversation_id": "2080953657512935687",
+        "created_at": "2026-07-25T14:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081018419433050227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081018419433050227",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080953657512935687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 什么时候中推有过涩涩和鉴证以外的东西了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2299,
+          "following_count": 246,
+          "like_count": 10658,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 2708
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T12:50:25.000Z",
+        "description": "But free doesn't come free",
+        "id": "1721509979348488192",
+        "location": "日本",
+        "name": "STALKER-333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042234772630712320/QiJd4UkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 355,
+          "like_count": 55048,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "HaoyangZ20152",
+        "verified": false
+      }
+    ]
+  }
+}

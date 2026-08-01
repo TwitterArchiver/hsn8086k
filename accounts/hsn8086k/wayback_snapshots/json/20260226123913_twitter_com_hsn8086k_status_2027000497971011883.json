@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2027000497971011883",
+    "created_at": "2026-02-26T12:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T13:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027000497971011883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2026803667358429598",
+          "start": 18,
+          "url": "https://t.co/NevSgIfE9I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027000497971011883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026803667358429598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实只是我很讨厌这种蠢b男拳女拳. https://t.co/NevSgIfE9I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2027000497971011883",
+        "created_at": "2026-02-26T12:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T13:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027000497971011883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2026803667358429598",
+              "start": 18,
+              "url": "https://t.co/NevSgIfE9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027000497971011883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026803667358429598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实只是我很讨厌这种蠢b男拳女拳. https://t.co/NevSgIfE9I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2026803667358429598",
+        "created_at": "2026-02-25T23:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T00:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026803667358429598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/didengshengwu/…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/didengshengwu/status/2026437227354665324",
+              "start": 147,
+              "url": "https://t.co/kQsV2SSWLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026803667358429598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1786,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026437227354665324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无敌.\n现在就一个人死家里, 一天到晚为了洗碗拖地扫地洗衣服晾衣服倒垃圾烦恼, 甚至拖延, 这些都是想象出来的吗.\n死家里吃泡面吃螺狮粉整外面还得擦桌子, 隔一阵子还要洗晒床单, 隔一会还要刷马桶, 夏天要洗空调滤网, 常用微波炉还得定期清理.\n说没家务不是在父母家里就是住宿, 不然就是编. https://t.co/kQsV2SSWLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 172,
+          "like_count": 4786,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 1391
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2068718335269953663",
+    "created_at": "2026-06-21T15:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068718335269953663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizorewww/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/mizorewww/status/2068705711056732536",
+          "start": 27,
+          "url": "https://t.co/JNqlYNITh5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068718335269953663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068705711056732536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "?\n不是说智人现在全都是家养的吗? 哪来的野生智人? https://t.co/JNqlYNITh5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2068705695885836288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWE3rQaQAAwMMk.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2068718335269953663",
+        "created_at": "2026-06-21T15:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068718335269953663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/mizorewww/status/2068705711056732536",
+              "start": 27,
+              "url": "https://t.co/JNqlYNITh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068718335269953663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068705711056732536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "?\n不是说智人现在全都是家养的吗? 哪来的野生智人? https://t.co/JNqlYNITh5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068705695885836288"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2068705711056732536",
+        "created_at": "2026-06-21T14:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068705711056732536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FtBugGxEYB",
+              "end": 37,
+              "expanded_url": "https://x.com/mizorewww/status/2068705711056732536/photo/1",
+              "media_key": "3_2068705695885836288",
+              "start": 14,
+              "url": "https://t.co/FtBugGxEYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068705711056732536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么有这么多野生的智人？ https://t.co/FtBugGxEYB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 241,
+          "like_count": 9700,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 2385
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 114,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 91,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2049113964022501793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 907,
+          "like_count": 17858,
+          "listed_count": 4,
+          "media_count": 748,
+          "tweet_count": 4094
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2014961115638432015",
+    "created_at": "2026-01-24T07:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014961115638432015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skywind3000/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/skywind3000/status/2014524742070632913",
+          "start": 15,
+          "url": "https://t.co/or5wiSf79Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014961115638432015",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014524742070632913",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "hsn: 哈基米 3 pro https://t.co/or5wiSf79Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2014961115638432015",
+        "created_at": "2026-01-24T07:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014961115638432015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skywind3000/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/skywind3000/status/2014524742070632913",
+              "start": 15,
+              "url": "https://t.co/or5wiSf79Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014961115638432015",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014524742070632913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "hsn: 哈基米 3 pro https://t.co/or5wiSf79Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786479809647869952",
+        "conversation_id": "2014524742070632913",
+        "created_at": "2026-01-23T02:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T03:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014524742070632913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014524742070632913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 226080,
+          "like_count": 230,
+          "quote_count": 23,
+          "reply_count": 344,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你发现你老大和一堆同事都把 gemini 读成 “鸡迷你”，把 QoS 读成 “kiu 死”，他们读的还振振有词，字正腔圆，你主动提醒他们吧，你会显得很另类；你不提醒吧，你跟着他们读错的你自己嘴里会很别扭，这时候你会怎么办？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 86,
+          "like_count": 578,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 288
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-13T08:12:53.000Z",
+        "description": "老程序员，92年（小学）开始写代码，快速可靠传输协议 KCP 作者，知乎25万关注技术答主（id 韦易笑），游戏开发话题，编程话题优秀答主，娱乐化编程，Vim 用户+插件作者，怀旧游戏玩家。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywind.me/blog",
+                "end": 23,
+                "expanded_url": "https://skywind.me/blog",
+                "start": 0,
+                "url": "https://t.co/UQNrDmhScr"
+              }
+            ]
+          }
+        },
+        "id": "786479809647869952",
+        "location": "Guangdong",
+        "name": "LIN WEI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/786485788468850688/OA9vAxsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26018,
+          "following_count": 320,
+          "like_count": 7044,
+          "listed_count": 205,
+          "media_count": 1115,
+          "tweet_count": 8490
+        },
+        "url": "https://t.co/UQNrDmhScr",
+        "username": "skywind3000",
+        "verified": true
+      }
+    ]
+  }
+}

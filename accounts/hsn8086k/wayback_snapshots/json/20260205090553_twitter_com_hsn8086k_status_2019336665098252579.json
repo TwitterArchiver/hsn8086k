@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019235222957760515",
+    "created_at": "2026-02-05T09:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T10:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019336665098252579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1534418744969003008",
+          "start": 0,
+          "username": "ClearSnow6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019336665098252579",
+    "in_reply_to_user_id": "1534418744969003008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019335989827866632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClearSnow6 没有, 只是 blog"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019235222957760515",
+        "created_at": "2026-02-05T09:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019336665098252579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1534418744969003008",
+              "start": 0,
+              "username": "ClearSnow6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019336665098252579",
+        "in_reply_to_user_id": "1534418744969003008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019335989827866632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClearSnow6 没有, 只是 blog"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534418744969003008",
+        "conversation_id": "2019235222957760515",
+        "created_at": "2026-02-05T09:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T10:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019335989827866632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019335989827866632",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019335832986087740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 这样啊，我还以为你是做独立站运营的呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 145,
+          "like_count": 2603,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 786
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T06:15:24.000Z",
+        "description": "一枚观光、摸鱼团路过~（已疯状态）",
+        "id": "1534418744969003008",
+        "name": "晴雪",
+        "pinned_tweet_id": "1707929932557693347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680031349217038337/3kREKp80_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 107,
+          "like_count": 604,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 3353
+        },
+        "username": "ClearSnow6",
+        "verified": false
+      }
+    ]
+  }
+}

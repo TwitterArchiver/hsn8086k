@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2014941132485231084",
+    "created_at": "2026-01-24T11:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T12:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015018118805172706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682672430643556358",
+          "start": 0,
+          "username": "jimyagok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015018118805172706",
+    "in_reply_to_user_id": "1682672430643556358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015006779344830743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jimyagok 我也好奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2014941132485231084",
+        "created_at": "2026-01-24T11:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T12:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015018118805172706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682672430643556358",
+              "start": 0,
+              "username": "jimyagok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015018118805172706",
+        "in_reply_to_user_id": "1682672430643556358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015006779344830743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jimyagok 我也好奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682672430643556358",
+        "conversation_id": "2014941132485231084",
+        "created_at": "2026-01-24T10:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T11:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015006779344830743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015006779344830743",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014941132485231084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 电梯调度算法应该怎么写"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 87,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 303
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T08:42:42.000Z",
+        "description": "",
+        "id": "1682672430643556358",
+        "location": "Earth",
+        "name": "jimyag",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685331432871481344/X2s5mZj5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 244,
+          "like_count": 160,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 59
+        },
+        "username": "jimyagok",
+        "verified": false
+      }
+    ]
+  }
+}

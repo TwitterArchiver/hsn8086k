@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015672217716306351",
+    "created_at": "2026-01-26T06:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015672217716306351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2015337316873842930",
+          "start": 28,
+          "url": "https://t.co/nIkUEtjvbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015672217716306351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015337316873842930",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": ": 你咋啥都知道, 那七年你经历了啥\nhsn: 呃呃呃 https://t.co/nIkUEtjvbw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015672217716306351",
+        "created_at": "2026-01-26T06:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015672217716306351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2015337316873842930",
+              "start": 28,
+              "url": "https://t.co/nIkUEtjvbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015672217716306351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015337316873842930",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": ": 你咋啥都知道, 那七年你经历了啥\nhsn: 呃呃呃 https://t.co/nIkUEtjvbw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015337316873842930",
+        "created_at": "2026-01-25T08:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015337316873842930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015337316873842930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2629,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": ": 我想学xxxxx, 看啥课好\nhsn: 别看课, 直接上手写, 不会的上网搜或者问ai, 写完了就会了.\n: 哦, 那看啥课好.\nhsn: ..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 90,
+          "like_count": 772,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 351
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

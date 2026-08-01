@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2062074116216422538",
+    "created_at": "2026-06-03T07:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062074116216422538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/picxis63594/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/picxis63594/status/2062005845819604995",
+          "start": 14,
+          "url": "https://t.co/ebJR4Xx0B5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062074116216422538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062005845819604995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "除法咋算的, 二分吗 (雾 https://t.co/ebJR4Xx0B5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062005839477735424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ23YtLaAAAKh4E.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2062074116216422538",
+        "created_at": "2026-06-03T07:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062074116216422538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/picxis63594/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/picxis63594/status/2062005845819604995",
+              "start": 14,
+              "url": "https://t.co/ebJR4Xx0B5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062074116216422538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062005845819604995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除法咋算的, 二分吗 (雾 https://t.co/ebJR4Xx0B5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062005839477735424"
+          ]
+        },
+        "author_id": "1942136939735560192",
+        "conversation_id": "2062005845819604995",
+        "created_at": "2026-06-03T02:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062005845819604995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vj25IRe57C",
+              "end": 26,
+              "expanded_url": "https://x.com/picxis63594/status/2062005845819604995/photo/1",
+              "media_key": "3_2062005839477735424",
+              "start": 3,
+              "url": "https://t.co/vj25IRe57C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062005845819604995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 661,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如图 https://t.co/vj25IRe57C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170,
+          "following_count": 229,
+          "like_count": 8798,
+          "listed_count": 9,
+          "media_count": 199,
+          "tweet_count": 2159
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "MtF/ADHDer/炒鸡大社恐\n互fo喵  贴贴喵",
+        "id": "1942136939735560192",
+        "location": "床上",
+        "name": "SubDrone无人机潜水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056641418433826816/eoLLRBCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 258,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 183
+        },
+        "username": "picxis63594",
+        "verified": false
+      }
+    ]
+  }
+}

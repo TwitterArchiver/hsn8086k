@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2064886055124566474",
+    "created_at": "2026-06-11T04:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064930475421167954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "729407854973755392",
+          "start": 0,
+          "username": "Arthur2e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064930475421167954",
+    "in_reply_to_user_id": "729407854973755392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064928855782228207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arthur2e5 这样啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2064886055124566474",
+        "created_at": "2026-06-11T04:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064930475421167954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "729407854973755392",
+              "start": 0,
+              "username": "Arthur2e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064930475421167954",
+        "in_reply_to_user_id": "729407854973755392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064928855782228207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arthur2e5 这样啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "729407854973755392",
+        "conversation_id": "2064886055124566474",
+        "created_at": "2026-06-11T04:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064928855782228207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064928855782228207",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064928041693053044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 那种“全家桶”安装包平台的docker里面带上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 234,
+          "like_count": 9159,
+          "listed_count": 9,
+          "media_count": 208,
+          "tweet_count": 2235
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-08T20:29:19.000Z",
+        "description": "#REDIRECT @Artoria2e5 | A2-Legacy",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "REDIRECT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Artoria2e5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/arthur2e5",
+                "end": 23,
+                "expanded_url": "https://about.me/arthur2e5",
+                "start": 0,
+                "url": "https://t.co/p9bIjR9o4d"
+              }
+            ]
+          }
+        },
+        "id": "729407854973755392",
+        "location": "Nowhere",
+        "name": "Mingye Wang 0.97",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/729408171622707200/I1mzuiMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 127,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/p9bIjR9o4d",
+        "username": "Arthur2e5",
+        "verified": false
+      }
+    ]
+  }
+}

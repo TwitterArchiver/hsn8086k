@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2014377618527944959",
+    "created_at": "2026-01-22T16:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T17:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014377618527944959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Fixes Update python to 3.11 Full Changelog: v1.13.0...v1.13.1",
+          "display_url": "github.com/JunkFood02/Sea…",
+          "end": 48,
+          "expanded_url": "https://github.com/JunkFood02/Seal/releases/latest",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/1994874034538897408/O5Yxenrz?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1994874034538897408/O5Yxenrz?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 25,
+          "status": 200,
+          "title": "Release v1.13.1 · JunkFood02/Seal",
+          "unwound_url": "https://github.com/JunkFood02/Seal/releases/tag/v1.13.1",
+          "url": "https://t.co/9lqrEmhScy"
+        },
+        {
+          "display_url": "x.com/gkxspace/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/gkxspace/status/2014100945416888444",
+          "start": 49,
+          "url": "https://t.co/XOc6ogcjPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014377618527944959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014100945416888444",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ytdlp的话, 有个一直在用的, 安卓的app\nhttps://t.co/9lqrEmhScy https://t.co/XOc6ogcjPr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2014377618527944959",
+        "created_at": "2026-01-22T16:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T17:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014377618527944959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Fixes Update python to 3.11 Full Changelog: v1.13.0...v1.13.1",
+              "display_url": "github.com/JunkFood02/Sea…",
+              "end": 48,
+              "expanded_url": "https://github.com/JunkFood02/Seal/releases/latest",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1994874034538897408/O5Yxenrz?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1994874034538897408/O5Yxenrz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "Release v1.13.1 · JunkFood02/Seal",
+              "unwound_url": "https://github.com/JunkFood02/Seal/releases/tag/v1.13.1",
+              "url": "https://t.co/9lqrEmhScy"
+            },
+            {
+              "display_url": "x.com/gkxspace/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/gkxspace/status/2014100945416888444",
+              "start": 49,
+              "url": "https://t.co/XOc6ogcjPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014377618527944959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014100945416888444",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ytdlp的话, 有个一直在用的, 安卓的app\nhttps://t.co/9lqrEmhScy https://t.co/XOc6ogcjPr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881991469730594816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2014100945416888444",
+        "created_at": "2026-01-21T22:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T23:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014100945416888444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Khazix0918/sta…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/Khazix0918/status/2013812311388229792",
+              "start": 172,
+              "url": "https://t.co/sAnf5vw82n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014100945416888444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "AI时代，真的不一样了。\n\n以前 GitHub 上那些牛逼的开源项目，对编程小白来说就是“看得到用不了”。\n\n就比如这个 yt-dlp，143k star 的视频下载神器。你知道它很强，但光是看到部署、命令行、环境配置，就有点劝退了。\n\n现在不一样了。\n\n有了 Skills ，你可以直接跟 Claude Code 说：“帮我把 yt-dlp 打包成 Skill”，然后它就自己去分析项目、写封装、处理依赖。\n\n几分钟后，你就有了一个能用的视频下载工具。以后想下载 YouTube 视频，就直接扔个链接。\n\n而且，不只是视频下载。格式转化、网页转 APP、密码破译……GitHub 上那些经过无数人验证的项目，现在都能变成一个Skill。\n\n这些开源项目，稳定性和成功率，也远超 AI 临时写的代码。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1376,
+          "impression_count": 189514,
+          "like_count": 1098,
+          "quote_count": 9,
+          "reply_count": 46,
+          "retweet_count": 230
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013812311388229792",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AI时代，真的不一样了。\n\n以前 GitHub 上那些牛逼的开源项目，对编程小白来说就是“看得到用不了”。\n\n就比如这个 yt-dlp，143k star 的视频下载神器。你知道它很强，但光是看到部署、命令行、环境配置，就有点劝退了。\n\n现在不一样了。\n\n有了 Skills ，你可以直接跟 Claude Code 说：“帮我把 yt-dlp https://t.co/sAnf5vw82n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 85,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 230
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T09:05:13.000Z",
+        "description": "🌸05年连续创业者 | 专注 AI 产品 | 项目营收 7 位数+\n✨记录真实的创业路：项目复盘、踩坑总结和成长思考\n💗AI 产品构建 & AI 商业化方案 & 企业 AI 转型",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuwen.website",
+                "end": 23,
+                "expanded_url": "https://yuwen.website",
+                "start": 0,
+                "url": "https://t.co/lbHDopwRVw"
+              }
+            ]
+          }
+        },
+        "id": "1881991469730594816",
+        "location": "微信和社群",
+        "name": "余温",
+        "pinned_tweet_id": "1980568040153419978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952432952928784384/k7SIkQ7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20990,
+          "following_count": 648,
+          "like_count": 2473,
+          "listed_count": 174,
+          "media_count": 240,
+          "tweet_count": 3412
+        },
+        "url": "https://t.co/lbHDopwRVw",
+        "username": "gkxspace",
+        "verified": true
+      }
+    ]
+  }
+}

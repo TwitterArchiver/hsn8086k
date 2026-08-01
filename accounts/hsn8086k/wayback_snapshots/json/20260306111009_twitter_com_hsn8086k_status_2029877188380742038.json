@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029877186174537734"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2029877188380742038",
+    "created_at": "2026-03-06T11:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T12:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029877188380742038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/f9qWbqTY5n",
+          "end": 41,
+          "expanded_url": "https://x.com/hsn8086k/status/2029877188380742038/photo/1",
+          "media_key": "3_2029877186174537734",
+          "start": 18,
+          "url": "https://t.co/f9qWbqTY5n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029877188380742038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "才反应过来洗车点油箱那张图是啥意思 https://t.co/f9qWbqTY5n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1111,
+        "media_key": "3_2029877186174537734",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuSi8uaUAYO_kB.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029877186174537734"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2029877188380742038",
+        "created_at": "2026-03-06T11:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029877188380742038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f9qWbqTY5n",
+              "end": 41,
+              "expanded_url": "https://x.com/hsn8086k/status/2029877188380742038/photo/1",
+              "media_key": "3_2029877186174537734",
+              "start": 18,
+              "url": "https://t.co/f9qWbqTY5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029877188380742038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才反应过来洗车点油箱那张图是啥意思 https://t.co/f9qWbqTY5n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 177,
+          "like_count": 5149,
+          "listed_count": 5,
+          "media_count": 147,
+          "tweet_count": 1498
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

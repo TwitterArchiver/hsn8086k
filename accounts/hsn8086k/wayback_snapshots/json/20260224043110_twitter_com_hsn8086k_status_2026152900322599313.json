@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2026152900322599313",
+    "created_at": "2026-02-24T04:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T05:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026152900322599313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2026096054668759144",
+          "start": 27,
+          "url": "https://t.co/bhuCRhaIR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026152900322599313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026096054668759144",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前 hsn: 一个南极一个北极\n现在: 甜, 磕了 https://t.co/bhuCRhaIR1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1726,
+        "media_key": "3_2026096017394020352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB4jl9WasAAEmlP.jpg",
+        "width": 1052
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2026152900322599313",
+        "created_at": "2026-02-24T04:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026152900322599313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2026096054668759144",
+              "start": 27,
+              "url": "https://t.co/bhuCRhaIR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026152900322599313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026096054668759144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前 hsn: 一个南极一个北极\n现在: 甜, 磕了 https://t.co/bhuCRhaIR1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026096017394020352"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2026096054668759144",
+        "created_at": "2026-02-24T00:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026096054668759144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4i80EnM8y0",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2026096054668759144/photo/1",
+              "media_key": "3_2026096017394020352",
+              "start": 0,
+              "url": "https://t.co/4i80EnM8y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026096054668759144",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 23540,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4i80EnM8y0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 170,
+          "like_count": 4644,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1340
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34475,
+          "following_count": 349,
+          "like_count": 113,
+          "listed_count": 99,
+          "media_count": 11226,
+          "tweet_count": 11272
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

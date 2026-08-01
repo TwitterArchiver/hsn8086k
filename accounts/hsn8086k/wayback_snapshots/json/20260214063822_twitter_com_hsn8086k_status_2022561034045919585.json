@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2022527614192357848",
+    "created_at": "2026-02-14T06:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T07:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022561034045919585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "772002208812367872",
+          "start": 0,
+          "username": "pickno_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022561034045919585",
+    "in_reply_to_user_id": "772002208812367872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022560504787702020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pickno_ 那是照骗不是照片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2022527614192357848",
+        "created_at": "2026-02-14T06:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T07:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022561034045919585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "772002208812367872",
+              "start": 0,
+              "username": "pickno_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022561034045919585",
+        "in_reply_to_user_id": "772002208812367872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022560504787702020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pickno_ 那是照骗不是照片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "772002208812367872",
+        "conversation_id": "2022527614192357848",
+        "created_at": "2026-02-14T06:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T07:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022560504787702020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022560504787702020",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022527614192357848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 事实上hsn发个照片全世界都说好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 157,
+          "like_count": 3728,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 1092
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-03T09:24:04.000Z",
+        "description": "learning crypto /pc/男性/最喜欢的人是@jilianmeing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "jilianmeing"
+              }
+            ]
+          }
+        },
+        "id": "772002208812367872",
+        "name": "pickno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1587004101837352961/96JEyvfe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 140,
+          "like_count": 2311,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 614
+        },
+        "username": "pickno_",
+        "verified": true
+      }
+    ]
+  }
+}

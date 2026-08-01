@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1893976501239918754",
+    "created_at": "2025-02-24T10:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T11:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893976501239918754"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nllidedshu9913…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/nllidedshu99136/status/1893970954922971440",
+          "start": 16,
+          "url": "https://t.co/UVWIKebaYQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893976501239918754",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893970954922971440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我希望...大家都能这样... https://t.co/UVWIKebaYQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1893976501239918754",
+        "created_at": "2025-02-24T10:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T11:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893976501239918754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nllidedshu9913…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/nllidedshu99136/status/1893970954922971440",
+              "start": 16,
+              "url": "https://t.co/UVWIKebaYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893976501239918754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893970954922971440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我希望...大家都能这样... https://t.co/UVWIKebaYQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661319196993814528",
+        "conversation_id": "1893252042291843546",
+        "created_at": "2025-02-24T10:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T11:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893970954922971440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893970954922971440",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893252042291843546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 …我就喜欢小小的房子 最想和喜欢的人挤在一起。我的老公降薪又怎么了，本来就是被困在一起的周期大家都没办法，又不是老公不够厉害不够努力。况且我长大肯定不会失去自己挣钱的能力的，养老公也完全没问题。评论真的没有被好好爱过么…哪里是魅魔，这只是普通的爱。我也是被认真爱过以后才学会的啦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 33,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 30
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T10:32:29.000Z",
+        "description": "世界好玩｜女高 k8 brat｜我的梦想是当天下口活第一好 看到口交小技巧可以艾特我吗求你｜私信已关、日记本",
+        "id": "1661319196993814528",
+        "name": "超市米布丁",
+        "pinned_tweet_id": "1817757548319326549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823558303227527168/tr4TjGuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 235,
+          "like_count": 2376,
+          "listed_count": 7,
+          "media_count": 28,
+          "tweet_count": 847
+        },
+        "username": "nllidedshu99136",
+        "verified": false
+      }
+    ]
+  }
+}

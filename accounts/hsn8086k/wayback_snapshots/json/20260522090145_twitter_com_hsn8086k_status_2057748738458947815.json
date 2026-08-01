@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2057635586375287122",
+    "created_at": "2026-05-22T09:01:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:01:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057748738458947815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1932118012846620672",
+          "start": 0,
+          "username": "wjbkyaopf"
+        },
+        {
+          "end": 21,
+          "id": "1863439189909618688",
+          "start": 11,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20577…",
+          "end": 45,
+          "expanded_url": "https://x.com/i/status/2057706785449120234",
+          "start": 22,
+          "url": "https://t.co/qeTOBxsYWB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057748738458947815",
+    "in_reply_to_user_id": "1932118012846620672",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057706785449120234",
+        "type": "quoted"
+      },
+      {
+        "id": "2057724021127700979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjbkyaopf @hsn8086xe https://t.co/qeTOBxsYWB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_2057724014630686720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6BFsnaUAAGJHA.jpg",
+        "width": 447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2057635586375287122",
+        "created_at": "2026-05-22T09:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057748738458947815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1932118012846620672",
+              "start": 0,
+              "username": "wjbkyaopf"
+            },
+            {
+              "end": 21,
+              "id": "1863439189909618688",
+              "start": 11,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20577…",
+              "end": 45,
+              "expanded_url": "https://x.com/i/status/2057706785449120234",
+              "start": 22,
+              "url": "https://t.co/qeTOBxsYWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057748738458947815",
+        "in_reply_to_user_id": "1932118012846620672",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057706785449120234",
+            "type": "quoted"
+          },
+          {
+            "id": "2057724021127700979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjbkyaopf @hsn8086xe https://t.co/qeTOBxsYWB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2057706785449120234",
+        "created_at": "2026-05-22T06:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057706785449120234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2057467403421040659",
+              "start": 29,
+              "url": "https://t.co/alppn486MI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057706785449120234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2763,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057467403421040659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吧模型精度不够, 我再改改, 然后把马赛克换成高斯模糊 https://t.co/alppn486MI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057724014630686720"
+          ]
+        },
+        "author_id": "1932118012846620672",
+        "conversation_id": "2057635586375287122",
+        "created_at": "2026-05-22T07:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T08:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057724021127700979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bf4LP0SNkD",
+              "end": 50,
+              "expanded_url": "https://x.com/wjbkyaopf/status/2057724021127700979/photo/1",
+              "media_key": "3_2057724014630686720",
+              "start": 27,
+              "url": "https://t.co/Bf4LP0SNkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057724021127700979",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057635586375287122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 得亏打码了，老师脸都绷不住了吧 https://t.co/Bf4LP0SNkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 222,
+          "like_count": 8156,
+          "listed_count": 9,
+          "media_count": 194,
+          "tweet_count": 2064
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T16:50:28.000Z",
+        "description": "",
+        "id": "1932118012846620672",
+        "name": "yaopf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966108401647427584/RUp8Rivo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 379,
+          "like_count": 44661,
+          "listed_count": 4,
+          "media_count": 425,
+          "tweet_count": 1748
+        },
+        "username": "wjbkyaopf",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36291,
+          "following_count": 371,
+          "like_count": 229,
+          "listed_count": 107,
+          "media_count": 14363,
+          "tweet_count": 14446
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

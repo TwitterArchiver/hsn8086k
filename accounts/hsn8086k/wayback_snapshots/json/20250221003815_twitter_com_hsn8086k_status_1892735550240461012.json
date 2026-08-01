@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1892272014448079087",
+    "created_at": "2025-02-21T00:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T01:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892735550240461012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jasonzyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892735550240461012",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892272014448079087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jasonzyt 什么时候翻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1892271266440368133",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkKysO7bUAUduOv.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1892272014448079087",
+        "created_at": "2025-02-21T00:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T01:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892735550240461012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jasonzyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892735550240461012",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892272014448079087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jasonzyt 什么时候翻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892271266440368133"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "conversation_id": "1892272014448079087",
+        "created_at": "2025-02-19T17:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T18:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892272014448079087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1PemeakAop",
+              "end": 75,
+              "expanded_url": "https://x.com/Jasonzyt/status/1892272014448079087/photo/1",
+              "media_key": "3_1892271266440368133",
+              "start": 52,
+              "url": "https://t.co/1PemeakAop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892272014448079087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 10711,
+          "like_count": 201,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "好久没发腿了（\n来点存货运动鞋+雪糕（🥺\n上学了时间变少了呢\n江苏的双休什么时候可以推广到全国啊😭😭😭 https://t.co/1PemeakAop"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 32,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 17
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 17 y.o. Student | Otaku | Coder | OIer | Photographer | Member of @LiteLDev | Ham | ACGN/✈/🚅/🚢 lover | 🌈Crossdresser\nFriendly to EVERYONE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 69,
+                "username": "LiteLDev"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jasonz.yt",
+                "end": 23,
+                "expanded_url": "https://jasonz.yt",
+                "start": 0,
+                "url": "https://t.co/X1bXbnErNQ"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "Wuhan, China",
+        "name": "JasonZYT🏳️",
+        "pinned_tweet_id": "1848001512926310841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878308194407313408/MJZNf2sw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 350,
+          "like_count": 21883,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 6030
+        },
+        "url": "https://t.co/X1bXbnErNQ",
+        "username": "Jasonzyt",
+        "verified": false
+      }
+    ]
+  }
+}

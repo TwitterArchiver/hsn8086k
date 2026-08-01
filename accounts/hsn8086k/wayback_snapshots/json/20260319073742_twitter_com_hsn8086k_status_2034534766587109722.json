@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2034534766587109722",
+    "created_at": "2026-03-19T07:37:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034534766587109722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xuegaogx/statu…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/Xuegaogx/status/2034525536706539557",
+          "start": 48,
+          "url": "https://t.co/EhA0i0tdPo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034534766587109722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034525536706539557",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很不错吗, 明明这个模型测试时有严重 bug.\n还以为 ds 变这么拉了, 原来并不是 ds. https://t.co/EhA0i0tdPo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_2034525524165562368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwWL1JakAAaqcN.jpg",
+        "width": 1200
+      },
+      {
+        "height": 766,
+        "media_key": "3_2034525472290467840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDwWIz5bcAAoXwa.jpg",
+        "width": 1235
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2034534766587109722",
+        "created_at": "2026-03-19T07:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034534766587109722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xuegaogx/statu…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Xuegaogx/status/2034525536706539557",
+              "start": 48,
+              "url": "https://t.co/EhA0i0tdPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034534766587109722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034525536706539557",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很不错吗, 明明这个模型测试时有严重 bug.\n还以为 ds 变这么拉了, 原来并不是 ds. https://t.co/EhA0i0tdPo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034525524165562368",
+            "3_2034525472290467840"
+          ]
+        },
+        "author_id": "1710490876487815168",
+        "conversation_id": "2034525536706539557",
+        "created_at": "2026-03-19T07:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034525536706539557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VO5ZWzbG98",
+              "end": 211,
+              "expanded_url": "https://x.com/Xuegaogx/status/2034525536706539557/photo/1",
+              "media_key": "3_2034525524165562368",
+              "start": 188,
+              "url": "https://t.co/VO5ZWzbG98"
+            },
+            {
+              "display_url": "pic.x.com/VO5ZWzbG98",
+              "end": 211,
+              "expanded_url": "https://x.com/Xuegaogx/status/2034525536706539557/photo/1",
+              "media_key": "3_2034525472290467840",
+              "start": 188,
+              "url": "https://t.co/VO5ZWzbG98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034525536706539557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国大模型 Hunter Alpha，连续两周登顶全球日调用量榜一，科技圈都在猜背后是谁\n\n今天小米官宣 MiMo-V2-Pro，Hunter Alpha 就是它\n\n总参数突破 1T，激活参数 42B，原生支持 100 万上下文，在全球排行榜 Artificial Analysis 上排第八，国内第二，API 定价只有同行的 1/5\n\n去年 12 月那个 Flash 版才 309B 总参，就已经屠了一圈小模型榜单，当时就说那只是阶段性成果\n\n没想到大作业来得这么快，而且是匿名上线先打榜，打完再掀底牌，无论车圈还是 AI 圈，小米都交了一个很不错的答卷"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1225,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国大模型 Hunter Alpha，连续两周登顶全球日调用量榜一，科技圈都在猜背后是谁\n\n今天小米官宣 MiMo-V2-Pro，Hunter Alpha 就是它\n\n总参数突破 1T，激活参数 42B，原生支持 100 万上下文，在全球排行榜 Artificial Analysis 上排第八，国内第二，API 定价只有同行的 1/5\n\n去年 12 月那个 Flash 版才 https://t.co/VO5ZWzbG98"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 190,
+          "like_count": 5689,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 1589
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-07T03:03:07.000Z",
+        "description": "现在是芒果味雪糕 Building @Lighthouse_2026\nAI｜Defi｜RWA｜DEX 玩家\n喜欢研究新东西\nweb3 钱包选 OKX 就够",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "Lighthouse_2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xuegaoz",
+                "end": 23,
+                "expanded_url": "http://t.me/xuegaoz",
+                "start": 0,
+                "url": "https://t.co/ofDyg8U5nM"
+              }
+            ]
+          }
+        },
+        "id": "1710490876487815168",
+        "location": "频道👉",
+        "name": "雪糕战神🍦",
+        "pinned_tweet_id": "1960899313124696365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005277769236889600/YdJuH3Ng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32001,
+          "following_count": 2655,
+          "like_count": 19669,
+          "listed_count": 609,
+          "media_count": 1461,
+          "tweet_count": 14361
+        },
+        "url": "https://t.co/ofDyg8U5nM",
+        "username": "Xuegaogx",
+        "verified": true
+      }
+    ]
+  }
+}

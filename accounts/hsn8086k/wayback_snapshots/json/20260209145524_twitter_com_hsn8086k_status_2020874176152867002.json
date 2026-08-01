@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2020874176152867002",
+    "created_at": "2026-02-09T14:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T15:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020874176152867002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2020801923742310636",
+          "start": 30,
+          "url": "https://t.co/rBslI6uCls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020874176152867002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020801923742310636",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不冷不热知识: 关掉声音后会流畅很多, 立体声计算压力很大 https://t.co/rBslI6uCls"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2020801886153318400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAtUm9mboAAJC02.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2020874176152867002",
+        "created_at": "2026-02-09T14:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020874176152867002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2020801923742310636",
+              "start": 30,
+              "url": "https://t.co/rBslI6uCls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020874176152867002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020801923742310636",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不冷不热知识: 关掉声音后会流畅很多, 立体声计算压力很大 https://t.co/rBslI6uCls"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020801886153318400"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020801923742310636",
+        "created_at": "2026-02-09T10:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020801923742310636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyJIiN72lU",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2020801923742310636/photo/1",
+              "media_key": "3_2020801886153318400",
+              "start": 0,
+              "url": "https://t.co/VyJIiN72lU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020801923742310636",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 12391,
+          "like_count": 570,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VyJIiN72lU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 149,
+          "like_count": 3322,
+          "listed_count": 3,
+          "media_count": 100,
+          "tweet_count": 944
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32920,
+          "following_count": 350,
+          "like_count": 90,
+          "listed_count": 97,
+          "media_count": 10686,
+          "tweet_count": 10727
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

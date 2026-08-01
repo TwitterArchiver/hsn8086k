@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016190972116533466",
+    "created_at": "2026-01-28T18:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T19:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016576595176411397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1124721915090874368",
+          "start": 0,
+          "username": "Nazuki_1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016576595176411397",
+    "in_reply_to_user_id": "1124721915090874368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016572044217835574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nazuki_1123 adb 可以解 pairipcore 吗, installerx 是走 root 了, 可以安装但是解不了 pairipcore"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016190972116533466",
+        "created_at": "2026-01-28T18:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016576595176411397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1124721915090874368",
+              "start": 0,
+              "username": "Nazuki_1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016576595176411397",
+        "in_reply_to_user_id": "1124721915090874368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016572044217835574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nazuki_1123 adb 可以解 pairipcore 吗, installerx 是走 root 了, 可以安装但是解不了 pairipcore"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124721915090874368",
+        "conversation_id": "2016190972116533466",
+        "created_at": "2026-01-28T18:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T19:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016572044217835574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016572044217835574",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016190972116533466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 我是adb推进去解决的，现在这个不兼容的标准太傻逼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1038,
+          "following_count": 108,
+          "like_count": 1491,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 528
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T17:06:15.000Z",
+        "description": "～と、ナズキはナズキは元気よく挨拶してみたり。",
+        "id": "1124721915090874368",
+        "name": "ナズキキ",
+        "pinned_tweet_id": "1956706012431261942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954607573681770497/trnAc6E8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 44,
+          "like_count": 3122,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 347
+        },
+        "username": "Nazuki_1123",
+        "verified": false
+      }
+    ]
+  }
+}

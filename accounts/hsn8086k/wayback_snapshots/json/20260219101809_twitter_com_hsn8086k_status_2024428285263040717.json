@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      }
+    ],
+    "conversation_id": "2024428285263040717",
+    "created_at": "2026-02-19T10:18:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T11:18:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024428285263040717"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2024415815953764471",
+          "start": 140,
+          "url": "https://t.co/b8DTdrQLM4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024428285263040717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024415815953764471",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对这种问题总是很暴躁一个原因是, 总有人说\"啊你花这么多钱买个轻薄本性能有不行有啥用\". 你好, 轻薄本我开节电都够用, 真要性能我自然会开台式, 至于移动, ssh.\n所以我很讨厌一切和我吹游戏本的人.\n可能是种偏见吧, 但是真的很讨厌, 难得有一次这种机会肯定要发泄一下. https://t.co/b8DTdrQLM4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "2024428285263040717",
+        "created_at": "2026-02-19T10:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024428285263040717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2024415815953764471",
+              "start": 140,
+              "url": "https://t.co/b8DTdrQLM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024428285263040717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024415815953764471",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对这种问题总是很暴躁一个原因是, 总有人说\"啊你花这么多钱买个轻薄本性能有不行有啥用\". 你好, 轻薄本我开节电都够用, 真要性能我自然会开台式, 至于移动, ssh.\n所以我很讨厌一切和我吹游戏本的人.\n可能是种偏见吧, 但是真的很讨厌, 难得有一次这种机会肯定要发泄一下. https://t.co/b8DTdrQLM4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024415815953764471",
+        "created_at": "2026-02-19T09:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024415815953764471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2024224375642477040",
+              "start": 153,
+              "url": "https://t.co/sEKJqeONjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024415815953764471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 372,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024224375642477040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说我傲慢也好吧, 我是真不明白到底有什么需求必须是, 完全离线 + 计算密集 + 需要移动 + 不用续航.\n真的需要移动吗? 思考一下, 买这种本子, 一年下来会有几次移动? 为那一两次移动牺牲这么多价钱(同性能下), 合适吗, 又或者说, 把这钱拿去寄快递, 能寄多少次? 或者这钱甚至能多买个轻薄本. https://t.co/sEKJqeONjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 163,
+          "like_count": 4164,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1214
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

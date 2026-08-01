@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015778180011872257"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015778182176407999",
+    "created_at": "2026-01-26T13:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T14:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015778182176407999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MZCXPPxfh1",
+          "end": 43,
+          "expanded_url": "https://x.com/hsn8086k/status/2015778182176407999/photo/1",
+          "media_key": "3_2015778180011872257",
+          "start": 20,
+          "url": "https://t.co/MZCXPPxfh1"
+        },
+        {
+          "display_url": "x.com/EMP_Today/stat…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/EMP_Today/status/2015414461298020468",
+          "start": 44,
+          "url": "https://t.co/7Ul35i5Li5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015778182176407999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015414461298020468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你的社会观点有多“进步”\n- 关我屁事 https://t.co/MZCXPPxfh1 https://t.co/7Ul35i5Li5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2015778180011872257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l7kx2XUAEdcbF.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015778180011872257"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015778182176407999",
+        "created_at": "2026-01-26T13:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015778182176407999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MZCXPPxfh1",
+              "end": 43,
+              "expanded_url": "https://x.com/hsn8086k/status/2015778182176407999/photo/1",
+              "media_key": "3_2015778180011872257",
+              "start": 20,
+              "url": "https://t.co/MZCXPPxfh1"
+            },
+            {
+              "display_url": "x.com/EMP_Today/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/EMP_Today/status/2015414461298020468",
+              "start": 44,
+              "url": "https://t.co/7Ul35i5Li5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015778182176407999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015414461298020468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的社会观点有多“进步”\n- 关我屁事 https://t.co/MZCXPPxfh1 https://t.co/7Ul35i5Li5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870322321560629248",
+        "conversation_id": "2015414461298020468",
+        "created_at": "2026-01-25T13:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015414461298020468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/krktmk_8964/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/krktmk_8964/status/2015358541129986187",
+              "start": 80,
+              "url": "https://t.co/84G4yFPgTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015414461298020468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5112,
+          "like_count": 22,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015358541129986187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🟩️支持同性婚姻\n🟩️毒品除罪化\n🟩堕胎合法化\n🟩承认跨性别\n🟩️同意第三种性别的存在\n🟩️废除死刑\n🟩世俗主义\n🟩️女性主义\n🟩反对体罚小孩\n🟩️允许多边恋 https://t.co/84G4yFPgTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 91,
+          "like_count": 829,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 368
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T04:16:25.000Z",
+        "description": "何意味中 🏳️‍🌈 Gay｜音ゲー｜Social Liberalist｜Interact != Endorse｜🥰🐱@skhdohwo @tutu65537｜💤 @sleepy3302｜@EMP_Alter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "skhdohwo"
+              },
+              {
+                "end": 78,
+                "start": 68,
+                "username": "tutu65537"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "sleepy3302"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "EMP_Alter"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://google.com",
+                "start": 0,
+                "url": "https://t.co/XAh9eG2o3V"
+              }
+            ]
+          }
+        },
+        "id": "1870322321560629248",
+        "location": "🐱🐱🐱🐱🐱",
+        "name": "EmptyPlate 🏳️‍🌈",
+        "pinned_tweet_id": "1962420289641603097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009634216611557376/4VCC3UQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 512,
+          "like_count": 31190,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 4261
+        },
+        "url": "https://t.co/XAh9eG2o3V",
+        "username": "EMP_Today",
+        "verified": true
+      }
+    ]
+  }
+}

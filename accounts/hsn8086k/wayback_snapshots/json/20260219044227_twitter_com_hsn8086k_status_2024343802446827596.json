@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024343799787655168"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024343802446827596",
+    "created_at": "2026-02-19T04:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024343802446827596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UsL2qhqlqC",
+          "end": 28,
+          "expanded_url": "https://x.com/hsn8086k/status/2024343802446827596/photo/1",
+          "media_key": "3_2024343799787655168",
+          "start": 5,
+          "url": "https://t.co/UsL2qhqlqC"
+        },
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2024279522192085067",
+          "start": 29,
+          "url": "https://t.co/sQKp3dPNP7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024343802446827596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024279522192085067",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有高手 https://t.co/UsL2qhqlqC https://t.co/sQKp3dPNP7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2169,
+        "media_key": "3_2024343799787655168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfp9eGbkAAucuM.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024343799787655168"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024343802446827596",
+        "created_at": "2026-02-19T04:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024343802446827596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsL2qhqlqC",
+              "end": 28,
+              "expanded_url": "https://x.com/hsn8086k/status/2024343802446827596/photo/1",
+              "media_key": "3_2024343799787655168",
+              "start": 5,
+              "url": "https://t.co/UsL2qhqlqC"
+            },
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2024279522192085067",
+              "start": 29,
+              "url": "https://t.co/sQKp3dPNP7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024343802446827596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024279522192085067",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有高手 https://t.co/UsL2qhqlqC https://t.co/sQKp3dPNP7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2024185107003936948",
+        "created_at": "2026-02-19T00:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024279522192085067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024279522192085067",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4152,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024185107003936948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 不是从2026年1月1日开始就封存吸毒记录了吗😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 163,
+          "like_count": 4059,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1190
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人｜114514流写作新人｜日常烤邦phi铁终舟、有时ガルゲーム、偶尔Minecraft和Steam单机｜视觉识别初心者、已将大脑交给Vibe Coding｜日本語と英語を勉強中｜互fo可能（→查看更多）｜神人群体、黄推、宗教、诈骗广告NG｜LBGT包容 ｜ 币圈、露骨政治不涉及",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2014036468633612744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009863372750426112/dgUiIM0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 47,
+          "like_count": 1372,
+          "listed_count": 2,
+          "media_count": 318,
+          "tweet_count": 1292
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

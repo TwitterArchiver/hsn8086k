@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2072816261730365599",
+    "created_at": "2026-07-03T18:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T19:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073115839352688645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1393484427993382912",
+          "start": 0,
+          "username": "Martin_Kuai"
+        },
+        {
+          "end": 21,
+          "id": "2742197809",
+          "start": 13,
+          "username": "ansonox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073115839352688645",
+    "in_reply_to_user_id": "1393484427993382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072919418947137882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Martin_Kuai @ansonox 对的, opus老喜欢和我说英语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2072816261730365599",
+        "created_at": "2026-07-03T18:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073115839352688645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1393484427993382912",
+              "start": 0,
+              "username": "Martin_Kuai"
+            },
+            {
+              "end": 21,
+              "id": "2742197809",
+              "start": 13,
+              "username": "ansonox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073115839352688645",
+        "in_reply_to_user_id": "1393484427993382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072919418947137882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Martin_Kuai @ansonox 对的, opus老喜欢和我说英语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393484427993382912",
+        "conversation_id": "2072816261730365599",
+        "created_at": "2026-07-03T05:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072919418947137882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2742197809",
+              "start": 0,
+              "username": "ansonox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072919418947137882",
+        "in_reply_to_user_id": "2742197809",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2503,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072816261730365599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ansonox Chinese-speaking users using American LLMs can still end up getting English output sometimes 😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 243,
+          "like_count": 9955,
+          "listed_count": 8,
+          "media_count": 221,
+          "tweet_count": 2500
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T08:32:38.000Z",
+        "description": "Trying to do better.",
+        "id": "1393484427993382912",
+        "name": "Martin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071266077745795072/iD6BakKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 46,
+          "like_count": 39,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "Martin_Kuai",
+        "verified": true
+      },
+      {
+        "created_at": "2014-08-18T14:31:17.000Z",
+        "description": "https://t.co/PRzjcFHejL https://t.co/7RLZaMd7Ck | Prev Lead SDK engineer powering 1.6 M decentralised wallets and securing $400 M+ in managed value across the Lit network.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "anson.sh",
+                "end": 23,
+                "expanded_url": "http://anson.sh",
+                "start": 0,
+                "url": "https://t.co/PRzjcFHejL"
+              },
+              {
+                "display_url": "shimex.xyz",
+                "end": 47,
+                "expanded_url": "http://shimex.xyz",
+                "start": 24,
+                "url": "https://t.co/7RLZaMd7Ck"
+              }
+            ]
+          }
+        },
+        "id": "2742197809",
+        "location": "London, England",
+        "name": "Anson",
+        "pinned_tweet_id": "2071797194273796212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069915144163872768/047jIT9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 1480,
+          "like_count": 1846,
+          "listed_count": 10,
+          "media_count": 109,
+          "tweet_count": 778
+        },
+        "url": "",
+        "username": "ansonox",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2074503105669222573",
+    "created_at": "2026-07-07T14:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074503105669222573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2074390622275092808",
+          "start": 60,
+          "url": "https://t.co/fXoUVHtURl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074503105669222573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074390622275092808",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能不能还我那个, 26元麦辣三件套, 有长腿叔叔, 会旋麦旋风, 有吸管盒, 大半夜也不缺货, 卫生也好好搞的麦当劳. https://t.co/fXoUVHtURl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074503105669222573",
+        "created_at": "2026-07-07T14:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074503105669222573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2074390622275092808",
+              "start": 60,
+              "url": "https://t.co/fXoUVHtURl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074503105669222573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074390622275092808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能不能还我那个, 26元麦辣三件套, 有长腿叔叔, 会旋麦旋风, 有吸管盒, 大半夜也不缺货, 卫生也好好搞的麦当劳. https://t.co/fXoUVHtURl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074390622275092808",
+        "created_at": "2026-07-07T07:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074390622275092808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074390622275092808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1022,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果麦当劳是外企会怎么样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 245,
+          "like_count": 10108,
+          "listed_count": 8,
+          "media_count": 223,
+          "tweet_count": 2558
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

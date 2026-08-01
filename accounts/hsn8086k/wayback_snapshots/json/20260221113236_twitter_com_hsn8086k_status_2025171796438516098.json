@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2025170309377319405",
+    "created_at": "2026-02-21T11:32:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T12:32:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025171796438516098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1912425245434380288",
+          "start": 0,
+          "username": "NikumaruNamo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025171796438516098",
+    "in_reply_to_user_id": "1912425245434380288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025170309377319405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NikumaruNamo 这么这么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "3_2025170273037856768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrZoi4aMAAPZRt.png",
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2025170309377319405",
+        "created_at": "2026-02-21T11:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025171796438516098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1912425245434380288",
+              "start": 0,
+              "username": "NikumaruNamo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025171796438516098",
+        "in_reply_to_user_id": "1912425245434380288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025170309377319405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NikumaruNamo 这么这么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025170273037856768"
+          ]
+        },
+        "author_id": "1912425245434380288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025170309377319405",
+        "created_at": "2026-02-21T11:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025170309377319405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w4RumoSqHb",
+              "end": 33,
+              "expanded_url": "https://x.com/NikumaruNamo/status/2025170309377319405/photo/1",
+              "media_key": "3_2025170273037856768",
+              "start": 10,
+              "url": "https://t.co/w4RumoSqHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025170309377319405",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@hsn8086k https://t.co/w4RumoSqHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 167,
+          "like_count": 4468,
+          "listed_count": 4,
+          "media_count": 127,
+          "tweet_count": 1283
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T08:38:19.000Z",
+        "description": "It's a secret between us from now on.",
+        "id": "1912425245434380288",
+        "location": "Crescent Bay",
+        "name": "纳無",
+        "pinned_tweet_id": "2024146349852147775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994000253528518656/an6AXajE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 129,
+          "like_count": 4660,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 577
+        },
+        "username": "NikumaruNamo",
+        "verified": false
+      }
+    ]
+  }
+}

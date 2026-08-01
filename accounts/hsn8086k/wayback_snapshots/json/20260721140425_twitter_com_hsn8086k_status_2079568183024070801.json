@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2079486154974646555",
+    "created_at": "2026-07-21T14:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T15:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079568183024070801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1285294866",
+          "start": 0,
+          "username": "lispcz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079568183024070801",
+    "in_reply_to_user_id": "1285294866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079486154974646555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lispcz 那很舒服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2079486154974646555",
+        "created_at": "2026-07-21T14:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079568183024070801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1285294866",
+              "start": 0,
+              "username": "lispcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079568183024070801",
+        "in_reply_to_user_id": "1285294866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079486154974646555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lispcz 那很舒服了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1285294866",
+        "conversation_id": "2079486154974646555",
+        "created_at": "2026-07-21T08:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079486154974646555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079486154974646555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 52255,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "DeepSeek 的内部文化，给人一种 ACM 队的既视感。。令人不安。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 246,
+          "like_count": 10605,
+          "listed_count": 8,
+          "media_count": 240,
+          "tweet_count": 2691
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-21T07:14:47.000Z",
+        "description": "vibe bio researcher / \nfuturist, waiting for \"the takeoff\" /\nlongevity, \"don't die\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lispc.github.io",
+                "end": 23,
+                "expanded_url": "http://lispc.github.io",
+                "start": 0,
+                "url": "https://t.co/yFs5Ue9UcB"
+              }
+            ]
+          }
+        },
+        "id": "1285294866",
+        "location": "Beijing, China",
+        "name": "Zhuo Zhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542117738118008832/LNtHkycc_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 3383,
+          "like_count": 13698,
+          "listed_count": 46,
+          "media_count": 195,
+          "tweet_count": 1685
+        },
+        "url": "https://t.co/yFs5Ue9UcB",
+        "username": "lispcz",
+        "verified": false
+      }
+    ]
+  }
+}

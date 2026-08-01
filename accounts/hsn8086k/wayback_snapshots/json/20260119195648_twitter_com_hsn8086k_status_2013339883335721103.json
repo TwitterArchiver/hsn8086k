@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2013280945869361563",
+    "created_at": "2026-01-19T19:56:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T20:56:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013339883335721103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1311897052880674817",
+          "start": 0,
+          "username": "Momoko_Ayase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013339883335721103",
+    "in_reply_to_user_id": "1311897052880674817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013300688063778917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Momoko_Ayase 都推荐one吗, 考虑考虑("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2013280945869361563",
+        "created_at": "2026-01-19T19:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T20:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013339883335721103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1311897052880674817",
+              "start": 0,
+              "username": "Momoko_Ayase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013339883335721103",
+        "in_reply_to_user_id": "1311897052880674817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013300688063778917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Momoko_Ayase 都推荐one吗, 考虑考虑("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1311897052880674817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2013280945869361563",
+        "created_at": "2026-01-19T17:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T18:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013300688063778917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013300688063778917",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013280945869361563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k copilot适合一次请求让ai做一堆事的情况（建议上mcp工具跟ai对话来减少额度消耗）\n然后就是Google One AI Pro + Antigravity吧（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 55,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 158
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T05:13:39.000Z",
+        "description": "我是小走，我断气了。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "momokko.moe",
+                "end": 23,
+                "expanded_url": "https://momokko.moe",
+                "start": 0,
+                "url": "https://t.co/Tav0kRuKlV"
+              }
+            ]
+          }
+        },
+        "id": "1311897052880674817",
+        "name": "綾瀬桃桃",
+        "pinned_tweet_id": "1998786562277163043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856346058714226688/fySRF0fY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 260,
+          "like_count": 3259,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 1868
+        },
+        "url": "https://t.co/Tav0kRuKlV",
+        "username": "Momoko_Ayase",
+        "verified": false
+      }
+    ]
+  }
+}

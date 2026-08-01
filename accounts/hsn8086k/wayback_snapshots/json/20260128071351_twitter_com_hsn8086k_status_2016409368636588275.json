@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016071570503172317",
+    "created_at": "2026-01-28T07:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T08:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016409368636588275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1786683928742641664",
+          "start": 0,
+          "username": "Jonesun252779"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016409368636588275",
+    "in_reply_to_user_id": "1786683928742641664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016338684946350427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jonesun252779 hashmap不是log哦, treemap才是log"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016071570503172317",
+        "created_at": "2026-01-28T07:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T08:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016409368636588275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1786683928742641664",
+              "start": 0,
+              "username": "Jonesun252779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016409368636588275",
+        "in_reply_to_user_id": "1786683928742641664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016338684946350427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jonesun252779 hashmap不是log哦, treemap才是log"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786683928742641664",
+        "conversation_id": "2016071570503172317",
+        "created_at": "2026-01-28T02:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T03:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016338684946350427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016338684946350427",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 762,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016071570503172317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k O(n) to O(logn)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 104,
+          "like_count": 1333,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 483
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T09:07:13.000Z",
+        "description": "technician, military, travel\n\n“If you feel pain, you are alive. If you feel other people's pain, you are a human being.”",
+        "id": "1786683928742641664",
+        "location": "SG",
+        "name": "Jonesun",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787267487656243200/Vmd0U6GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1311,
+          "following_count": 389,
+          "like_count": 140,
+          "listed_count": 17,
+          "media_count": 2289,
+          "tweet_count": 9486
+        },
+        "username": "Jonesun252779",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2023301038816837715",
+    "created_at": "2026-02-16T09:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023332939346665917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797120101419999232",
+          "start": 0,
+          "username": "YMKxxxxxxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023332939346665917",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023331661451243657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMKxxxxxxxx 不折腾了, 养老"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2023301038816837715",
+        "created_at": "2026-02-16T09:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023332939346665917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023332939346665917",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023331661451243657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 不折腾了, 养老"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2023301038816837715",
+        "created_at": "2026-02-16T09:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023331661451243657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "description": "neovim: https://neovim.io/homebrew: https://brew.sh/nerdfonts: https://www.nerdfonts.com/lazyvim: https://www.lazyvim.org/, 视频播放量 121931、弹幕量 148、点赞数 1923、投硬币枚数 705、收藏人数 3201、转发人数 196, 视频作者 隔壁的程序员老王, 作者简介 喜欢分享知识的谷歌程序员 商务合作： contact@codewithwang.com，相关视频：外国佬用Neovim写代码，有点武侠比武的代入感，男人减速带：Neovim 代码编辑器，🔥 体验NeoVim下的Vibe Coding，很丝滑的 VSCode 光标插件，指尖飞舞：vscode + vim 高效开发（系列视频），现代化Vim教程 01 - 环境搭建，【双语+中配】🔥「新神之战」Neovim发行版终极PK：LazyVim vs AstroNvim vs NvChad等王者阵容，这是使用 neovim 一年后我给出的配置，让你的Neovim完全不输IDE，Neovim 最迷人的功能：光标跳转",
+              "display_url": "b23.tv/j4R8E4n",
+              "end": 175,
+              "expanded_url": "https://b23.tv/j4R8E4n",
+              "start": 152,
+              "status": 200,
+              "title": "自从用了Neovim 鼠标我已经扔了_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1TJCvYFE2T/?buvid=XU0842E00784559F683EDE743D14C289E08DD&from_spmid=playlist.playlist-detail.0.0&is_story_h5=false&mid=RMDwkNThptyegewvfzQg0w%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=1238690f-8565-42c6-a7ba-baa9fa810ccc&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1771234570&unique_k=j4R8E4n&up_id=16433002",
+              "url": "https://t.co/KJj6sLloby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023331661451243657",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023328135174148342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k lazyvim一行命令就能装好，配置也很简单,:mason :lazyextra安装lsp和各种插件。操作稍微学一下就会发现特别顺畅，之前就是看了b站上的视频才开始喜欢vim的\n我还有自己的一些配置，例如编辑器内sudo鉴权，tab补全而不是enter补全，需要的话都可以分享出来\n https://t.co/KJj6sLloby"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 161,
+          "like_count": 3839,
+          "listed_count": 4,
+          "media_count": 113,
+          "tweet_count": 1123
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 347,
+          "like_count": 1205,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

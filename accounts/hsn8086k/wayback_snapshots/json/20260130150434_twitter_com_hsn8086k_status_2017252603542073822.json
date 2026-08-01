@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2017250858212462913",
+    "created_at": "2026-01-30T15:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T16:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017252603542073822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1671220510246436882",
+          "start": 0,
+          "username": "Archang49972122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017252603542073822",
+    "in_reply_to_user_id": "1671220510246436882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017251746230280375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Archang49972122 api 也下了吗, 这么死妈的? 还不开源是吧..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2017250858212462913",
+        "created_at": "2026-01-30T15:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017252603542073822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1671220510246436882",
+              "start": 0,
+              "username": "Archang49972122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017252603542073822",
+        "in_reply_to_user_id": "1671220510246436882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017251746230280375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Archang49972122 api 也下了吗, 这么死妈的? 还不开源是吧..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671220510246436882",
+        "conversation_id": "2017250858212462913",
+        "created_at": "2026-01-30T15:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T16:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017251746230280375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017251746230280375",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017250858212462913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 春节下架。。好像是最新那版"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 118,
+          "like_count": 1875,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 622
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-20T18:16:44.000Z",
+        "description": "𝓥𝓪𝓵𝓮 𝓮𝓽 𝓶𝓮 𝓪𝓶𝓪.",
+        "id": "1671220510246436882",
+        "name": "Archangel",
+        "pinned_tweet_id": "1959958038229479921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980588527000686592/inqv-isF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 162,
+          "like_count": 6323,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 3531
+        },
+        "username": "Archang49972122",
+        "verified": false
+      }
+    ]
+  }
+}

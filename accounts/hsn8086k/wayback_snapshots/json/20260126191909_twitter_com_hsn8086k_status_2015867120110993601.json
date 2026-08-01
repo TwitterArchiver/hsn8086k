@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015867120110993601",
+    "created_at": "2026-01-26T19:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T20:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015867120110993601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2015750216138567847",
+          "start": 44,
+          "url": "https://t.co/oMWeSpVou4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015867120110993601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015750216138567847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "倒是没觉得 Skill 在 AI Coding 里有多大潜力, 但在这种场景下真是好用 https://t.co/oMWeSpVou4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2015750212304732160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_liI2BXgAAbQKk.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015867120110993601",
+        "created_at": "2026-01-26T19:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T20:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015867120110993601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2015750216138567847",
+              "start": 44,
+              "url": "https://t.co/oMWeSpVou4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015867120110993601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015750216138567847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "倒是没觉得 Skill 在 AI Coding 里有多大潜力, 但在这种场景下真是好用 https://t.co/oMWeSpVou4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015750212304732160"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015750216138567847",
+        "created_at": "2026-01-26T11:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015750216138567847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCgsOA8vNs",
+              "end": 84,
+              "expanded_url": "https://x.com/hsn8086k/status/2015750216138567847/photo/1",
+              "media_key": "3_2015750212304732160",
+              "start": 61,
+              "url": "https://t.co/CCgsOA8vNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015750216138567847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2542,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看某个 bot 最近很火, hsn 也觉得好玩, 于是摸索着用 langchain 写了个 bot, 重复造轮子真好玩( https://t.co/CCgsOA8vNs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 92,
+          "like_count": 901,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 377
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

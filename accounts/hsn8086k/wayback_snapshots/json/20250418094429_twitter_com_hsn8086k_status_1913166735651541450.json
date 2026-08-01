@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "1913166735651541450",
+    "created_at": "2025-04-18T09:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T10:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913166735651541450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zuoyeben666/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/zuoyeben666/status/1912494523537862848",
+          "start": 7,
+          "url": "https://t.co/bZYGXqAZ7p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913166735651541450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912494523537862848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大学还是这样 https://t.co/bZYGXqAZ7p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1913166735651541450",
+        "created_at": "2025-04-18T09:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T10:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913166735651541450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zuoyeben666/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/zuoyeben666/status/1912494523537862848",
+              "start": 7,
+              "url": "https://t.co/bZYGXqAZ7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913166735651541450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912494523537862848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大学还是这样 https://t.co/bZYGXqAZ7p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "881184734264479747",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1912494523537862848",
+        "created_at": "2025-04-16T13:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T14:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912494523537862848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912494523537862848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很多死去的现实消失后会带来很虚幻的记忆，比如，很难相信2010年手机才可以大量使用wifi…而2005年加州森尼维尔市已经提供全市免费wifi……\n\n想起2000年手机刚要普及时，打电话双向收费，打也付费，接也付费，还有来电显示费，gprs费，出省还有漫游费，长途费。\n还记得漫游费才取消几年吗？\n2017年才取消。\n\n2000年左右，那时候都用诺基亚，行货wifi功能被切割掉了，于是要用流量上网……家里公司都有网络，但手机上网要用流量。还记得那有多贵吗？\n\n大学时候，一个宿舍六个人，每个人要办一个校园网卡……本来可以一个网卡就可全舍上网，但就是让你每人办一张，这样就可以每个人收费一次了。\n\n那时家里装个电话，还要收费3000元。\n3000是什么概念呢？2001年能买两部诺基亚3210什么的。\n\n本来iPhone3可以用wifi上网，不用流量。结果联通把国行的iPhone3的手机WiFi模块给阉割了……谁能相信？当时的iPhone上网要走流量……\n\n还用过一阵UC上网，需要开启无图模式，省流量啊，见过网站是纯文字的吗？\n\n这些反智规定似乎感觉已经取消了几个世纪甚至像没有存在过，因为这些遥远的、混蛋一样的规定在任何一个正常地方根本没有任何可能发生。但它不仅发生，而且都发生存在了十年、二十年以上。并且还在发生，上个推还要翻墙……这是什么中式笑话？\n\n动不动科技领头，动不动遥遥领先，动不动给人上一课……MLGB的2017手机才取消漫游，他妈的20多年在一个国家出个省搞的全民又是长途又是漫游的，用手机20年才用上wifi…笑话过去了就结束了吗？知道iPhone16国行版阉割了多少功能吗？没有卫星通话没有esim，人家无线充电25w它15w，也没有wifi7，居然还是wifi6，6比7慢了三倍，倒着领先也是领先啊……没想到还是个wifi问题。。。真他妈中式神话。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1006,
+          "impression_count": 709433,
+          "like_count": 3169,
+          "quote_count": 57,
+          "reply_count": 302,
+          "retweet_count": 561
+        },
+        "reply_settings": "everyone",
+        "text": "很多死去的现实消失后会带来很虚幻的记忆，比如，很难相信2010年手机才可以大量使用wifi…而2005年加州森尼维尔市已经提供全市免费wifi……\n\n想起2000年手机刚要普及时，打电话双向收费，打也付费，接也付费，还有来电显示费，gprs费，出省还有漫游费，长途费。\n还记得漫游费才取消几年吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 39,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 109
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T16:16:27.000Z",
+        "description": "A film writer and director",
+        "id": "881184734264479747",
+        "name": "作业本",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583341387214307328/ZK0ZrXby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91883,
+          "following_count": 340,
+          "like_count": 83,
+          "listed_count": 335,
+          "media_count": 194,
+          "tweet_count": 593
+        },
+        "username": "zuoyeben666",
+        "verified": true
+      }
+    ]
+  }
+}

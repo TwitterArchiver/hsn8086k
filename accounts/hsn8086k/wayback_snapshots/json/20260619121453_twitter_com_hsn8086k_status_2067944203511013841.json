@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2067921262975009162",
+    "created_at": "2026-06-19T12:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067944203511013841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828985250162323456",
+          "start": 0,
+          "username": "hishn948957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067944203511013841",
+    "in_reply_to_user_id": "1828985250162323456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067943856503746854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hishn948957 没啥啊, 只是我确认了一下我没把zed写成zen, 比较疑惑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2067921262975009162",
+        "created_at": "2026-06-19T12:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067944203511013841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828985250162323456",
+              "start": 0,
+              "username": "hishn948957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067944203511013841",
+        "in_reply_to_user_id": "1828985250162323456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067943856503746854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hishn948957 没啥啊, 只是我确认了一下我没把zed写成zen, 比较疑惑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828985250162323456",
+        "conversation_id": "2067921262975009162",
+        "created_at": "2026-06-19T12:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067943856503746854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067943856503746854",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067942981899034826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 😭😭😭\n别压力我呀，我真的是 hsn 的忠实粉丝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 241,
+          "like_count": 9554,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 2356
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T02:37:49.000Z",
+        "description": "沉淀ing.",
+        "id": "1828985250162323456",
+        "name": "白",
+        "pinned_tweet_id": "2014678800689435113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941141219477712896/2rdSKM0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 201,
+          "like_count": 9554,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1508
+        },
+        "url": "",
+        "username": "hishn948957",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2014936596630671694",
+    "created_at": "2026-01-24T06:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T07:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014950848150045164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1099585219047223297",
+          "start": 0,
+          "username": "alcab_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014950848150045164",
+    "in_reply_to_user_id": "1099585219047223297",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014949701435719687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alcab_ 6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2014936596630671694",
+        "created_at": "2026-01-24T06:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T07:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014950848150045164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1099585219047223297",
+              "start": 0,
+              "username": "alcab_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014950848150045164",
+        "in_reply_to_user_id": "1099585219047223297",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014949701435719687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alcab_ 6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1099585219047223297",
+        "conversation_id": "2014936596630671694",
+        "created_at": "2026-01-24T06:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T07:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014949701435719687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014949701435719687",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014936596630671694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 你把gpu拆出来，沾点墨就能画了，怎么画不是画"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 86,
+          "like_count": 563,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 284
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-24T08:22:00.000Z",
+        "description": "",
+        "id": "1099585219047223297",
+        "name": "大反派",
+        "pinned_tweet_id": "1577577465404600321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788555377455374336/H7zXneh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 186,
+          "like_count": 14582,
+          "listed_count": 1,
+          "media_count": 411,
+          "tweet_count": 3551
+        },
+        "username": "alcab_",
+        "verified": false
+      }
+    ]
+  }
+}

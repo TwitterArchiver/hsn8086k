@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2080654809737392280",
+    "created_at": "2026-07-25T11:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080982538752020724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2008233761763409920",
+          "start": 0,
+          "username": "galaxy1025850"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080982538752020724",
+    "in_reply_to_user_id": "2008233761763409920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080654809737392280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@galaxy1025850 ?怎么是群友"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080654759292481536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_4etPasAABFz1.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080654758818508802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_4ereacAIEBh0.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080654758826897408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_4ergacAAki5O.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2080654809737392280",
+        "created_at": "2026-07-25T11:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080982538752020724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2008233761763409920",
+              "start": 0,
+              "username": "galaxy1025850"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080982538752020724",
+        "in_reply_to_user_id": "2008233761763409920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080654809737392280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy1025850 ?怎么是群友"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080654759292481536",
+            "3_2080654758818508802",
+            "3_2080654758826897408"
+          ]
+        },
+        "author_id": "2008233761763409920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080654809737392280",
+        "created_at": "2026-07-24T14:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080654809737392280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRCV7XVQUT",
+              "end": 30,
+              "expanded_url": "https://x.com/galaxy1025850/status/2080654809737392280/photo/1",
+              "media_key": "3_2080654759292481536",
+              "start": 7,
+              "url": "https://t.co/gRCV7XVQUT"
+            },
+            {
+              "display_url": "pic.x.com/gRCV7XVQUT",
+              "end": 30,
+              "expanded_url": "https://x.com/galaxy1025850/status/2080654809737392280/photo/1",
+              "media_key": "3_2080654758818508802",
+              "start": 7,
+              "url": "https://t.co/gRCV7XVQUT"
+            },
+            {
+              "display_url": "pic.x.com/gRCV7XVQUT",
+              "end": 30,
+              "expanded_url": "https://x.com/galaxy1025850/status/2080654809737392280/photo/1",
+              "media_key": "3_2080654758826897408",
+              "start": 7,
+              "url": "https://t.co/gRCV7XVQUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080654809737392280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3428,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎谁的理想型 https://t.co/gRCV7XVQUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 246,
+          "like_count": 10651,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 2705
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T17:47:02.000Z",
+        "description": "🐖🐖🐖🐖🐖 \n🏃到处乱窜随机刷新的北方网友\n💻捣鼓 AI & Cloud Computing｜垃圾代码 producer\nPansexual | 非常友跨 \n💫欢迎互 fo，发现被我莫名奇妙fo了就是暗恋你😘 ​\n脾气超好 啥都能聊 欢迎骚扰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.17co.de",
+                "end": 23,
+                "expanded_url": "https://blog.17co.de",
+                "start": 0,
+                "url": "https://t.co/3iZAC7R5oH"
+              }
+            ]
+          }
+        },
+        "id": "2008233761763409920",
+        "location": "./tpaccept 马上刷新在你家",
+        "name": "galaxy",
+        "pinned_tweet_id": "2061990483363312002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080383668082851840/WI3z7833_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 821,
+          "like_count": 2117,
+          "listed_count": 3,
+          "media_count": 116,
+          "tweet_count": 1261
+        },
+        "url": "https://t.co/3iZAC7R5oH",
+        "username": "galaxy1025850",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2067974630871355759",
+    "created_at": "2026-06-19T14:15:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:15:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067974630871355759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moonlight_ruri…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/moonlight_ruri/status/2067842562434777272",
+          "start": 23,
+          "url": "https://t.co/IgHPdgEOct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067974630871355759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067842562434777272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1M USD.\n就可以不用这么焦虑的活着了. https://t.co/IgHPdgEOct"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2067974630871355759",
+        "created_at": "2026-06-19T14:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067974630871355759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moonlight_ruri…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/moonlight_ruri/status/2067842562434777272",
+              "start": 23,
+              "url": "https://t.co/IgHPdgEOct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067974630871355759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067842562434777272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1M USD.\n就可以不用这么焦虑的活着了. https://t.co/IgHPdgEOct"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763034943599607808",
+        "conversation_id": "2067842562434777272",
+        "created_at": "2026-06-19T05:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067842562434777272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067842562434777272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6995,
+          "like_count": 46,
+          "quote_count": 3,
+          "reply_count": 73,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你现在需要多少钱？\n现实实际一点，别说几个亿这样的\n多少能解决你的基本需求或燃眉之急"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 241,
+          "like_count": 9571,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 2367
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "location": "千葉縣｜蓝v必回请私信｜x telegram同id",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9389,
+          "following_count": 553,
+          "like_count": 1182,
+          "listed_count": 23,
+          "media_count": 303,
+          "tweet_count": 2266
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

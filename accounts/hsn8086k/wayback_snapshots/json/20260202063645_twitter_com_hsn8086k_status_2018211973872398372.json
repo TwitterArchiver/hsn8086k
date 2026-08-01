@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018211968969232384"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2018211973872398372",
+    "created_at": "2026-02-02T06:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T07:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018211973872398372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BjTKE0d96h",
+          "end": 55,
+          "expanded_url": "https://x.com/hsn8086k/status/2018211973872398372/photo/1",
+          "media_key": "3_2018211968969232384",
+          "start": 32,
+          "url": "https://t.co/BjTKE0d96h"
+        },
+        {
+          "display_url": "x.com/rnpgpsl/status…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/rnpgpsl/status/2018176133775114291",
+          "start": 56,
+          "url": "https://t.co/pg8AHxBFtW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018211973872398372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018176133775114291",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前某辆车, 中控屏坏了, 重启没用, 在广州开不了空调被热死 https://t.co/BjTKE0d96h https://t.co/pg8AHxBFtW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2018211968969232384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIhF8PaUAANcfB.jpg",
+        "width": 489
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018211968969232384"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2018211973872398372",
+        "created_at": "2026-02-02T06:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T07:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018211973872398372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BjTKE0d96h",
+              "end": 55,
+              "expanded_url": "https://x.com/hsn8086k/status/2018211973872398372/photo/1",
+              "media_key": "3_2018211968969232384",
+              "start": 32,
+              "url": "https://t.co/BjTKE0d96h"
+            },
+            {
+              "display_url": "x.com/rnpgpsl/status…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/rnpgpsl/status/2018176133775114291",
+              "start": 56,
+              "url": "https://t.co/pg8AHxBFtW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018211973872398372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018176133775114291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前某辆车, 中控屏坏了, 重启没用, 在广州开不了空调被热死 https://t.co/BjTKE0d96h https://t.co/pg8AHxBFtW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "909909858949922818",
+        "conversation_id": "2018176133775114291",
+        "created_at": "2026-02-02T04:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T05:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018176133775114291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jlxc2001/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/jlxc2001/status/2018167615232074020",
+              "start": 22,
+              "url": "https://t.co/fzNtYQJags"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018176133775114291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 417,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018167615232074020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以新能源汽车厂商为什么要把实体按键砍了！ https://t.co/fzNtYQJags"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 136,
+          "like_count": 2268,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 734
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "虾头看黄男 | 什么都干区主包 | 精神红脖子| 48州可飞技术支持劳动力｜有加急需求请用 discord/tg/手机号找我 | 进群🚪/熟人 | 曾经一个人舌战群儒和一群软件工程的隔空互骂 | 脸皮厚+不要脸 | 我是傻逼 | qq爆毙 | 极端反软件工程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 0,
+                "url": "https://t.co/gP2ETYbaE1"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Atlanta, GA",
+        "name": "鴇鵬機工 | Tokiho Engineering|收2zr-fe机械增压套件/整机",
+        "pinned_tweet_id": "2015541416525541660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10947,
+          "following_count": 6458,
+          "like_count": 153819,
+          "listed_count": 27,
+          "media_count": 6406,
+          "tweet_count": 85408
+        },
+        "url": "https://t.co/gP2ETYbaE1",
+        "username": "rnpgpsl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2073756294113284526",
+    "created_at": "2026-07-05T13:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073758062117298536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2017448841940000768",
+          "start": 0,
+          "username": "Nekostve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073758062117298536",
+    "in_reply_to_user_id": "2017448841940000768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073756983107457464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nekostve 为什么不像gpt那样让模型总结思维链的内容."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2073756294113284526",
+        "created_at": "2026-07-05T13:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073758062117298536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2017448841940000768",
+              "start": 0,
+              "username": "Nekostve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073758062117298536",
+        "in_reply_to_user_id": "2017448841940000768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073756983107457464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nekostve 为什么不像gpt那样让模型总结思维链的内容."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017448841940000768",
+        "conversation_id": "2073756294113284526",
+        "created_at": "2026-07-05T13:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073756983107457464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073756983107457464",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073756294113284526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 🤔因为要可知，不过不给你思维链的话倒是可以引入非文字token"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 244,
+          "like_count": 10044,
+          "listed_count": 8,
+          "media_count": 222,
+          "tweet_count": 2521
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T04:04:34.000Z",
+        "description": "a fish🐟 in the s?e?a?\nin favor of tsf\n但现世科技不足以使男性变为完全功能的女性\n故暂不发难)\n偏爱科学与数据，为此可以暂时锁上情感与强制保持理智\n06年老头子……\n出来觅食多巴胺，会回关吧说是……\n被ghost ban喽\n锁🐟，因为鱼自己都看不到自己的评论😭",
+        "id": "2017448841940000768",
+        "location": "ghost ban",
+        "name": "Neko🐟",
+        "pinned_tweet_id": "2044090666314289390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034865787778080772/er30A-2s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 295,
+          "like_count": 29816,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 3612
+        },
+        "url": "",
+        "username": "Nekostve",
+        "verified": false
+      }
+    ]
+  }
+}

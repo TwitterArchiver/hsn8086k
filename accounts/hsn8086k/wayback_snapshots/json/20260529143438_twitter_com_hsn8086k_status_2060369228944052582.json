@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2060369228944052582",
+    "created_at": "2026-05-29T14:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060369228944052582"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/canned0m/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/canned0m/status/2060218307991736802",
+          "start": 36,
+          "url": "https://t.co/lOjREX3ejX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060369228944052582",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060218307991736802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的把我玩游戏的热情放在写代码上, 但是仍然有更多比我更强的同龄人. https://t.co/lOjREX3ejX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2060369228944052582",
+        "created_at": "2026-05-29T14:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060369228944052582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/canned0m/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/canned0m/status/2060218307991736802",
+              "start": 36,
+              "url": "https://t.co/lOjREX3ejX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060369228944052582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060218307991736802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的把我玩游戏的热情放在写代码上, 但是仍然有更多比我更强的同龄人. https://t.co/lOjREX3ejX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782192157417488384",
+        "conversation_id": "2060218307991736802",
+        "created_at": "2026-05-29T04:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T05:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060218307991736802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060218307991736802",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 985,
+          "impression_count": 922948,
+          "like_count": 17301,
+          "quote_count": 526,
+          "reply_count": 122,
+          "retweet_count": 7122
+        },
+        "reply_settings": "everyone",
+        "text": "\"니가 게임하는데에 쓴 노력을 공부에 썼으면 서울대를 갔겠다\"\n엄마\n저는 오버워치를 1500시간을 했고요\n오버워치 레벨은 무려 2122레벨인데요\n그런데도 여전히 플레티넘이에요\n사실 어제 솔큐경쟁돌리다가 4판져서 골드됐어요\n티어 분포도 적용하면 6등급일거예요\n엄마\n6등급으로는 서울대 못 가요"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 227,
+          "like_count": 8503,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2137
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T23:38:25.000Z",
+        "description": "옴닉영구밀폐보관가공식품",
+        "id": "1782192157417488384",
+        "location": "멋쟁이물고기 #3609 ",
+        "name": "통조림",
+        "pinned_tweet_id": "2022584540930400761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809233513436315649/FOyFTdK0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 175,
+          "like_count": 9086,
+          "listed_count": 8,
+          "media_count": 378,
+          "tweet_count": 15506
+        },
+        "username": "canned0m",
+        "verified": false
+      }
+    ]
+  }
+}

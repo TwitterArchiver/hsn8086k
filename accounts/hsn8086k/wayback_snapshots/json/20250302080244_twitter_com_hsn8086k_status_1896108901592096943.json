@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1895451593707061705",
+    "created_at": "2025-03-02T08:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T09:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896108901592096943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1494354920090513409",
+          "start": 0,
+          "username": "Lawrence1947228"
+        },
+        {
+          "end": 29,
+          "id": "1445930979911090179",
+          "start": 17,
+          "username": "formosan101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896108901592096943",
+    "in_reply_to_user_id": "1494354920090513409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895672145101144196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lawrence1947228 @formosan101 我觉得,更有可能是大陆卡拒付..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1895451593707061705",
+        "created_at": "2025-03-02T08:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T09:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896108901592096943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1494354920090513409",
+              "start": 0,
+              "username": "Lawrence1947228"
+            },
+            {
+              "end": 29,
+              "id": "1445930979911090179",
+              "start": 17,
+              "username": "formosan101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896108901592096943",
+        "in_reply_to_user_id": "1494354920090513409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895672145101144196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lawrence1947228 @formosan101 我觉得,更有可能是大陆卡拒付..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1494354920090513409",
+        "conversation_id": "1895451593707061705",
+        "created_at": "2025-03-01T03:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T04:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895672145101144196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1445930979911090179",
+              "start": 0,
+              "username": "formosan101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895672145101144196",
+        "in_reply_to_user_id": "1445930979911090179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9580,
+          "like_count": 217,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895451593707061705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@formosan101 環球影城從餐廳到每一個小攤都能感應刷卡。\n\n一定是詐騙。\n\n然後，果然是中國人互食的老傳統，\n什麼兩岸一家親，\n就是侵略吞噬的意思。\n\n台灣對中國永遠要保持敵對和警戒。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 35,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-17T16:56:04.000Z",
+        "description": "「identifying with all its inhabitants, and through love and suffering becoming the sign of hope. 」\n\n#聽說要加上臭罵中國的話才不會被廣告騷擾\n#台灣獨立 #台灣建國 #習近平永遠統治中國把中國搞爛",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 100,
+                "tag": "聽說要加上臭罵中國的話才不會被廣告騷擾"
+              },
+              {
+                "end": 126,
+                "start": 121,
+                "tag": "台灣獨立"
+              },
+              {
+                "end": 132,
+                "start": 127,
+                "tag": "台灣建國"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "tag": "習近平永遠統治中國把中國搞爛"
+              }
+            ]
+          }
+        },
+        "id": "1494354920090513409",
+        "name": "Lawrence of Taiwan",
+        "pinned_tweet_id": "1596446231185993728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1613382238523240448/vYB9ZoS4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4962,
+          "following_count": 1111,
+          "like_count": 115803,
+          "listed_count": 31,
+          "media_count": 1787,
+          "tweet_count": 35947
+        },
+        "username": "Lawrence1947228",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T01:57:19.000Z",
+        "description": "A Formosan from the beautiful island Formosa, aka TAIWAN, the most beautiful place in the world.",
+        "id": "1445930979911090179",
+        "location": "Silicon heart of the World",
+        "name": "福爾摩沙愛國者黑熊",
+        "pinned_tweet_id": "1817961709971320951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742557357920440320/6e0TGrun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4180,
+          "following_count": 287,
+          "like_count": 85541,
+          "listed_count": 40,
+          "media_count": 3642,
+          "tweet_count": 17801
+        },
+        "username": "formosan101",
+        "verified": false
+      }
+    ]
+  }
+}

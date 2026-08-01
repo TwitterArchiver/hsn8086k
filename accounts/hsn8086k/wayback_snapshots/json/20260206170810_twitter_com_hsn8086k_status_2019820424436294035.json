@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019820424436294035",
+    "created_at": "2026-02-06T17:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T18:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019820424436294035"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019820424436294035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉好多东西要从头开始学，好痛苦啊。在家里没教过的，童年没经历过的，现在都得加倍花精力补上……\n甚至我都不知道从哪儿下手。\n就像做饭这种已经点了的科技，其实也就是这么过来的。\n感觉现在真是只会写代码、其他啥也不会的 fw。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019820424436294035",
+        "created_at": "2026-02-06T17:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019820424436294035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019820424436294035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉好多东西要从头开始学，好痛苦啊。在家里没教过的，童年没经历过的，现在都得加倍花精力补上……\n甚至我都不知道从哪儿下手。\n就像做饭这种已经点了的科技，其实也就是这么过来的。\n感觉现在真是只会写代码、其他啥也不会的 fw。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 147,
+          "like_count": 2776,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 845
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2071778661800493365",
+    "created_at": "2026-06-30T02:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T03:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071778661800493365"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ModelScope2022…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/ModelScope2022/status/2071624929049444452",
+          "start": 34,
+          "url": "https://t.co/xvmizxtttA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071778661800493365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071624929049444452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又来cf 3206了, 结果去年上海reg签到题都要开20min. https://t.co/xvmizxtttA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_2071624926558105600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_j5Q9XMAAp5my.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2071778661800493365",
+        "created_at": "2026-06-30T02:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071778661800493365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ModelScope2022…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ModelScope2022/status/2071624929049444452",
+              "start": 34,
+              "url": "https://t.co/xvmizxtttA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071778661800493365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071624929049444452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又来cf 3206了, 结果去年上海reg签到题都要开20min. https://t.co/xvmizxtttA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071624926558105600"
+          ]
+        },
+        "author_id": "1784494412913049600",
+        "conversation_id": "2071624929049444452",
+        "created_at": "2026-06-29T16:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071624929049444452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ModelScope——A one-stop service that brings together the most advanced machine learning models from various fields, offering model exploration experience, inference, training, deployment, and application.",
+              "display_url": "modelscope.ai/models/deepsee…",
+              "end": 189,
+              "expanded_url": "https://modelscope.ai/models/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+              "images": [
+                {
+                  "height": 648,
+                  "url": "https://pbs.twimg.com/news_img/2071624950759161856/Ws5ykZo8?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071624950759161856/Ws5ykZo8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 166,
+              "status": 200,
+              "title": "DeepSeek-V4-Pro-DSpark",
+              "unwound_url": "https://modelscope.ai/models/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+              "url": "https://t.co/eJCxkfyrly"
+            },
+            {
+              "description": "本文面向超长上下文推理瓶颈，提出DeepSeek-V4系列大语言模型（含1.6T参数的DeepSeek-V4-Pro与284B参数的DeepSeek-V4-Flash），首次在开源模型中实现稳定、高效的百万token上下文支持。研究背景在于传统注意力机制的平方复杂度严重制约测试时扩展（test-time scaling）与长视野任务（如跨文档分析、智能体工作流）。为此，作者创新性地引入三项核心技术：（1）混合注意力架构——融合压缩稀疏注意力（CSA）与重度压缩注意力（HCA），在保持建模能力的同时大幅降低计算开销；（2）流形约束超连接（mHC），通过将残差映射约束于双随机矩阵流形，提升深层信号传播稳定性；（3）Muon优化器，加速收敛并增强训练鲁棒性。预训练基于超32T高质量token，并构建包含专家微调、策略优化（GRPO）与在线策略蒸馏的多阶段后训练流程。实验证明：在1M-token场景下，DeepSeek-V4-Pro仅需DeepSeek-V3.2的27%单token FLOPs和10% KV缓存，显著突破效率瓶颈；其最大推理模式DeepSeek-V4-Pro-Max在知识、推理、长上下文及智能体任务上全面刷新开源模型SOTA，尤其在百万token真实任务中超越Gemini-3.1-Pro。",
+              "display_url": "modelscope.ai/papers/2606.19…",
+              "end": 215,
+              "expanded_url": "https://modelscope.ai/papers/2606.19348",
+              "images": [
+                {
+                  "height": 648,
+                  "url": "https://pbs.twimg.com/news_img/2071624973098041344/8se6WIRn?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071624973098041344/8se6WIRn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 192,
+              "status": 200,
+              "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+              "unwound_url": "https://modelscope.ai/papers/2606.19348",
+              "url": "https://t.co/XRiTXroxV9"
+            },
+            {
+              "display_url": "pic.x.com/Eu3LrK7i21",
+              "end": 298,
+              "expanded_url": "https://x.com/ModelScope2022/status/2071624929049444452/photo/1",
+              "media_key": "3_2071624926558105600",
+              "start": 275,
+              "url": "https://t.co/Eu3LrK7i21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071624929049444452",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "modelscope.ai/models/deepsee…",
+                "end": 189,
+                "expanded_url": "https://modelscope.ai/models/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+                "start": 166,
+                "url": "https://t.co/8MA1dMqGri"
+              },
+              {
+                "display_url": "modelscope.ai/papers/2606.19…",
+                "end": 215,
+                "expanded_url": "https://modelscope.ai/papers/2606.19348",
+                "start": 192,
+                "url": "https://t.co/b6OBoZBwZC"
+              }
+            ]
+          },
+          "text": "DeepSeek-V4-Pro-DSpark lands on ModelScope~ Same DeepSeek-V4-Pro checkpoint, now with an added speculative decoding module for inference experiments. 🚀License: MIT\n🤖 https://t.co/8MA1dMqGri\n📄 https://t.co/b6OBoZBwZC\n\n🏆 Pro-Max results: 93.5 on LiveCodeBench, 3206 Codeforces rating, 80.6 on SWE Verified, and 83.5 on MRCR 1M\n\n📏 Long-context efficiency: at 1M context, DeepSeek-V4-Pro uses only 27% single-token inference FLOPs and 10% KV cache vs DeepSeek-V3.2\n\n🧠 Architecture upgrades: hybrid CSA + HCA attention for 1M-token efficiency, mHC for stronger signal propagation, and Muon optimizer for faster, more stable training"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2899,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "DeepSeek-V4-Pro-DSpark lands on ModelScope~ Same DeepSeek-V4-Pro checkpoint, now with an added speculative decoding module for inference experiments. 🚀License: MIT\n🤖 https://t.co/eJCxkfyrly\n📄 https://t.co/XRiTXroxV9\n\n🏆 Pro-Max results: 93.5 on LiveCodeBench, 3206 Codeforces https://t.co/Eu3LrK7i21"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 242,
+          "like_count": 9862,
+          "listed_count": 8,
+          "media_count": 219,
+          "tweet_count": 2465
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T08:06:49.000Z",
+        "description": "Driving innovations with open communities. 💬 Join our Discord: https://t.co/4M9AHVh5qa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hgKcfgXHAQ",
+                "end": 86,
+                "expanded_url": "https://discord.gg/hgKcfgXHAQ",
+                "start": 63,
+                "url": "https://t.co/4M9AHVh5qa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "modelscope.ai",
+                "end": 23,
+                "expanded_url": "https://www.modelscope.ai",
+                "start": 0,
+                "url": "https://t.co/PYFO0v68E2"
+              }
+            ]
+          }
+        },
+        "id": "1784494412913049600",
+        "location": "HangZhou, China",
+        "name": "ModelScope",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954838522696982528/_vUSgyLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9678,
+          "following_count": 146,
+          "like_count": 136,
+          "listed_count": 116,
+          "media_count": 438,
+          "tweet_count": 832
+        },
+        "url": "https://t.co/PYFO0v68E2",
+        "username": "ModelScope2022",
+        "verified": true
+      }
+    ]
+  }
+}

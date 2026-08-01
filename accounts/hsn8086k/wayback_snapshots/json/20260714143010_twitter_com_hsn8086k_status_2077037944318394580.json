@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2077037944318394580",
+    "created_at": "2026-07-14T14:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077037944318394580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ajoey91_/statu…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/ajoey91_/status/2076977277183934677",
+          "start": 66,
+          "url": "https://t.co/RTXRrtJcHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077037944318394580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076977277183934677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "HSN大学猫咪学院:\n如果你能在一段文字上边加上xx学校xx学院, 和他的校徽, 那么这段话便会看起来非常有道理, 即使他是废话. https://t.co/RTXRrtJcHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2076977264059990016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNLn0T7bwAAl-eI.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2077037944318394580",
+        "created_at": "2026-07-14T14:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077037944318394580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ajoey91_/statu…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/ajoey91_/status/2076977277183934677",
+              "start": 66,
+              "url": "https://t.co/RTXRrtJcHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077037944318394580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076977277183934677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "HSN大学猫咪学院:\n如果你能在一段文字上边加上xx学校xx学院, 和他的校徽, 那么这段话便会看起来非常有道理, 即使他是废话. https://t.co/RTXRrtJcHo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076977264059990016"
+          ]
+        },
+        "author_id": "1427522893039030276",
+        "conversation_id": "2076977277183934677",
+        "created_at": "2026-07-14T10:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076977277183934677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nfxtx7YUB3",
+              "end": 27,
+              "expanded_url": "https://x.com/ajoey91_/status/2076977277183934677/photo/1",
+              "media_key": "3_2076977264059990016",
+              "start": 4,
+              "url": "https://t.co/Nfxtx7YUB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076977277183934677",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1827,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有道理 https://t.co/Nfxtx7YUB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 244,
+          "like_count": 10302,
+          "listed_count": 8,
+          "media_count": 232,
+          "tweet_count": 2633
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T06:49:21.000Z",
+        "description": "pre-rich & alpha | music producer\ncrypto | ai | 美股 | gym | shit poster | nfa.\n沉迷于积极的想法和相信自己",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/justjoeyme",
+                "end": 23,
+                "expanded_url": "https://t.me/justjoeyme",
+                "start": 0,
+                "url": "https://t.co/fZILBymAmc"
+              }
+            ]
+          }
+        },
+        "id": "1427522893039030276",
+        "name": "Joey.ai",
+        "pinned_tweet_id": "2072907657930064179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075629842037673984/9oapPO5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113,
+          "following_count": 971,
+          "like_count": 9759,
+          "listed_count": 6,
+          "media_count": 145,
+          "tweet_count": 5380
+        },
+        "url": "https://t.co/fZILBymAmc",
+        "username": "ajoey91_",
+        "verified": true
+      }
+    ]
+  }
+}

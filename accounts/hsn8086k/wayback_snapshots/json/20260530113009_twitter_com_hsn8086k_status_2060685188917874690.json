@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2060685188917874690",
+    "created_at": "2026-05-30T11:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060685188917874690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bubblepipe42/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/bubblepipe42/status/2060593159743361524",
+          "start": 29,
+          "url": "https://t.co/ZeSJHtY7AH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060685188917874690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060593159743361524",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一般情况下, 砍头数量 = max(0, 价格 - 5) https://t.co/ZeSJHtY7AH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 989,
+        "media_key": "3_2060593148150304768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiyjP4aUAAGvdK.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2060685188917874690",
+        "created_at": "2026-05-30T11:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060685188917874690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bubblepipe42/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/bubblepipe42/status/2060593159743361524",
+              "start": 29,
+              "url": "https://t.co/ZeSJHtY7AH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060685188917874690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060593159743361524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一般情况下, 砍头数量 = max(0, 价格 - 5) https://t.co/ZeSJHtY7AH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060593148150304768"
+          ]
+        },
+        "author_id": "1745799972576968705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060593159743361524",
+        "created_at": "2026-05-30T05:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060593159743361524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JUinwGkWSr",
+              "end": 37,
+              "expanded_url": "https://x.com/bubblepipe42/status/2060593159743361524/photo/1",
+              "media_key": "3_2060593148150304768",
+              "start": 14,
+              "url": "https://t.co/JUinwGkWSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060593159743361524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5474,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在武汉卖这个价格是要杀头的 https://t.co/JUinwGkWSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2171,
+          "following_count": 227,
+          "like_count": 8542,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2143
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个家养猫（已剪角）。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 932,
+          "like_count": 8719,
+          "listed_count": 5,
+          "media_count": 349,
+          "tweet_count": 2442
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

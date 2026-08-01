@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2059471417713057911",
+    "created_at": "2026-05-27T03:07:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T04:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059471417713057911"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059471417713057911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下周末男生女生超级扣分的几个行为\n1.讨论函数性质不考虑定义域\n2.立体几何建系不证明垂直了\n3.解析几何不考虑直线斜率不存在\n4.求出数列通项后不验证n=1\n5.定义新变量不考虑取值范围\n6.概率题目不设事件\n7.引用二级结论不加以证明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2059471417713057911",
+        "created_at": "2026-05-27T03:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T04:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059471417713057911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059471417713057911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下周末男生女生超级扣分的几个行为\n1.讨论函数性质不考虑定义域\n2.立体几何建系不证明垂直了\n3.解析几何不考虑直线斜率不存在\n4.求出数列通项后不验证n=1\n5.定义新变量不考虑取值范围\n6.概率题目不设事件\n7.引用二级结论不加以证明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 223,
+          "like_count": 8241,
+          "listed_count": 9,
+          "media_count": 197,
+          "tweet_count": 2084
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

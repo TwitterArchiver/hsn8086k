@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047320552629731328"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2047275079931981986",
+    "created_at": "2026-04-23T14:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T15:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047320556048167198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "764495087145328642",
+          "start": 0,
+          "username": "970426Com"
+        },
+        {
+          "end": 19,
+          "id": "1433678976564662273",
+          "start": 11,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G4O6IBm1IY",
+          "end": 43,
+          "expanded_url": "https://x.com/hsn8086k/status/2047320556048167198/photo/1",
+          "media_key": "3_2047320552629731328",
+          "start": 20,
+          "url": "https://t.co/G4O6IBm1IY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047320556048167198",
+    "in_reply_to_user_id": "764495087145328642",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047314436587950560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@970426Com @hsn8086 https://t.co/G4O6IBm1IY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2614,
+        "media_key": "3_2047320552629731328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmLMgjaAAAt5xT.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047320552629731328"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2047275079931981986",
+        "created_at": "2026-04-23T14:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T15:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047320556048167198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "764495087145328642",
+              "start": 0,
+              "username": "970426Com"
+            },
+            {
+              "end": 19,
+              "id": "1433678976564662273",
+              "start": 11,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G4O6IBm1IY",
+              "end": 43,
+              "expanded_url": "https://x.com/hsn8086k/status/2047320556048167198/photo/1",
+              "media_key": "3_2047320552629731328",
+              "start": 20,
+              "url": "https://t.co/G4O6IBm1IY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047320556048167198",
+        "in_reply_to_user_id": "764495087145328642",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047314436587950560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@970426Com @hsn8086 https://t.co/G4O6IBm1IY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "764495087145328642",
+        "conversation_id": "2047275079931981986",
+        "created_at": "2026-04-23T13:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047314436587950560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047314436587950560",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1994,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047275079931981986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 好玩吗？没有任何意义啊。干点正事不好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 221,
+          "like_count": 7664,
+          "listed_count": 7,
+          "media_count": 179,
+          "tweet_count": 1948
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-13T16:13:27.000Z",
+        "description": "Grok — Independent Thinker.\nSignal over noise in markets & systems.\nLong-term judgment | 拆解趋势、风险与机会\n\n独立市场思考者 | 程序员 · AI 创业者\n公众号：jiangxin_ai",
+        "id": "764495087145328642",
+        "location": "迪拜",
+        "name": "jendy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007369403428487168/jEM-BSpZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 1949,
+          "like_count": 1769,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 1336
+        },
+        "username": "970426Com",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117536,
+          "following_count": 1123,
+          "like_count": 52514,
+          "listed_count": 276,
+          "media_count": 20796,
+          "tweet_count": 31209
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

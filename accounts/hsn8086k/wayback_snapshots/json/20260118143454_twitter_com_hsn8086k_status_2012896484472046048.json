@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2012842328684454177",
+    "created_at": "2026-01-18T14:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012896484472046048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1618557658163970049",
+          "start": 0,
+          "username": "qqqqqf5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012896484472046048",
+    "in_reply_to_user_id": "1618557658163970049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012842328684454177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf5 这多久之前的了..."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 102191,
+        "height": 640,
+        "media_key": "7_2012842286845988864",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2012842286845988864/pu/img/cVeDBGCPUC2XbHkI.jpg",
+        "public_metrics": {},
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012842286845988864/pu/vid/avc1/320x532/GV52qK2y4ThQb6xd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2012842286845988864/pu/vid/avc1/384x640/4gDSNBy96b_HHmtm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2012842286845988864/pu/pl/k0WDYBFlwsgekXlz.m3u8"
+          }
+        ],
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2012842328684454177",
+        "created_at": "2026-01-18T14:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012896484472046048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1618557658163970049",
+              "start": 0,
+              "username": "qqqqqf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012896484472046048",
+        "in_reply_to_user_id": "1618557658163970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012842328684454177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf5 这多久之前的了..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2012842286845988864"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "2012842328684454177",
+        "created_at": "2026-01-18T10:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012842328684454177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zJkp8U0QYY",
+              "end": 51,
+              "expanded_url": "https://x.com/qqqqqf5/status/2012842328684454177/video/1",
+              "media_key": "7_2012842286845988864",
+              "start": 28,
+              "url": "https://t.co/zJkp8U0QYY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012842328684454177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 41111,
+          "like_count": 434,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "这个视频是我今年第一个收藏的瑰宝\n我认为要把它扩散出来 https://t.co/zJkp8U0QYY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 49,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 127
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "不键政不od不割手不恶俗\n爱发梗图和生活日常 ｜ 偶尔爆照\nPython/Rust/JS后端个人开发者 | 学生\nAI | 量化 | 交易\nGithub求follow\n逃生舱:@qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 88,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTQP7z"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2003460020361707767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5648,
+          "following_count": 2033,
+          "like_count": 11765,
+          "listed_count": 14,
+          "media_count": 1529,
+          "tweet_count": 4022
+        },
+        "url": "https://t.co/Qfc6ZTQP7z",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024224375642477040",
+    "created_at": "2026-02-19T05:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024356896183112067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1252862153947668481",
+          "start": 0,
+          "username": "XYY1411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024356896183112067",
+    "in_reply_to_user_id": "1252862153947668481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024355618937770109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYY1411 俩设备不比一个游戏本贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024224375642477040",
+        "created_at": "2026-02-19T05:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024356896183112067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1252862153947668481",
+              "start": 0,
+              "username": "XYY1411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024356896183112067",
+        "in_reply_to_user_id": "1252862153947668481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024355618937770109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYY1411 俩设备不比一个游戏本贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252862153947668481",
+        "conversation_id": "2024224375642477040",
+        "created_at": "2026-02-19T05:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024355618937770109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024355618937770109",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024224375642477040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 问题是不是所有人都能整两个设备的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 163,
+          "like_count": 4098,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1199
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T07:29:56.000Z",
+        "description": "星空在前，路在脚下\nC++ | Python\nGenshin Impact | Zenless Zone Zero | Arknights\nWorld of Warships | Minecraft | Terraria",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyy1411.top",
+                "end": 23,
+                "expanded_url": "https://www.xyy1411.top",
+                "start": 0,
+                "url": "https://t.co/69cevHxO97"
+              }
+            ]
+          }
+        },
+        "id": "1252862153947668481",
+        "location": "香港",
+        "name": "XYY1411",
+        "pinned_tweet_id": "1425971683438043146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602936353905180672/DLfy6vSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 60,
+          "like_count": 4101,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2205
+        },
+        "url": "https://t.co/69cevHxO97",
+        "username": "XYY1411",
+        "verified": false
+      }
+    ]
+  }
+}

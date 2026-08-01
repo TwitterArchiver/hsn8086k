@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082789894221606912"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2082359680039596540",
+    "created_at": "2026-07-30T11:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082789900039139715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800728241025785856",
+          "start": 0,
+          "username": "ezaizi_ovo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3363RSwjJm",
+          "end": 35,
+          "expanded_url": "https://x.com/hsn8086k/status/2082789900039139715/photo/1",
+          "media_key": "3_2082789894221606912",
+          "start": 12,
+          "url": "https://t.co/3363RSwjJm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082789900039139715",
+    "in_reply_to_user_id": "1800728241025785856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082774484197720205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ezaizi_ovo https://t.co/3363RSwjJm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "3_2082789894221606912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeOX6raMAA974v.jpg",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082789894221606912"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2082359680039596540",
+        "created_at": "2026-07-30T11:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082789900039139715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800728241025785856",
+              "start": 0,
+              "username": "ezaizi_ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3363RSwjJm",
+              "end": 35,
+              "expanded_url": "https://x.com/hsn8086k/status/2082789900039139715/photo/1",
+              "media_key": "3_2082789894221606912",
+              "start": 12,
+              "url": "https://t.co/3363RSwjJm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082789900039139715",
+        "in_reply_to_user_id": "1800728241025785856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082774484197720205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ezaizi_ovo https://t.co/3363RSwjJm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800728241025785856",
+        "conversation_id": "2082359680039596540",
+        "created_at": "2026-07-30T10:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082774484197720205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082774484197720205",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082359680039596540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 公共场合抽烟的能不能死一死😡你自己抽烟舒服了凭什么扣我生命值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 247,
+          "like_count": 10733,
+          "listed_count": 8,
+          "media_count": 243,
+          "tweet_count": 2720
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T03:14:20.000Z",
+        "description": "鵝",
+        "id": "1800728241025785856",
+        "name": "e.rar",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846542065905311744/kNYHVmu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 44,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "ezaizi_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

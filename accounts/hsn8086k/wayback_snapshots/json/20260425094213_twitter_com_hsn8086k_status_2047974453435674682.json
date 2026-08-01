@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2047914076437950624",
+    "created_at": "2026-04-25T09:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047974453435674682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1181486957282480128",
+          "start": 0,
+          "username": "jihuayu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047974453435674682",
+    "in_reply_to_user_id": "1181486957282480128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047964385663168738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jihuayu123 这样啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2047914076437950624",
+        "created_at": "2026-04-25T09:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047974453435674682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1181486957282480128",
+              "start": 0,
+              "username": "jihuayu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047974453435674682",
+        "in_reply_to_user_id": "1181486957282480128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047964385663168738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jihuayu123 这样啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1181486957282480128",
+        "conversation_id": "2047914076437950624",
+        "created_at": "2026-04-25T09:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047964385663168738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047964385663168738",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047914076437950624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 信用和额度其实是比较像的两个东西。creditor 有债权人的意思，你的余额类似公司欠你的债，我是这么理解的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 222,
+          "like_count": 7700,
+          "listed_count": 7,
+          "media_count": 180,
+          "tweet_count": 1957
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-08T08:30:24.000Z",
+        "description": "该用户随便写了一行个人简介",
+        "id": "1181486957282480128",
+        "name": "纪华裕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045121370405867521/cHx8jCe6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 332,
+          "like_count": 2650,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 3701
+        },
+        "username": "jihuayu123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2078054374308536409",
+    "created_at": "2026-07-17T09:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078054374308536409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2078052694657577239",
+          "start": 20,
+          "url": "https://t.co/ydAi7aAqcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078054374308536409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078052694657577239",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那Gemini 3.5 Pro又在哪呢 https://t.co/ydAi7aAqcV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2078054374308536409",
+        "created_at": "2026-07-17T09:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078054374308536409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2078052694657577239",
+              "start": 20,
+              "url": "https://t.co/ydAi7aAqcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078054374308536409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078052694657577239",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那Gemini 3.5 Pro又在哪呢 https://t.co/ydAi7aAqcV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2078052694657577239",
+        "created_at": "2026-07-17T09:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078052694657577239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kimi_Moonshot/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Kimi_Moonshot/status/2077830229968683203",
+              "start": 20,
+              "url": "https://t.co/7rz5VeoMnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078052694657577239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077830229968683203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我很期待A\\发Opus5时的表情哈哈哈 https://t.co/7rz5VeoMnH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2292,
+          "following_count": 245,
+          "like_count": 10479,
+          "listed_count": 8,
+          "media_count": 236,
+          "tweet_count": 2666
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

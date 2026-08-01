@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2057708265027649975",
+    "created_at": "2026-05-22T06:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057708268886335599"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057708268886335599",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057708265027649975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "快进到我再也不玩抽象了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2057708265027649975",
+        "created_at": "2026-05-22T06:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057708268886335599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057708268886335599",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057708265027649975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "快进到我再也不玩抽象了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2057708265027649975",
+        "created_at": "2026-05-22T06:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057708265027649975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xSilver_Time/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/0xSilver_Time/status/2057405506092941754",
+              "start": 18,
+              "url": "https://t.co/ZtUT5KKnnU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057708265027649975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057405506092941754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫猫寿命即将赶上 xyn (并不是 https://t.co/ZtUT5KKnnU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2026,
+          "following_count": 222,
+          "like_count": 8153,
+          "listed_count": 8,
+          "media_count": 194,
+          "tweet_count": 2061
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

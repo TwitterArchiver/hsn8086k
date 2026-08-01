@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024218444196172087",
+    "created_at": "2026-02-19T04:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T05:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024343449647141171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1528378326158520320",
+          "start": 0,
+          "username": "PeterlitsZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024343449647141171",
+    "in_reply_to_user_id": "1528378326158520320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024336897104105773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PeterlitsZo vim 模式, 除了 vim 之外都没在用, 因为 esc 退出补全会把插入一起退了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024218444196172087",
+        "created_at": "2026-02-19T04:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024343449647141171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1528378326158520320",
+              "start": 0,
+              "username": "PeterlitsZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024343449647141171",
+        "in_reply_to_user_id": "1528378326158520320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024336897104105773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PeterlitsZo vim 模式, 除了 vim 之外都没在用, 因为 esc 退出补全会把插入一起退了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528378326158520320",
+        "conversation_id": "2024218444196172087",
+        "created_at": "2026-02-19T04:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T05:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024336897104105773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024336897104105773",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024218444196172087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k zed 在 vim 模式下的 keymap 和中文 IM 有冲突，难受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 163,
+          "like_count": 4054,
+          "listed_count": 4,
+          "media_count": 123,
+          "tweet_count": 1188
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-22T14:13:13.000Z",
+        "description": "https://t.co/srF9VxkdIt",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "peterlits.com",
+                "end": 23,
+                "expanded_url": "http://peterlits.com",
+                "start": 0,
+                "url": "https://t.co/srF9VxkdIt"
+              }
+            ]
+          }
+        },
+        "id": "1528378326158520320",
+        "name": "PeterlitsZo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528378536049881089/wP6gMNu4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 161,
+          "like_count": 538,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 1038
+        },
+        "username": "PeterlitsZo",
+        "verified": false
+      }
+    ]
+  }
+}

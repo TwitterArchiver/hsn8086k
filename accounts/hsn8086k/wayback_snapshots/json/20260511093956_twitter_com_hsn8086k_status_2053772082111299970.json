@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053772078852284416"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2053557344093733243",
+    "created_at": "2026-05-11T09:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T10:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053772082111299970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1109748425682149376",
+          "start": 0,
+          "username": "xwMGIZitjTI6rwZ"
+        },
+        {
+          "end": 24,
+          "id": "5709522",
+          "start": 17,
+          "username": "mranti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QBkSB5S8bV",
+          "end": 53,
+          "expanded_url": "https://x.com/hsn8086k/status/2053772082111299970/photo/1",
+          "media_key": "3_2053772078852284416",
+          "start": 30,
+          "url": "https://t.co/QBkSB5S8bV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053772082111299970",
+    "in_reply_to_user_id": "1109748425682149376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053667358838075507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xwMGIZitjTI6rwZ @mranti 有的兄弟 https://t.co/QBkSB5S8bV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2053772078852284416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIB20wmbIAARhfr.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053667348486455296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAXkplagAAefnr.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053772078852284416"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2053557344093733243",
+        "created_at": "2026-05-11T09:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T10:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053772082111299970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1109748425682149376",
+              "start": 0,
+              "username": "xwMGIZitjTI6rwZ"
+            },
+            {
+              "end": 24,
+              "id": "5709522",
+              "start": 17,
+              "username": "mranti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBkSB5S8bV",
+              "end": 53,
+              "expanded_url": "https://x.com/hsn8086k/status/2053772082111299970/photo/1",
+              "media_key": "3_2053772078852284416",
+              "start": 30,
+              "url": "https://t.co/QBkSB5S8bV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053772082111299970",
+        "in_reply_to_user_id": "1109748425682149376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053667358838075507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xwMGIZitjTI6rwZ @mranti 有的兄弟 https://t.co/QBkSB5S8bV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053667348486455296"
+          ]
+        },
+        "author_id": "1109748425682149376",
+        "conversation_id": "2053557344093733243",
+        "created_at": "2026-05-11T02:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053667358838075507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 17,
+              "id": "5709522",
+              "start": 10,
+              "username": "mranti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Im5ctGADNR",
+              "end": 63,
+              "expanded_url": "https://x.com/xwMGIZitjTI6rwZ/status/2053667358838075507/photo/1",
+              "media_key": "3_2053667348486455296",
+              "start": 40,
+              "url": "https://t.co/Im5ctGADNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053667358838075507",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053557344093733243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @mranti gpt提醒我typec 还没发明还不能充电 https://t.co/Im5ctGADNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 219,
+          "like_count": 7989,
+          "listed_count": 7,
+          "media_count": 192,
+          "tweet_count": 2025
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-24T09:26:57.000Z",
+        "description": "",
+        "id": "1109748425682149376",
+        "name": "Gemini",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509573568467677186/ibmsh3zf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 688,
+          "like_count": 5299,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 1306
+        },
+        "username": "xwMGIZitjTI6rwZ",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-02T10:08:45.000Z",
+        "description": "安替, Globus, Global Research. A veteran journalist on International Affairs, Harvard Nieman Fellow '08, TEDGlobal Speaker.",
+        "id": "5709522",
+        "name": "Michael Anti",
+        "pinned_tweet_id": "2052936333426110855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/575475426971119616/mdc9Zm_-_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354836,
+          "following_count": 11395,
+          "like_count": 404,
+          "listed_count": 3419,
+          "media_count": 3170,
+          "tweet_count": 225506
+        },
+        "username": "mranti",
+        "verified": true
+      }
+    ]
+  }
+}

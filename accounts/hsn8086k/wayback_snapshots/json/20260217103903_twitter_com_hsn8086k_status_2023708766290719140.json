@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2023675008141373528",
+    "created_at": "2026-02-17T10:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023708766290719140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2013892455503142915",
+          "start": 0,
+          "username": "_with_tomato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023708766290719140",
+    "in_reply_to_user_id": "2013892455503142915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023708241126101023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_with_tomato 这样吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2023675008141373528",
+        "created_at": "2026-02-17T10:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023708766290719140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2013892455503142915",
+              "start": 0,
+              "username": "_with_tomato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023708766290719140",
+        "in_reply_to_user_id": "2013892455503142915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023708241126101023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_with_tomato 这样吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013892455503142915",
+        "conversation_id": "2023675008141373528",
+        "created_at": "2026-02-17T10:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023708241126101023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023708241126101023",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023675008141373528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 用ai给你点疯狂星期四是吧🤯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 161,
+          "like_count": 3942,
+          "listed_count": 4,
+          "media_count": 118,
+          "tweet_count": 1146
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T08:32:43.000Z",
+        "description": "会直接block鉴证的/个人推不严肃/随机性发布评论a股美股币圈lgbt➕日常生活涩涩推/帖子内容和回复内容均为自己在床上边打飞机边想出来的文案，请有自己的判断不要上纲上线/比较脆弱怼我的时候请尽量不用脏话谢谢",
+        "id": "2013892455503142915",
+        "name": "🍅🍅🍅番茄🍅🍅🍅（二代目）",
+        "pinned_tweet_id": "2013893755825238272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013892745245642752/1oYobS_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 469,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 670
+        },
+        "username": "_with_tomato",
+        "verified": false
+      }
+    ]
+  }
+}

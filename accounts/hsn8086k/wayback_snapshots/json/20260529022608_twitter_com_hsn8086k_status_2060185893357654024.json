@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2060185893357654024",
+    "created_at": "2026-05-29T02:26:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:26:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060185893357654024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2059529379982754171",
+          "start": 68,
+          "url": "https://t.co/GEJMXQZ2id"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060185893357654024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059529379982754171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个忠告，如果对方有鸡鸡，他的话听七分就好了，如果对方的鸡鸡是硬的，听三分就好了，如果对方鸡鸡正在你的身体里，不管他说什么，你都不能信 https://t.co/GEJMXQZ2id"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2060185893357654024",
+        "created_at": "2026-05-29T02:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060185893357654024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2059529379982754171",
+              "start": 68,
+              "url": "https://t.co/GEJMXQZ2id"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060185893357654024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059529379982754171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个忠告，如果对方有鸡鸡，他的话听七分就好了，如果对方的鸡鸡是硬的，听三分就好了，如果对方鸡鸡正在你的身体里，不管他说什么，你都不能信 https://t.co/GEJMXQZ2id"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2059529379982754171",
+        "created_at": "2026-05-27T06:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T07:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059529379982754171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059529379982754171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 114248,
+          "like_count": 853,
+          "quote_count": 5,
+          "reply_count": 173,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "千万别信男人说揉奶子会变大，你给他揉了变大的只有他的鸡鸡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 226,
+          "like_count": 8434,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2129
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

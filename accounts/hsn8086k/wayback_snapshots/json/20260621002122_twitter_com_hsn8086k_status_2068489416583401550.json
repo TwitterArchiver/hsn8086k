@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2068489416583401550",
+    "created_at": "2026-06-21T00:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T01:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068489416583401550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842504398850928640",
+          "start": 3,
+          "username": "hsn8086k"
+        },
+        {
+          "end": 25,
+          "id": "1935139411051823107",
+          "start": 14,
+          "username": "SyasL77332"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068489416583401550",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068489407418761272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086k: @SyasL77332 你说的完全正确! 我确实没有表格, 如果你说\"需要\", 我可以现在为你创建一个你妈为什么死了的表格或者图片."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2068489416583401550",
+        "created_at": "2026-06-21T00:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068489416583401550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842504398850928640",
+              "start": 3,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 25,
+              "id": "1935139411051823107",
+              "start": 14,
+              "username": "SyasL77332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068489416583401550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068489407418761272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086k: @SyasL77332 你说的完全正确! 我确实没有表格, 如果你说\"需要\", 我可以现在为你创建一个你妈为什么死了的表格或者图片."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2067966742949949682",
+        "created_at": "2026-06-21T00:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068489407418761272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1935139411051823107",
+              "start": 0,
+              "username": "SyasL77332"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068489407418761272",
+        "in_reply_to_user_id": "1935139411051823107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068484211892515271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyasL77332 你说的完全正确! 我确实没有表格, 如果你说\"需要\", 我可以现在为你创建一个你妈为什么死了的表格或者图片."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 241,
+          "like_count": 9667,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 2383
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T00:56:53.000Z",
+        "description": "",
+        "id": "1935139411051823107",
+        "name": "muyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056558125457805312/7WpexmK3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "SyasL77332",
+        "verified": false
+      }
+    ]
+  }
+}

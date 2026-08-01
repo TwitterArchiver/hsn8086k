@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2066074712841785558",
+    "created_at": "2026-06-14T08:26:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T09:26:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066074715903688998"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066074715903688998",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066074712841785558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中转站阿姨：Fable 5这个名字，大家叫习惯了。 \n用户：那为什么不早告诉我们？ \n中转站阿姨：一直没找到合适的机会。 \n用户：那我这几天用的是…… \n中转站阿姨：孩子，是Gemini。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2066074712841785558",
+        "created_at": "2026-06-14T08:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066074715903688998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066074715903688998",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066074712841785558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中转站阿姨：Fable 5这个名字，大家叫习惯了。 \n用户：那为什么不早告诉我们？ \n中转站阿姨：一直没找到合适的机会。 \n用户：那我这几天用的是…… \n中转站阿姨：孩子，是Gemini。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2066074712841785558",
+        "created_at": "2026-06-14T08:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T09:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066074712841785558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066074712841785558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用户：阿姨，你们的Fable 5怎么还能用？ \n中转站阿姨：我们有内部渠道。 \n用户：A\\不是已经封了吗？ \n中转站阿姨：阿姨做中转这么多年，靠的就是一个诚信。 \n用户：为什么token绿绿的？ \n阿姨沉默了一会儿。 \n中转站阿姨：是Gemini的光照上去的。 \n用户：所以不是Fable 5？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213,
+          "following_count": 236,
+          "like_count": 9354,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2313
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

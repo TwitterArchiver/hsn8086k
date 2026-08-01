@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2040640020416213395",
+    "created_at": "2026-04-06T02:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040976619670753497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2909931697",
+          "start": 0,
+          "username": "baobao1270"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040976619670753497",
+    "in_reply_to_user_id": "2909931697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040839493104927105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baobao1270 真的吗, 但是肯德基的真的一点辣味都没, 只有麦当劳的有点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040640020416213395",
+        "created_at": "2026-04-06T02:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040976619670753497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2909931697",
+              "start": 0,
+              "username": "baobao1270"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040976619670753497",
+        "in_reply_to_user_id": "2909931697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040839493104927105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baobao1270 真的吗, 但是肯德基的真的一点辣味都没, 只有麦当劳的有点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2909931697",
+        "conversation_id": "2040640020416213395",
+        "created_at": "2026-04-05T17:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040839493104927105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040839493104927105",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040640020416213395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 对于江苏人来说已经很辣了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 219,
+          "like_count": 7027,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1807
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-25T10:56:02.000Z",
+        "description": "「生如逆旅 · 一苇以航」| Naïve Vocaloid Producer - 天依粉 / 南北一生推 | Full Stack Developer - Python / TypeScript / C# / Linux / Docker | BGP Player | FCC T Class HAM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "josephcz.xyz",
+                "end": 23,
+                "expanded_url": "https://josephcz.xyz/",
+                "start": 0,
+                "url": "https://t.co/zAct5bSovf"
+              }
+            ]
+          }
+        },
+        "id": "2909931697",
+        "location": "California",
+        "name": "Joseph Chris",
+        "pinned_tweet_id": "1727791349729309049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/861241603763036160/fEbbOWJe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 356,
+          "like_count": 1256,
+          "listed_count": 17,
+          "media_count": 527,
+          "tweet_count": 4875
+        },
+        "url": "https://t.co/zAct5bSovf",
+        "username": "baobao1270",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2014331273473618426",
+    "created_at": "2026-01-22T13:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T14:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014331273473618426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2014317059203826043",
+          "start": 18,
+          "url": "https://t.co/ldNgeuI5Q5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014331273473618426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014317059203826043",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃了烧烤+1.5杯米, 大吃特吃😋 https://t.co/ldNgeuI5Q5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2014331273473618426",
+        "created_at": "2026-01-22T13:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T14:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014331273473618426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2014317059203826043",
+              "start": 18,
+              "url": "https://t.co/ldNgeuI5Q5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014331273473618426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014317059203826043",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃了烧烤+1.5杯米, 大吃特吃😋 https://t.co/ldNgeuI5Q5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2014317059203826043",
+        "created_at": "2026-01-22T12:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014317059203826043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2012566130267918495",
+              "start": 7,
+              "url": "https://t.co/w8M7liOqhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014317059203826043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012566130267918495",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也要吃饭吗 https://t.co/w8M7liOqhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 78,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 209
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

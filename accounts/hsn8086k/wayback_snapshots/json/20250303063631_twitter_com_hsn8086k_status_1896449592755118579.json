@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1895711783694057881",
+    "created_at": "2025-03-03T06:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T07:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896449592755118579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1511574513967722505",
+          "start": 0,
+          "username": "_Genshin_Ganyu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896449592755118579",
+    "in_reply_to_user_id": "1511574513967722505",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895711783694057881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Genshin_Ganyu_ Passed!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895711778509651968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk7r0ZKXgAAnG_3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1895711783694057881",
+        "created_at": "2025-03-03T06:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T07:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896449592755118579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511574513967722505",
+              "start": 0,
+              "username": "_Genshin_Ganyu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896449592755118579",
+        "in_reply_to_user_id": "1511574513967722505",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895711783694057881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Genshin_Ganyu_ Passed!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895711778509651968"
+          ]
+        },
+        "author_id": "1511574513967722505",
+        "conversation_id": "1895711783694057881",
+        "created_at": "2025-03-01T05:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T06:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895711783694057881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fwanox33RE",
+              "end": 85,
+              "expanded_url": "https://x.com/_Genshin_Ganyu_/status/1895711783694057881/photo/1",
+              "media_key": "3_1895711778509651968",
+              "start": 62,
+              "url": "https://t.co/Fwanox33RE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895711783694057881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9548,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真是笑死，在香港随便走走，发现前面一名带着对象的少女跟我穿着同一套衣服和裙子，给我们两个都尴尬住了（不过她是短裙我是长裙 https://t.co/Fwanox33RE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 36,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 47
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "欢迎面基、通联、换卡| https://t.co/NMyte0rLtP\n呼号: BD7PVQ | 广州 | 愿我一点点微小的光，可以照亮更多的人",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Wang_Xiaomei",
+                "end": 35,
+                "expanded_url": "http://t.me/Wang_Xiaomei",
+                "start": 12,
+                "url": "https://t.co/NMyte0rLtP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApyKHX"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "location": "我於萬物之中",
+        "name": "王小美",
+        "pinned_tweet_id": "1896110509017219179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855989363446030336/CCBokdrt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 293,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/aXUuApyKHX",
+        "username": "_Genshin_Ganyu_",
+        "verified": false
+      }
+    ]
+  }
+}

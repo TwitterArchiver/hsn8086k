@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2067141681439297615",
+    "created_at": "2026-06-17T13:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T14:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067237655654617573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1012167288",
+          "start": 0,
+          "username": "jackyzheng3"
+        },
+        {
+          "end": 22,
+          "id": "1881991469730594816",
+          "start": 13,
+          "username": "gkxspace"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067237655654617573",
+    "in_reply_to_user_id": "1012167288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067148798862979510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jackyzheng3 @gkxspace 前端, gpt拉胯的要命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2067141681439297615",
+        "created_at": "2026-06-17T13:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067237655654617573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1012167288",
+              "start": 0,
+              "username": "jackyzheng3"
+            },
+            {
+              "end": 22,
+              "id": "1881991469730594816",
+              "start": 13,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067237655654617573",
+        "in_reply_to_user_id": "1012167288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067148798862979510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jackyzheng3 @gkxspace 前端, gpt拉胯的要命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1012167288",
+        "conversation_id": "2067141681439297615",
+        "created_at": "2026-06-17T07:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067148798862979510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1881991469730594816",
+              "start": 0,
+              "username": "gkxspace"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067148798862979510",
+        "in_reply_to_user_id": "1881991469730594816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2384,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067141681439297615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gkxspace gpt哪去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233,
+          "following_count": 242,
+          "like_count": 9503,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2339
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-14T23:31:57.000Z",
+        "description": "📈AI项目负责人｜企业AI应用落地 | 用AI做内容和增长\n💴4w本金2年拿到A7结果 | xhs 0-2.5w粉 | 私域 2000+\n🤖分享AIGC、Vibe Coding、Prompt与AI落地实战经验\n💰帮助普通人把AI变成可交付的能力",
+        "id": "1012167288",
+        "name": "Jak Cheng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049676086481707008/KgxQsvgX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 994,
+          "like_count": 7564,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1255
+        },
+        "username": "jackyzheng3",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T09:05:13.000Z",
+        "description": "🌸05年连续创业者 | 专注 AI 产品 | 项目营收 7 位数+\n✨记录真实的创业路：项目复盘、踩坑总结和成长思考\n💗AI 产品构建 & AI 商业化方案 & 企业 AI 转型",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuwen.website",
+                "end": 23,
+                "expanded_url": "https://yuwen.website",
+                "start": 0,
+                "url": "https://t.co/lbHDopwRVw"
+              }
+            ]
+          }
+        },
+        "id": "1881991469730594816",
+        "location": "微信和社群",
+        "name": "余温",
+        "pinned_tweet_id": "2063978203639652377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952432952928784384/k7SIkQ7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37118,
+          "following_count": 962,
+          "like_count": 3789,
+          "listed_count": 358,
+          "media_count": 504,
+          "tweet_count": 5337
+        },
+        "url": "https://t.co/lbHDopwRVw",
+        "username": "gkxspace",
+        "verified": true
+      }
+    ]
+  }
+}

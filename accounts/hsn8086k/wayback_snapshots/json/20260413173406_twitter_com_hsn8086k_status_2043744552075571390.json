@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2043744552075571390",
+    "created_at": "2026-04-13T17:34:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T18:34:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043744552075571390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2043620898805313769",
+          "start": 9,
+          "url": "https://t.co/tlg7MCVkRQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043744552075571390",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043620898805313769",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "McDonald https://t.co/tlg7MCVkRQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2043744552075571390",
+        "created_at": "2026-04-13T17:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043744552075571390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2043620898805313769",
+              "start": 9,
+              "url": "https://t.co/tlg7MCVkRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043744552075571390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043620898805313769",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "McDonald https://t.co/tlg7MCVkRQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2043620898805313769",
+        "created_at": "2026-04-13T09:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043620898805313769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043620898805313769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 57345,
+          "like_count": 252,
+          "quote_count": 21,
+          "reply_count": 328,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "说出一个M开头，大家都喜欢的单词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 216,
+          "like_count": 7284,
+          "listed_count": 5,
+          "media_count": 168,
+          "tweet_count": 1862
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Але я тебе кохаю напевно і，\n但我想我仍然爱你，\nНе зважай на мій нетверезий стан; обіцяю, що це востаннє，\n别因我不清醒而转头离去，我想以后我们也再无机会了。\n你可以和 @AGNK_553聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 127,
+                "username": "AGNK_553"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2043569353350914261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11446,
+          "following_count": 4828,
+          "like_count": 86233,
+          "listed_count": 20,
+          "media_count": 2086,
+          "tweet_count": 18992
+        },
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

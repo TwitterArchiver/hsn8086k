@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2013619308681715941",
+    "created_at": "2026-01-21T15:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013993349825638683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1920795331933204481",
+          "start": 0,
+          "username": "Sink__cz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013993349825638683",
+    "in_reply_to_user_id": "1920795331933204481",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013991204946337825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sink__cz 草"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2013619308681715941",
+        "created_at": "2026-01-21T15:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013993349825638683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1920795331933204481",
+              "start": 0,
+              "username": "Sink__cz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013993349825638683",
+        "in_reply_to_user_id": "1920795331933204481",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013991204946337825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sink__cz 草"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920795331933204481",
+        "conversation_id": "2013619308681715941",
+        "created_at": "2026-01-21T15:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013991204946337825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013991204946337825",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013619308681715941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 我好像知道你为什么起这名字了😰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 76,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 193
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-09T10:57:59.000Z",
+        "description": "圈子很杂，你能想到的都有我/爱玩点抽象/网上幽默/现实社恐☝🤓不喜欢发贴，就喜欢到处评论😋\n                                                               这个世界是一个巨大的“🤔”",
+        "id": "1920795331933204481",
+        "location": "泽鲁斯",
+        "name": "沉舟落雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013261228664074241/_aoDElov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 37,
+          "like_count": 197,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 412
+        },
+        "username": "Sink__cz",
+        "verified": false
+      }
+    ]
+  }
+}

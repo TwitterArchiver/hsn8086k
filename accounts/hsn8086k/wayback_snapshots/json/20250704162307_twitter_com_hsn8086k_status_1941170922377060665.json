@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1941170772329832451",
+        "13_1941170772317253632"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "1941170922377060665",
+    "created_at": "2025-07-04T16:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T17:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941170922377060665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6rP4SawNKc",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086k/status/1941170922377060665/video/1",
+          "media_key": "13_1941170772329832451",
+          "start": 13,
+          "url": "https://t.co/6rP4SawNKc"
+        },
+        {
+          "display_url": "pic.x.com/6rP4SawNKc",
+          "end": 36,
+          "expanded_url": "https://x.com/hsn8086k/status/1941170922377060665/video/1",
+          "media_key": "13_1941170772317253632",
+          "start": 13,
+          "url": "https://t.co/6rP4SawNKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941170922377060665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你说的都对但是元神是一款 https://t.co/6rP4SawNKc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7800,
+        "height": 412,
+        "media_key": "13_1941170772329832451",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1941170772329832451/img/MaY4lUNWtydUAMUq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941170772329832451/vid/avc1/300x412/nhWFF4bTKnisKt27.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1941170772329832451/pl/z6WZrjs8sbvWrdMV.m3u8?tag=14"
+          }
+        ],
+        "width": 300
+      },
+      {
+        "duration_ms": 43421,
+        "height": 1280,
+        "media_key": "13_1941170772317253632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1941170772317253632/img/3G9pTL9P1NIP7y4w.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941170772317253632/vid/avc1/320x568/BiYUW3AABzLcGR7s.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941170772317253632/vid/avc1/480x852/LxeIhBqprVQAAPe6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1941170772317253632/vid/avc1/720x1280/Rk2z5nSz8gyhA-cA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1941170772317253632/pl/4cWEmAEnSPpCt9Gd.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1941170772329832451",
+            "13_1941170772317253632"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "1941170922377060665",
+        "created_at": "2025-07-04T16:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T17:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941170922377060665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rP4SawNKc",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086k/status/1941170922377060665/video/1",
+              "media_key": "13_1941170772329832451",
+              "start": 13,
+              "url": "https://t.co/6rP4SawNKc"
+            },
+            {
+              "display_url": "pic.x.com/6rP4SawNKc",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086k/status/1941170922377060665/video/1",
+              "media_key": "13_1941170772317253632",
+              "start": 13,
+              "url": "https://t.co/6rP4SawNKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941170922377060665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说的都对但是元神是一款 https://t.co/6rP4SawNKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 39,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 120
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

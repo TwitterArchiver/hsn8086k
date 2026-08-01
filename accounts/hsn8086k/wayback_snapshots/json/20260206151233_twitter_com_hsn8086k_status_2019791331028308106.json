@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019720402164195619",
+    "created_at": "2026-02-06T15:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T16:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019791331028308106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "779405903305011200",
+          "start": 0,
+          "username": "Nickel_Schwarz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019791331028308106",
+    "in_reply_to_user_id": "779405903305011200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019789451409371585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nickel_Schwarz 能咋滴, 当然, 现在我也是这样想, 能咋滴, 有本事把我学籍开除了, 又不是活不了, 鬼听你这啊那啊的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019720402164195619",
+        "created_at": "2026-02-06T15:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019791331028308106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "779405903305011200",
+              "start": 0,
+              "username": "Nickel_Schwarz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019791331028308106",
+        "in_reply_to_user_id": "779405903305011200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019789451409371585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nickel_Schwarz 能咋滴, 当然, 现在我也是这样想, 能咋滴, 有本事把我学籍开除了, 又不是活不了, 鬼听你这啊那啊的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "779405903305011200",
+        "conversation_id": "2019720402164195619",
+        "created_at": "2026-02-06T15:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T16:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019789451409371585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019789451409371585",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019720402164195619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 🥺你这么勇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1217,
+          "following_count": 147,
+          "like_count": 2749,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 833
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-23T19:43:42.000Z",
+        "description": "Old Otaku, Computer Engineering, https://t.co/GT1GCmZgA5 Aviation,turbomachienay,CFD. Thanks for follow. Wer die Zwangsgebühren für ZDF und ARD zustimmt, der ist Hurensohn.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "M.Sc",
+                "end": 56,
+                "expanded_url": "http://M.Sc",
+                "start": 33,
+                "url": "https://t.co/GT1GCmZgA5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Rundfunk-frei.de",
+                "end": 23,
+                "expanded_url": "http://Rundfunk-frei.de",
+                "start": 0,
+                "url": "https://t.co/jdGSbgwHiT"
+              }
+            ]
+          }
+        },
+        "id": "779405903305011200",
+        "location": "Japan",
+        "name": "Nickel",
+        "pinned_tweet_id": "1063516333621559298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614495857520574464/Hb9U2xcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1418,
+          "following_count": 472,
+          "like_count": 21994,
+          "listed_count": 13,
+          "media_count": 12752,
+          "tweet_count": 71100
+        },
+        "url": "https://t.co/jdGSbgwHiT",
+        "username": "Nickel_Schwarz",
+        "verified": false
+      }
+    ]
+  }
+}

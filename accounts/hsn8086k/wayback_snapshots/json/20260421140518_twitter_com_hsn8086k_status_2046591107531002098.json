@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2046182789956145221",
+    "created_at": "2026-04-21T14:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046591107531002098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1701390467492134912",
+          "start": 0,
+          "username": "LuJia32473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046591107531002098",
+    "in_reply_to_user_id": "1701390467492134912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046589322149966046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuJia32473 你同学是A\\吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2046182789956145221",
+        "created_at": "2026-04-21T14:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046591107531002098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1701390467492134912",
+              "start": 0,
+              "username": "LuJia32473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046591107531002098",
+        "in_reply_to_user_id": "1701390467492134912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046589322149966046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuJia32473 你同学是A\\吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701390467492134912",
+        "conversation_id": "2046182789956145221",
+        "created_at": "2026-04-21T13:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046589322149966046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046589322149966046",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046182789956145221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 我同学比较坏 老是不给我蒸馏 然后我就千方百计去蒸馏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 218,
+          "like_count": 7562,
+          "listed_count": 7,
+          "media_count": 176,
+          "tweet_count": 1918
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T00:21:31.000Z",
+        "description": "分享真实的个人经验｜以及感到有价值的东西",
+        "id": "1701390467492134912",
+        "location": "Kita-ku, Okayama",
+        "name": "Rakel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988480110832611330/3lafVQGl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 247,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 530
+        },
+        "username": "LuJia32473",
+        "verified": true
+      }
+    ]
+  }
+}

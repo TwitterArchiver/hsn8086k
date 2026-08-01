@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1895672924860006616",
+    "created_at": "2025-03-02T17:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T18:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896253538361331902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1481149459211816962",
+          "start": 0,
+          "username": "chenjia74987529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896253538361331902",
+    "in_reply_to_user_id": "1481149459211816962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896247329801568454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenjia74987529 我不喜欢那些评论,我觉得不只有中国人是这样.如果觉得我这样是在默许,那就是吧,这样看,我默许的东西还真不少."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1895672924860006616",
+        "created_at": "2025-03-02T17:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896253538361331902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1481149459211816962",
+              "start": 0,
+              "username": "chenjia74987529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896253538361331902",
+        "in_reply_to_user_id": "1481149459211816962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896247329801568454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenjia74987529 我不喜欢那些评论,我觉得不只有中国人是这样.如果觉得我这样是在默许,那就是吧,这样看,我默许的东西还真不少."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481149459211816962",
+        "conversation_id": "1895672924860006616",
+        "created_at": "2025-03-02T17:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896247329801568454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896247329801568454",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896156787122085938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 你误会了, 什么性别, 什么年龄, 什么国籍, 被攻击很奇怪吗. 睁开眼看看你评论区, 因为一个平台的一部分人, 直接攻击中国人🤣中国人, 就不是人了吗? 🤣你一方面谴责别人, 一方面默许评论区, 你和你谴责的对象一样烂🤣(如果你回我不是, 那更没什么好说的了)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 36,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 44
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T06:22:22.000Z",
+        "description": "politics hater | cyber security | Fuck u Konami",
+        "id": "1481149459211816962",
+        "name": "Nuwanda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835506937796190208/O9t8U_RG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 99,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "chenjia74987529",
+        "verified": false
+      }
+    ]
+  }
+}

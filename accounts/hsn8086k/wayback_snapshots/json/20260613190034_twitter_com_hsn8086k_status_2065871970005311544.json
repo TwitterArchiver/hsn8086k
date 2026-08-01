@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2065798422519746805",
+    "created_at": "2026-06-13T19:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T20:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065871970005311544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2043957003001683968",
+          "start": 0,
+          "username": "zixiayi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065871970005311544",
+    "in_reply_to_user_id": "2043957003001683968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065871210693431702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zixiayi1 草, 这也是好处吗, 那感觉跨性别好处多多啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065798422519746805",
+        "created_at": "2026-06-13T19:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065871970005311544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2043957003001683968",
+              "start": 0,
+              "username": "zixiayi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065871970005311544",
+        "in_reply_to_user_id": "2043957003001683968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065871210693431702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zixiayi1 草, 这也是好处吗, 那感觉跨性别好处多多啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043957003001683968",
+        "conversation_id": "2065798422519746805",
+        "created_at": "2026-06-13T18:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065871210693431702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065871210693431702",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065798422519746805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 平均寿命短，早死早超生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2209,
+          "following_count": 236,
+          "like_count": 9272,
+          "listed_count": 9,
+          "media_count": 209,
+          "tweet_count": 2286
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:38:37.000Z",
+        "description": "没有人永远正确，但永远有人追求正确。",
+        "id": "2043957003001683968",
+        "name": "天照翎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044317956746948608/Hei4Wapn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 20,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 118
+        },
+        "username": "zixiayi1",
+        "verified": false
+      }
+    ]
+  }
+}

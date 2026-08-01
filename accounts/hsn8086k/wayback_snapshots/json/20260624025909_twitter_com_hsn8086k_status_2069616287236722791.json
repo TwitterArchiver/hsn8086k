@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2069549392487674076",
+    "created_at": "2026-06-24T02:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069616287236722791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1851465295636152325",
+          "start": 0,
+          "username": "libraclone_SFB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069616287236722791",
+    "in_reply_to_user_id": "1851465295636152325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069596471025184856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@libraclone_SFB 因为全球人口中, 男性占比50.28%\n而一个正常男性有两个睾丸, 所以平均一下有可能大于一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2069549392487674076",
+        "created_at": "2026-06-24T02:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069616287236722791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1851465295636152325",
+              "start": 0,
+              "username": "libraclone_SFB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069616287236722791",
+        "in_reply_to_user_id": "1851465295636152325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069596471025184856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libraclone_SFB 因为全球人口中, 男性占比50.28%\n而一个正常男性有两个睾丸, 所以平均一下有可能大于一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851465295636152325",
+        "conversation_id": "2069549392487674076",
+        "created_at": "2026-06-24T01:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069596471025184856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069596471025184856",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069549392487674076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 為什麼會大於1啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 241,
+          "like_count": 9737,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 2396
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T03:25:22.000Z",
+        "description": "*一個精神狀態不穩定的手繪畫師...*\n一個只會邏輯混亂地說話的瘋子\n喜歡打電動/歷史迷/偶爾做採訪/次時代の創作者/漫畫欣賞者/自信噪音歌王/超嚴重失眠患者/一般不聊時政（除訪談）/迷因瘾君子/銳評愛好者/迫真ASMR鑑賞家/四處旅行者/崇尚自由與開放思想/非人類之藝術家/轉發不一定認同 RT≠endorsement",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/101502445",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/101502445",
+                "start": 0,
+                "url": "https://t.co/KDrA6hiKjx"
+              }
+            ]
+          }
+        },
+        "id": "1851465295636152325",
+        "location": "幻想鄉的一處不起眼的神社",
+        "name": "リブラクローンです🌻☂️（上午學日本語下午畫畫深夜emo版）",
+        "pinned_tweet_id": "1977548058117456031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020315344037117952/DUuXpcMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 844,
+          "like_count": 5390,
+          "listed_count": 2,
+          "media_count": 476,
+          "tweet_count": 5587
+        },
+        "url": "https://t.co/KDrA6hiKjx",
+        "username": "libraclone_SFB",
+        "verified": false
+      }
+    ]
+  }
+}

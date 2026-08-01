@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024224375642477040",
+    "created_at": "2026-02-20T12:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T13:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024828010571153438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1718024032442814464",
+          "start": 0,
+          "username": "Elcaro02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024828010571153438",
+    "in_reply_to_user_id": "1718024032442814464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024827756836438175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elcaro02 看来是因为我没朋友😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024224375642477040",
+        "created_at": "2026-02-20T12:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024828010571153438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1718024032442814464",
+              "start": 0,
+              "username": "Elcaro02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024828010571153438",
+        "in_reply_to_user_id": "1718024032442814464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024827756836438175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elcaro02 看来是因为我没朋友😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718024032442814464",
+        "conversation_id": "2024224375642477040",
+        "created_at": "2026-02-20T12:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T13:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024827756836438175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024827756836438175",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024224375642477040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 游戏本最重要的不是出去和朋友开趴不用去网吧连排打游戏么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 165,
+          "like_count": 4384,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 1256
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T21:57:23.000Z",
+        "description": "",
+        "id": "1718024032442814464",
+        "name": "Me0w3tr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920598549739216896/WSfagVoT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 520,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 200
+        },
+        "username": "Elcaro02",
+        "verified": false
+      }
+    ]
+  }
+}

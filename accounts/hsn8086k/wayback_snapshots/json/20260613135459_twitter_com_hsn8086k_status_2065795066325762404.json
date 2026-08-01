@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2065795066325762404",
+    "created_at": "2026-06-13T13:54:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T14:54:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065795066325762404"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065795066325762404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已无语, 今天登陆ms账户, 正巧又是在win上, 自动转到passkey登陆, 而win的passkey登陆仅支持走win上的ms账户和物理密钥, 额额额, 有点傻逼了."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065795066325762404",
+        "created_at": "2026-06-13T13:54:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065795066325762404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065795066325762404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已无语, 今天登陆ms账户, 正巧又是在win上, 自动转到passkey登陆, 而win的passkey登陆仅支持走win上的ms账户和物理密钥, 额额额, 有点傻逼了."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 236,
+          "like_count": 9219,
+          "listed_count": 9,
+          "media_count": 209,
+          "tweet_count": 2270
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

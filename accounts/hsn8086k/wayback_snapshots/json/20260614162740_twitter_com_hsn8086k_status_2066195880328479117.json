@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2065790051557273704",
+    "created_at": "2026-06-14T16:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066195880328479117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1959679805139652608",
+          "start": 0,
+          "username": "qingchengshan37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066195880328479117",
+    "in_reply_to_user_id": "1959679805139652608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066184256288964913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qingchengshan37 我的诉求: 关注自己的权利, 呼吁大家反对厂商不开放解bl锁\n他们的诉求: 滚你妈的, 关我啥事, 你嘉豪你自己折腾, 解bl不是一般人的需求.\n\n此后我的诉求: 你们爱咋咋地, 我等着看你们遭报应.\n\n懂了不. 我救不了他们, 也被中伤. 只能在这吐槽, 希望有看到的, 比较像人类的, 能想明白这是自己的权利."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065790051557273704",
+        "created_at": "2026-06-14T16:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066195880328479117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1959679805139652608",
+              "start": 0,
+              "username": "qingchengshan37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066195880328479117",
+        "in_reply_to_user_id": "1959679805139652608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066184256288964913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qingchengshan37 我的诉求: 关注自己的权利, 呼吁大家反对厂商不开放解bl锁\n他们的诉求: 滚你妈的, 关我啥事, 你嘉豪你自己折腾, 解bl不是一般人的需求.\n\n此后我的诉求: 你们爱咋咋地, 我等着看你们遭报应.\n\n懂了不. 我救不了他们, 也被中伤. 只能在这吐槽, 希望有看到的, 比较像人类的, 能想明白这是自己的权利."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959679805139652608",
+        "conversation_id": "2065790051557273704",
+        "created_at": "2026-06-14T15:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066184256288964913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066184256288964913",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066136910184288464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 那支持解bl的人和不支持解锁的人吵一架也不会改变黑暗的结局"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 237,
+          "like_count": 9420,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2326
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-24T18:11:12.000Z",
+        "description": "变色龙",
+        "id": "1959679805139652608",
+        "name": "青橙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037605543452536833/CEeJhcsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 80,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 442
+        },
+        "username": "qingchengshan37",
+        "verified": false
+      }
+    ]
+  }
+}

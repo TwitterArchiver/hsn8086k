@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Traffic",
+          "id": "1037076073719025664",
+          "name": "Traffic"
+        }
+      }
+    ],
+    "conversation_id": "2080308663299043390",
+    "created_at": "2026-07-23T15:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080308663299043390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_hairdick/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/_hairdick/status/2080128548711629202",
+          "start": 22,
+          "url": "https://t.co/8uFju8omOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080308663299043390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080128548711629202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "外国人: 国外的月亮更远, 国外的空气更甜 https://t.co/8uFju8omOK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12500,
+        "height": 690,
+        "media_key": "13_2080128530055393280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080128530055393280/img/ff5oCB3IiXcYs7vF.jpg",
+        "public_metrics": {
+          "view_count": 124949
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080128530055393280/vid/avc1/320x384/K96C-aWErp61h-2W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080128530055393280/vid/avc1/480x576/fNQ-6XvHtn7IoWqf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080128530055393280/vid/avc1/574x690/soyuk2dTZSQ2pH5r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080128530055393280/pl/y5aOw5kEb6PqpqDe.m3u8"
+          }
+        ],
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traffic",
+              "id": "1037076073719025664",
+              "name": "Traffic"
+            }
+          }
+        ],
+        "conversation_id": "2080308663299043390",
+        "created_at": "2026-07-23T15:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080308663299043390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_hairdick/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/_hairdick/status/2080128548711629202",
+              "start": 22,
+              "url": "https://t.co/8uFju8omOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080308663299043390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080128548711629202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "外国人: 国外的月亮更远, 国外的空气更甜 https://t.co/8uFju8omOK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080128530055393280"
+          ]
+        },
+        "author_id": "2016890323298111495",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traffic",
+              "id": "1037076073719025664",
+              "name": "Traffic"
+            }
+          }
+        ],
+        "conversation_id": "2080128548711629202",
+        "created_at": "2026-07-23T03:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080128548711629202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOtEfLPeYW",
+              "end": 150,
+              "expanded_url": "https://x.com/_hairdick/status/2080128548711629202/video/1",
+              "media_key": "13_2080128530055393280",
+              "start": 127,
+              "url": "https://t.co/pOtEfLPeYW"
+            },
+            {
+              "display_url": "x.com/muntahiy/statu…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/muntahiy/status/2079951286531932517",
+              "start": 151,
+              "url": "https://t.co/ZL0eWIakle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080128548711629202",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 356635,
+          "like_count": 840,
+          "quote_count": 9,
+          "reply_count": 710,
+          "retweet_count": 466
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079951286531932517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "In China, even though the traffic is heavy, it is still smooth when the drivers show the perfect Zipper merging, one by one... https://t.co/pOtEfLPeYW https://t.co/ZL0eWIakle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 245,
+          "like_count": 10633,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 2697
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T15:05:08.000Z",
+        "description": "Bersama kita menangis'",
+        "id": "2016890323298111495",
+        "location": "Texas",
+        "name": "Hairdick™",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890827256274944/zkTnOcvJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2828,
+          "following_count": 1164,
+          "like_count": 803,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 818
+        },
+        "url": "",
+        "username": "_hairdick",
+        "verified": true
+      }
+    ]
+  }
+}

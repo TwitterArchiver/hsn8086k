@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2046459103527199021",
+    "created_at": "2026-04-21T09:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046524621374239186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1682921700038434817",
+          "start": 0,
+          "username": "VALKYRiE_MiCHU"
+        },
+        {
+          "end": 27,
+          "id": "1596882059934412800",
+          "start": 16,
+          "username": "justlukluk"
+        },
+        {
+          "end": 36,
+          "id": "1433678976564662273",
+          "start": 28,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046524621374239186",
+    "in_reply_to_user_id": "1682921700038434817",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046520963714732056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VALKYRiE_MiCHU @justlukluk @hsn8086 ?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2046459103527199021",
+        "created_at": "2026-04-21T09:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046524621374239186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1682921700038434817",
+              "start": 0,
+              "username": "VALKYRiE_MiCHU"
+            },
+            {
+              "end": 27,
+              "id": "1596882059934412800",
+              "start": 16,
+              "username": "justlukluk"
+            },
+            {
+              "end": 36,
+              "id": "1433678976564662273",
+              "start": 28,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046524621374239186",
+        "in_reply_to_user_id": "1682921700038434817",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046520963714732056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VALKYRiE_MiCHU @justlukluk @hsn8086 ?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682921700038434817",
+        "conversation_id": "2046459103527199021",
+        "created_at": "2026-04-21T09:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046520963714732056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 21,
+              "id": "1596882059934412800",
+              "start": 10,
+              "username": "justlukluk"
+            },
+            {
+              "end": 30,
+              "id": "1433678976564662273",
+              "start": 22,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046520963714732056",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046520065030586563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @justlukluk @hsn8086 注意到9不是合数"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1745,
+          "following_count": 218,
+          "like_count": 7545,
+          "listed_count": 6,
+          "media_count": 176,
+          "tweet_count": 1915
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T01:13:08.000Z",
+        "description": "Eng/日本語/中文\n興味があることや、情熱を持てることに挑戦したいな...　\n大体のことに興味あるかも。よろしくお願いします。",
+        "id": "1682921700038434817",
+        "location": "ホワイトスペース",
+        "name": "Michuuu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037793682867544064/8wKcL9HR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 502,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "VALKYRiE_MiCHU",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T15:02:12.000Z",
+        "description": "",
+        "id": "1596882059934412800",
+        "name": "wish6n1",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 188,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "username": "justlukluk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117601,
+          "following_count": 1122,
+          "like_count": 52514,
+          "listed_count": 275,
+          "media_count": 20752,
+          "tweet_count": 31156
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

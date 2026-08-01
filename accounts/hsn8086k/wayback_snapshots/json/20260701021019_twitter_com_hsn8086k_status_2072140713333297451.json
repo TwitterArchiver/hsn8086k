@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2072037801932275938",
+    "created_at": "2026-07-01T02:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T03:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072140713333297451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1252862153947668481",
+          "start": 0,
+          "username": "XYY1411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072140713333297451",
+    "in_reply_to_user_id": "1252862153947668481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072101995809550550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYY1411 我就是api啊, 我鬼知道怎么一下问出了限制..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_2072101988318511104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGVx6gbAAA2UsU.jpg",
+        "width": 1588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2072037801932275938",
+        "created_at": "2026-07-01T02:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072140713333297451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1252862153947668481",
+              "start": 0,
+              "username": "XYY1411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072140713333297451",
+        "in_reply_to_user_id": "1252862153947668481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072101995809550550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYY1411 我就是api啊, 我鬼知道怎么一下问出了限制..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072101988318511104"
+          ]
+        },
+        "author_id": "1252862153947668481",
+        "conversation_id": "2072037801932275938",
+        "created_at": "2026-06-30T23:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T00:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072101995809550550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqhmMzqvXq",
+              "end": 61,
+              "expanded_url": "https://x.com/XYY1411/status/2072101995809550550/photo/1",
+              "media_key": "3_2072101988318511104",
+              "start": 38,
+              "url": "https://t.co/oqhmMzqvXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072101995809550550",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072037801932275938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k deepseek不需要本地部署啊🤔，api基本没有限制 https://t.co/oqhmMzqvXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2260,
+          "following_count": 244,
+          "like_count": 9907,
+          "listed_count": 8,
+          "media_count": 221,
+          "tweet_count": 2484
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T07:29:56.000Z",
+        "description": "星空在前，路在脚下\nC++ | Python\nGenshin Impact | Zenless Zone Zero\nArknights | Arknights: Endfield\nWorld of Warships\nMinecraft | Terraria",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyy1411.top",
+                "end": 23,
+                "expanded_url": "https://www.xyy1411.top",
+                "start": 0,
+                "url": "https://t.co/69cevHxO97"
+              }
+            ]
+          }
+        },
+        "id": "1252862153947668481",
+        "location": "香港",
+        "name": "XYY1411",
+        "pinned_tweet_id": "1425971683438043146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602936353905180672/DLfy6vSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 58,
+          "like_count": 4124,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2309
+        },
+        "url": "https://t.co/69cevHxO97",
+        "username": "XYY1411",
+        "verified": false
+      }
+    ]
+  }
+}

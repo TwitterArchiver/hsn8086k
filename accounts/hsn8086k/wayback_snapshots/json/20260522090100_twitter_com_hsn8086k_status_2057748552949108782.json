@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2057709849778278821",
+    "created_at": "2026-05-22T09:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T10:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057748552949108782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1947502930472669184",
+          "start": 0,
+          "username": "1949mikuRock"
+        },
+        {
+          "end": 24,
+          "id": "1863439189909618688",
+          "start": 14,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20574…",
+          "end": 48,
+          "expanded_url": "https://x.com/i/status/2057467403421040659",
+          "start": 25,
+          "url": "https://t.co/Rr5ZW8w3p5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057748552949108782",
+    "in_reply_to_user_id": "1947502930472669184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057467403421040659",
+        "type": "quoted"
+      },
+      {
+        "id": "2057733682870575273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1949mikuRock @hsn8086xe https://t.co/Rr5ZW8w3p5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2057709849778278821",
+        "created_at": "2026-05-22T09:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057748552949108782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1947502930472669184",
+              "start": 0,
+              "username": "1949mikuRock"
+            },
+            {
+              "end": 24,
+              "id": "1863439189909618688",
+              "start": 14,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20574…",
+              "end": 48,
+              "expanded_url": "https://x.com/i/status/2057467403421040659",
+              "start": 25,
+              "url": "https://t.co/Rr5ZW8w3p5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057748552949108782",
+        "in_reply_to_user_id": "1947502930472669184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057467403421040659",
+            "type": "quoted"
+          },
+          {
+            "id": "2057733682870575273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1949mikuRock @hsn8086xe https://t.co/Rr5ZW8w3p5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2057467403421040659",
+        "created_at": "2026-05-21T14:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057467403421040659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2057463095375884470",
+              "start": 39,
+              "url": "https://t.co/pHOGe3xBGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057467403421040659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10275,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057463095375884470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前有人吐槽不给他打码, 于是上线了一个自动打码, 嗯...希望大家喜欢(? https://t.co/pHOGe3xBGg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947502930472669184",
+        "conversation_id": "2057709849778278821",
+        "created_at": "2026-05-22T08:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057733682870575273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057733682870575273",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057709849778278821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 为什么要打码？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 222,
+          "like_count": 8156,
+          "listed_count": 9,
+          "media_count": 194,
+          "tweet_count": 2063
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T03:44:24.000Z",
+        "description": "INFP-T/LGBT/筝专/ADHD、MR、MiDD/ 2010.06.19🎂/英语and日语と器乐学习中/摇滚乐迷/求fo/",
+        "id": "1947502930472669184",
+        "location": "广东省广州市，浙江省金华市，江西省赣州市",
+        "name": "我不是小黑子k",
+        "pinned_tweet_id": "2042169418239918148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038122459829026816/W5FIRCV6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 107,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 617
+        },
+        "username": "1949mikuRock",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36290,
+          "following_count": 371,
+          "like_count": 229,
+          "listed_count": 107,
+          "media_count": 14363,
+          "tweet_count": 14446
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

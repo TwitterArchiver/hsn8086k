@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024415815953764471",
+    "created_at": "2026-02-19T09:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024415815953764471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 176,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2024224375642477040",
+          "start": 153,
+          "url": "https://t.co/sEKJqeONjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024415815953764471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024224375642477040",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说我傲慢也好吧, 我是真不明白到底有什么需求必须是, 完全离线 + 计算密集 + 需要移动 + 不用续航.\n真的需要移动吗? 思考一下, 买这种本子, 一年下来会有几次移动? 为那一两次移动牺牲这么多价钱(同性能下), 合适吗, 又或者说, 把这钱拿去寄快递, 能寄多少次? 或者这钱甚至能多买个轻薄本. https://t.co/sEKJqeONjY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024415815953764471",
+        "created_at": "2026-02-19T09:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024415815953764471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2024224375642477040",
+              "start": 153,
+              "url": "https://t.co/sEKJqeONjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024415815953764471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024224375642477040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说我傲慢也好吧, 我是真不明白到底有什么需求必须是, 完全离线 + 计算密集 + 需要移动 + 不用续航.\n真的需要移动吗? 思考一下, 买这种本子, 一年下来会有几次移动? 为那一两次移动牺牲这么多价钱(同性能下), 合适吗, 又或者说, 把这钱拿去寄快递, 能寄多少次? 或者这钱甚至能多买个轻薄本. https://t.co/sEKJqeONjY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024224375642477040",
+        "created_at": "2026-02-18T20:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T21:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024224375642477040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Project_Luo/st…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Project_Luo/status/2023741557979889957",
+              "start": 48,
+              "url": "https://t.co/HIDwDAb3Go"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024224375642477040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3851,
+          "like_count": 36,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023741557979889957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "点了啊, 除了这种场景, 我是很不明白到底谁在喜欢游戏本.\n轻薄本带出门多好. 台式性能多强. https://t.co/HIDwDAb3Go"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 163,
+          "like_count": 4149,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 1209
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

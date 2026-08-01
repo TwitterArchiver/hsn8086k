@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2051554916192461132",
+    "created_at": "2026-05-05T06:49:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T07:49:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051554916192461132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eclipsebtm/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/eclipsebtm/status/2051351652536594493",
+          "start": 4,
+          "url": "https://t.co/gnBGytKGkT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051554916192461132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051351652536594493",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是真的 https://t.co/gnBGytKGkT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2051554916192461132",
+        "created_at": "2026-05-05T06:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051554916192461132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eclipsebtm/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/eclipsebtm/status/2051351652536594493",
+              "start": 4,
+              "url": "https://t.co/gnBGytKGkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051554916192461132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051351652536594493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是真的 https://t.co/gnBGytKGkT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547799334577897473",
+        "conversation_id": "2051306351263932627",
+        "created_at": "2026-05-04T17:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051351652536594493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1964680698352291840",
+              "start": 0,
+              "username": "foen477"
+            },
+            {
+              "end": 24,
+              "id": "1504090019971010562",
+              "start": 9,
+              "username": "Deepfeeling777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051351652536594493",
+        "in_reply_to_user_id": "1964680698352291840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16194,
+          "like_count": 406,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051312615658590365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foen477 @Deepfeeling777 我觉得还真有可能，因为我发现往嘴里放香辣鸡腿堡会很舒服🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 221,
+          "like_count": 7868,
+          "listed_count": 8,
+          "media_count": 185,
+          "tweet_count": 1985
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T04:25:20.000Z",
+        "description": "",
+        "id": "1547799334577897473",
+        "name": "eclipse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050599253488394240/ZVrtotYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 41,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "eclipsebtm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2046782753497358627",
+    "created_at": "2026-04-22T07:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046848094189539436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1835764493231751168",
+          "start": 0,
+          "username": "mirekintoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046848094189539436",
+    "in_reply_to_user_id": "1835764493231751168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046828867349082249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mirekintoc (笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2046782753497358627",
+        "created_at": "2026-04-22T07:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046848094189539436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1835764493231751168",
+              "start": 0,
+              "username": "mirekintoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046848094189539436",
+        "in_reply_to_user_id": "1835764493231751168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046828867349082249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mirekintoc (笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835764493231751168",
+        "conversation_id": "2046782753497358627",
+        "created_at": "2026-04-22T05:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T06:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046828867349082249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046828867349082249",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046782753497358627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 车不开的时候不应该装背包里或潜影盒里吗，这很对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 220,
+          "like_count": 7611,
+          "listed_count": 7,
+          "media_count": 178,
+          "tweet_count": 1932
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T19:36:00.000Z",
+        "description": "✨正在准备下一 CNOI 赛季，能进队吗｜09 年高一半复役 OIer & whker｜代词随意｜浙江杭州｜顺男，对人属生物个体友好｜妹妹 @MinaseAyano & @LiciiQAQ｜新小号 @omkechan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 70,
+                "username": "MinaseAyano"
+              },
+              {
+                "end": 94,
+                "start": 85,
+                "username": "LiciiQAQ"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "omkechan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mirekintocvoid",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mirekintocvoid",
+                "start": 0,
+                "url": "https://t.co/Gm4k8wa7mW"
+              }
+            ]
+          }
+        },
+        "id": "1835764493231751168",
+        "location": "NAMORK Leinshin",
+        "name": "Mirekintoc",
+        "pinned_tweet_id": "2045097315627835506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861219984820912128/yCyrRBXh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 941,
+          "like_count": 5078,
+          "listed_count": 4,
+          "media_count": 313,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/Gm4k8wa7mW",
+        "username": "mirekintoc",
+        "verified": false
+      }
+    ]
+  }
+}

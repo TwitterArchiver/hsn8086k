@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016761747080978511",
+    "created_at": "2026-01-29T06:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016761747080978511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CldGeo/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/CldGeo/status/2016568110736982066",
+          "start": 8,
+          "url": "https://t.co/4M6C0zde4t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016761747080978511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016568110736982066",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这倒是提醒我了 https://t.co/4M6C0zde4t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016761747080978511",
+        "created_at": "2026-01-29T06:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T07:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016761747080978511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CldGeo/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/CldGeo/status/2016568110736982066",
+              "start": 8,
+              "url": "https://t.co/4M6C0zde4t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016761747080978511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016568110736982066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这倒是提醒我了 https://t.co/4M6C0zde4t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286241253621817344",
+        "conversation_id": "2016568110736982066",
+        "created_at": "2026-01-28T17:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T18:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016568110736982066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016568110736982066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 21965,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "从前有一片森林，里面有三只神兽，分别是熊神，虎神，鹿神，它们轮流管理这片森林。\n有一天，虎问熊：“今天轮到谁管森林了？”\n熊说：“该鹿管了。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 109,
+          "like_count": 1558,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 547
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@_SAIGONOHOSHI_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "_SAIGONOHOSHI_"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2013314034817474942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2372,
+          "following_count": 301,
+          "like_count": 2506,
+          "listed_count": 5,
+          "media_count": 312,
+          "tweet_count": 1101
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2021758619134693816",
+    "created_at": "2026-02-12T01:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T02:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021758619134693816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AcboxLiu/statu…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/AcboxLiu/status/2021665025585557742",
+          "start": 72,
+          "url": "https://t.co/EpbV4ZBG7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021758619134693816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021665025585557742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对象: xxx 好贵, 一千快\nhsn: 买, 不就一千吗\n\n还是 hsn: 我靠 coding plan 订阅怎么要 50 一个月, 好贵哦 https://t.co/EpbV4ZBG7f"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2021758619134693816",
+        "created_at": "2026-02-12T01:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T02:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021758619134693816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AcboxLiu/statu…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/AcboxLiu/status/2021665025585557742",
+              "start": 72,
+              "url": "https://t.co/EpbV4ZBG7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021758619134693816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021665025585557742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对象: xxx 好贵, 一千快\nhsn: 买, 不就一千吗\n\n还是 hsn: 我靠 coding plan 订阅怎么要 50 一个月, 好贵哦 https://t.co/EpbV4ZBG7f"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601893417549967360",
+        "conversation_id": "2021665025585557742",
+        "created_at": "2026-02-11T19:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T20:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021665025585557742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021665025585557742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1737,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请别人吃好几百的漂亮饭随随便便就请了\n自己的衣柜没有超过100的衣服\n这种舍得给别人花钱不舍得给自己花钱是什么心理🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1353,
+          "following_count": 154,
+          "like_count": 3566,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 1032
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/推特当朋友圈发/搞开发的/🐱大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "name": "📦Acbox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629929281810432/W3tlGjqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10876,
+          "following_count": 3007,
+          "like_count": 3084,
+          "listed_count": 41,
+          "media_count": 1240,
+          "tweet_count": 6368
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

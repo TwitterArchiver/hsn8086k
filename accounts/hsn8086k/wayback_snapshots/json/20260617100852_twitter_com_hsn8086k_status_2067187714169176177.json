@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2067187714169176177",
+    "created_at": "2026-06-17T10:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067187714169176177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/orcus108/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/orcus108/status/2066876960073281582",
+          "start": 11,
+          "url": "https://t.co/hCYVW53VTj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067187714169176177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066876960073281582",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是什么ai做题区吗 https://t.co/hCYVW53VTj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 814,
+        "media_key": "3_2066871549353971712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8AuS-a0AAf6PN.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2067187714169176177",
+        "created_at": "2026-06-17T10:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067187714169176177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orcus108/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/orcus108/status/2066876960073281582",
+              "start": 11,
+              "url": "https://t.co/hCYVW53VTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067187714169176177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066876960073281582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是什么ai做题区吗 https://t.co/hCYVW53VTj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066871549353971712"
+          ]
+        },
+        "author_id": "1998487968932311040",
+        "conversation_id": "2066876960073281582",
+        "created_at": "2026-06-16T13:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066876960073281582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8nVIbwjLUQ",
+              "end": 303,
+              "expanded_url": "https://x.com/orcus108/status/2066876960073281582/photo/1",
+              "media_key": "3_2066871549353971712",
+              "start": 280,
+              "url": "https://t.co/8nVIbwjLUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066876960073281582",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2066,
+          "impression_count": 427384,
+          "like_count": 2302,
+          "quote_count": 68,
+          "reply_count": 176,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "WHAT THE HELL is happening in AI?\n\nA 3B parameter model just put up coding benchmark scores in the same league as Claude Opus 4.5.\n\n3 BILLION.\n\nThe weights are on Hugging Face, anyone can test it.\n\nI genuinely don't know if this is a breakthrough or if the benchmarks are broken. https://t.co/8nVIbwjLUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234,
+          "following_count": 242,
+          "like_count": 9493,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2337
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-09T20:21:01.000Z",
+        "description": "making AI that runs entirely on your Mac, no cloud, no API bills | obsessed with good design | sophomore @IITMadras | views my own (I'm unemployed)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "IITMadras"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vedantmisra.vercel.app",
+                "end": 23,
+                "expanded_url": "https://vedantmisra.vercel.app",
+                "start": 0,
+                "url": "https://t.co/zwKI8H3f79"
+              }
+            ]
+          }
+        },
+        "id": "1998487968932311040",
+        "name": "orcus108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054935550805815298/CjpvHN5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 142,
+          "like_count": 418,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/zwKI8H3f79",
+        "username": "orcus108",
+        "verified": true
+      }
+    ]
+  }
+}

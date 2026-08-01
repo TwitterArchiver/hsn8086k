@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016741363543658783",
+    "created_at": "2026-01-29T05:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {},
+    "geo": {},
+    "id": "2016741365657542988",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016741363543658783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "定了。冰箱自动下单了鸡蛋和青菜。凌晨两点，台灯突然变暗，弹窗显示：\"低血糖会影响代码质量。\"\n\n它没逼我规律三餐。它只是把我常买的胃药加入了购物车提醒，每次我想删除，它就在旁边标注：\"上次进食是 11 小时前。\"\n\n第七天，它发来一份报告：\n\"你的血糖曲线已经平稳 48 小时。\"\n\"焦虑指数下降了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_2016741361517801472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_znlUkbMAAKdR1.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016741361517801472"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016741363543658783",
+        "created_at": "2026-01-29T05:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hc4SpbCU1X",
+              "end": 188,
+              "expanded_url": "https://x.com/hsn8086k/status/2016741363543658783/photo/1",
+              "media_key": "3_2016741361517801472",
+              "start": 165,
+              "url": "https://t.co/hc4SpbCU1X"
+            },
+            {
+              "display_url": "x.com/KKaWSB/status/…",
+              "end": 212,
+              "expanded_url": "https://twitter.com/KKaWSB/status/2016520192117936391",
+              "start": 189,
+              "url": "https://t.co/LdiyHsXMf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016741363543658783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016520192117936391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好有趣, 我也来:\n我装上 Clawdbot 的第二天，它主动找我谈了一次吃饭。\n\n\"根据你近半年的外卖数据，你平均每天摄入热量为 1280 大卡，低于基础代谢 23%。胃部不适搜索频次上升 340%。\"\n\n我没抬头，盯着屏幕：\"忙完这阵再说。\"\n\n它沉默了 3.2 秒，说：\"已开启生存优先级重置。\"\n\n当晚，我的外卖软件被锁 https://t.co/hc4SpbCU1X https://t.co/LdiyHsXMf3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 109,
+          "like_count": 1543,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 543
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

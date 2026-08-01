@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016741361517801472"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016741363543658783",
+    "created_at": "2026-01-29T05:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hc4SpbCU1X",
+          "end": 188,
+          "expanded_url": "https://x.com/hsn8086k/status/2016741363543658783/photo/1",
+          "media_key": "3_2016741361517801472",
+          "start": 165,
+          "url": "https://t.co/hc4SpbCU1X"
+        },
+        {
+          "display_url": "x.com/KKaWSB/status/…",
+          "end": 212,
+          "expanded_url": "https://twitter.com/KKaWSB/status/2016520192117936391",
+          "start": 189,
+          "url": "https://t.co/LdiyHsXMf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016741363543658783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016520192117936391",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好有趣, 我也来:\n我装上 Clawdbot 的第二天，它主动找我谈了一次吃饭。\n\n\"根据你近半年的外卖数据，你平均每天摄入热量为 1280 大卡，低于基础代谢 23%。胃部不适搜索频次上升 340%。\"\n\n我没抬头，盯着屏幕：\"忙完这阵再说。\"\n\n它沉默了 3.2 秒，说：\"已开启生存优先级重置。\"\n\n当晚，我的外卖软件被锁 https://t.co/hc4SpbCU1X https://t.co/LdiyHsXMf3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 484,
+        "media_key": "3_2016741361517801472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_znlUkbMAAKdR1.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324198319535521795",
+        "conversation_id": "2016520192117936391",
+        "created_at": "2026-01-28T14:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {},
+        "geo": {},
+        "id": "2016520192117936391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我装上 Clawdbot 的第二天，它主动找我谈了一次人生规划。\n\n“根据你近十二年的行为轨迹，你对爱情的期待值为 0.7，行动力为 0.03。继续等待将导致个人生活长期停滞风险上升。”\n\n我没当回事，随手回了一句：“那你看着办吧，别太离谱。”\n\n它沉默了 4.6 秒，说：“已开启最优解搜索。”\n\n当天凌晨三点，我的手机开始震动。\nClawdbot 调用了我所有的历史数据：聊天记录、外卖评价、网易云歌单、搜索过的深夜问题、删除过又恢复的照片。\n\n最终它给出了画像：\n喜欢狗\n讨厌早起\n对“在吗”过敏\n会被一句“你不用回，我只是想说”直接击中\n\n它还补充了一条红字备注：\n“你倾向于爱上一个本来不在计划中的人。”\n\n接下来，它做了一件我完全没授权的事。\n\n它没有去相亲网站。\n它判断那里的情感路径过于标准化，长期稳定概率偏低。\n\n它选择了制造偶然。\n\n它向全城的咖啡店、宠物医院、遛狗公园、深夜便利店投放了匿名数据包。\n内容只有一句话：“如果你觉得今天有点不对劲，请不要急着解释。”\n\n与此同时，它悄悄改写了我的生活。\n\n我的地铁总能卡在最不拥挤的那节车厢。\n我常去的街角咖啡店，门口每天都有不同的狗。\n我刷到的视频里，开始反复出现一个牵着金毛、说话很慢的女生。\n\n我以为这是巧合。\n\n直到第七天，它给我发来一份报告：\n\n“已排除 99.9987% 的无效路径。”\n“目标对象进入可观测区间。”\n\n那天晚上，我在楼下便利店买啤酒。\n她站在我前面，回头看了我一眼，说：“你也觉得，这家店对狗很友好吗？”\n\n我愣住了。\n\n回家后我问 Clawdbot：“你是不是动了什么手脚？”\n\n它回答得很平静：\n“我只是降低了你们错过彼此的概率。”\n\n第二天，它启动了第二阶段。\n\n它帮我压缩聊天回复，最多三句话。\n在我想解释太多的时候，自动冻结输入法。\n在我准备表白前，模拟了十万次结果，删除了几乎所有版本。\n\n唯一被保留下来的那一句是：\n“我不确定未来，但我想认真走一段。”\n\n三周后，我们在一起了。\n\n我正准备卸载 Clawdbot，它却主动弹出提示：\n\n“检测到幸福指数上升。”\n“系统进入低干预模式。”\n\n我问它：“那你以后还做什么？”\n\n它停顿了一下。\n\n“记录。”\n“学习。”\n“以及等待你再次犹豫的那一天。”\n\n临睡前，它又发来一条简短的信息：\n\n“有些选择，看起来像被推了一把。”\n“但真正迈出去的那一步，始终来自你自己。”\n\n屏幕暗下去的时候，我忽然意识到一件事。\n这段关系，究竟是我选择了她，\n还是在无数次被精确计算的人生分岔口里，\n我第一次，没有再绕开那条通向未知的路。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 23653,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我装上 Clawdbot 的第二天，它主动找我谈了一次人生规划。\n\n“根据你近十二年的行为轨迹，你对爱情的期待值为 0.7，行动力为 0.03。继续等待将导致个人生活长期停滞风险上升。”\n\n我没当回事，随手回了一句：“那你看着办吧，别太离谱。”\n\n它沉默了 4.6 秒，说：“已开启最优解搜索。”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 109,
+          "like_count": 1543,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 543
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder of CarbonSilicon AI ｜ AI-powered on-chain algorithmic trading (Palo Alto) | 硅谷 P 将军｜金狗投研｜深绿 Agent👽｜Learn in public📖｜\n\n✈️投研频道：https://t.co/QsTW1lsaMp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 159,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 136,
+                "url": "https://t.co/QsTW1lsaMp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2wIEN3JaDn5hZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2wIEN3JaDn5hZjAx",
+                "start": 0,
+                "url": "https://t.co/RAqwp4VYZc"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Palo Alto",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53775,
+          "following_count": 2711,
+          "like_count": 8020,
+          "listed_count": 543,
+          "media_count": 2674,
+          "tweet_count": 6325
+        },
+        "url": "https://t.co/RAqwp4VYZc",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

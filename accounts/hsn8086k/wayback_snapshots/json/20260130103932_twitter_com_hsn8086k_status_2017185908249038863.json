@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2017185908249038863",
+    "created_at": "2026-01-30T10:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T11:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017185908249038863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2017097726983577721",
+          "start": 19,
+          "url": "https://t.co/M20PWHBhER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017185908249038863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017097726983577721",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猫猫好可爱, 想把冰淇淋抢过来 (逃 https://t.co/M20PWHBhER"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2017097723909197828",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4rsV7bUAQpZYJ.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2017185908249038863",
+        "created_at": "2026-01-30T10:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T11:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017185908249038863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2017097726983577721",
+              "start": 19,
+              "url": "https://t.co/M20PWHBhER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017185908249038863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017097726983577721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫猫好可爱, 想把冰淇淋抢过来 (逃 https://t.co/M20PWHBhER"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017097723909197828"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2017097726983577721",
+        "created_at": "2026-01-30T04:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017097726983577721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GP0t8eYCVM",
+              "end": 53,
+              "expanded_url": "https://x.com/hsn8086k/status/2017097726983577721/photo/1",
+              "media_key": "3_2017097723909197828",
+              "start": 30,
+              "url": "https://t.co/GP0t8eYCVM"
+            },
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/JanboMikan/status/2016828680467612023",
+              "start": 54,
+              "url": "https://t.co/LlDrn1X0XJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017097726983577721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5922,
+          "like_count": 84,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016828680467612023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就很不怕身边人看我推了, 有本事就翻过几千条推找到我照片 https://t.co/GP0t8eYCVM https://t.co/LlDrn1X0XJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 115,
+          "like_count": 1803,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 607
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

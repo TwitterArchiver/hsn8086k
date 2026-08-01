@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1895672924860006616",
+    "created_at": "2025-03-02T14:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T15:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896208634968998227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1623333931818033152",
+          "start": 0,
+          "username": "hulangong"
+        },
+        {
+          "end": 22,
+          "id": "1830054190674259968",
+          "start": 11,
+          "username": "xxx1172632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896208634968998227",
+    "in_reply_to_user_id": "1623333931818033152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896072787082785095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hulangong @xxx1172632 不是国际版,是第三方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1895672924860006616",
+        "created_at": "2025-03-02T14:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T15:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896208634968998227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1623333931818033152",
+              "start": 0,
+              "username": "hulangong"
+            },
+            {
+              "end": 22,
+              "id": "1830054190674259968",
+              "start": 11,
+              "username": "xxx1172632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896208634968998227",
+        "in_reply_to_user_id": "1623333931818033152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896072787082785095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hulangong @xxx1172632 不是国际版,是第三方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623333931818033152",
+        "conversation_id": "1895672924860006616",
+        "created_at": "2025-03-02T05:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T06:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896072787082785095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830054190674259968",
+              "start": 0,
+              "username": "xxx1172632"
+            },
+            {
+              "end": 21,
+              "id": "1842504398850928640",
+              "start": 12,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896072787082785095",
+        "in_reply_to_user_id": "1830054190674259968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896064276647067806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx1172632 @hsn8086k 国际版竖屏模式的评论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 36,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 40
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-08T14:52:40.000Z",
+        "description": "",
+        "id": "1623333931818033152",
+        "name": "胡岚宫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870486753355890688/NSJajpVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 70,
+          "like_count": 13495,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 5105
+        },
+        "username": "hulangong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T01:25:14.000Z",
+        "description": "greeting",
+        "id": "1830054190674259968",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Jack",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830057944962252801/vDJnS-el_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 134,
+          "like_count": 4145,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 299
+        },
+        "username": "xxx1172632",
+        "verified": false
+      }
+    ]
+  }
+}

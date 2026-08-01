@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1939847967185227776"
+      ],
+      "media_source_tweet_id": [
+        "1939848089323675732"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "1939853739197919639",
+    "created_at": "2025-07-01T01:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T02:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939853739197919639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1861297486578753539",
+          "start": 3,
+          "username": "xiangyuniunai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1PAtfy1xgo",
+          "end": 42,
+          "expanded_url": "https://x.com/xiangyuniunai/status/1939848089323675732/video/1",
+          "media_key": "13_1939847967185227776",
+          "start": 19,
+          "url": "https://t.co/1PAtfy1xgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939853739197919639",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939848089323675732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiangyuniunai: https://t.co/1PAtfy1xgo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12283,
+        "height": 1280,
+        "media_key": "13_1939847967185227776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939847967185227776/img/SfL4kVPDDi589DSj.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939847967185227776/vid/avc1/320x568/zQJZmGSiyZQwk-5g.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939847967185227776/vid/avc1/480x852/UbOpQYXbWv2ORA4F.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939847967185227776/vid/avc1/720x1280/t4nj6FuMWpQXjFtu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939847967185227776/pl/ts8gBRiM_j1bBXJg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939847967185227776"
+          ],
+          "media_source_tweet_id": [
+            "1939848089323675732"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "1939853739197919639",
+        "created_at": "2025-07-01T01:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T02:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939853739197919639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1861297486578753539",
+              "start": 3,
+              "username": "xiangyuniunai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1PAtfy1xgo",
+              "end": 42,
+              "expanded_url": "https://x.com/xiangyuniunai/status/1939848089323675732/video/1",
+              "media_key": "13_1939847967185227776",
+              "start": 19,
+              "url": "https://t.co/1PAtfy1xgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939853739197919639",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939848089323675732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiangyuniunai: https://t.co/1PAtfy1xgo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939847967185227776"
+          ]
+        },
+        "author_id": "1861297486578753539",
+        "conversation_id": "1939848089323675732",
+        "created_at": "2025-07-01T00:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T01:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939848089323675732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1PAtfy1xgo",
+              "end": 23,
+              "expanded_url": "https://x.com/xiangyuniunai/status/1939848089323675732/video/1",
+              "media_key": "13_1939847967185227776",
+              "start": 0,
+              "url": "https://t.co/1PAtfy1xgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939848089323675732",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1PAtfy1xgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 39,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 121
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T06:34:50.000Z",
+        "description": "Professional serotonin dealer since 2024 🐾 \n2024年起专业贩卖快乐血清 🐾   \nDaily doses of purrs & toe beans 🌈  \n每日供应呼噜声和猫爪豆豆 🌈\nFollow for instant joy  \n关注即享瞬间治愈",
+        "id": "1861297486578753539",
+        "location": "Inside a cardboard box 📦",
+        "name": "香芋牛奶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939626971316494336/FlcyMttI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 37,
+          "like_count": 81,
+          "listed_count": 1,
+          "media_count": 1731,
+          "tweet_count": 1740
+        },
+        "username": "xiangyuniunai",
+        "verified": true
+      }
+    ]
+  }
+}

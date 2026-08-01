@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2013924883508686995",
+    "created_at": "2026-01-21T10:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T11:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013924883508686995"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yulingko_/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/yulingko_/status/2013588751327306201",
+          "start": 19,
+          "url": "https://t.co/hBxSY2qLC3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013924883508686995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013588751327306201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那照这个理论, llm 是不是... https://t.co/hBxSY2qLC3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013588734554324992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_G0SR7WwAAPiq6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2013588733417619456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_G0SNsWAAA0ysQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2013924883508686995",
+        "created_at": "2026-01-21T10:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013924883508686995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yulingko_/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yulingko_/status/2013588751327306201",
+              "start": 19,
+              "url": "https://t.co/hBxSY2qLC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013924883508686995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013588751327306201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那照这个理论, llm 是不是... https://t.co/hBxSY2qLC3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013588734554324992",
+            "3_2013588733417619456"
+          ]
+        },
+        "author_id": "1650521797299953665",
+        "conversation_id": "2013588751327306201",
+        "created_at": "2026-01-20T12:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013588751327306201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QhdDxFcD3g",
+              "end": 36,
+              "expanded_url": "https://x.com/yulingko_/status/2013588751327306201/photo/1",
+              "media_key": "3_2013588734554324992",
+              "start": 13,
+              "url": "https://t.co/QhdDxFcD3g"
+            },
+            {
+              "display_url": "pic.x.com/QhdDxFcD3g",
+              "end": 36,
+              "expanded_url": "https://x.com/yulingko_/status/2013588751327306201/photo/1",
+              "media_key": "3_2013588733417619456",
+              "start": 13,
+              "url": "https://t.co/QhdDxFcD3g"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2013588751327306201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8028,
+          "like_count": 123,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这种debug起来最猛了 https://t.co/QhdDxFcD3g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 76,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 188
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T15:27:27.000Z",
+        "description": "",
+        "id": "1650521797299953665",
+        "name": "与岭",
+        "pinned_tweet_id": "1921841960538566873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999286188415582208/BwvmE4tW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 737,
+          "like_count": 70550,
+          "listed_count": 3,
+          "media_count": 735,
+          "tweet_count": 12799
+        },
+        "username": "yulingko_",
+        "verified": false
+      }
+    ]
+  }
+}

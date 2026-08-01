@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019334755997941867",
+    "created_at": "2026-02-05T08:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T09:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019334755997941867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jane_S_Eye/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Jane_S_Eye/status/2018839040624349538",
+          "start": 15,
+          "url": "https://t.co/huBLHHydHm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019334755997941867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018839040624349538",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这么多结局, 建议做成gal https://t.co/huBLHHydHm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019334755997941867",
+        "created_at": "2026-02-05T08:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T09:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019334755997941867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jane_S_Eye/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Jane_S_Eye/status/2018839040624349538",
+              "start": 15,
+              "url": "https://t.co/huBLHHydHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019334755997941867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018839040624349538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这么多结局, 建议做成gal https://t.co/huBLHHydHm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "2018839040624349538",
+        "created_at": "2026-02-04T00:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018839040624349538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oliviawantshug…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/oliviawantshugs/status/2018641580786417964",
+              "start": 151,
+              "url": "https://t.co/T2lfAbBLx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018839040624349538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 14971,
+          "like_count": 161,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018641580786417964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多年以后，\n你在稳定的工作和生活中忘记了必须srs，长期hrt和一些辅助手术也让你基本pass，但还是高大有点“粗”，你有试过很多伴侣，有男有女但都不成功，你现在看开了，想再存一些钱，等40岁被公司毕业，拿一些资金出国。\n有一天你又在推特上看到od寸头jk还踢了警察的未成年药娘，你毫无波澜地屏蔽了她 https://t.co/T2lfAbBLx2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 145,
+          "like_count": 2599,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 783
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "she/her but Not a whore.",
+        "id": "1462419807173677059",
+        "location": "Live in the second floor ",
+        "name": "Véronique",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014887084780355584/8FhBKtzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10958,
+          "following_count": 3119,
+          "like_count": 11998,
+          "listed_count": 20,
+          "media_count": 456,
+          "tweet_count": 7902
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

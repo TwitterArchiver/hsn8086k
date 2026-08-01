@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1347260913552789506",
+          "name": "Apple iMessage"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2014961811066671320",
+    "created_at": "2026-01-24T07:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T08:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014961811066671320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Huang_Yut1ng/s…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/Huang_Yut1ng/status/2014699594870083632",
+          "start": 85,
+          "url": "https://t.co/kklNBCcKMh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014961811066671320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014699594870083632",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一看就是傻逼苹果的iMessage, 啊啊啊我真受不了了, 苹果是不是真觉得自己的物体识别很强, 甘城猫猫表情录进去一堆不正常的!\n更无语的是找不到办法绕过, 我草了. https://t.co/kklNBCcKMh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 778,
+        "media_key": "3_2014699585432866816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_WmmT7aUAA0RTp.jpg",
+        "width": 653
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347260913552789506",
+              "name": "Apple iMessage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2014961811066671320",
+        "created_at": "2026-01-24T07:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T08:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014961811066671320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Huang_Yut1ng/s…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/Huang_Yut1ng/status/2014699594870083632",
+              "start": 85,
+              "url": "https://t.co/kklNBCcKMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014961811066671320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014699594870083632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一看就是傻逼苹果的iMessage, 啊啊啊我真受不了了, 苹果是不是真觉得自己的物体识别很强, 甘城猫猫表情录进去一堆不正常的!\n更无语的是找不到办法绕过, 我草了. https://t.co/kklNBCcKMh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014699585432866816"
+          ]
+        },
+        "author_id": "1911055843715682304",
+        "conversation_id": "2014699594870083632",
+        "created_at": "2026-01-23T13:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014699594870083632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CRlcCTjHhz",
+              "end": 53,
+              "expanded_url": "https://x.com/Huang_Yut1ng/status/2014699594870083632/photo/1",
+              "media_key": "3_2014699585432866816",
+              "start": 30,
+              "url": "https://t.co/CRlcCTjHhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014699594870083632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1023,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道这个问题应该怎么回答…\n我的道德负担和内心在打架… https://t.co/CRlcCTjHhz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 86,
+          "like_count": 582,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 289
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T13:56:54.000Z",
+        "description": "🏳️‍⚧️MTF/出厂日期07/HRT.2025.11.7/山东/高三牲/有证含糖/抑郁/Web开发/INFP/社交老鼠人/不政不黄/不割手/咱不管你是友跨反跨还是什么 都不要发任何攻击 引战的内容 不要在咱的评论区里吵架 咱看到都会block的 咱不会拒绝任何一个心诚的宝宝 欢迎私信要咱qq喵",
+        "id": "1911055843715682304",
+        "location": "在你心中",
+        "name": "Huang_Yut1ng🍥",
+        "pinned_tweet_id": "1995501596621582588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911055933926776832/W8nW0Db6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 817,
+          "like_count": 1645,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 482
+        },
+        "username": "Huang_Yut1ng",
+        "verified": true
+      }
+    ]
+  }
+}

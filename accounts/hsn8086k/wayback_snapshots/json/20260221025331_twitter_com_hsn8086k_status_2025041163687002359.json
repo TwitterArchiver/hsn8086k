@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2025041163687002359",
+    "created_at": "2026-02-21T02:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T03:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025041163687002359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jaime_Rimi/sta…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Jaime_Rimi/status/2024834809651134666",
+          "start": 21,
+          "url": "https://t.co/VhXxkroGF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025041163687002359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024834809651134666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨晚我男朋友在和他女朋友通电话, 怎么办 https://t.co/VhXxkroGF1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2025041163687002359",
+        "created_at": "2026-02-21T02:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025041163687002359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jaime_Rimi/sta…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Jaime_Rimi/status/2024834809651134666",
+              "start": 21,
+              "url": "https://t.co/VhXxkroGF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025041163687002359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024834809651134666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨晚我男朋友在和他女朋友通电话, 怎么办 https://t.co/VhXxkroGF1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937086999548035072",
+        "conversation_id": "2024834809651134666",
+        "created_at": "2026-02-20T13:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024834809651134666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024834809651134666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2028,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的女朋友在和我的男朋友通電話，怎麽辦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 166,
+          "like_count": 4422,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 1268
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:55:18.000Z",
+        "description": "ACGN爱好者，温和右翼，支持🇮🇱&🇺🇦，友性少数群体。\n🈲政治内容生活号@vivahumanrights，里账@0222ArayaTouka。\n主人: @K1raK1ra818",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "vivahumanrights"
+              },
+              {
+                "end": 71,
+                "start": 56,
+                "username": "0222ArayaTouka"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "K1raK1ra818"
+              }
+            ]
+          }
+        },
+        "id": "1937086999548035072",
+        "location": "QC",
+        "name": "Léo ⚜️",
+        "pinned_tweet_id": "2018555624112726344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024858017020186625/2MQJYg1q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 1567,
+          "like_count": 5087,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1546
+        },
+        "username": "Jaime_Rimi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2052758745336418760",
+    "created_at": "2026-05-08T14:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052758745336418760"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/hsn8086/status/2052720676981895273",
+          "start": 14,
+          "url": "https://t.co/mw0KIiG9eX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052758745336418760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052720676981895273",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "栈是一种先进后出的数据结构 https://t.co/mw0KIiG9eX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1177,
+        "media_key": "3_2052720643033198592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy6jI8a8AAl5s-.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2052758745336418760",
+        "created_at": "2026-05-08T14:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052758745336418760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/hsn8086/status/2052720676981895273",
+              "start": 14,
+              "url": "https://t.co/mw0KIiG9eX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052758745336418760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052720676981895273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "栈是一种先进后出的数据结构 https://t.co/mw0KIiG9eX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052720643033198592"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2052720676981895273",
+        "created_at": "2026-05-08T12:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T13:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052720676981895273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/turTJTAic9",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2052720676981895273/photo/1",
+              "media_key": "3_2052720643033198592",
+              "start": 0,
+              "url": "https://t.co/turTJTAic9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052720676981895273",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8947,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/turTJTAic9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 220,
+          "like_count": 7910,
+          "listed_count": 7,
+          "media_count": 188,
+          "tweet_count": 2003
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119723,
+          "following_count": 1123,
+          "like_count": 52224,
+          "listed_count": 288,
+          "media_count": 21240,
+          "tweet_count": 31663
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

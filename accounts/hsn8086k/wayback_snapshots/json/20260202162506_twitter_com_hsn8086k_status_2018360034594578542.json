@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2018180996689179025",
+    "created_at": "2026-02-02T16:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T17:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018360034594578542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1547291209105715200",
+          "start": 0,
+          "username": "obj_0xEB"
+        },
+        {
+          "end": 18,
+          "id": "1552213521253150720",
+          "start": 10,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018360034594578542",
+    "in_reply_to_user_id": "1547291209105715200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018282839142522993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obj_0xEB @acnekot 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2018180996689179025",
+        "created_at": "2026-02-02T16:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T17:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018360034594578542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1547291209105715200",
+              "start": 0,
+              "username": "obj_0xEB"
+            },
+            {
+              "end": 18,
+              "id": "1552213521253150720",
+              "start": 10,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018360034594578542",
+        "in_reply_to_user_id": "1547291209105715200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018282839142522993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obj_0xEB @acnekot 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547291209105715200",
+        "conversation_id": "2018180996689179025",
+        "created_at": "2026-02-02T11:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018282839142522993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 18,
+              "id": "1552213521253150720",
+              "start": 10,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018282839142522993",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018183965086286063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @acnekot 大一专业课学c你猜怎么着，宿舍发通知说不准带自己电脑🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 139,
+          "like_count": 2380,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 754
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T18:45:54.000Z",
+        "description": "//追寻人类的自由与解放;\nreturn nan;\nlog failed;",
+        "id": "1547291209105715200",
+        "location": "null；",
+        "name": "0xEB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732678952328785920/3ZhnBe6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 92,
+          "like_count": 18212,
+          "listed_count": 10,
+          "media_count": 350,
+          "tweet_count": 9935
+        },
+        "username": "obj_0xEB",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度\n音游爱好者|不鉴证|欢迎和我互动|VRChat|无敌对友好\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\n中国語 以外のユーザーです。翻訳機を使用しています。もし誤解や間違いがあれば、訂正を歓迎します。\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417849708961793/qIj-H_zA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 732,
+          "like_count": 75113,
+          "listed_count": 6,
+          "media_count": 2505,
+          "tweet_count": 11504
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

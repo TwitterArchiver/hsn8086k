@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2071730084600598888",
+    "created_at": "2026-06-29T22:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T23:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071730084600598888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YongQuan/statu…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/YongQuan/status/2071443541369262157",
+          "start": 142,
+          "url": "https://t.co/b2oAKHNm0Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071730084600598888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071443541369262157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来点热知识:\n一满米杯米=180ml=两小碗饭\n加了多少杯米就按刻度数字加, 没有刻度就加水摊平, 水离米高度≈食指第一指节关节的厚度即可, 不用太精细, 少一点也无所谓, 无非硬一点, 但是至少盖过米.\n另外顺带一提, 米饭煮多了浪费无所谓的, 米不值钱的, 而你值得被好好对待. https://t.co/b2oAKHNm0Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2071102216384217088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4Ifh0bAAAs83w.png",
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2071730084600598888",
+        "created_at": "2026-06-29T22:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T23:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071730084600598888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YongQuan/statu…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/YongQuan/status/2071443541369262157",
+              "start": 142,
+              "url": "https://t.co/b2oAKHNm0Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071730084600598888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071443541369262157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来点热知识:\n一满米杯米=180ml=两小碗饭\n加了多少杯米就按刻度数字加, 没有刻度就加水摊平, 水离米高度≈食指第一指节关节的厚度即可, 不用太精细, 少一点也无所谓, 无非硬一点, 但是至少盖过米.\n另外顺带一提, 米饭煮多了浪费无所谓的, 米不值钱的, 而你值得被好好对待. https://t.co/b2oAKHNm0Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071102216384217088"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071443541369262157",
+        "created_at": "2026-06-29T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071443541369262157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAoB1auDK2",
+              "end": 72,
+              "expanded_url": "https://x.com/YongQuan/status/2071443541369262157/photo/1",
+              "media_key": "3_2071102216384217088",
+              "start": 49,
+              "url": "https://t.co/yAoB1auDK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071443541369262157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 89843,
+          "like_count": 599,
+          "quote_count": 3,
+          "reply_count": 163,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大学生头一次煮饭 ，煮成年糕了\n一气之下注册个抖音发个视频 \n\n结果没一人安慰 全是问年糕的配方 https://t.co/yAoB1auDK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 242,
+          "like_count": 9858,
+          "listed_count": 8,
+          "media_count": 219,
+          "tweet_count": 2464
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "爱人 ❤️@XUEQIUxka｜日常 @yqua_\n當太陽升起時 就把昨天忘掉 #小铨的月季花 #铨在天津卫",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 54,
+                "start": 48,
+                "tag": "铨在天津卫"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 25,
+                "start": 19,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津",
+        "name": "铨🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10907,
+          "following_count": 4667,
+          "like_count": 51611,
+          "listed_count": 36,
+          "media_count": 4688,
+          "tweet_count": 15222
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      }
+    ]
+  }
+}

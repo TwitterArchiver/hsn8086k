@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024148979030831343",
+    "created_at": "2026-02-18T15:48:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024148979030831343"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024148979030831343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实不明白, 正宗螺狮粉不臭, 现在也有能力抑制那股臭味, 零售螺狮粉还整这么臭还作为卖点干啥, 无语啊."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024148979030831343",
+        "created_at": "2026-02-18T15:48:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024148979030831343"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024148979030831343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实不明白, 正宗螺狮粉不臭, 现在也有能力抑制那股臭味, 零售螺狮粉还整这么臭还作为卖点干啥, 无语啊."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 163,
+          "like_count": 4029,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 1170
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

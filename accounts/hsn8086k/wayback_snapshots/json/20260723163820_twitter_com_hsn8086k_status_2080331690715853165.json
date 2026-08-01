@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2080331690715853165",
+    "created_at": "2026-07-23T16:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080331690715853165"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/hsn8086/status/2080275985489170598",
+          "start": 10,
+          "url": "https://t.co/xYmbq7YVyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080331690715853165",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080275985489170598",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天是瘫坐一周年! https://t.co/xYmbq7YVyz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2057,
+        "media_key": "3_2080275969915633664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6f-Q2aQAAklmV.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2080331690715853165",
+        "created_at": "2026-07-23T16:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080331690715853165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/hsn8086/status/2080275985489170598",
+              "start": 10,
+              "url": "https://t.co/xYmbq7YVyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080331690715853165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080275985489170598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是瘫坐一周年! https://t.co/xYmbq7YVyz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080275969915633664"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2080275985489170598",
+        "created_at": "2026-07-23T12:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080275985489170598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OveZxEf5cv",
+              "end": 36,
+              "expanded_url": "https://x.com/hsn8086/status/2080275985489170598/photo/1",
+              "media_key": "3_2080275969915633664",
+              "start": 13,
+              "url": "https://t.co/OveZxEf5cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080275985489170598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3668,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "\"原子弹爆炸\" 一周年! https://t.co/OveZxEf5cv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2296,
+          "following_count": 245,
+          "like_count": 10637,
+          "listed_count": 8,
+          "media_count": 242,
+          "tweet_count": 2700
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121753,
+          "following_count": 1117,
+          "like_count": 52138,
+          "listed_count": 300,
+          "media_count": 23540,
+          "tweet_count": 34088
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

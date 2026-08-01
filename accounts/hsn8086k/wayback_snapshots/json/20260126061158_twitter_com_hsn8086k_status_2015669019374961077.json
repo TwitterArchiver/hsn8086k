@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015337316873842930",
+    "created_at": "2026-01-26T06:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015669019374961077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1692126794055647232",
+          "start": 0,
+          "username": "QuantumTransf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015669019374961077",
+    "in_reply_to_user_id": "1692126794055647232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015668104433635658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuantumTransf 问题在于网课太慢和容易\"走神\", 上面也说了, 我还是更倾向文字教程而不是网课"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015337316873842930",
+        "created_at": "2026-01-26T06:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015669019374961077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1692126794055647232",
+              "start": 0,
+              "username": "QuantumTransf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015669019374961077",
+        "in_reply_to_user_id": "1692126794055647232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015668104433635658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuantumTransf 问题在于网课太慢和容易\"走神\", 上面也说了, 我还是更倾向文字教程而不是网课"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692126794055647232",
+        "conversation_id": "2015337316873842930",
+        "created_at": "2026-01-26T06:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015668104433635658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "description": "CS自学指南",
+              "display_url": "csdiy.wiki",
+              "end": 58,
+              "expanded_url": "http://csdiy.wiki",
+              "images": [
+                {
+                  "height": 1261,
+                  "url": "https://pbs.twimg.com/news_img/2015668151854534656/9atTBDNu?format=jpg&name=orig",
+                  "width": 3239
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2015668151854534656/9atTBDNu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "CS自学指南",
+              "unwound_url": "https://csdiy.wiki/",
+              "url": "https://t.co/Qh81cXAxAJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015668104433635658",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015663832920899946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 我感觉这方面还是每个人有自己习惯的模式\n我作为从 https://t.co/Qh81cXAxAJ 受益许多的人，还是会更偏好看网课来学习自己完全没有接触过的领域\n不过，cs 的网课重要的其实不是听课，而是完成对应的 project，get your hand dirty\n完全的网课无用论，觉得只动手就能学得很好，我是不支持的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 90,
+          "like_count": 771,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 349
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T10:52:09.000Z",
+        "description": "ACMer & Computer Science Enthusiast | Lesbian | 💖love maimai & 📝writing | 🐱Catgirl  |  🌌Know you will wake,on winds rise again | 💝I'll always be with you.",
+        "id": "1692126794055647232",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "Yuu💖",
+        "pinned_tweet_id": "2011329019233591315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999276127014256644/c3JQXTfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1768,
+          "following_count": 368,
+          "like_count": 23027,
+          "listed_count": 8,
+          "media_count": 430,
+          "tweet_count": 6040
+        },
+        "username": "QuantumTransf",
+        "verified": false
+      }
+    ]
+  }
+}

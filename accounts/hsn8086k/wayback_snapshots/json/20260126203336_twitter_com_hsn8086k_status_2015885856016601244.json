@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015619762408374272"
+      ],
+      "media_source_tweet_id": [
+        "2015619764551647573"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015885856016601244",
+    "created_at": "2026-01-26T20:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T21:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015885856016601244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1067429674161123328",
+          "start": 3,
+          "username": "DrStrangeEthan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DlDzqGAwcw",
+          "end": 46,
+          "expanded_url": "https://x.com/DrStrangeEthan/status/2015619764551647573/photo/1",
+          "media_key": "3_2015619762408374272",
+          "start": 23,
+          "url": "https://t.co/DlDzqGAwcw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015885856016601244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015619764551647573",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrStrangeEthan: 事實 https://t.co/DlDzqGAwcw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 699,
+        "media_key": "3_2015619762408374272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jrfqSbwAAtKBa.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015619762408374272"
+          ],
+          "media_source_tweet_id": [
+            "2015619764551647573"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015885856016601244",
+        "created_at": "2026-01-26T20:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T21:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015885856016601244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1067429674161123328",
+              "start": 3,
+              "username": "DrStrangeEthan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlDzqGAwcw",
+              "end": 46,
+              "expanded_url": "https://x.com/DrStrangeEthan/status/2015619764551647573/photo/1",
+              "media_key": "3_2015619762408374272",
+              "start": 23,
+              "url": "https://t.co/DlDzqGAwcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015885856016601244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015619764551647573",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrStrangeEthan: 事實 https://t.co/DlDzqGAwcw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015619762408374272"
+          ]
+        },
+        "author_id": "1067429674161123328",
+        "conversation_id": "2015619764551647573",
+        "created_at": "2026-01-26T02:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015619764551647573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlDzqGAwcw",
+              "end": 26,
+              "expanded_url": "https://x.com/DrStrangeEthan/status/2015619764551647573/photo/1",
+              "media_key": "3_2015619762408374272",
+              "start": 3,
+              "url": "https://t.co/DlDzqGAwcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015619764551647573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 37535,
+          "like_count": 1762,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "事實 https://t.co/DlDzqGAwcw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 92,
+          "like_count": 924,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 381
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-27T14:47:21.000Z",
+        "description": "史伊森本尊 不接受網路問診 掛號請洽 史書華牙醫診所 /環球美學牙醫診所 (02)29531670/(02)29531668 媒體廠商合作請洽 service.drstrange@gmail.com 討罵請排隊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "drs.com.tw",
+                "end": 23,
+                "expanded_url": "https://www.drs.com.tw",
+                "start": 0,
+                "url": "https://t.co/wpNJYOV2Qg"
+              }
+            ]
+          }
+        },
+        "id": "1067429674161123328",
+        "location": "New Taipei City, Taiwan",
+        "name": "盾牌牙醫史書華",
+        "pinned_tweet_id": "1647647729840197634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621515364088811524/53W_swQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89560,
+          "following_count": 227,
+          "like_count": 6996,
+          "listed_count": 211,
+          "media_count": 9285,
+          "tweet_count": 11574
+        },
+        "url": "https://t.co/wpNJYOV2Qg",
+        "username": "DrStrangeEthan",
+        "verified": true
+      }
+    ]
+  }
+}

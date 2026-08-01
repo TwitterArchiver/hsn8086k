@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2046036309266125291",
+    "created_at": "2026-04-20T13:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046223562680467592"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046223562680467592",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046190163823583560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有gpt, plus号池"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2046036309266125291",
+        "created_at": "2026-04-20T13:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046223562680467592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046223562680467592",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046190163823583560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有gpt, plus号池"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2046036309266125291",
+        "created_at": "2026-04-20T11:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046190163823583560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "tokenflux.dev/register?ref=4…",
+              "end": 43,
+              "expanded_url": "https://tokenflux.dev/register?ref=4d127cadd04ad942e18f",
+              "start": 20,
+              "status": 200,
+              "title": "词元流动 - AI API Gateway",
+              "unwound_url": "https://tokenflux.dev/register?ref=4d127cadd04ad942e18f",
+              "url": "https://t.co/eCXQ37W5KE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046190163823583560",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046036309266125291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "推个中转站, 0.1-0.2cny/刀\nhttps://t.co/eCXQ37W5KE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 217,
+          "like_count": 7492,
+          "listed_count": 6,
+          "media_count": 176,
+          "tweet_count": 1905
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

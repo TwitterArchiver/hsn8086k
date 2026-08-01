@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1915187542166761889",
+    "created_at": "2025-04-23T23:34:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T00:34:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915187542166761889"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1915187542166761889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个很形象的比喻:\n拉尿分叉, 就像是手握两个飞镖, 扔向同一个靶子."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1915187542166761889",
+        "created_at": "2025-04-23T23:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T00:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915187542166761889"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915187542166761889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个很形象的比喻:\n拉尿分叉, 就像是手握两个飞镖, 扔向同一个靶子."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 39,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 111
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

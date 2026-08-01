@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2019359665893831112",
+    "created_at": "2026-02-05T10:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T11:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019359665893831112"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019359665893831112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到三个很可爱的小男孩等红灯, 聚在一起看手机地图, 不知道的还以为是什么小药娘聚会 (叽里咕噜说什么呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2019359665893831112",
+        "created_at": "2026-02-05T10:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019359665893831112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019359665893831112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到三个很可爱的小男孩等红灯, 聚在一起看手机地图, 不知道的还以为是什么小药娘聚会 (叽里咕噜说什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200,
+          "following_count": 145,
+          "like_count": 2608,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 788
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

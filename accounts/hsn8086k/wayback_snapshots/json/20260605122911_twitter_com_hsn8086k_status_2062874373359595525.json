@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062874348361490432"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2062874373359595525",
+    "created_at": "2026-06-05T12:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062874373359595525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 64,
+          "id": "1842504398850928640",
+          "start": 55,
+          "username": "hsn8086k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8y8FdFIRQY",
+          "end": 186,
+          "expanded_url": "https://x.com/hsn8086k/status/2062874373359595525/photo/1",
+          "media_key": "3_2062874348361490432",
+          "start": 163,
+          "url": "https://t.co/8y8FdFIRQY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062874373359595525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "verified",
+    "text": "唉唉刚怼回去, 想了想还是又删了.\n要是发现自己的图片出现在hsn的账号上, 想删掉或者添加来源, 应该私聊 @hsn8086k 或者在tg群找, 而不是在评论区下面喷, 我看不到, 也解决不了问题, 当然只是为了喷而喷的就只能b了.\n之前联系到我删的我也都删的, 找来源的也都尽量给找了.\n另外, hsn并不会把x上的帖子 https://t.co/8y8FdFIRQY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1379,
+        "media_key": "3_2062874348361490432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDNSk5aIAAsMjZ.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062874348361490432"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2062874373359595525",
+        "created_at": "2026-06-05T12:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062874373359595525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1842504398850928640",
+              "start": 55,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8y8FdFIRQY",
+              "end": 186,
+              "expanded_url": "https://x.com/hsn8086k/status/2062874373359595525/photo/1",
+              "media_key": "3_2062874348361490432",
+              "start": 163,
+              "url": "https://t.co/8y8FdFIRQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062874373359595525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "verified",
+        "text": "唉唉刚怼回去, 想了想还是又删了.\n要是发现自己的图片出现在hsn的账号上, 想删掉或者添加来源, 应该私聊 @hsn8086k 或者在tg群找, 而不是在评论区下面喷, 我看不到, 也解决不了问题, 当然只是为了喷而喷的就只能b了.\n之前联系到我删的我也都删的, 找来源的也都尽量给找了.\n另外, hsn并不会把x上的帖子 https://t.co/8y8FdFIRQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2173,
+          "following_count": 230,
+          "like_count": 8990,
+          "listed_count": 9,
+          "media_count": 204,
+          "tweet_count": 2203
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

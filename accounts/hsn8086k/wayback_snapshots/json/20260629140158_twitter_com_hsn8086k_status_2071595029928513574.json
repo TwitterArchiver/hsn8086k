@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2070531736375816320",
+    "created_at": "2026-06-29T14:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071595029928513574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812332654521618432",
+          "start": 0,
+          "username": "Milifo363999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071595029928513574",
+    "in_reply_to_user_id": "1812332654521618432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071463330800337388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Milifo363999 得了吧, 根本没有才是对的, 抽象完了."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2070531736375816320",
+        "created_at": "2026-06-29T14:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071595029928513574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812332654521618432",
+              "start": 0,
+              "username": "Milifo363999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071595029928513574",
+        "in_reply_to_user_id": "1812332654521618432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071463330800337388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Milifo363999 得了吧, 根本没有才是对的, 抽象完了."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812332654521618432",
+        "conversation_id": "2070531736375816320",
+        "created_at": "2026-06-29T05:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T06:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071463330800337388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071463330800337388",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071383189487325489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 这种烦人的部分还是形式主义好一点（笑）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 242,
+          "like_count": 9849,
+          "listed_count": 8,
+          "media_count": 219,
+          "tweet_count": 2459
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T03:45:58.000Z",
+        "description": "戒政/男女平等（有时候会串！）/恋同癖/人道主义/万物明码标价的社会是可悲的/友跨顺男/车万/术术人/多元的社会应当容得下保守派/欣赏美好的人与世界/观le致歉补药b我😭",
+        "id": "1812332654521618432",
+        "location": "沉溺在一些过去的幻想乡中",
+        "name": "Milifo 咲樂团",
+        "pinned_tweet_id": "2033803913355559271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812333831287894016/qfYoOBMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 638,
+          "like_count": 4134,
+          "listed_count": 2,
+          "media_count": 447,
+          "tweet_count": 4806
+        },
+        "url": "",
+        "username": "Milifo363999",
+        "verified": false
+      }
+    ]
+  }
+}

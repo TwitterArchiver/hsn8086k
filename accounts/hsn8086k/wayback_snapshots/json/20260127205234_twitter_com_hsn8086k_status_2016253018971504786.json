@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016253018971504786",
+    "created_at": "2026-01-27T20:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T21:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016253018971504786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842504398850928640",
+          "start": 3,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016253018971504786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016252939929800777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086k: 只是天天有人说啥 \"图灵老祖的诅咒\" 发发牢骚罢了, 图灵大概是同, 被注射乙烯雌酚纯纯是被迫的.\n甚至还有人说 \"图灵老祖和冯诺依曼老祖...\" 那我问你, 冯诺依曼又做啥了."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016253018971504786",
+        "created_at": "2026-01-27T20:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016253018971504786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842504398850928640",
+              "start": 3,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016253018971504786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016252939929800777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086k: 只是天天有人说啥 \"图灵老祖的诅咒\" 发发牢骚罢了, 图灵大概是同, 被注射乙烯雌酚纯纯是被迫的.\n甚至还有人说 \"图灵老祖和冯诺依曼老祖...\" 那我问你, 冯诺依曼又做啥了."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016090666582032705",
+        "created_at": "2026-01-27T20:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016252939929800777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016252939929800777",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016090666582032705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只是天天有人说啥 \"图灵老祖的诅咒\" 发发牢骚罢了, 图灵大概是同, 被注射乙烯雌酚纯纯是被迫的.\n甚至还有人说 \"图灵老祖和冯诺依曼老祖...\" 那我问你, 冯诺依曼又做啥了."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 99,
+          "like_count": 1250,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 457
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024734298864308719",
+    "created_at": "2026-02-20T06:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024734298864308719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sui_aini/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Sui_aini/status/2024578469691277672",
+          "start": 15,
+          "url": "https://t.co/2xg5A4GeGv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024734298864308719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024578469691277672",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这还能博流量吗, 这么可怕的 https://t.co/2xg5A4GeGv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024734298864308719",
+        "created_at": "2026-02-20T06:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024734298864308719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sui_aini/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Sui_aini/status/2024578469691277672",
+              "start": 15,
+              "url": "https://t.co/2xg5A4GeGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024734298864308719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024578469691277672",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这还能博流量吗, 这么可怕的 https://t.co/2xg5A4GeGv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2024578469691277672",
+        "created_at": "2026-02-19T20:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T21:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024578469691277672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024578469691277672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3967,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "顺女为了博流量装跨女也太贱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 164,
+          "like_count": 4345,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 1250
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "enby（she/they）💛🤍💜🖤/有浪漫部分无性吸引/废话制造者/「如果到了那天，请一定要祝我死日快乐」/mygo、高松灯、羊宮國公民",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_我爱你🏳️‍⚧️💛🤍💜🖤",
+        "pinned_tweet_id": "1941728194551538157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944761724936101888/QmyfK5eM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 565,
+          "like_count": 3392,
+          "listed_count": 4,
+          "media_count": 418,
+          "tweet_count": 2799
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

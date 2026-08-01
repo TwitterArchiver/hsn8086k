@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2037168908273319948",
+    "created_at": "2026-03-27T01:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T02:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037344574830743653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1590317621827846149",
+          "start": 0,
+          "username": "_nagi1sa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037344574830743653",
+    "in_reply_to_user_id": "1590317621827846149",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037344193442701472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_nagi1sa_ 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2037168908273319948",
+        "created_at": "2026-03-27T01:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T02:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037344574830743653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1590317621827846149",
+              "start": 0,
+              "username": "_nagi1sa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037344574830743653",
+        "in_reply_to_user_id": "1590317621827846149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037344193442701472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_nagi1sa_ 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590317621827846149",
+        "conversation_id": "2037168908273319948",
+        "created_at": "2026-03-27T01:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T02:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037344193442701472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037344193442701472",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037168908273319948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 下个版本跨圈将引进哈夫曼编码（x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 206,
+          "like_count": 6317,
+          "listed_count": 5,
+          "media_count": 159,
+          "tweet_count": 1696
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T12:17:32.000Z",
+        "description": "=［nä . gi . sä］// 08 // zh · en · ja* · de* · fr* · ug* // 🏳️‍⚧️ // 清水日常 // 有fo必回 互fo欢迎!!",
+        "id": "1590317621827846149",
+        "name": "なぎさ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020186604028194819/wHKjTz-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 462,
+          "like_count": 1627,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 362
+        },
+        "username": "_nagi1sa_",
+        "verified": false
+      }
+    ]
+  }
+}

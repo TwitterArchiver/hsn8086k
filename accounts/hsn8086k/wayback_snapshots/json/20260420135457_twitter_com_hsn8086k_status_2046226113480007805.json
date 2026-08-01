@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2046182789956145221",
+    "created_at": "2026-04-20T13:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046226113480007805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1279636618874195968",
+          "start": 0,
+          "username": "oredaidai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046226113480007805",
+    "in_reply_to_user_id": "1279636618874195968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046225651628155022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oredaidai 得到了, 打了一瓶青梅绿茶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2046182789956145221",
+        "created_at": "2026-04-20T13:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046226113480007805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1279636618874195968",
+              "start": 0,
+              "username": "oredaidai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046226113480007805",
+        "in_reply_to_user_id": "1279636618874195968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046225651628155022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oredaidai 得到了, 打了一瓶青梅绿茶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279636618874195968",
+        "conversation_id": "2046182789956145221",
+        "created_at": "2026-04-20T13:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046225651628155022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046225651628155022",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046182789956145221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 得到授权了吗？\n给同学打钱了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 217,
+          "like_count": 7494,
+          "listed_count": 6,
+          "media_count": 176,
+          "tweet_count": 1907
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T04:42:32.000Z",
+        "description": "素代々です\nsudaidaidesu\n散歩上手",
+        "id": "1279636618874195968",
+        "location": "Chez moi",
+        "name": "Sudaidai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903293756218150914/owi6evDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 5849,
+          "like_count": 29832,
+          "listed_count": 6,
+          "media_count": 636,
+          "tweet_count": 24962
+        },
+        "username": "oredaidai",
+        "verified": false
+      }
+    ]
+  }
+}

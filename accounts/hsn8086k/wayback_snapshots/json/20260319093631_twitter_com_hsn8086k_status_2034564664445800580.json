@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2034564664445800580",
+    "created_at": "2026-03-19T09:36:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T10:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034564664445800580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fengxia1706304…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/fengxia17063046/status/2034477558251876701",
+          "start": 74,
+          "url": "https://t.co/bUewRa9I7i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034564664445800580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034477558251876701",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "知道我看到那个模型反复的创建分支删除分支检查提交的时候是什么心情吗, 真怕等会给我机子格了.\n干活不利索, 解题解不动, 真不知道怎么排这么高的. https://t.co/bUewRa9I7i"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2034564664445800580",
+        "created_at": "2026-03-19T09:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T10:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034564664445800580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fengxia1706304…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/fengxia17063046/status/2034477558251876701",
+              "start": 74,
+              "url": "https://t.co/bUewRa9I7i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034564664445800580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034477558251876701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "知道我看到那个模型反复的创建分支删除分支检查提交的时候是什么心情吗, 真怕等会给我机子格了.\n干活不利索, 解题解不动, 真不知道怎么排这么高的. https://t.co/bUewRa9I7i"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577574077933682688",
+        "conversation_id": "2034477558251876701",
+        "created_at": "2026-03-19T03:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034477558251876701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034477558251876701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3181,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到小米出了一个 MiMO 的模型，然后试用了下 MiMoStudio，结果 30 分钟试用时间都完了，一个任务简单的“汇总今日科技圈新闻资讯”任务都没能完成...\n不能说拉胯，只能说太拉跨了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 191,
+          "like_count": 5708,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 1592
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-05T08:19:22.000Z",
+        "description": "【技术栈深耕者 | 历史人文探索者】  一名拥有10年实战经验的资深全栈工程师，专注iOS生态开发（Swift/Objective-C），同时驾驭React Native/Flutter跨端架构与Node.js/Python后端技术。\niOS作品集:https://t.co/45mFnwJ9QD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaof631.github.io/iOSRE/",
+                "end": 148,
+                "expanded_url": "https://xiaof631.github.io/iOSRE/",
+                "start": 125,
+                "url": "https://t.co/45mFnwJ9QD"
+              }
+            ]
+          }
+        },
+        "id": "1577574077933682688",
+        "name": "iOSRE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684837922250575873/I8M2Wx5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3751,
+          "following_count": 120,
+          "like_count": 1138,
+          "listed_count": 29,
+          "media_count": 301,
+          "tweet_count": 3627
+        },
+        "username": "fengxia17063046",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2025043164890104272",
+    "created_at": "2026-02-21T03:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T04:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025048343030988893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1246105407589740544",
+          "start": 0,
+          "username": "camtrca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025048343030988893",
+    "in_reply_to_user_id": "1246105407589740544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025044428780699866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camtrca 比起水煮的时间来说, 这些都是零头了 ("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2025043164890104272",
+        "created_at": "2026-02-21T03:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025048343030988893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1246105407589740544",
+              "start": 0,
+              "username": "camtrca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025048343030988893",
+        "in_reply_to_user_id": "1246105407589740544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025044428780699866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camtrca 比起水煮的时间来说, 这些都是零头了 ("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1246105407589740544",
+        "conversation_id": "2025043164890104272",
+        "created_at": "2026-02-21T03:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025044428780699866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025044428780699866",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025043164890104272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 此处省略了洗土豆，切土豆，给土豆削皮（可能可以省略），洗菜板，洗刀，找到保鲜膜，清洗搅拌工具等等步骤。\n做饭真的很考验心性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 166,
+          "like_count": 4427,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 1270
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-03T16:01:07.000Z",
+        "description": "不太确定为什么在这 也不太确定为什么离开",
+        "id": "1246105407589740544",
+        "location": "鸭绿江上 芦苇丛前",
+        "name": "camtrca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978070323867287552/PW9pzmha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 129,
+          "like_count": 647,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 1831
+        },
+        "username": "camtrca",
+        "verified": true
+      }
+    ]
+  }
+}

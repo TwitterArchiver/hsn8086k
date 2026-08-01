@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2075048220494037070",
+    "created_at": "2026-07-09T05:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075094214610952484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1845031812214755328",
+          "start": 0,
+          "username": "Zou080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075094214610952484",
+    "in_reply_to_user_id": "1845031812214755328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075079493950288220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zou080 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2075048220494037070",
+        "created_at": "2026-07-09T05:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075094214610952484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1845031812214755328",
+              "start": 0,
+              "username": "Zou080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075094214610952484",
+        "in_reply_to_user_id": "1845031812214755328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075079493950288220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zou080 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845031812214755328",
+        "conversation_id": "2075048220494037070",
+        "created_at": "2026-07-09T04:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075079493950288220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075079493950288220",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075048220494037070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 诶这个工具，我一直想做来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 245,
+          "like_count": 10176,
+          "listed_count": 8,
+          "media_count": 231,
+          "tweet_count": 2598
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T09:20:48.000Z",
+        "description": "男|🏳️‍🌈-G|INTP|08年已过期高中牲|CChO 37 38 39 三年省一😭|Python|C#|C++学习中|正(兽)太控|无设福瑞控|无雷点欢迎打扰|但是不是很爱主动说话请见谅👉🏻👈🏻\n\nTG:https://t.co/dzwQdeSMCR(推特私信真的不好收dbq)\n\n备用号：@Zou086",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 147,
+                "username": "Zou086"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Zou080",
+                "end": 127,
+                "expanded_url": "https://t.me/Zou080",
+                "start": 104,
+                "url": "https://t.co/dzwQdeSMCR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuzzel.cc",
+                "end": 23,
+                "expanded_url": "http://fuzzel.cc",
+                "start": 0,
+                "url": "https://t.co/TxaxgXsr0X"
+              }
+            ]
+          }
+        },
+        "id": "1845031812214755328",
+        "location": "/dev/null",
+        "name": "茫Overflow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845448108479741955/_dBeDD_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 824,
+          "like_count": 3739,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/TxaxgXsr0X",
+        "username": "Zou080",
+        "verified": false
+      }
+    ]
+  }
+}

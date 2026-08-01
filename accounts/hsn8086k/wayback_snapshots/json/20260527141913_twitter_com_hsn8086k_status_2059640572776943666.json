@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059640567131504640"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2059590485044592863",
+    "created_at": "2026-05-27T14:19:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059640572776943666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412013339115360258",
+          "start": 0,
+          "username": "gaoxiaojiede"
+        },
+        {
+          "end": 24,
+          "id": "1863439189909618688",
+          "start": 14,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9GkDjW7gm",
+          "end": 48,
+          "expanded_url": "https://x.com/hsn8086k/status/2059640572776943666/photo/1",
+          "media_key": "3_2059640567131504640",
+          "start": 25,
+          "url": "https://t.co/E9GkDjW7gm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059640572776943666",
+    "in_reply_to_user_id": "1412013339115360258",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059610230615683291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoxiaojiede @hsn8086xe https://t.co/E9GkDjW7gm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2059640567131504640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVQLvDbgAANSso.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059640567131504640"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2059590485044592863",
+        "created_at": "2026-05-27T14:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059640572776943666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412013339115360258",
+              "start": 0,
+              "username": "gaoxiaojiede"
+            },
+            {
+              "end": 24,
+              "id": "1863439189909618688",
+              "start": 14,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9GkDjW7gm",
+              "end": 48,
+              "expanded_url": "https://x.com/hsn8086k/status/2059640572776943666/photo/1",
+              "media_key": "3_2059640567131504640",
+              "start": 25,
+              "url": "https://t.co/E9GkDjW7gm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059640572776943666",
+        "in_reply_to_user_id": "1412013339115360258",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059610230615683291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoxiaojiede @hsn8086xe https://t.co/E9GkDjW7gm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412013339115360258",
+        "conversation_id": "2059590485044592863",
+        "created_at": "2026-05-27T12:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T13:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059610230615683291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059610230615683291",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059590485044592863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 想起了之前那个把外卖地址直接套到驾驶证上的 （放门口）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 224,
+          "like_count": 8269,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2090
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-05T11:40:01.000Z",
+        "description": "秉忠贞之志 守谦退之节",
+        "id": "1412013339115360258",
+        "name": "高小姐的皮卡丘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033790613246877696/cCaAKxy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 63,
+          "like_count": 2200,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 6215
+        },
+        "username": "gaoxiaojiede",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36342,
+          "following_count": 372,
+          "like_count": 229,
+          "listed_count": 104,
+          "media_count": 14708,
+          "tweet_count": 14791
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

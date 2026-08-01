@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2041500936741454213",
+    "created_at": "2026-04-08T00:46:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T01:46:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041678977774072004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2022559507247960068",
+          "start": 0,
+          "username": "nikaido_hiro3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041678977774072004",
+    "in_reply_to_user_id": "2022559507247960068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041676340307644660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nikaido_hiro3 如果他只给我个内核其他啥都我装我是确实很可能去买 mac 的, 我不买 mac 最重要的原因不是因为他少了啥功能, 而是不能让我自由的删除所有我不喜欢的东西."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2041500936741454213",
+        "created_at": "2026-04-08T00:46:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:46:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041678977774072004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2022559507247960068",
+              "start": 0,
+              "username": "nikaido_hiro3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041678977774072004",
+        "in_reply_to_user_id": "2022559507247960068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041676340307644660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nikaido_hiro3 如果他只给我个内核其他啥都我装我是确实很可能去买 mac 的, 我不买 mac 最重要的原因不是因为他少了啥功能, 而是不能让我自由的删除所有我不喜欢的东西."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022559507247960068",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347257866864873473",
+              "name": "Apple Mac"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2041500936741454213",
+        "created_at": "2026-04-08T00:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041676340307644660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041676340307644660",
+        "in_reply_to_user_id": "2022559507247960068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041673908223668696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 有的功能系统不自带，就要去买、花钱，而且第三方要注意稳定和安全性。Mac一个剪切板软件能卖到几百块。要不自己写一个。\n要照原观点，Apple完全可以发电脑的时候只给用户一个XNU内核，一切都自己动手，或者自己上网去找..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 218,
+          "like_count": 7170,
+          "listed_count": 5,
+          "media_count": 167,
+          "tweet_count": 1844
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-14T06:32:35.000Z",
+        "description": "强迫症晚期。我说话只有两种状态，一种是希望大家都能听懂，所以很罗嗦，另外一种是只管说，怎么解读就看你的本事了。\n@wiILGifJhNTll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "wiILGifJhNTll"
+              }
+            ]
+          }
+        },
+        "id": "2022559507247960068",
+        "name": "二阶堂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022560251103608832/1NlCf5cV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 49,
+          "like_count": 2621,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 223
+        },
+        "username": "nikaido_hiro3",
+        "verified": false
+      }
+    ]
+  }
+}

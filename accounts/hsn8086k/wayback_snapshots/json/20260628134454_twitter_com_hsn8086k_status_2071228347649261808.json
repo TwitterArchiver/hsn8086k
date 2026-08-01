@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2070849847985619225",
+    "created_at": "2026-06-28T13:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071228347649261808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721509979348488192",
+          "start": 0,
+          "username": "HaoyangZ20152"
+        },
+        {
+          "end": 30,
+          "id": "1390655207923544067",
+          "start": 15,
+          "username": "RainEngine2085"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071228347649261808",
+    "in_reply_to_user_id": "1721509979348488192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071114637391581502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaoyangZ20152 @RainEngine2085 电脑又不是只有跑游戏才能代表他的价值. 最近我在拿npy的mbp来训练模型, 这何尝不是他的价值呢, npy用他修图剪视频, 这也是他的价值, 我用mac开发软件也很舒服, 这同样是他的价值. 只是侧重点不一样而已."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2070849847985619225",
+        "created_at": "2026-06-28T13:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071228347649261808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721509979348488192",
+              "start": 0,
+              "username": "HaoyangZ20152"
+            },
+            {
+              "end": 30,
+              "id": "1390655207923544067",
+              "start": 15,
+              "username": "RainEngine2085"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071228347649261808",
+        "in_reply_to_user_id": "1721509979348488192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071114637391581502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaoyangZ20152 @RainEngine2085 电脑又不是只有跑游戏才能代表他的价值. 最近我在拿npy的mbp来训练模型, 这何尝不是他的价值呢, npy用他修图剪视频, 这也是他的价值, 我用mac开发软件也很舒服, 这同样是他的价值. 只是侧重点不一样而已."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721509979348488192",
+        "conversation_id": "2070849847985619225",
+        "created_at": "2026-06-28T06:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071114637391581502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1390655207923544067",
+              "start": 0,
+              "username": "RainEngine2085"
+            },
+            {
+              "end": 25,
+              "id": "1842504398850928640",
+              "start": 16,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071114637391581502",
+        "in_reply_to_user_id": "1390655207923544067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070968597120180363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2085 @hsn8086k 确实，但这个价位只能办公就有点尴尬了，作为一台办公电脑不自带USB typeA的接口有有点难绷（但薄是真的薄）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2253,
+          "following_count": 242,
+          "like_count": 9833,
+          "listed_count": 8,
+          "media_count": 219,
+          "tweet_count": 2453
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-06T12:50:25.000Z",
+        "description": "But free doesn't come free",
+        "id": "1721509979348488192",
+        "location": "日本",
+        "name": "STALKER-333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042234772630712320/QiJd4UkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 352,
+          "like_count": 51679,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 803
+        },
+        "url": "",
+        "username": "HaoyangZ20152",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:10:20.000Z",
+        "description": "",
+        "id": "1390655207923544067",
+        "location": "罗德岛",
+        "name": "MineTestGaming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1390655654537297922/UwFGu9ba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 857,
+          "like_count": 25215,
+          "listed_count": 0,
+          "media_count": 387,
+          "tweet_count": 1865
+        },
+        "url": "",
+        "username": "RainEngine2085",
+        "verified": false
+      }
+    ]
+  }
+}

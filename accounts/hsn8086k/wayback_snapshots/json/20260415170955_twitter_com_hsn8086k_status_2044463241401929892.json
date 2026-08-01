@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2044463241401929892",
+    "created_at": "2026-04-15T17:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T18:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044463241401929892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NFTCPS/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/NFTCPS/status/2043937293820670331",
+          "start": 8,
+          "url": "https://t.co/OeL1DIdILS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044463241401929892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043937293820670331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前端日常被失业 https://t.co/OeL1DIdILS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1259,
+        "media_key": "3_2043937276036845568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2GH5FbEAAyxHX.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2044463241401929892",
+        "created_at": "2026-04-15T17:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044463241401929892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NFTCPS/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/NFTCPS/status/2043937293820670331",
+              "start": 8,
+              "url": "https://t.co/OeL1DIdILS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044463241401929892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043937293820670331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前端日常被失业 https://t.co/OeL1DIdILS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043937276036845568"
+          ]
+        },
+        "author_id": "1207019158791229440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2043937293820670331",
+        "created_at": "2026-04-14T06:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043937293820670331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKBPnQgqXd",
+              "end": 198,
+              "expanded_url": "https://x.com/NFTCPS/status/2043937293820670331/photo/1",
+              "media_key": "3_2043937276036845568",
+              "start": 175,
+              "url": "https://t.co/wKBPnQgqXd"
+            },
+            {
+              "display_url": "x.com/NFTCPS/status/…",
+              "end": 222,
+              "expanded_url": "https://twitter.com/NFTCPS/status/2043934548069863596",
+              "start": 199,
+              "url": "https://t.co/5ydD78yIec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043937293820670331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/VoltAgent/awes…",
+                "end": 673,
+                "expanded_url": "https://github.com/VoltAgent/awesome-design-md",
+                "start": 650,
+                "url": "https://t.co/hmoc0vosBF"
+              },
+              {
+                "display_url": "opencsg-china.feishu.cn/share/base/for…",
+                "end": 816,
+                "expanded_url": "https://opencsg-china.feishu.cn/share/base/form/shrcnkzm130PtOrWr7D8BIjpKqf",
+                "start": 793,
+                "url": "https://t.co/MVEQJbyzpS"
+              },
+              {
+                "display_url": "x.com/NFTCPS/status/…",
+                "end": 910,
+                "expanded_url": "https://x.com/NFTCPS/status/2043592337511874984",
+                "start": 887,
+                "url": "https://t.co/Y3AsiMUIQm"
+              }
+            ]
+          },
+          "text": "前端真的要失业了！\n\n这个仓库太猛了，4.8万Star，解决了AI写前端最头疼的问题：UI丑。\n\nDESIGN.md 是Google Stitch提出的新概念——一个纯Markdown文件，定义你的设计系统。丢进项目根目录，AI编程工具直接读懂你的UI该长什么样。\n\n类比一下：\n- AGENTS.md 告诉AI怎么构建项目\n- DESIGN.md 告诉AI项目该长什么样\n\n这个仓库收集了66个知名网站的DESIGN.md，直接拿来用：\n\nAI平台：Claude、Mistral、ElevenLabs、Replicate\n开发工具：Cursor、Vercel、Raycast、Warp\n设计工具：Figma、Framer、Webflow\n金融/Crypto：Binance、Coinbase、Stripe\n消费品牌：Apple、Nike、Spotify、Tesla\n豪车：Ferrari、Lamborghini、Bugatti、BMW\n\n每个文件包含：配色方案、字体规则、组件样式、布局原则、响应式行为、甚至给AI的prompt指南。\n\n用法极其简单：复制一个DESIGN.md到你的项目根目录，告诉AI\"照这个风格做\"，出来的UI直接就是品牌级水准。\n\n想让你的产品页面有Stripe的质感？复制Stripe的DESIGN.md。想要Linear的极简风？复制Linear的。\n\n以前做UI：找设计师→出设计稿→切图→还原。\n现在：复制一个md文件，AI直接生成。\n\n前端的游戏规则变了。\n\n🔗 https://t.co/hmoc0vosBF\n\n----------------------------------\n在武汉的独立开发者、OPC超级个体注意啦！\n\n世界人工智能大会（WAIC）官方举办的OPC黑客松大赛武汉线下交流会4月19号举办，在武汉的同学可以加V群，报名地址：\nhttps://t.co/MVEQJbyzpS\n\nOPC先锋挑战赛是全球首个聚焦「一人公司」的顶级 AI 赛事，双赛道设计，总决赛 7 月登陆上海世博会场\n\n其他城市OPC聚会报名请看：\nhttps://t.co/Y3AsiMUIQm"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2600,
+          "impression_count": 324198,
+          "like_count": 2315,
+          "quote_count": 14,
+          "reply_count": 31,
+          "retweet_count": 503
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043934548069863596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前端真的要失业了！\n\n这个仓库太猛了，4.8万Star，解决了AI写前端最头疼的问题：UI丑。\n\nDESIGN.md 是Google Stitch提出的新概念——一个纯Markdown文件，定义你的设计系统。丢进项目根目录，AI编程工具直接读懂你的UI该长什么样。\n\n类比一下：\n- AGENTS.md 告诉AI怎么构建项目\n- DESIGN.md https://t.co/wKBPnQgqXd https://t.co/5ydD78yIec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 215,
+          "like_count": 7343,
+          "listed_count": 5,
+          "media_count": 171,
+          "tweet_count": 1874
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T19:26:15.000Z",
+        "description": "#蓝鸟会 发起人 | TG：ximalaya\n\n近3亿用户的共同选择，启程Web3，就在币安：\nhttps://t.co/UYlKZu8n8i | \n\nOKX Web3钱包现已支持100+公链，web3入口一个就够  https://t.co/llFZwLMjOZ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "蓝鸟会"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/BAWeb3",
+                "end": 71,
+                "expanded_url": "http://bit.ly/BAWeb3",
+                "start": 48,
+                "url": "https://t.co/UYlKZu8n8i"
+              },
+              {
+                "display_url": "bit.ly/OKXWeb3",
+                "end": 132,
+                "expanded_url": "http://bit.ly/OKXWeb3",
+                "start": 109,
+                "url": "https://t.co/llFZwLMjOZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluebirdlabs.xyz",
+                "end": 23,
+                "expanded_url": "https://bluebirdlabs.xyz/",
+                "start": 0,
+                "url": "https://t.co/M9y90eouc9"
+              }
+            ]
+          }
+        },
+        "id": "1207019158791229440",
+        "location": "Web3 Marketing Agency",
+        "name": "鸟哥 | 蓝鸟会🕊️",
+        "pinned_tweet_id": "1915041362048876644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917439913320144897/yRxYCX7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74692,
+          "following_count": 5233,
+          "like_count": 41798,
+          "listed_count": 1076,
+          "media_count": 3653,
+          "tweet_count": 17324
+        },
+        "url": "https://t.co/M9y90eouc9",
+        "username": "NFTCPS",
+        "verified": true
+      }
+    ]
+  }
+}

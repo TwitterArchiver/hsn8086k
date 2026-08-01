@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015494309286748585",
+    "created_at": "2026-01-25T18:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T19:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015494309286748585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/morganoflibera…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/morganofliberal/status/2015283181818392944",
+          "start": 25,
+          "url": "https://t.co/8QnnQ6N86l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015494309286748585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015283181818392944",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "群规: 禁男娘/药娘\n群主: 真寻诶嘿嘿\n无语了 https://t.co/8QnnQ6N86l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2015283179553443840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_e5X9caUAAo3NW.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015494309286748585",
+        "created_at": "2026-01-25T18:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T19:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015494309286748585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/morganoflibera…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/morganofliberal/status/2015283181818392944",
+              "start": 25,
+              "url": "https://t.co/8QnnQ6N86l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015494309286748585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015283181818392944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "群规: 禁男娘/药娘\n群主: 真寻诶嘿嘿\n无语了 https://t.co/8QnnQ6N86l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015283179553443840"
+          ]
+        },
+        "author_id": "2001998644673994752",
+        "conversation_id": "2015283181818392944",
+        "created_at": "2026-01-25T04:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015283181818392944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90JYMzmeSo",
+              "end": 84,
+              "expanded_url": "https://x.com/morganofliberal/status/2015283181818392944/photo/1",
+              "media_key": "3_2015283179553443840",
+              "start": 61,
+              "url": "https://t.co/90JYMzmeSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015283181818392944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 64385,
+          "like_count": 557,
+          "quote_count": 13,
+          "reply_count": 136,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "如果一个人的政治倾向明确反LGBT，反同性恋和同性婚姻，\n但同时他又非常喜欢一部带有明显同性恋倾向的动画。\n这算是什么🤔 https://t.co/90JYMzmeSo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 90,
+          "like_count": 757,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 343
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T12:51:01.000Z",
+        "description": "穷则独善其身，达则兼济天下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wikipedia.com",
+                "end": 23,
+                "expanded_url": "http://wikipedia.com",
+                "start": 0,
+                "url": "https://t.co/O2drc8pVpm"
+              }
+            ]
+          }
+        },
+        "id": "2001998644673994752",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "Morgan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001999389523623937/zyBvgTZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 242,
+          "like_count": 1659,
+          "listed_count": 5,
+          "media_count": 125,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/O2drc8pVpm",
+        "username": "morganofliberal",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2017103899996672482",
+    "created_at": "2026-01-30T05:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T06:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017104723447599165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1246105407589740544",
+          "start": 0,
+          "username": "camtrca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017104723447599165",
+    "in_reply_to_user_id": "1246105407589740544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017104441544233442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@camtrca 我只觉得gpt5.2不带思考很弱智("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2017103899996672482",
+        "created_at": "2026-01-30T05:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017104723447599165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1246105407589740544",
+              "start": 0,
+              "username": "camtrca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017104723447599165",
+        "in_reply_to_user_id": "1246105407589740544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017104441544233442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@camtrca 我只觉得gpt5.2不带思考很弱智("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1246105407589740544",
+        "conversation_id": "2017103899996672482",
+        "created_at": "2026-01-30T05:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017104441544233442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017104441544233442",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017103899996672482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 今天第一次试了 Claude，很强。 hsn 有什么好的推荐吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 113,
+          "like_count": 1702,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 584
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-03T16:01:07.000Z",
+        "description": "不太确定为什么在这 也不太确定为什么离开",
+        "id": "1246105407589740544",
+        "location": "鸭绿江上 芦苇丛前",
+        "name": "camtrca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978070323867287552/PW9pzmha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 124,
+          "like_count": 466,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 1731
+        },
+        "username": "camtrca",
+        "verified": true
+      }
+    ]
+  }
+}

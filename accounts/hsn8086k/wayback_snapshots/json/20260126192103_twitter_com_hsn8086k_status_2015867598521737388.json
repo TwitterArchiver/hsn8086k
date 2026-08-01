@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015867598521737388",
+    "created_at": "2026-01-26T19:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T20:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015867598521737388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/manateelazycat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/manateelazycat/status/2015700051658670181",
+          "start": 9,
+          "url": "https://t.co/zEyTw4CULo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015867598521737388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015700051658670181",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "王老板还是厉害啊 https://t.co/zEyTw4CULo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1510,
+        "media_key": "3_2015699867230941185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k0WYAaMAEi09j.jpg",
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015867598521737388",
+        "created_at": "2026-01-26T19:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T20:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015867598521737388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/manateelazycat/status/2015700051658670181",
+              "start": 9,
+              "url": "https://t.co/zEyTw4CULo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015867598521737388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015700051658670181",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王老板还是厉害啊 https://t.co/zEyTw4CULo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015699867230941185"
+          ]
+        },
+        "author_id": "28530405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2015700051658670181",
+        "created_at": "2026-01-26T08:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015700051658670181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sw1uRaBdJc",
+              "end": 105,
+              "expanded_url": "https://x.com/manateelazycat/status/2015700051658670181/photo/1",
+              "media_key": "3_2015699867230941185",
+              "start": 82,
+              "url": "https://t.co/sw1uRaBdJc"
+            },
+            {
+              "display_url": "x.com/manateelazycat…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/manateelazycat/status/2015366374835851617",
+              "start": 106,
+              "url": "https://t.co/9ZxKdF0oRO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015700051658670181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 20128,
+          "like_count": 53,
+          "quote_count": 4,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015366374835851617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用懒猫微服，就是如此省心。\n\n一键部署 Clawdbot，手机随时访问。\n\n玩不懂还有资深工程师7*18小时在线指导\n\n感兴趣的大佬在评论区扣1，我私信详细介绍。 https://t.co/sw1uRaBdJc https://t.co/9ZxKdF0oRO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "日本 東京",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 92,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 379
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-03T09:01:38.000Z",
+        "description": "懒猫微服CEO、前Deepin CTO、不端不装 仗剑走天涯\n\n懒猫微服购买链接 https://t.co/KVqgWHDvJj \n\n懒猫微服有啥用？https://t.co/SF9p24BuTk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lazycat.cloud",
+                "end": 64,
+                "expanded_url": "https://lazycat.cloud/",
+                "start": 41,
+                "url": "https://t.co/KVqgWHDvJj"
+              },
+              {
+                "display_url": "x.com/manateelazycat…",
+                "end": 98,
+                "expanded_url": "https://x.com/manateelazycat/status/1970815014861930775",
+                "start": 75,
+                "url": "https://t.co/SF9p24BuTk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manateelazycat.github.io",
+                "end": 23,
+                "expanded_url": "https://manateelazycat.github.io",
+                "start": 0,
+                "url": "https://t.co/twDx1twu9o"
+              }
+            ]
+          }
+        },
+        "id": "28530405",
+        "location": "China",
+        "name": "Andy Stewart",
+        "pinned_tweet_id": "1999726988395938121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/768239262/HaskellIcon_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49661,
+          "following_count": 289,
+          "like_count": 19122,
+          "listed_count": 338,
+          "media_count": 5815,
+          "tweet_count": 43560
+        },
+        "url": "https://t.co/twDx1twu9o",
+        "username": "manateelazycat",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2024224375642477040",
+    "created_at": "2026-02-19T17:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024537411456553280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462670444893376517",
+          "start": 0,
+          "username": "hhh73551813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024537411456553280",
+    "in_reply_to_user_id": "1462670444893376517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024532556411228560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhh73551813 草, 我是 MATX 平放, 上边放 WLAN 和各种杂物"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2024224375642477040",
+        "created_at": "2026-02-19T17:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024537411456553280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462670444893376517",
+              "start": 0,
+              "username": "hhh73551813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024537411456553280",
+        "in_reply_to_user_id": "1462670444893376517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024532556411228560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhh73551813 草, 我是 MATX 平放, 上边放 WLAN 和各种杂物"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462670444893376517",
+        "conversation_id": "2024224375642477040",
+        "created_at": "2026-02-19T17:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024532556411228560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024532556411228560",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024224375642477040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 台式机确实很好，不过感觉要搭配大house才行。像住在城市里面高层的小房间还用ATX机箱属实脑抽。没错就是我（逃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 163,
+          "like_count": 4274,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 1241
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-22T06:33:18.000Z",
+        "description": "日本語を勉強中/メモリーズ&軌跡シリーズも大好きです",
+        "id": "1462670444893376517",
+        "location": "中華民國廣東省",
+        "name": "memories never off",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017799936826560512/mE5F2LaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 167,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 58
+        },
+        "username": "hhh73551813",
+        "verified": true
+      }
+    ]
+  }
+}

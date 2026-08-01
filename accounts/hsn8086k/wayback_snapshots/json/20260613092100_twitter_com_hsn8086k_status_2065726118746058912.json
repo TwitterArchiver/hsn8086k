@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2065726118746058912",
+    "created_at": "2026-06-13T09:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065726118746058912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1386539491054088198",
+          "start": 3,
+          "username": "yoooyoyooy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "oproxy.world",
+          "end": 56,
+          "expanded_url": "http://oproxy.world",
+          "start": 33,
+          "status": 200,
+          "title": "Oproxy - AI API Gateway",
+          "unwound_url": "http://oproxy.world",
+          "url": "https://t.co/Ea00iCjbQc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065726118746058912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065699587013128330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoooyoyooy: 窝们做了一个自建自用的中转站喵👇\nhttps://t.co/Ea00iCjbQc\n\n定位是少量高质的精品向中转站，主要提供GPT5.5模型。我自己是用户的同时，也希望提供给有需要的高校和团队用户使用。注册限制要求使用.edu邮箱或邀请码，如果有需…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2065697829255884800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrVOy4XsAAS40T.jpg",
+        "width": 2410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2065726118746058912",
+        "created_at": "2026-06-13T09:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065726118746058912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1386539491054088198",
+              "start": 3,
+              "username": "yoooyoyooy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "oproxy.world",
+              "end": 56,
+              "expanded_url": "http://oproxy.world",
+              "start": 33,
+              "status": 200,
+              "title": "Oproxy - AI API Gateway",
+              "unwound_url": "http://oproxy.world",
+              "url": "https://t.co/Ea00iCjbQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065726118746058912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065699587013128330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoooyoyooy: 窝们做了一个自建自用的中转站喵👇\nhttps://t.co/Ea00iCjbQc\n\n定位是少量高质的精品向中转站，主要提供GPT5.5模型。我自己是用户的同时，也希望提供给有需要的高校和团队用户使用。注册限制要求使用.edu邮箱或邀请码，如果有需…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065697829255884800"
+          ]
+        },
+        "author_id": "1386539491054088198",
+        "conversation_id": "2065699587013128330",
+        "created_at": "2026-06-13T07:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065699587013128330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "oproxy.world",
+              "end": 40,
+              "expanded_url": "http://oproxy.world",
+              "start": 17,
+              "status": 200,
+              "title": "Oproxy - AI API Gateway",
+              "unwound_url": "http://oproxy.world",
+              "url": "https://t.co/Ea00iCjbQc"
+            },
+            {
+              "display_url": "pic.x.com/kfMjUaxgQp",
+              "end": 191,
+              "expanded_url": "https://x.com/yoooyoyooy/status/2065699587013128330/photo/1",
+              "media_key": "3_2065697829255884800",
+              "start": 168,
+              "url": "https://t.co/kfMjUaxgQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065699587013128330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "oproxy.world",
+                "end": 40,
+                "expanded_url": "http://oproxy.world",
+                "start": 17,
+                "url": "https://t.co/t72Bt0sz4q"
+              }
+            ]
+          },
+          "text": "窝们做了一个自建自用的中转站喵👇\nhttps://t.co/t72Bt0sz4q\n\n定位是少量高质的精品向中转站，主要提供GPT5.5模型。我自己是用户的同时，也希望提供给有需要的高校和团队用户使用。注册限制要求使用.edu邮箱或邀请码，如果有需求可以DM喵\n\n内测期间我们为前30个用户提供一个优惠价格——¥64.9提供1,000M Token的调用量，详情可以点击链接查看喵👀"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 659,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "窝们做了一个自建自用的中转站喵👇\nhttps://t.co/Ea00iCjbQc\n\n定位是少量高质的精品向中转站，主要提供GPT5.5模型。我自己是用户的同时，也希望提供给有需要的高校和团队用户使用。注册限制要求使用.edu邮箱或邀请码，如果有需求可以DM喵\n\n内测期间我们为前30个用户提供一个优惠价格——¥64.9提供1,000M https://t.co/kfMjUaxgQp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200,
+          "following_count": 236,
+          "like_count": 9199,
+          "listed_count": 9,
+          "media_count": 209,
+          "tweet_count": 2266
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T04:36:01.000Z",
+        "description": "一般通过｜CN/EN/JP｜请在置顶查看自我介绍 ｜可爱小女友🥰@LannchanOwo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "LannchanOwo"
+              }
+            ]
+          }
+        },
+        "id": "1386539491054088198",
+        "name": "佑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014169201640894464/W-mxPe5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 956,
+          "like_count": 250428,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 5407
+        },
+        "username": "yoooyoyooy",
+        "verified": true
+      }
+    ]
+  }
+}

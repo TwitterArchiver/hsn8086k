@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2026767204453331308",
+    "created_at": "2026-02-26T07:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T08:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026915311099023781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1949528960238555136",
+          "start": 0,
+          "username": "Farewe1ll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026915311099023781",
+    "in_reply_to_user_id": "1949528960238555136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026843735888474363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Farewe1ll 就是预编译了来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2026767204453331308",
+        "created_at": "2026-02-26T07:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026915311099023781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949528960238555136",
+              "start": 0,
+              "username": "Farewe1ll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026915311099023781",
+        "in_reply_to_user_id": "1949528960238555136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026843735888474363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Farewe1ll 就是预编译了来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949528960238555136",
+        "conversation_id": "2026767204453331308",
+        "created_at": "2026-02-26T02:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026843735888474363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026843735888474363",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026767204453331308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 他这个module是要自己预编译才能引用的来着 你直接import没有手动预编译的话import不了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 171,
+          "like_count": 4759,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 1380
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T17:55:11.000Z",
+        "description": "「撥雪尋春，燒燈續晝。」 一只小熊猫！ 21岁 | SE 本科在读 | 性别♂ | 取向未知 | Furry | 前 ACMer | INFP-T | nsfw maybe | 中文⭕ English⭕ | @Liquid_Pomelo | 性格平和三观正 | 欢迎交友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Liquid_Pomelo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.farewe1ll.com",
+                "end": 23,
+                "expanded_url": "https://blog.farewe1ll.com",
+                "start": 0,
+                "url": "https://t.co/1Rr7XjksjE"
+              }
+            ]
+          }
+        },
+        "id": "1949528960238555136",
+        "location": "IN THE RYE.",
+        "name": "山竹不是小熊猫 ➡️ 海兽聚",
+        "pinned_tweet_id": "1954259037517951380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998093440119341056/_yDClqvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 479,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/1Rr7XjksjE",
+        "username": "Farewe1ll",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2070560681100034396",
+    "created_at": "2026-06-26T17:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070560681100034396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OpenAI/status/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/OpenAI/status/2070555272230384038",
+          "start": 21,
+          "url": "https://t.co/DaAP9v7Wfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070560681100034396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070555272230384038",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对, 你发了, 但是我什么时候能用上呢. https://t.co/DaAP9v7Wfg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2070560681100034396",
+        "created_at": "2026-06-26T17:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070560681100034396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OpenAI/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/OpenAI/status/2070555272230384038",
+              "start": 21,
+              "url": "https://t.co/DaAP9v7Wfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070560681100034396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070555272230384038",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对, 你发了, 但是我什么时候能用上呢. https://t.co/DaAP9v7Wfg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4398626122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2070555272230384038",
+        "created_at": "2026-06-26T17:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070555272230384038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+              "display_url": "openai.com/index/previewi…",
+              "end": 247,
+              "expanded_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2070553621482147840/H-ddBBPu?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070553621482147840/H-ddBBPu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 224,
+              "status": 200,
+              "title": "Previewing GPT-5.6 Sol: a next-generation model",
+              "unwound_url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+              "url": "https://t.co/OoM83SyISN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070555272230384038",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 468,
+          "impression_count": 194066,
+          "like_count": 3247,
+          "quote_count": 524,
+          "reply_count": 362,
+          "retweet_count": 574
+        },
+        "reply_settings": "everyone",
+        "text": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.\n\nhttps://t.co/OoM83SyISN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2249,
+          "following_count": 242,
+          "like_count": 9792,
+          "listed_count": 8,
+          "media_count": 217,
+          "tweet_count": 2436
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2070555272230384038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4956057,
+          "following_count": 4,
+          "like_count": 2319,
+          "listed_count": 30377,
+          "media_count": 636,
+          "tweet_count": 1943
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

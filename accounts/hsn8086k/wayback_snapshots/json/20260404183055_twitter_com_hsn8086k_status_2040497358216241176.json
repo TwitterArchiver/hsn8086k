@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2040497358216241176",
+    "created_at": "2026-04-04T18:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T19:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040497358216241176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/karminski3/sta…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/karminski3/status/2040454284672905523",
+          "start": 80,
+          "url": "https://t.co/FtA529vqMa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040497358216241176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040454284672905523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说是我习惯也这样. 曾经希望 llm 简单修改文段, llm 把半角符号全替换成了全角符号, 无论如何命令 llm 改成半角 + 空格都改不了, 给我气坏了! https://t.co/FtA529vqMa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "3_2040453521099915264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFElqqnbAAAV5tr.png",
+        "width": 649
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040497358216241176",
+        "created_at": "2026-04-04T18:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040497358216241176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karminski3/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/karminski3/status/2040454284672905523",
+              "start": 80,
+              "url": "https://t.co/FtA529vqMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040497358216241176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040454284672905523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说是我习惯也这样. 曾经希望 llm 简单修改文段, llm 把半角符号全替换成了全角符号, 无论如何命令 llm 改成半角 + 空格都改不了, 给我气坏了! https://t.co/FtA529vqMa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040453521099915264"
+          ]
+        },
+        "author_id": "1071224721046261760",
+        "conversation_id": "2040454284672905523",
+        "created_at": "2026-04-04T15:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040454284672905523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6QUHQrhwRP",
+              "end": 127,
+              "expanded_url": "https://x.com/karminski3/status/2040454284672905523/photo/1",
+              "media_key": "3_2040453521099915264",
+              "start": 104,
+              "url": "https://t.co/6QUHQrhwRP"
+            },
+            {
+              "display_url": "x.com/PanADA_CSGO/st…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/PanADA_CSGO/status/2040263182900711664",
+              "start": 128,
+              "url": "https://t.co/TAWZmlYhb3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040454284672905523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 12778,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040263182900711664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奉劝各位空口鉴AI的谨慎, 踢到我这块铁板了吧? 我留了一手, 你选中我的原文, 注意看我的逗号和句号都是英文标点, 然后手动在标点后面加的空格. 这是我这么多年的个人习惯. 没有模型输出中文用英文标点吧? https://t.co/6QUHQrhwRP https://t.co/TAWZmlYhb3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1683,
+          "following_count": 219,
+          "like_count": 6950,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1798
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-08T02:07:30.000Z",
+        "description": "A coder, road bike rider, server fortune teller, electronic waste collector, co-founder of KCORES, ex-director at IllaSoft, KingsoftOffice, Juejin.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kcores.com",
+                "end": 23,
+                "expanded_url": "https://kcores.com",
+                "start": 0,
+                "url": "https://t.co/LWSjN208w4"
+              }
+            ]
+          }
+        },
+        "id": "1071224721046261760",
+        "location": "Asia/Beijing",
+        "name": "karminski-牙医",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1071225168360427520/2tY0hY6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34627,
+          "following_count": 1514,
+          "like_count": 2075,
+          "listed_count": 547,
+          "media_count": 2644,
+          "tweet_count": 4579
+        },
+        "url": "https://t.co/LWSjN208w4",
+        "username": "karminski3",
+        "verified": true
+      }
+    ]
+  }
+}

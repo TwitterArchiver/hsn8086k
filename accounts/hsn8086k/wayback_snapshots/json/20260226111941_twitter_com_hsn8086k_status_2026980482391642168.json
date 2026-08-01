@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2026980482391642168",
+    "created_at": "2026-02-26T11:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026980482391642168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SGR_nya/status…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/SGR_nya/status/2026947691272696153",
+          "start": 37,
+          "url": "https://t.co/TXACuXNvaD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026980482391642168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026947691272696153",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊完蛋了, 现在看到 pve 第一下想到的是 Proxmox VE https://t.co/TXACuXNvaD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2026980482391642168",
+        "created_at": "2026-02-26T11:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026980482391642168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SGR_nya/status…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/SGR_nya/status/2026947691272696153",
+              "start": 37,
+              "url": "https://t.co/TXACuXNvaD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026980482391642168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026947691272696153",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊完蛋了, 现在看到 pve 第一下想到的是 Proxmox VE https://t.co/TXACuXNvaD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130781616274468864",
+        "conversation_id": "2026947691272696153",
+        "created_at": "2026-02-26T09:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026947691272696153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nameiccc/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/nameiccc/status/2026332438985888219",
+              "start": 53,
+              "url": "https://t.co/44oXK08wyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026947691272696153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4064,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026332438985888219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实际上玩偶已经可以达到近八成效果了，并非完全无法顶替\n至于性生活，并非顶替，pve的效率远比pvp来得高 https://t.co/44oXK08wyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1460,
+          "following_count": 172,
+          "like_count": 4779,
+          "listed_count": 5,
+          "media_count": 134,
+          "tweet_count": 1388
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "小猫咪@⠝ ⠁ ⠎ ⠓ ⠊ ⠗ ⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyPks"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "离你14.3au",
+        "name": "时雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010650534991286272/8IHvXyVx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62341,
+          "following_count": 2096,
+          "like_count": 51263,
+          "listed_count": 6,
+          "media_count": 404,
+          "tweet_count": 753
+        },
+        "url": "https://t.co/JEHFzoyPks",
+        "username": "SGR_nya",
+        "verified": false
+      }
+    ]
+  }
+}

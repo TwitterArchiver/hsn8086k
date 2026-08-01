@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023866219720593408"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2023866221964521678",
+    "created_at": "2026-02-17T21:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T22:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023866221964521678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/38V5wAAa9t",
+          "end": 54,
+          "expanded_url": "https://x.com/hsn8086k/status/2023866221964521678/photo/1",
+          "media_key": "3_2023866219720593408",
+          "start": 31,
+          "url": "https://t.co/38V5wAAa9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023866221964521678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "x 就不能出个过滤器把 tl 上比我好看的都 mute 掉吗 https://t.co/38V5wAAa9t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2023866219720593408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBY3mptb0AAowXd.jpg",
+        "width": 484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023866219720593408"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2023866221964521678",
+        "created_at": "2026-02-17T21:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T22:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023866221964521678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/38V5wAAa9t",
+              "end": 54,
+              "expanded_url": "https://x.com/hsn8086k/status/2023866221964521678/photo/1",
+              "media_key": "3_2023866219720593408",
+              "start": 31,
+              "url": "https://t.co/38V5wAAa9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023866221964521678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "x 就不能出个过滤器把 tl 上比我好看的都 mute 掉吗 https://t.co/38V5wAAa9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 163,
+          "like_count": 3974,
+          "listed_count": 4,
+          "media_count": 119,
+          "tweet_count": 1154
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

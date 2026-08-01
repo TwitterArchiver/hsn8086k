@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2015905591152271381",
+    "created_at": "2026-01-27T17:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T18:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016202962964775172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1623720933033918464",
+          "start": 0,
+          "username": "XiaoYee_Moon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20159…",
+          "end": 37,
+          "expanded_url": "https://x.com/i/status/2015906632543436936",
+          "start": 14,
+          "url": "https://t.co/c00XuMxHVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016202962964775172",
+    "in_reply_to_user_id": "1623720933033918464",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015906632543436936",
+        "type": "quoted"
+      },
+      {
+        "id": "2016201810198069420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoYee_Moon https://t.co/c00XuMxHVC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2015905591152271381",
+        "created_at": "2026-01-27T17:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016202962964775172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1623720933033918464",
+              "start": 0,
+              "username": "XiaoYee_Moon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20159…",
+              "end": 37,
+              "expanded_url": "https://x.com/i/status/2015906632543436936",
+              "start": 14,
+              "url": "https://t.co/c00XuMxHVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016202962964775172",
+        "in_reply_to_user_id": "1623720933033918464",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015906632543436936",
+            "type": "quoted"
+          },
+          {
+            "id": "2016201810198069420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoYee_Moon https://t.co/c00XuMxHVC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2015906632543436936",
+        "created_at": "2026-01-26T21:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T22:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015906632543436936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2015905591152271381",
+              "start": 76,
+              "url": "https://t.co/c73m5QSkQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015906632543436936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5716,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015905591152271381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "git 和 git 哪个是软件哪个是平台\n内存和内存哪个是存储哪个是 memory\n寸和寸哪个是市寸哪个是英寸\n记忆体和记忆卡本质一样吗\n\n啊我要疯了 https://t.co/c73m5QSkQ5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623720933033918464",
+        "conversation_id": "2015905591152271381",
+        "created_at": "2026-01-27T17:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016201810198069420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016201810198069420",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015905591152271381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 想想那么多人把内部存储简称为内存（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 98,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 442
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-09T16:30:21.000Z",
+        "description": "偶尔画画的小透明（？）\n♂  | 22 | Student | 中/EN | 日本語→翻訳機 | Furry/Feral/TDM · Sky光遇 · Mario Kart · Ori\n偶尔R18注意/Sometimes NSFW🔞\n（是不是应该改成经常R18了）（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/112265842",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/112265842",
+                "start": 0,
+                "url": "https://t.co/bdD4VE3jHf"
+              }
+            ]
+          }
+        },
+        "id": "1623720933033918464",
+        "location": "Shanghai",
+        "name": "秋月筱翊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898396740946137088/9F0xWprZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2543,
+          "following_count": 874,
+          "like_count": 150120,
+          "listed_count": 10,
+          "media_count": 240,
+          "tweet_count": 18670
+        },
+        "url": "https://t.co/bdD4VE3jHf",
+        "username": "XiaoYee_Moon",
+        "verified": false
+      }
+    ]
+  }
+}

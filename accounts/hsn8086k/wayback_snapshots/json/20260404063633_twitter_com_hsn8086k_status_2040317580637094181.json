@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2040317580637094181",
+    "created_at": "2026-04-04T06:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T07:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040317580637094181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qianxunchan/st…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/qianxunchan/status/2040215286113263960",
+          "start": 138,
+          "url": "https://t.co/QxmZqGtJJR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040317580637094181",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040215286113263960",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃药的人平均寿命不超过 40.\n由此得出结论, 吃药会短命, 活不过 40.\n统计学魅力时刻了属于是.\n建议改成: 00 后至今无一活过 30.\n\n---\n\n另外, 尝试和别人解释这一点的时候, 会被反驳\"因为激素紊乱导致心理不健康\", 没活了, 人只会相信自己愿意看到的. https://t.co/QxmZqGtJJR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2040317580637094181",
+        "created_at": "2026-04-04T06:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040317580637094181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qianxunchan/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/qianxunchan/status/2040215286113263960",
+              "start": 138,
+              "url": "https://t.co/QxmZqGtJJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040317580637094181",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040215286113263960",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃药的人平均寿命不超过 40.\n由此得出结论, 吃药会短命, 活不过 40.\n统计学魅力时刻了属于是.\n建议改成: 00 后至今无一活过 30.\n\n---\n\n另外, 尝试和别人解释这一点的时候, 会被反驳\"因为激素紊乱导致心理不健康\", 没活了, 人只会相信自己愿意看到的. https://t.co/QxmZqGtJJR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758508742780567552",
+        "conversation_id": "2040215286113263960",
+        "created_at": "2026-04-03T23:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T00:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040215286113263960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040215286113263960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8205,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "老子炸柜了……\n😭🙏🥹\n服了到底是谁宣传的吃了就只能活40\n🖐️😭🤚谁传播的啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 218,
+          "like_count": 6913,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 1785
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "活力大湾区 魅力新加州\n欢迎大家来旧金山湾区\nQ群：667335570\n\n生产年份:2007 \n身高:180 体重:58\n性别：female 🏳️‍⚧️\n爱好:到处逛 ，彩六，骑车，录视频，女装，wargame\n国内老家:广东江门蓬江区\n专业:电气工程\n梦想:和好多朋友聚会\n推特合作伙伴:@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 145,
+                "username": "smiroyama"
+              }
+            ]
+          }
+        },
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "绿色杯子千尋醬喵～🏳️‍⚧️🇺🇸",
+        "pinned_tweet_id": "2038638571494772837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 852,
+          "like_count": 870,
+          "listed_count": 1,
+          "media_count": 223,
+          "tweet_count": 746
+        },
+        "username": "qianxunchan",
+        "verified": true
+      }
+    ]
+  }
+}

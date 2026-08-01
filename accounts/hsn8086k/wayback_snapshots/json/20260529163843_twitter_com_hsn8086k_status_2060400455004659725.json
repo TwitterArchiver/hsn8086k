@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2060400455004659725",
+    "created_at": "2026-05-29T16:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060400455004659725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shikhr_/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/shikhr_/status/2060257096286007524",
+          "start": 9,
+          "url": "https://t.co/T4lLAtatgc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060400455004659725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060257096286007524",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "MC: 我不觉得 https://t.co/T4lLAtatgc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2060400455004659725",
+        "created_at": "2026-05-29T16:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060400455004659725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shikhr_/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/shikhr_/status/2060257096286007524",
+              "start": 9,
+              "url": "https://t.co/T4lLAtatgc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060400455004659725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060257096286007524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "MC: 我不觉得 https://t.co/T4lLAtatgc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "986205304269484033",
+        "conversation_id": "2060257096286007524",
+        "created_at": "2026-05-29T07:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060257096286007524"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060257096286007524",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 98630,
+          "like_count": 2284,
+          "quote_count": 19,
+          "reply_count": 172,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "After Opus 4.9 Anthropic has no choice but to release Opus 5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166,
+          "following_count": 227,
+          "like_count": 8509,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2139
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T11:30:42.000Z",
+        "description": "I talk about tech and AI • Linux enthusiast",
+        "id": "986205304269484033",
+        "location": "Mars",
+        "name": "Shikhar",
+        "pinned_tweet_id": "2057285135167541450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008508643868872704/Xk0BZcVF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3079,
+          "following_count": 686,
+          "like_count": 24363,
+          "listed_count": 14,
+          "media_count": 1058,
+          "tweet_count": 10959
+        },
+        "username": "shikhr_",
+        "verified": true
+      }
+    ]
+  }
+}

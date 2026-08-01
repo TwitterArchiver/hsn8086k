@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074768822134042624"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2074768825862754453",
+    "created_at": "2026-07-08T08:13:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T09:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074768825862754453"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lPdUfmlAE6",
+          "end": 45,
+          "expanded_url": "https://x.com/hsn8086k/status/2074768825862754453/photo/1",
+          "media_key": "3_2074768822134042624",
+          "start": 22,
+          "url": "https://t.co/lPdUfmlAE6"
+        },
+        {
+          "display_url": "x.com/PaChenwen/stat…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/PaChenwen/status/2074749623902618097",
+          "start": 46,
+          "url": "https://t.co/bKEOiG3w3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074768825862754453",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074749623902618097",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人类的性压抑程度已经到了无法想象的地步了! https://t.co/lPdUfmlAE6 https://t.co/bKEOiG3w3A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 216,
+        "media_key": "3_2074768822134042624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsPQEpa8AAvabU.jpg",
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074768822134042624"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2074768825862754453",
+        "created_at": "2026-07-08T08:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074768825862754453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPdUfmlAE6",
+              "end": 45,
+              "expanded_url": "https://x.com/hsn8086k/status/2074768825862754453/photo/1",
+              "media_key": "3_2074768822134042624",
+              "start": 22,
+              "url": "https://t.co/lPdUfmlAE6"
+            },
+            {
+              "display_url": "x.com/PaChenwen/stat…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/PaChenwen/status/2074749623902618097",
+              "start": 46,
+              "url": "https://t.co/bKEOiG3w3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074768825862754453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074749623902618097",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类的性压抑程度已经到了无法想象的地步了! https://t.co/lPdUfmlAE6 https://t.co/bKEOiG3w3A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600782171538878465",
+        "conversation_id": "2074749623902618097",
+        "created_at": "2026-07-08T06:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074749623902618097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2074688655604789738",
+              "start": 85,
+              "url": "https://t.co/juulgPn1bR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074749623902618097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074688655604789738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么那么多男青少年想变性？一部分原因是择偶制社会对女性的美化和有待。如果推翻择偶制，实现了男性解放，男青年看到喜欢的女人可以直接肏，那么有变性倾向的青少年一定会少很多 https://t.co/juulgPn1bR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2275,
+          "following_count": 245,
+          "like_count": 10138,
+          "listed_count": 8,
+          "media_count": 227,
+          "tweet_count": 2575
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T09:20:15.000Z",
+        "description": "男性解放等不来",
+        "id": "1600782171538878465",
+        "name": "帕呈文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059108617366953984/ayREmsKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 32,
+          "like_count": 13705,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1160
+        },
+        "url": "",
+        "username": "PaChenwen",
+        "verified": false
+      }
+    ]
+  }
+}

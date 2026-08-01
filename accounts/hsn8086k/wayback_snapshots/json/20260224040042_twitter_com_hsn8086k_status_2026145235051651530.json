@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2026145235051651530",
+    "created_at": "2026-02-24T04:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T05:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026145235051651530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lixinbao_X/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/lixinbao_X/status/2026085736475468198",
+          "start": 20,
+          "url": "https://t.co/XJXNGXrTe2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026145235051651530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026085736475468198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "建议右转找跨女去, 这种哪轮得到你啊. https://t.co/XJXNGXrTe2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2026145235051651530",
+        "created_at": "2026-02-24T04:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026145235051651530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lixinbao_X/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/lixinbao_X/status/2026085736475468198",
+              "start": 20,
+              "url": "https://t.co/XJXNGXrTe2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026145235051651530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026085736475468198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建议右转找跨女去, 这种哪轮得到你啊. https://t.co/XJXNGXrTe2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672419552666460160",
+        "conversation_id": "2026085321625293247",
+        "created_at": "2026-02-24T00:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026085736475468198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026085736475468198",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2750,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026085321625293247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 如果是一个高薪、有经济实力而且勤俭节约、爱储蓄的女生，那么就会很受欢迎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 170,
+          "like_count": 4641,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1338
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T01:41:28.000Z",
+        "description": "原金融从业者，现在基本全职自媒体人，使用AI技术赋能，2025年5月份到现在粉丝从零涨到：微信视频号36万，抖音20万，B站1.6万，小红书5.5万。百度1.5万，快手及其他加总还有一万左右。全网粉丝数破60万。 我会在这里分享我作品，及相关制作经验技巧和心得。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lixinbao-yout…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@lixinbao-youtube?si=74xxuShrCBBUxpJB",
+                "start": 0,
+                "url": "https://t.co/6QPZwPcvdG"
+              }
+            ]
+          }
+        },
+        "id": "1672419552666460160",
+        "location": "Hong Kong",
+        "name": "李新宝",
+        "pinned_tweet_id": "2013827555514892722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823246478170836992/JMZpWqoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7311,
+          "following_count": 5926,
+          "like_count": 18232,
+          "listed_count": 18,
+          "media_count": 1564,
+          "tweet_count": 20470
+        },
+        "url": "https://t.co/6QPZwPcvdG",
+        "username": "lixinbao_X",
+        "verified": true
+      }
+    ]
+  }
+}

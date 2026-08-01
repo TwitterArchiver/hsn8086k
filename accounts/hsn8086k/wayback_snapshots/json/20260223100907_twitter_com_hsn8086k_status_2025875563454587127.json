@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2025875563454587127",
+    "created_at": "2026-02-23T10:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T11:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025875563454587127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acnekot/status…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/acnekot/status/2025874276163924064",
+          "start": 49,
+          "url": "https://t.co/15xH2XYbI0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025875563454587127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025874276163924064",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我调 docker compose build 代理就是这样的, 懒得输了, 好长一串, 直接翻 https://t.co/15xH2XYbI0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1442,
+        "media_key": "3_2025874269243314176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB1Z6hHaEAA6NPY.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2025875563454587127",
+        "created_at": "2026-02-23T10:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025875563454587127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acnekot/status…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/acnekot/status/2025874276163924064",
+              "start": 49,
+              "url": "https://t.co/15xH2XYbI0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025875563454587127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025874276163924064",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我调 docker compose build 代理就是这样的, 懒得输了, 好长一串, 直接翻 https://t.co/15xH2XYbI0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025874269243314176"
+          ]
+        },
+        "author_id": "1552213521253150720",
+        "conversation_id": "2025874276163924064",
+        "created_at": "2026-02-23T10:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025874276163924064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JT87uLjQdr",
+              "end": 36,
+              "expanded_url": "https://x.com/acnekot/status/2025874276163924064/photo/1",
+              "media_key": "3_2025874269243314176",
+              "start": 13,
+              "url": "https://t.co/JT87uLjQdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025874276163924064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "骗你的，待会就被终端吞掉 https://t.co/JT87uLjQdr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 169,
+          "like_count": 4596,
+          "listed_count": 4,
+          "media_count": 129,
+          "tweet_count": 1326
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 762,
+          "like_count": 81107,
+          "listed_count": 6,
+          "media_count": 2750,
+          "tweet_count": 12789
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

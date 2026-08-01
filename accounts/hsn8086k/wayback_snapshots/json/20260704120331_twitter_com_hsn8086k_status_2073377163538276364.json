@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2073336124374970861",
+    "created_at": "2026-07-04T12:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T13:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073377163538276364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1797644178559762432",
+          "start": 0,
+          "username": "ChHsich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073377163538276364",
+    "in_reply_to_user_id": "1797644178559762432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073375688695161163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChHsich 我脑子不是给我算时间的, 我还是选择90分钟吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2073336124374970861",
+        "created_at": "2026-07-04T12:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073377163538276364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1797644178559762432",
+              "start": 0,
+              "username": "ChHsich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073377163538276364",
+        "in_reply_to_user_id": "1797644178559762432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073375688695161163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChHsich 我脑子不是给我算时间的, 我还是选择90分钟吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797644178559762432",
+        "conversation_id": "2073336124374970861",
+        "created_at": "2026-07-04T11:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073375688695161163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073375688695161163",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073336124374970861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 这样表达本来就看不出来吧，小爱听不到重音。我一般都是说几点叫起床的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2269,
+          "following_count": 243,
+          "like_count": 9991,
+          "listed_count": 8,
+          "media_count": 221,
+          "tweet_count": 2506
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T15:01:02.000Z",
+        "description": "so, I use Arch btw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ChHsiching",
+                "end": 23,
+                "expanded_url": "https://github.com/ChHsiching",
+                "start": 0,
+                "url": "https://t.co/mepC7gxvmg"
+              }
+            ]
+          }
+        },
+        "id": "1797644178559762432",
+        "name": "ChHsich",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050819808430891008/WSkohlxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 17,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "url": "https://t.co/mepC7gxvmg",
+        "username": "ChHsich",
+        "verified": false
+      }
+    ]
+  }
+}

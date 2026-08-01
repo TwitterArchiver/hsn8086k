@@ -1,0 +1,498 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017673032400310272"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2017673038922453348",
+    "created_at": "2026-01-31T18:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017673038922453348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yIUwP7dg3y",
+          "end": 39,
+          "expanded_url": "https://x.com/hsn8086k/status/2017673038922453348/photo/1",
+          "media_key": "3_2017673032400310272",
+          "start": 16,
+          "url": "https://t.co/yIUwP7dg3y"
+        },
+        {
+          "display_url": "x.com/tison1096/stat…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/tison1096/status/2017648690878681412",
+          "start": 40,
+          "url": "https://t.co/UQHfSDoL7t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017673038922453348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017648690878681412",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我这翻译还是google https://t.co/yIUwP7dg3y https://t.co/UQHfSDoL7t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2017673032400310272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAA27tEbEAAGzWK.jpg",
+        "width": 484
+      },
+      {
+        "height": 664,
+        "media_key": "3_2017648597056294913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAgtYUbEAE7DKH.jpg",
+        "width": 1150
+      },
+      {
+        "height": 514,
+        "media_key": "3_2017648644082831370",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAAgwHgbEAouZzm.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017673032400310272"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2017673038922453348",
+        "created_at": "2026-01-31T18:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017673038922453348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yIUwP7dg3y",
+              "end": 39,
+              "expanded_url": "https://x.com/hsn8086k/status/2017673038922453348/photo/1",
+              "media_key": "3_2017673032400310272",
+              "start": 16,
+              "url": "https://t.co/yIUwP7dg3y"
+            },
+            {
+              "display_url": "x.com/tison1096/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/tison1096/status/2017648690878681412",
+              "start": 40,
+              "url": "https://t.co/UQHfSDoL7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017673038922453348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017648690878681412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我这翻译还是google https://t.co/yIUwP7dg3y https://t.co/UQHfSDoL7t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017648597056294913",
+            "3_2017648644082831370"
+          ]
+        },
+        "author_id": "740784709878288384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2017648690878681412",
+        "created_at": "2026-01-31T17:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017648690878681412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/00eHVS6Ivy",
+              "end": 58,
+              "expanded_url": "https://x.com/tison1096/status/2017648690878681412/photo/1",
+              "media_key": "3_2017648597056294913",
+              "start": 35,
+              "url": "https://t.co/00eHVS6Ivy"
+            },
+            {
+              "display_url": "pic.x.com/00eHVS6Ivy",
+              "end": 58,
+              "expanded_url": "https://x.com/tison1096/status/2017648690878681412/photo/1",
+              "media_key": "3_2017648644082831370",
+              "start": 35,
+              "url": "https://t.co/00eHVS6Ivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017648690878681412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter 能把（x）翻译成 (lol) 绝对是 AI 的功劳（ https://t.co/00eHVS6Ivy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 126,
+          "like_count": 2000,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 666
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-09T05:56:52.000Z",
+        "description": "Co-Founder @scopedbio.\nBoard Director & Incubator Mentor @TheASF\nGitHub: https://t.co/7DIR5B81Da",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "scopedbio"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "TheASF"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/tisonkun/",
+                "end": 96,
+                "expanded_url": "https://github.com/tisonkun/",
+                "start": 73,
+                "url": "https://t.co/7DIR5B81Da"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "scopedb.io",
+                "end": 23,
+                "expanded_url": "https://www.scopedb.io",
+                "start": 0,
+                "url": "https://t.co/MomFR7ujhm"
+              }
+            ]
+          }
+        },
+        "id": "740784709878288384",
+        "name": "tison",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1071402420301778945/RqkZEVm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8057,
+          "following_count": 77,
+          "like_count": 703,
+          "listed_count": 71,
+          "media_count": 1547,
+          "tweet_count": 9018
+        },
+        "url": "https://t.co/MomFR7ujhm",
+        "username": "tison1096",
+        "verified": true
+      }
+    ]
+  }
+}

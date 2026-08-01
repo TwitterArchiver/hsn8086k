@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2074642524921344145",
+    "created_at": "2026-07-07T23:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T00:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074642524921344145"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JapanTank/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/JapanTank/status/2074501062955090020",
+          "start": 23,
+          "url": "https://t.co/7daZxaHVsT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074642524921344145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074501062955090020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以什么时候我能吃到\"带有核污染的降价海鲜\" https://t.co/7daZxaHVsT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2074642524921344145",
+        "created_at": "2026-07-07T23:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074642524921344145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JapanTank/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/JapanTank/status/2074501062955090020",
+              "start": 23,
+              "url": "https://t.co/7daZxaHVsT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074642524921344145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074501062955090020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以什么时候我能吃到\"带有核污染的降价海鲜\" https://t.co/7daZxaHVsT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "942405721567608833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2074501062955090020",
+        "created_at": "2026-07-07T14:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074501062955090020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074501062955090020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国人がやたら日本は核汚染水を排出するなと言ってくるから、そのたびに何度も\n\n「中国の原発のほうがトリチウムの排出は多い」\n\nと反論してるんだけど、全く理解してもらえない件。\n何故だろうかと思ってたんだけど、\nDeepSeek、Claude、GPT、Gemini、Grokに\n\n「中国と福島の原発どちらのほうが核物質の排水が多い？」\n\nと質問をすると、DeepSeekだけが\n\n「日本のほうが多い！中国の原発は管理されて安心安全」\n\nと回答してきて、いかなる関連質問を投げても、同じ回答しかしてこない。\nそしてセンシティブな問題だけは必ず突然回答が中国語になる。\nClaude, GPT, Gemini, Grokはすべて\n\n「中国の方が多いです。トリチウムの量が圧倒的に多い」\n\nと回答してくる。\n日本語で回答しろと言っても絶対に中国語でしか回答しない。\n\nなるほど中国政府にあらゆるメディア・AIまで偽情報で管理されてるから正しい情報の把握が出来ないんだなあ、それかアメリカ製のAIが嘘をついてるのか？と思って、今度は\n\n「盧溝橋事件で先に発砲したのはどっち？」\n\nと聞くと、DeepSeekだけが\n\n「日本側です！牟田口廉也大佐と茂川秀和氏がが自白しています！」\n\nと中国語で断定してくる。\nやはり突然中国語になる。\n\nClaude, GPT, Gemini, Grokは\n\n「歴史的に確定しておらず真相がわかっていない」\n\nと回答してくる。\n\n突然中国語になるあたりにAIの回答が意図的に操作されてるんだなとわかるんだけど、ここまでメディア統制されているとなるとそりゃ会話が成り立たないし、中国ユーザーは中国のインターネットで、書籍で、メディアで、AIでしか情報を得られないんだから対立は改善しようがないよなあと思う。\n\nちなみにDeepSeekについては、福島の処理水について「燃料デブリに直接触れた冷却水や地下水だ！」と最初は言うんだけど\n「ALPSでは除去されるの？」\nと聞くと\n「はい、トリチウム以外全部処理されます」\nと回答してきて\n「じゃあ問題なくない？」\nと聞くと\n「タンクの中には処理が不十分だった汚染水があります！」\nと言ってきて\n「タンクから海に排出するときにはALPSでまた処理してきれいにするんでしょ？」\nと聞くと\n「はい、タンクから排出する時はALPSですべて処理してから排出しています！」\nと回答してきて\n「じゃあ何も問題ないじゃん」\nと聞くと\n「でも燃料デブリに触れた〜」\nとか堂々巡りの意味不明な論理になったり意味不明な論理をまた中国語で言ってきて、明らかにAIに操作が入ってて、そのへんの中国政府の恣意的な偽情報の入れ込みが甘い。\n\n中国人ユーザーの皆さん、日本のユーザーの皆さん、どう思いますか？\n正しい情報とはどういうものですか？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1054,
+          "impression_count": 959197,
+          "like_count": 12124,
+          "quote_count": 154,
+          "reply_count": 326,
+          "retweet_count": 3048
+        },
+        "reply_settings": "everyone",
+        "text": "中国人がやたら日本は核汚染水を排出するなと言ってくるから、そのたびに何度も\n\n「中国の原発のほうがトリチウムの排出は多い」\n\nと反論してるんだけど、全く理解してもらえない件。\n何故だろうかと思ってたんだけど、\nDeepSeek、Claude、GPT、Gemini、Grokに"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270,
+          "following_count": 245,
+          "like_count": 10120,
+          "listed_count": 8,
+          "media_count": 224,
+          "tweet_count": 2564
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-17T14:46:47.000Z",
+        "description": "🐣しがない労働者 兼 投資家/億り人女子/ おすすめふるさと納税はNoteへ /AmazonアソシエイトとRakuten Affiliate参加/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/japantank",
+                "end": 23,
+                "expanded_url": "https://note.com/japantank",
+                "start": 0,
+                "url": "https://t.co/UX5yr36J7K"
+              }
+            ]
+          }
+        },
+        "id": "942405721567608833",
+        "location": "日本 東京",
+        "name": "ゆな先生",
+        "pinned_tweet_id": "1918587732009345359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566096344913100801/Mxtk1YYR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276659,
+          "following_count": 460,
+          "like_count": 2579,
+          "listed_count": 1888,
+          "media_count": 1939,
+          "tweet_count": 36459
+        },
+        "url": "https://t.co/UX5yr36J7K",
+        "username": "JapanTank",
+        "verified": true
+      }
+    ]
+  }
+}

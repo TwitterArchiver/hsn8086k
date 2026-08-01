@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1896250285624049988",
+    "created_at": "2025-03-02T17:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T18:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896250285624049988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dingansich8964…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/dingansich8964/status/1896188571813568608",
+          "start": 2,
+          "url": "https://t.co/y9iTQbQWbI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896250285624049988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896188571813568608",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "强 https://t.co/y9iTQbQWbI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1896250285624049988",
+        "created_at": "2025-03-02T17:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896250285624049988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dingansich8964…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/dingansich8964/status/1896188571813568608",
+              "start": 2,
+              "url": "https://t.co/y9iTQbQWbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896250285624049988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896188571813568608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "强 https://t.co/y9iTQbQWbI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748531675573964800",
+        "conversation_id": "1896042652166209646",
+        "created_at": "2025-03-02T13:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T14:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896188571813568608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832834649493762048",
+              "start": 0,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896188571813568608",
+        "in_reply_to_user_id": "1832834649493762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 747,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896042652166209646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1n_fhtagn 俳句怎么写，\n春风轻问花落时，\n五七五成诗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 36,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 43
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T02:23:53.000Z",
+        "description": "在國外工作。看動漫，健身，聽古典樂。",
+        "id": "1748531675573964800",
+        "location": "England, United Kingdom",
+        "name": "物凝主體",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875801408601255936/P_gefWn0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 30,
+          "like_count": 1953,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 627
+        },
+        "username": "dingansich8964",
+        "verified": false
+      }
+    ]
+  }
+}

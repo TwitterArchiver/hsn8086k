@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016544825823400032",
+    "created_at": "2026-01-28T16:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T17:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016544825823400032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BigglesworthX/…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/BigglesworthX/status/2016187916624773541",
+          "start": 43,
+          "url": "https://t.co/38fLlqhFTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016544825823400032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016187916624773541",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是真的不知道大模型现在这么普及了怎么还有人信啥 \"吃雌活不过 30\" 这种谣言... https://t.co/38fLlqhFTW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016544825823400032",
+        "created_at": "2026-01-28T16:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016544825823400032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BigglesworthX/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/BigglesworthX/status/2016187916624773541",
+              "start": 43,
+              "url": "https://t.co/38fLlqhFTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016544825823400032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016187916624773541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是真的不知道大模型现在这么普及了怎么还有人信啥 \"吃雌活不过 30\" 这种谣言... https://t.co/38fLlqhFTW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3318278592",
+        "conversation_id": "2016169531689795850",
+        "created_at": "2026-01-27T16:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T17:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016187916624773541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016187916624773541",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6626,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016169531689795850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 还有就是男娘赛道比ts, mtf这些好走，也少被说很多闲话。比如有的游戏群友知道我是“男娘”，最多来一句你好香，看看丝袜脚，发现我吃药后就开始变成“你这样会不会早死30年”，我服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 104,
+          "like_count": 1471,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 521
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-18T04:24:26.000Z",
+        "description": "Unfriendly neighborhood spider",
+        "id": "3318278592",
+        "location": "San Francisco",
+        "name": "Hoggicosa bisexsual",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929429379127574528/USN-Qd2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 780,
+          "like_count": 2507,
+          "listed_count": 3,
+          "media_count": 956,
+          "tweet_count": 4576
+        },
+        "username": "BigglesworthX",
+        "verified": true
+      }
+    ]
+  }
+}

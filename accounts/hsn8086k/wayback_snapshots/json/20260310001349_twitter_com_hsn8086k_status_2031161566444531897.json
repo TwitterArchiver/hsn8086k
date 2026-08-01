@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2031161566444531897",
+    "created_at": "2026-03-10T00:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T01:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031161566444531897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BI3BXI/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/BI3BXI/status/2030976907970236642",
+          "start": 10,
+          "url": "https://t.co/A1PBF56N6y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031161566444531897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030976907970236642",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猜你想搜: 经十路 https://t.co/A1PBF56N6y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1266,
+        "media_key": "3_2028355466905174016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYqjOsawAA_WXJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2031161566444531897",
+        "created_at": "2026-03-10T00:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T01:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031161566444531897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BI3BXI/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/BI3BXI/status/2030976907970236642",
+              "start": 10,
+              "url": "https://t.co/A1PBF56N6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031161566444531897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030976907970236642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猜你想搜: 经十路 https://t.co/A1PBF56N6y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028355466905174016"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2030976907970236642",
+        "created_at": "2026-03-09T12:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T13:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030976907970236642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8lZYNJnijG",
+              "end": 33,
+              "expanded_url": "https://x.com/BI3BXI/status/2030976907970236642/photo/1",
+              "media_key": "3_2028355466905174016",
+              "start": 10,
+              "url": "https://t.co/8lZYNJnijG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030976907970236642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 27175,
+          "like_count": 340,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "14辆卡罗拉并排？ https://t.co/8lZYNJnijG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 178,
+          "like_count": 5278,
+          "listed_count": 5,
+          "media_count": 150,
+          "tweet_count": 1529
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只Enby🏳️‍⚧️｜老姐@Tennoujinyano｜前世@ryq59｜本体@yqua_｜QQ小群链接：https://t.co/9ZD7jPC8bX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 41,
+                "start": 35,
+                "username": "ryq59"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "username": "yqua_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 81,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 58,
+                "url": "https://t.co/9ZD7jPC8bX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "军粮城北站",
+        "name": "你是要气死铨酱么（淡推中）",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7880,
+          "following_count": 3582,
+          "like_count": 33503,
+          "listed_count": 20,
+          "media_count": 1889,
+          "tweet_count": 7077
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

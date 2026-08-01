@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2070102025606750279",
+    "created_at": "2026-06-25T11:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070102025606750279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duanhjlt/statu…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/duanhjlt/status/2069985592767914012",
+          "start": 54,
+          "url": "https://t.co/ytkcK6bBHj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070102025606750279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069985592767914012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "屁, 被问工作建议说不工作, 怎么来的钱说炒大A, 说赚了百来个, 但你别真炒, 回家躺着, 听他们消息. https://t.co/ytkcK6bBHj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2069985583078985728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoQ66maUAA3l-K.jpg",
+        "width": 767
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2070102025606750279",
+        "created_at": "2026-06-25T11:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070102025606750279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duanhjlt/statu…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/duanhjlt/status/2069985592767914012",
+              "start": 54,
+              "url": "https://t.co/ytkcK6bBHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070102025606750279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069985592767914012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "屁, 被问工作建议说不工作, 怎么来的钱说炒大A, 说赚了百来个, 但你别真炒, 回家躺着, 听他们消息. https://t.co/ytkcK6bBHj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069985583078985728"
+          ]
+        },
+        "author_id": "340107534",
+        "conversation_id": "2069985592767914012",
+        "created_at": "2026-06-25T03:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T04:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069985592767914012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFk9lmoUSN",
+              "end": 40,
+              "expanded_url": "https://x.com/duanhjlt/status/2069985592767914012/photo/1",
+              "media_key": "3_2069985583078985728",
+              "start": 17,
+              "url": "https://t.co/oFk9lmoUSN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069985592767914012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 235477,
+          "like_count": 213,
+          "quote_count": 1,
+          "reply_count": 393,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "为什么感觉中国人月薪过万很普遍？ https://t.co/oFk9lmoUSN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 241,
+          "like_count": 9757,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 2412
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T04:31:23.000Z",
+        "description": "搞钱、打工、阶层下滑、中年焦虑。\n记录普通人怎么在这个时代硬撑着活。",
+        "id": "340107534",
+        "name": "赴野",
+        "pinned_tweet_id": "2068988168658137170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972814827749011456/IuCjwNAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24713,
+          "following_count": 847,
+          "like_count": 815,
+          "listed_count": 104,
+          "media_count": 7854,
+          "tweet_count": 13494
+        },
+        "url": "",
+        "username": "duanhjlt",
+        "verified": true
+      }
+    ]
+  }
+}

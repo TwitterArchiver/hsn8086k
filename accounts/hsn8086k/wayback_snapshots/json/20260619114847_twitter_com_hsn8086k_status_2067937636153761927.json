@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2067937636153761927",
+    "created_at": "2026-06-19T11:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067937636153761927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Phoenixyin13/s…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/Phoenixyin13/status/2067882191686623524",
+          "start": 54,
+          "url": "https://t.co/gLtsVtVGcF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067937636153761927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067882191686623524",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "得了吧, 还是营销号牛.\n你以为为什么gpt排16, 因为这是前端榜, 而营销号的贴文选择性的忽略了这点. https://t.co/gLtsVtVGcF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1201,
+        "media_key": "3_2067882188326977536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKX5OiWQAArN40.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2067937636153761927",
+        "created_at": "2026-06-19T11:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067937636153761927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Phoenixyin13/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/Phoenixyin13/status/2067882191686623524",
+              "start": 54,
+              "url": "https://t.co/gLtsVtVGcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067937636153761927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067882191686623524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "得了吧, 还是营销号牛.\n你以为为什么gpt排16, 因为这是前端榜, 而营销号的贴文选择性的忽略了这点. https://t.co/gLtsVtVGcF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067882188326977536"
+          ]
+        },
+        "author_id": "1924212425332813824",
+        "conversation_id": "2067882191686623524",
+        "created_at": "2026-06-19T08:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067882191686623524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4Vy9A7TZr",
+              "end": 190,
+              "expanded_url": "https://x.com/Phoenixyin13/status/2067882191686623524/photo/1",
+              "media_key": "3_2067882188326977536",
+              "start": 167,
+              "url": "https://t.co/i4Vy9A7TZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067882191686623524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "LMSYS Arena已经是目前整个 AI 圈公认含金量最高、最难刷榜、水分最少的榜单了。 \n\n比起某些厂商自己发论文、用固定题库比如MMLU、HumanEval跑出来的作弊满分 ，Arena 机制更像电竞比赛的排位天梯赛。\n\n看到这个 2026 年第 25 周AI代码能力的排名，我有这几个最直观的看法。\n\nClaude江山稳固。\nClaude-Fable-5 强势空降第一。直接登顶。更夸张的是，前 20 名里它家占了 9 个席位，包括各种版本的 Opus 和 Sonnet。在代码和复杂工程领域，Claude 依然是很多程序员的本命。\n\n这次最亮眼的黑马绝对是国产的 GLM-5.2 Max，直接冲到了全球第二。\n这代表国产模型在纯代码逻辑、Debug 和架构设计上，已经真正具备了跟国际顶尖模型贴身肉搏、甚至全面超越大部分旧旗舰的硬实力。\n\nThinking模型已经成为标配。\n这种通过长思维链反复推演、自己 Debug 完再输出代码的模式，已经在盲测中被全球开发者用脚投票，证明了它在应对复杂项目时的胜率更高。\n\n前 20 名里，国产模型占了 7 个席位。而且阿里的通义千问和月之暗面都咬得很紧，甚至还推出了专门的 ⁠kimi-k2.7-code⁠ 这种垂直上榜的特化型号。\n国内在大模型数据清洗、工程落地和代码对齐上的技术已经非常成熟。\n\n这种榜单的更新、迭代，对开发者来说是天大的好事。\n模型之间卷得越厉害，平时写代码、跑 Cursor、调 Agent 时的体验就越丝滑。\n\n现在已经不是某一家模型独大的时代了。\n\n针对不同的代码场景，比如要长文本上下文选 Kimi，要极致推理逻辑选 Claude、GLM，组合使用才是性价比最高的方式。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 10585,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "LMSYS Arena已经是目前整个 AI 圈公认含金量最高、最难刷榜、水分最少的榜单了。 \n\n比起某些厂商自己发论文、用固定题库比如MMLU、HumanEval跑出来的作弊满分 ，Arena 机制更像电竞比赛的排位天梯赛。\n\n看到这个 2026 年第 25 周AI代码能力的排名，我有这几个最直观的看法。\n\nClaude江山稳固。 https://t.co/i4Vy9A7TZr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 241,
+          "like_count": 9544,
+          "listed_count": 8,
+          "media_count": 212,
+          "tweet_count": 2352
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-18T21:16:21.000Z",
+        "description": "🇺🇸 04美本 | 计算机科学&认知科学\n⚙️AI, cognition, crypto, and the future of intelligence.\n✨相信好奇心驱动。相信人永远可塑。",
+        "id": "1924212425332813824",
+        "location": "Columbus, OH",
+        "name": "Phoenix Yin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028337523773038592/1kSOtKBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10649,
+          "following_count": 1054,
+          "like_count": 9727,
+          "listed_count": 68,
+          "media_count": 801,
+          "tweet_count": 7059
+        },
+        "url": "",
+        "username": "Phoenixyin13",
+        "verified": true
+      }
+    ]
+  }
+}

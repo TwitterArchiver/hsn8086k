@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2037168908273319948",
+    "created_at": "2026-03-26T15:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T16:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037189949322321973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1766336668129427456",
+          "start": 0,
+          "username": "akiss265361"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037189949322321973",
+    "in_reply_to_user_id": "1766336668129427456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037187284597170389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiss265361 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2037168908273319948",
+        "created_at": "2026-03-26T15:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037189949322321973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1766336668129427456",
+              "start": 0,
+              "username": "akiss265361"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037189949322321973",
+        "in_reply_to_user_id": "1766336668129427456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037187284597170389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiss265361 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766336668129427456",
+        "conversation_id": "2037168908273319948",
+        "created_at": "2026-03-26T15:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037187284597170389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037187284597170389",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037168908273319948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 以后是不是该分顺跨皇帝和跨跨皇帝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 201,
+          "like_count": 6264,
+          "listed_count": 5,
+          "media_count": 159,
+          "tweet_count": 1679
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T05:34:27.000Z",
+        "description": "🏳️‍⚧️ MTF | full moon full life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/akikarte",
+                "end": 23,
+                "expanded_url": "https://t.me/akikarte",
+                "start": 0,
+                "url": "https://t.co/rK37lsCc9S"
+              }
+            ]
+          }
+        },
+        "id": "1766336668129427456",
+        "location": "地球online",
+        "name": "yukie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037184101304971264/XlM7vdJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 667,
+          "like_count": 7579,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/rK37lsCc9S",
+        "username": "akiss265361",
+        "verified": false
+      }
+    ]
+  }
+}

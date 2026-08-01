@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2031584339839037681",
+    "created_at": "2026-03-11T04:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T05:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031584339839037681"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031584339839037681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天是植树节, 不要忘记二叉树, 二三树, 左偏红黑树, 红黑树, b树, b+树, b-树, avl树, 替罪羊树, 霍夫曼树, 线段树, 李超线段树, 字典树, 珂朵莉树, 主席树, 后缀树, k-d树."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2031584339839037681",
+        "created_at": "2026-03-11T04:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T05:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031584339839037681"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031584339839037681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天是植树节, 不要忘记二叉树, 二三树, 左偏红黑树, 红黑树, b树, b+树, b-树, avl树, 替罪羊树, 霍夫曼树, 线段树, 李超线段树, 字典树, 珂朵莉树, 主席树, 后缀树, k-d树."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 179,
+          "like_count": 5399,
+          "listed_count": 5,
+          "media_count": 153,
+          "tweet_count": 1550
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

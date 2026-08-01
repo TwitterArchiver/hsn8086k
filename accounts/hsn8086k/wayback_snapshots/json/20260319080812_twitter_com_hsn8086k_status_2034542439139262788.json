@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2034542439139262788",
+    "created_at": "2026-03-19T08:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T09:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034542439139262788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/__fanqie__/sta…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/__fanqie__/status/2034471227465810259",
+          "start": 106,
+          "url": "https://t.co/EgkRWhkISk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034542439139262788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034471227465810259",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过, 不该嘲讽交钱的人. 很多年前 hsn 也没少被坑过, 还好没钱, 才没被骗过钱. 直到后来不再用百度了, 有信息辨识能力了, 才少被坑. 这也是为什么 hsn 极端厌恶中文\"互联网\" (特指开发相关). https://t.co/EgkRWhkISk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2034471221040218112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvky-PbgAAeJQ6.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2034542439139262788",
+        "created_at": "2026-03-19T08:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034542439139262788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2034471227465810259",
+              "start": 106,
+              "url": "https://t.co/EgkRWhkISk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034542439139262788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034471227465810259",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过, 不该嘲讽交钱的人. 很多年前 hsn 也没少被坑过, 还好没钱, 才没被骗过钱. 直到后来不再用百度了, 有信息辨识能力了, 才少被坑. 这也是为什么 hsn 极端厌恶中文\"互联网\" (特指开发相关). https://t.co/EgkRWhkISk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034471221040218112"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2034471227465810259",
+        "created_at": "2026-03-19T03:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034471227465810259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/opuzGs0Wb7",
+              "end": 44,
+              "expanded_url": "https://x.com/__fanqie__/status/2034471227465810259/photo/1",
+              "media_key": "3_2034471221040218112",
+              "start": 21,
+              "url": "https://t.co/opuzGs0Wb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034471227465810259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17154,
+          "like_count": 177,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "很难想象这钱都有人交能写啥东西出来。。。 https://t.co/opuzGs0Wb7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 190,
+          "like_count": 5695,
+          "listed_count": 5,
+          "media_count": 154,
+          "tweet_count": 1590
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "-🍅-",
+        "id": "1756909109788753920",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012161853645074432/8hBhXLsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4136,
+          "following_count": 2896,
+          "like_count": 1434,
+          "listed_count": 4,
+          "media_count": 635,
+          "tweet_count": 8067
+        },
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

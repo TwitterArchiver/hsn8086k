@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2040979672746622998",
+    "created_at": "2026-04-07T12:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041493906353979421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2038255367990202368",
+          "start": 0,
+          "username": "pwn_bug"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20414…",
+          "end": 37,
+          "expanded_url": "https://x.com/i/status/2041492527262687561",
+          "start": 14,
+          "url": "https://t.co/8lmsrhfJ3E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041493906353979421",
+    "in_reply_to_user_id": "2038255367990202368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041492527262687561",
+        "type": "quoted"
+      },
+      {
+        "id": "2041041728317341899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pwn_bug 这样说吧\nhttps://t.co/8lmsrhfJ3E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-07T12:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041493906353979421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2038255367990202368",
+              "start": 0,
+              "username": "pwn_bug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20414…",
+              "end": 37,
+              "expanded_url": "https://x.com/i/status/2041492527262687561",
+              "start": 14,
+              "url": "https://t.co/8lmsrhfJ3E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041493906353979421",
+        "in_reply_to_user_id": "2038255367990202368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041492527262687561",
+            "type": "quoted"
+          },
+          {
+            "id": "2041041728317341899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pwn_bug 这样说吧\nhttps://t.co/8lmsrhfJ3E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-07T12:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041492527262687561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450114426716131341",
+              "start": 0,
+              "username": "Natsuhane_Ayari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041492527262687561",
+        "in_reply_to_user_id": "1450114426716131341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041487357376078149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsuhane_Ayari 那就自己写自己添加这个功能呗, mac 可以加插件, gnome 也是开源的, 也能加插件, 而不是让系统为了你的各种要求而妥协, 更不是去攻击某个系统的用户.\n特别 gnome 这种, 说白了, 要觉得你的观念比较符合人类的需求, 就 fork 一个, 写出 better gnome. 从来没有人限制你的选择."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038255367990202368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          }
+        ],
+        "conversation_id": "2040979672746622998",
+        "created_at": "2026-04-06T06:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041041728317341899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041041728317341899",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 493,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040979672746622998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 这件事的核心在于：\n\nwindows既可以 touch 式创建又可以新建文件创建，用户可以自由的选择自己喜欢的创建方式。君子和而不同，无论什么方式创建都没错。\n\n而mac更像是在驯化用户，你只能用我指定的办法创建。\n\n我仅仅是出于对苹果类产品长久以来以威权、剥夺用户自由的方式在驯化用户，而讨厌 mac。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 218,
+          "like_count": 7125,
+          "listed_count": 5,
+          "media_count": 166,
+          "tweet_count": 1833
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T14:02:14.000Z",
+        "description": "Security Researcher | Coder, graduate majoring in SE | CTFer, retired ACMer. | \n不讨论政治 | no political discussion | 反对一切封闭、固化、威权的开发生态，崇尚开放、多元化、民主的开发生态.",
+        "id": "2038255367990202368",
+        "name": "pwn_bug",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038255898930692098/WGizerb1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 31,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "pwn_bug",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2075422259288920494",
+    "created_at": "2026-07-10T03:30:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:30:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075422259288920494"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/codyhunk/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/codyhunk/status/2075227900597649891",
+          "start": 33,
+          "url": "https://t.co/du0g7fFjXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075422259288920494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075227900597649891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但是是不是不建议流行的, 不然平台发现不用付钱也能养活骑手... https://t.co/du0g7fFjXI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1732,
+        "media_key": "3_2075227890623578112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMywxYCaAAAsvP4.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2075422259288920494",
+        "created_at": "2026-07-10T03:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075422259288920494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/codyhunk/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/codyhunk/status/2075227900597649891",
+              "start": 33,
+              "url": "https://t.co/du0g7fFjXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075422259288920494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075227900597649891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是是不是不建议流行的, 不然平台发现不用付钱也能养活骑手... https://t.co/du0g7fFjXI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075227890623578112"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "2075227900597649891",
+        "created_at": "2026-07-09T14:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T15:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075227900597649891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/78QZV5bwaf",
+              "end": 29,
+              "expanded_url": "https://x.com/codyhunk/status/2075227900597649891/photo/1",
+              "media_key": "3_2075227890623578112",
+              "start": 6,
+              "url": "https://t.co/78QZV5bwaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075227900597649891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 44491,
+          "like_count": 249,
+          "quote_count": 3,
+          "reply_count": 41,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "简直大善人 https://t.co/78QZV5bwaf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 244,
+          "like_count": 10196,
+          "listed_count": 8,
+          "media_count": 232,
+          "tweet_count": 2610
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14619,
+          "following_count": 1122,
+          "like_count": 24905,
+          "listed_count": 42,
+          "media_count": 6845,
+          "tweet_count": 10207
+        },
+        "url": "",
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

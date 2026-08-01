@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2066836563066241084",
+    "created_at": "2026-06-18T00:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T01:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067399628123996433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954601674083053569",
+          "start": 0,
+          "username": "JuSakuyuLime"
+        },
+        {
+          "end": 24,
+          "id": "1987885638038036480",
+          "start": 14,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067399628123996433",
+    "in_reply_to_user_id": "1954601674083053569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067107095527498156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JuSakuyuLime @mizorewww 转转!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2066836563066241084",
+        "created_at": "2026-06-18T00:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T01:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067399628123996433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954601674083053569",
+              "start": 0,
+              "username": "JuSakuyuLime"
+            },
+            {
+              "end": 24,
+              "id": "1987885638038036480",
+              "start": 14,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067399628123996433",
+        "in_reply_to_user_id": "1954601674083053569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067107095527498156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JuSakuyuLime @mizorewww 转转!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954601674083053569",
+        "conversation_id": "2066836563066241084",
+        "created_at": "2026-06-17T04:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067107095527498156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987885638038036480",
+              "start": 0,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067107095527498156",
+        "in_reply_to_user_id": "1987885638038036480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066836563066241084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizorewww 用旧的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 242,
+          "like_count": 9509,
+          "listed_count": 8,
+          "media_count": 211,
+          "tweet_count": 2340
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T17:52:21.000Z",
+        "description": "Antipathy World🌏\n琦鏡主理人 偽物實驗室監修中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/YuringSpeaking",
+                "end": 23,
+                "expanded_url": "https://t.me/YuringSpeaking",
+                "start": 0,
+                "url": "https://t.co/miEPcgzByf"
+              }
+            ]
+          }
+        },
+        "id": "1954601674083053569",
+        "location": "宿州東站，鐵科院滾動試驗台",
+        "name": "雎咲柚檸Sakiyuring",
+        "pinned_tweet_id": "1998412348437246269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004824422449061888/mOUlFOHp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 2073,
+          "like_count": 3885,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/miEPcgzByf",
+        "username": "JuSakuyuLime",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 高三 中国上海高中生 开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\n\n联系方式：\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 114,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 91,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2049113964022501793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 904,
+          "like_count": 17366,
+          "listed_count": 4,
+          "media_count": 724,
+          "tweet_count": 4008
+        },
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

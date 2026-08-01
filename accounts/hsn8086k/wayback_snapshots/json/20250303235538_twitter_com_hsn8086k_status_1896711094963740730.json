@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "1896711094963740730",
+    "created_at": "2025-03-03T23:55:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T00:55:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896711094963740730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1965chich/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/1965chich/status/1896251150221103252",
+          "start": 21,
+          "url": "https://t.co/X0CHSRBFpR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896711094963740730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896251150221103252",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要吃小馒头,吃小馒头下辈子馒头长不大. https://t.co/X0CHSRBFpR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_1896251142268710913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlDWXfva8AEx-0B.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "1896711094963740730",
+        "created_at": "2025-03-03T23:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T00:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896711094963740730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1965chich/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/1965chich/status/1896251150221103252",
+              "start": 21,
+              "url": "https://t.co/X0CHSRBFpR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896711094963740730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896251150221103252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要吃小馒头,吃小馒头下辈子馒头长不大. https://t.co/X0CHSRBFpR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896251142268710913"
+          ]
+        },
+        "author_id": "1703762928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1896251150221103252",
+        "created_at": "2025-03-02T17:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T18:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896251150221103252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ofFwVtphxj",
+              "end": 41,
+              "expanded_url": "https://x.com/1965chich/status/1896251150221103252/photo/1",
+              "media_key": "3_1896251142268710913",
+              "start": 18,
+              "url": "https://t.co/ofFwVtphxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896251150221103252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 58189,
+          "like_count": 939,
+          "quote_count": 4,
+          "reply_count": 57,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "睡个好觉，下辈子咱一定要当女孩子喵 https://t.co/ofFwVtphxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 38,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 61
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/无性恋 /非跨/不会尊重人的关小黑屋/心尖尖上的明珠：浪浪宝贝",
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1858379364754493737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882590512760446976/XdK6-PCg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3730,
+          "following_count": 988,
+          "like_count": 14578,
+          "listed_count": 4,
+          "media_count": 189,
+          "tweet_count": 4036
+        },
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

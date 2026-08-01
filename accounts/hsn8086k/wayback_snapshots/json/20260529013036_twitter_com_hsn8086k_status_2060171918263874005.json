@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2059961158443089972",
+    "created_at": "2026-05-29T01:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T02:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060171918263874005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1752344070385696768",
+          "start": 0,
+          "username": "date_reina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060171918263874005",
+    "in_reply_to_user_id": "1752344070385696768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060163939988643848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@date_reina 这样啊!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2059961158443089972",
+        "created_at": "2026-05-29T01:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T02:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060171918263874005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1752344070385696768",
+              "start": 0,
+              "username": "date_reina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060171918263874005",
+        "in_reply_to_user_id": "1752344070385696768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060163939988643848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@date_reina 这样啊!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752344070385696768",
+        "conversation_id": "2059961158443089972",
+        "created_at": "2026-05-29T00:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060163939988643848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060163939988643848",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059961158443089972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 寿命会变成30-31也就是2^32-1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 226,
+          "like_count": 8425,
+          "listed_count": 9,
+          "media_count": 198,
+          "tweet_count": 2127
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T14:52:58.000Z",
+        "description": "Adult Content NSFW / TS / 174cm / 60kg / B杯 / 泛性恋 / 穿孔 / 纹身 / 视觉系 / coser",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hbkhutchat",
+                "end": 23,
+                "expanded_url": "https://t.me/Hbkhutchat",
+                "start": 0,
+                "url": "https://t.co/E8j5VW5sVG"
+              }
+            ]
+          }
+        },
+        "id": "1752344070385696768",
+        "location": "Contact me →",
+        "name": "伊达铃奈",
+        "pinned_tweet_id": "2023278031415263718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058722765616615424/FnL0YD_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13388,
+          "following_count": 1097,
+          "like_count": 5638,
+          "listed_count": 72,
+          "media_count": 175,
+          "tweet_count": 7678
+        },
+        "url": "https://t.co/E8j5VW5sVG",
+        "username": "date_reina",
+        "verified": true
+      }
+    ]
+  }
+}

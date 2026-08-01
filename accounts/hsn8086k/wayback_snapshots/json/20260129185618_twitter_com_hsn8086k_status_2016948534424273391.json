@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016948534424273391",
+    "created_at": "2026-01-29T18:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T19:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016948534424273391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kimi_Moonshot/…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/Kimi_Moonshot/status/2016918447951925300",
+          "start": 19,
+          "url": "https://t.co/7MpDDRAXx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016948534424273391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016918447951925300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就说咋刚看还只剩十次的突然变成1%了 https://t.co/7MpDDRAXx1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2016917685997797376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_2H8wcaAAAVPGS.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016948534424273391",
+        "created_at": "2026-01-29T18:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016948534424273391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kimi_Moonshot/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Kimi_Moonshot/status/2016918447951925300",
+              "start": 19,
+              "url": "https://t.co/7MpDDRAXx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016948534424273391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016918447951925300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就说咋刚看还只剩十次的突然变成1%了 https://t.co/7MpDDRAXx1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016917685997797376"
+          ]
+        },
+        "author_id": "1863959670169501696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016918447951925300",
+        "created_at": "2026-01-29T16:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016918447951925300"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Kimi Code",
+              "probability": 0.9134,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "Kimi K2.5",
+              "probability": 0.758,
+              "start": 77,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCOGT8HcnX",
+              "end": 302,
+              "expanded_url": "https://x.com/Kimi_Moonshot/status/2016918447951925300/photo/1",
+              "media_key": "3_2016917685997797376",
+              "start": 279,
+              "url": "https://t.co/zCOGT8HcnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016918447951925300",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "You share, we care.\n\nKimi Code is now powered by our best open coding model, Kimi K2.5\n\n🔹 Permanent Update: Token-Based Billing We’re saying goodbye to request limits. Starting today, we are permanently switching to a Token-Based Billing system. All usage quotas have been reset to give you a fresh start.\n🎉 Limited-Time Event (Ends Feb 28th) To celebrate this upgrade, we are unleashing full power!\n - 3X Quota: Enjoy up to 3 times the usage limits.\n - Full Speed: No throttling. No purchase limits. Just code.\n\nJump in now and build something amazing!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 27170,
+          "like_count": 380,
+          "quote_count": 10,
+          "reply_count": 38,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "You share, we care.\n\nKimi Code is now powered by our best open coding model, Kimi K2.5\n\n🔹 Permanent Update: Token-Based Billing We’re saying goodbye to request limits. Starting today, we are permanently switching to a Token-Based Billing system. All usage quotas have been reset https://t.co/zCOGT8HcnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 113,
+          "like_count": 1669,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 574
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T14:54:14.000Z",
+        "description": "Built by Moonshot AI to empower everyone to be superhuman. ⚡️API: https://t.co/ggYlFf809H\n@KimiProduct where we share cool use cases and prompts.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "KimiProduct"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "platform.moonshot.ai",
+                "end": 89,
+                "expanded_url": "https://platform.moonshot.ai/",
+                "start": 66,
+                "url": "https://t.co/ggYlFf809H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kimi.com",
+                "end": 23,
+                "expanded_url": "https://www.kimi.com/",
+                "start": 0,
+                "url": "https://t.co/mlnKFmsdLe"
+              }
+            ]
+          }
+        },
+        "id": "1863959670169501696",
+        "name": "Kimi.ai",
+        "pinned_tweet_id": "2016024049869324599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910294000927645696/QseOV0uF_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95963,
+          "following_count": 119,
+          "like_count": 225,
+          "listed_count": 1015,
+          "media_count": 85,
+          "tweet_count": 241
+        },
+        "url": "https://t.co/mlnKFmsdLe",
+        "username": "Kimi_Moonshot",
+        "verified": true
+      }
+    ]
+  }
+}

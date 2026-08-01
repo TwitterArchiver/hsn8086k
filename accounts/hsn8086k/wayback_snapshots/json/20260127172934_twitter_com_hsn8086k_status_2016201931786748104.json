@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2016201931786748104",
+    "created_at": "2026-01-27T17:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T18:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016201931786748104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zuichunyan123/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/zuichunyan123/status/2015613913715638481",
+          "start": 7,
+          "url": "https://t.co/edLwr5ahOr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016201931786748104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015613913715638481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "热水瓶\n暖壶 https://t.co/edLwr5ahOr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2015613838578925568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jmG2TbwAAFgl4.jpg",
+        "width": 1073
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2016201931786748104",
+        "created_at": "2026-01-27T17:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T18:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016201931786748104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zuichunyan123/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/zuichunyan123/status/2015613913715638481",
+              "start": 7,
+              "url": "https://t.co/edLwr5ahOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016201931786748104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015613913715638481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "热水瓶\n暖壶 https://t.co/edLwr5ahOr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015613838578925568"
+          ]
+        },
+        "author_id": "1905089334778400768",
+        "conversation_id": "2015613913715638481",
+        "created_at": "2026-01-26T02:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015613913715638481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Jajd2vlMD",
+              "end": 36,
+              "expanded_url": "https://x.com/zuichunyan123/status/2015613913715638481/photo/1",
+              "media_key": "3_2015613838578925568",
+              "start": 13,
+              "url": "https://t.co/9Jajd2vlMD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015613913715638481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 217471,
+          "like_count": 194,
+          "quote_count": 18,
+          "reply_count": 566,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "热水壶还有其他的叫法吗？ https://t.co/9Jajd2vlMD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892600373510017024/6A2HWjW4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 98,
+          "like_count": 1188,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 441
+        },
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T02:48:02.000Z",
+        "description": "互关互赞互评互fo 24h在线秒回❤有👍必回有关必回💞💞💞部分内容来自网络，若侵犯版权，请及时联系本人删除，谢谢。\n小号：@dameizhongguo9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "dameizhongguo9"
+              }
+            ]
+          }
+        },
+        "id": "1905089334778400768",
+        "name": "醉春烟（互fo 互赞）",
+        "pinned_tweet_id": "2015321331097891019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905089456098672640/J6R3W2_s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9394,
+          "following_count": 4534,
+          "like_count": 37295,
+          "listed_count": 17,
+          "media_count": 569,
+          "tweet_count": 26046
+        },
+        "username": "zuichunyan123",
+        "verified": false
+      }
+    ]
+  }
+}
