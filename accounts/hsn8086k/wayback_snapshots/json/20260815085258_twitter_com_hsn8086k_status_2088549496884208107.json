@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2088549496884208107",
+    "created_at": "2026-08-15T08:52:58.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088549496884208107"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LanziiLove/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/LanziiLove/status/2088532750613852612",
+          "start": 13,
+          "url": "https://t.co/pnVWUQuwLK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088549496884208107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088532750613852612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "线下交现金就不会抽了() https://t.co/pnVWUQuwLK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088532741050785792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPv1dmQa4AADkLk.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2088549496884208107",
+        "created_at": "2026-08-15T08:52:58.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088549496884208107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LanziiLove/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/LanziiLove/status/2088532750613852612",
+              "start": 13,
+              "url": "https://t.co/pnVWUQuwLK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088549496884208107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088532750613852612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "线下交现金就不会抽了() https://t.co/pnVWUQuwLK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088532741050785792"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088532750613852612",
+        "created_at": "2026-08-15T07:46:25.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088532750613852612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/turtvZe4Kv",
+              "end": 48,
+              "expanded_url": "https://x.com/LanziiLove/status/2088532750613852612/photo/1",
+              "media_key": "3_2088532741050785792",
+              "start": 25,
+              "url": "https://t.co/turtvZe4Kv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088532750613852612",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088532741050785792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1094,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "交SRS定金转了600刀抽了我300块，我尼玛啊 https://t.co/turtvZe4Kv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2088549496884208107",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 250,
+          "like_count": 11215,
+          "listed_count": 9,
+          "media_count": 255,
+          "tweet_count": 2811
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 127,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 104,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2088539666874266099",
+        "name": "雫丶Shizuku✨杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30190,
+          "following_count": 1641,
+          "like_count": 3799,
+          "listed_count": 86,
+          "media_count": 528,
+          "tweet_count": 3435
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

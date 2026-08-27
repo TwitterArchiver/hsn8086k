@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2085832694022520947",
+    "created_at": "2026-08-07T20:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T21:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085832694022520947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/robbieimack/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/robbieimack/status/2085323499032465877",
+          "start": 19,
+          "url": "https://t.co/uNkjiH8C4r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085832694022520947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085323499032465877",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男生: 我要变成女生并逃离原生家庭! https://t.co/uNkjiH8C4r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2085285062636134400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBrt1Xa4AAT8PD.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2085832694022520947",
+        "created_at": "2026-08-07T20:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085832694022520947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/robbieimack/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/robbieimack/status/2085323499032465877",
+              "start": 19,
+              "url": "https://t.co/uNkjiH8C4r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085832694022520947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085323499032465877",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男生: 我要变成女生并逃离原生家庭! https://t.co/uNkjiH8C4r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085285062636134400"
+          ]
+        },
+        "author_id": "1539314186",
+        "conversation_id": "2085323499032465877",
+        "created_at": "2026-08-06T11:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085323499032465877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CFSmvNnXu",
+              "end": 37,
+              "expanded_url": "https://x.com/robbieimack/status/2085323499032465877/photo/1",
+              "media_key": "3_2085285062636134400",
+              "start": 14,
+              "url": "https://t.co/7CFSmvNnXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085323499032465877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 235645,
+          "like_count": 799,
+          "quote_count": 5,
+          "reply_count": 239,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "在中国生儿子就这么重要吗？ https://t.co/7CFSmvNnXu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 250,
+          "like_count": 11080,
+          "listed_count": 9,
+          "media_count": 246,
+          "tweet_count": 2770
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-22T19:00:56.000Z",
+        "description": "这个做一个吐槽号和生活号吧，就发发我个人的吐槽，我的专业性一向抗打，专业内容见小号吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qingqingdekeai…",
+                "end": 23,
+                "expanded_url": "https://t.me/qingqingdekeairichang",
+                "start": 0,
+                "url": "https://t.co/roVwcvZMAH"
+              }
+            ]
+          }
+        },
+        "id": "1539314186",
+        "location": "mei交友平台→",
+        "name": "特特大作战",
+        "pinned_tweet_id": "2085740855483310290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085361030285438976/XiXo6kgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40965,
+          "following_count": 97,
+          "like_count": 2516,
+          "listed_count": 102,
+          "media_count": 260,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/roVwcvZMAH",
+        "username": "robbieimack",
+        "verified": true
+      }
+    ]
+  }
+}

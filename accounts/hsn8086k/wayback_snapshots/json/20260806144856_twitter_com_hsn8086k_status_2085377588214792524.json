@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2085280889274323414",
+    "created_at": "2026-08-06T14:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085377588214792524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1149933526856491008",
+          "start": 0,
+          "username": "jensenkarasu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085377588214792524",
+    "in_reply_to_user_id": "1149933526856491008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085376832480903484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jensenkarasu ?你不对劲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2085280889274323414",
+        "created_at": "2026-08-06T14:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085377588214792524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1149933526856491008",
+              "start": 0,
+              "username": "jensenkarasu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085377588214792524",
+        "in_reply_to_user_id": "1149933526856491008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085376832480903484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jensenkarasu ?你不对劲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1149933526856491008",
+        "conversation_id": "2085280889274323414",
+        "created_at": "2026-08-06T14:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085376832480903484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085376832480903484",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085280889274323414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 在厕所！挥舞！小短棒！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2323,
+          "following_count": 247,
+          "like_count": 11015,
+          "listed_count": 9,
+          "media_count": 246,
+          "tweet_count": 2764
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-13T06:48:12.000Z",
+        "description": "是金子總會發光，是餃子總會下鍋，是包子總去打狗。",
+        "id": "1149933526856491008",
+        "name": "Jensen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064013231375708160/MVw1T0Q4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 196,
+          "like_count": 2081,
+          "listed_count": 4,
+          "media_count": 10,
+          "tweet_count": 1279
+        },
+        "url": "",
+        "username": "jensenkarasu",
+        "verified": false
+      }
+    ]
+  }
+}

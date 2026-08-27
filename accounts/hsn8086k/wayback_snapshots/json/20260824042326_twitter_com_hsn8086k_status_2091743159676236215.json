@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091743154341130240"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2091743159676236215",
+    "created_at": "2026-08-24T04:23:26.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T05:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091743159676236215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ppUNcbegBi",
+          "end": 51,
+          "expanded_url": "https://x.com/hsn8086k/status/2091743159676236215/photo/1",
+          "media_key": "3_2091743154341130240",
+          "start": 28,
+          "url": "https://t.co/ppUNcbegBi"
+        },
+        {
+          "display_url": "x.com/smiroyama/stat…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/smiroyama/status/2091507724970508373",
+          "start": 52,
+          "url": "https://t.co/TNuf6UmY7j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091743159676236215",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091743154341130240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091507724970508373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有人问, 为什么没有HSN, 笨哦, HSN是飞机场! https://t.co/ppUNcbegBi https://t.co/TNuf6UmY7j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2091743154341130240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQddUPvbsAAdPGd.jpg",
+        "width": 1015
+      },
+      {
+        "height": 995,
+        "media_key": "3_2091507687653834752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaHKR-bAAAxiAv.jpg",
+        "width": 941
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091743154341130240"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2091743159676236215",
+        "created_at": "2026-08-24T04:23:26.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T05:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091743159676236215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ppUNcbegBi",
+              "end": 51,
+              "expanded_url": "https://x.com/hsn8086k/status/2091743159676236215/photo/1",
+              "media_key": "3_2091743154341130240",
+              "start": 28,
+              "url": "https://t.co/ppUNcbegBi"
+            },
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/smiroyama/status/2091507724970508373",
+              "start": 52,
+              "url": "https://t.co/TNuf6UmY7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091743159676236215",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091743154341130240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091507724970508373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人问, 为什么没有HSN, 笨哦, HSN是飞机场! https://t.co/ppUNcbegBi https://t.co/TNuf6UmY7j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091507687653834752"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091507724970508373",
+        "created_at": "2026-08-23T12:47:54.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091507724970508373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ROpm9qybDe",
+              "end": 39,
+              "expanded_url": "https://x.com/smiroyama/status/2091507724970508373/photo/1",
+              "media_key": "3_2091507687653834752",
+              "start": 16,
+              "url": "https://t.co/ROpm9qybDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091507724970508373",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091507687653834752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 47485,
+          "like_count": 377,
+          "quote_count": 24,
+          "reply_count": 240,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "要定机票了，你想坐哪个位置呢？ https://t.co/ROpm9qybDe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2091743159676236215",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 254,
+          "like_count": 11594,
+          "listed_count": 9,
+          "media_count": 261,
+          "tweet_count": 2854
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "I am Smirnova, I make programs :3 Bestie:@qianxunchan Sisters:@tangeorange @StarryNocts @Huang_Yut1ng @fukui_p26\nDeveloping https://t.co/pJ9VtdukHG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 41,
+                "username": "qianxunchan"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "tangeorange"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "StarryNocts"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "fukui_p26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 147,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 124,
+                "url": "https://t.co/pJ9VtdukHG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizukiakiyama.com",
+                "end": 23,
+                "expanded_url": "http://mizukiakiyama.com",
+                "start": 0,
+                "url": "https://t.co/YPl1rDnS6s"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091685490512757058",
+        "name": "寻寻",
+        "pinned_tweet_id": "2034816823921885638",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1982449259774656512/1784339298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078298418834018304/5_bmbU-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7929,
+          "following_count": 2775,
+          "like_count": 15285,
+          "listed_count": 15,
+          "media_count": 2619,
+          "tweet_count": 9876
+        },
+        "url": "https://t.co/YPl1rDnS6s",
+        "username": "smiroyama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

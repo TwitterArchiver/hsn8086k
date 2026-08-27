@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2091189099768283200",
+    "created_at": "2026-08-22T15:41:48.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T16:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091189099768283200"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CharlieAlaep/s…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/CharlieAlaep/status/2091053974174749007",
+          "start": 12,
+          "url": "https://t.co/kUjppIuGAn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091189099768283200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091053974174749007",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老大, 我也要是杯子吗 https://t.co/kUjppIuGAn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 652,
+        "media_key": "3_2091053967832965120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQTqgT7a4AAQd_N.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2091189099768283200",
+        "created_at": "2026-08-22T15:41:48.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091189099768283200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CharlieAlaep/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/CharlieAlaep/status/2091053974174749007",
+              "start": 12,
+              "url": "https://t.co/kUjppIuGAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091189099768283200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091053974174749007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老大, 我也要是杯子吗 https://t.co/kUjppIuGAn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091053967832965120"
+          ]
+        },
+        "author_id": "2063142694751285248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090699044620558532",
+        "created_at": "2026-08-22T06:44:52.000Z",
+        "display_text_range": [
+          24,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T07:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091053974174749007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 23,
+              "id": "1754494415152766976",
+              "start": 9,
+              "username": "IchinichiNagi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KSj3z67Hq",
+              "end": 51,
+              "expanded_url": "https://x.com/CharlieAlaep/status/2091053974174749007/photo/1",
+              "media_key": "3_2091053967832965120",
+              "start": 28,
+              "url": "https://t.co/0KSj3z67Hq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091053974174749007",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2091053967832965120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090699044620558532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @IchinichiNagi 😋😋😋 https://t.co/0KSj3z67Hq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2091189099768283200",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 254,
+          "like_count": 11567,
+          "listed_count": 9,
+          "media_count": 260,
+          "tweet_count": 2852
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T06:17:25.000Z",
+        "description": "无神论唯物主义者，反对纳粹反法西斯，反帝国主义，反霸权主义，你骂我和我的国家我会加倍还击，反正你也骂不过我",
+        "id": "2063142694751285248",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2091186379040739752",
+        "name": "Alan",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065005216143945729/K15oOK45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 30,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "CharlieAlaep",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2091184660554653827",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10589,
+          "following_count": 2325,
+          "like_count": 182217,
+          "listed_count": 20,
+          "media_count": 4084,
+          "tweet_count": 49890
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

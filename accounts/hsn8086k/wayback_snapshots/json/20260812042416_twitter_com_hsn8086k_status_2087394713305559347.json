@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2087104348035879394",
+    "created_at": "2026-08-12T04:24:16.000Z",
+    "display_text_range": [
+      15,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T05:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087394713305559347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1890423508389498880",
+          "start": 0,
+          "username": "ATRImydear520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087394713305559347",
+    "in_reply_to_user_id": "1890423508389498880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087356489354846671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ATRImydear520 那您懂什么是通用预训练生成器吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2087104348035879394",
+        "created_at": "2026-08-12T04:24:16.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087394713305559347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1890423508389498880",
+              "start": 0,
+              "username": "ATRImydear520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087394713305559347",
+        "in_reply_to_user_id": "1890423508389498880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087356489354846671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ATRImydear520 那您懂什么是通用预训练生成器吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890423508389498880",
+        "conversation_id": "2087104348035879394",
+        "created_at": "2026-08-12T01:52:22.000Z",
+        "display_text_range": [
+          10,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087356489354846671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087356489354846671",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087104348035879394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 英语不是专业学这个的看一个缩写谁看得懂 但中文就算完全没学过 也能知道这大概什么意思 有什么功能"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2087394713305559347",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 250,
+          "like_count": 11118,
+          "listed_count": 9,
+          "media_count": 253,
+          "tweet_count": 2795
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-14T15:31:12.000Z",
+        "description": "墙里面的人想出去 墙外面的人想进来",
+        "id": "1890423508389498880",
+        "is_identity_verified": false,
+        "location": "Kuala Lumpur, Wilayah Persekut",
+        "most_recent_tweet_id": "2087356489354846671",
+        "name": "水蜡烛水",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1890423508389498880/1757687196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059609226180468736/4J5C7Q6N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 81,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 668
+        },
+        "url": "",
+        "username": "ATRImydear520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

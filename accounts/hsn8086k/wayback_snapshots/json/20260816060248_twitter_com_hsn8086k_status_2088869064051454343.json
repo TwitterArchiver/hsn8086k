@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2088869064051454343",
+    "created_at": "2026-08-16T06:02:48.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T07:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088869064051454343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1527114974841012225",
+          "start": 3,
+          "username": "Kiger_YuQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088869064051454343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088812121043943482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kiger_YuQing: 我是hsn的朋友，当事人竞赛成绩无可非议，hsn自己被严重的竞赛戒断困扰，使用算法殴打与使用梗图殴打完全取因为当天有没有做算法优化导致，同时根本不存在hsn当天吃过什么巧乐兹加雪碧的证明…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2088869064051454343",
+        "created_at": "2026-08-16T06:02:48.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088869064051454343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1527114974841012225",
+              "start": 3,
+              "username": "Kiger_YuQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088869064051454343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088812121043943482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kiger_YuQing: 我是hsn的朋友，当事人竞赛成绩无可非议，hsn自己被严重的竞赛戒断困扰，使用算法殴打与使用梗图殴打完全取因为当天有没有做算法优化导致，同时根本不存在hsn当天吃过什么巧乐兹加雪碧的证明…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527114974841012225",
+        "conversation_id": "2088812121043943482",
+        "created_at": "2026-08-16T02:16:32.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T03:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088812121043943482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2088504472519733388",
+              "start": 94,
+              "url": "https://t.co/JNwJBmI2xp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088812121043943482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是hsn的朋友，当事人竞赛成绩无可非议，hsn自己被严重的竞赛戒断困扰，使用算法殴打与使用梗图殴打完全取因为当天有没有做算法优化导致，同时根本不存在hsn当天吃过什么巧乐兹加雪碧的证明  这是一件完全不复杂的hsn老图新发事件，不能围绕事件事实讨论的话没有被你们用来炒作毫不相关的饮料瓶子和T恤，给gh仓库疯狂点星的理由"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 340,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088504472519733388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是hsn的朋友，当事人竞赛成绩无可非议，hsn自己被严重的竞赛戒断困扰，使用算法殴打与使用梗图殴打完全取因为当天有没有做算法优化导致，同时根本不存在hsn当天吃过什么巧乐兹加雪碧的证明 https://t.co/JNwJBmI2xp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2088869064051454343",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 250,
+          "like_count": 11241,
+          "listed_count": 9,
+          "media_count": 256,
+          "tweet_count": 2817
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-19T02:32:44.000Z",
+        "description": "叫小雨丨清水不涩丨娃勤摄三位一体黄金冤种丨可约后勤/拍摄丨键政禁止丨头壳是自设+特蕾西娅丨暴躁社恐丨注孤的Aquarius丨INFP-T 4w5丨不首先不主动不礼貌丨只对友善的人友善丨记得带卡丨中日英OK",
+        "id": "1527114974841012225",
+        "is_identity_verified": false,
+        "location": "卡兹屯口垃姬桶",
+        "most_recent_tweet_id": "2088844232006222034",
+        "name": "咕咕雨",
+        "pinned_tweet_id": "2051280611957186870",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1527114974841012225/1783434915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074502462749507584/u9v96f39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2822,
+          "following_count": 845,
+          "like_count": 7480,
+          "listed_count": 16,
+          "media_count": 361,
+          "tweet_count": 7226
+        },
+        "url": "",
+        "username": "Kiger_YuQing",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

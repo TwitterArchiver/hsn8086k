@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2090776362055532840",
+    "created_at": "2026-08-21T19:01:03.000Z",
+    "display_text_range": [
+      30,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T20:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090876856845386227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757856240862900224",
+          "start": 0,
+          "username": "HulgaHulia40099"
+        },
+        {
+          "end": 29,
+          "id": "1649365408779214848",
+          "start": 17,
+          "username": "bolckAshley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090876856845386227",
+    "in_reply_to_user_id": "1757856240862900224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090841516440744096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HulgaHulia40099 @bolckAshley 我怎么就不是粉红骰子了()"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2090776362055532840",
+        "created_at": "2026-08-21T19:01:03.000Z",
+        "display_text_range": [
+          30,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T20:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090876856845386227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757856240862900224",
+              "start": 0,
+              "username": "HulgaHulia40099"
+            },
+            {
+              "end": 29,
+              "id": "1649365408779214848",
+              "start": 17,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090876856845386227",
+        "in_reply_to_user_id": "1757856240862900224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090841516440744096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HulgaHulia40099 @bolckAshley 我怎么就不是粉红骰子了()"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757856240862900224",
+        "conversation_id": "2090776362055532840",
+        "created_at": "2026-08-21T16:40:38.000Z",
+        "display_text_range": [
+          13,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T17:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090841516440744096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090841516440744096",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090776362055532840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley 从左到右从上到下：\n\n小孩，小孩，纯坏种小畜生\n\n沉沉浮浮的水母，满地球出差的富哥，小孩\n\n传奇好人，传奇神人，小孩\n\n营销号，粉红头子，营销号"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2090876856845386227",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 252,
+          "like_count": 11529,
+          "listed_count": 9,
+          "media_count": 259,
+          "tweet_count": 2843
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T19:56:16.000Z",
+        "description": "不用费力气查成分，直接告诉你我就是来看黄＆键政的。正在寻找漂亮男娘。 \n\n如果你觉得发色图玩淫趴磕rush就被判刑几年甚至十年是合理的，那你我之间无话可说。 \n\n你说得都对，我热爱的就是无法无天的自由，不服忍着。",
+        "id": "1757856240862900224",
+        "is_identity_verified": false,
+        "location": "君士坦丁堡",
+        "most_recent_tweet_id": "2090869777589764099",
+        "name": "不想取名字",
+        "pinned_tweet_id": "1772952790303662446",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757856240862900224/1780166865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995946821206556672/4zIVhnh1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 653,
+          "like_count": 7540,
+          "listed_count": 5,
+          "media_count": 57,
+          "tweet_count": 4612
+        },
+        "url": "",
+        "username": "HulgaHulia40099",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2090876817976725662",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083028573124988928/T-Nwypcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4419,
+          "following_count": 2256,
+          "like_count": 43918,
+          "listed_count": 31,
+          "media_count": 2031,
+          "tweet_count": 24301
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

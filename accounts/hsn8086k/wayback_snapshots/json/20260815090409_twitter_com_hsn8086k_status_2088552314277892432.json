@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2088552314277892432",
+    "created_at": "2026-08-15T09:04:09.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088552314277892432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SnozakiSakura/…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/SnozakiSakura/status/2088526651437293702",
+          "start": 21,
+          "url": "https://t.co/N3KTfTgXWy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088552314277892432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088526651437293702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能不能强化两次脑子, 我想成为超级做题区 https://t.co/N3KTfTgXWy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1566,
+        "media_key": "3_2088526645523304448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvv6ypa0AAKJ91.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2088552314277892432",
+        "created_at": "2026-08-15T09:04:09.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088552314277892432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SnozakiSakura/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/SnozakiSakura/status/2088526651437293702",
+              "start": 21,
+              "url": "https://t.co/N3KTfTgXWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088552314277892432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088526651437293702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能不能强化两次脑子, 我想成为超级做题区 https://t.co/N3KTfTgXWy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088526645523304448"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2088526651437293702",
+        "created_at": "2026-08-15T07:22:11.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088526651437293702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EYtwHZlsA9",
+              "end": 33,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2088526651437293702/photo/1",
+              "media_key": "3_2088526645523304448",
+              "start": 10,
+              "url": "https://t.co/EYtwHZlsA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088526651437293702",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088526645523304448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14546,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有个邪恶的想法💡 https://t.co/EYtwHZlsA9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2088552314277892432",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 250,
+          "like_count": 11215,
+          "listed_count": 9,
+          "media_count": 255,
+          "tweet_count": 2812
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "is_identity_verified": true,
+        "location": "魔女岛",
+        "most_recent_tweet_id": "2088550165879898535",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573704119516176384/1664107354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98370,
+          "following_count": 2645,
+          "like_count": 8133,
+          "listed_count": 207,
+          "media_count": 962,
+          "tweet_count": 4901
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

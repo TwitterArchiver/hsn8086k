@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2083577037680210159",
+    "created_at": "2026-08-01T15:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T16:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083577037680210159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huahuojiang_/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/huahuojiang_/status/2033393096109809993",
+          "start": 39,
+          "url": "https://t.co/bJBipTs9uP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083577037680210159",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033393096109809993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实容易. 但是如果我希望注册一百个, 那我还是选择去买. (后半句话题无关 https://t.co/bJBipTs9uP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2033392847060373504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDgQBWHakAAS31v.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2083577037680210159",
+        "created_at": "2026-08-01T15:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083577037680210159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huahuojiang_/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/huahuojiang_/status/2033393096109809993",
+              "start": 39,
+              "url": "https://t.co/bJBipTs9uP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083577037680210159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033393096109809993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实容易. 但是如果我希望注册一百个, 那我还是选择去买. (后半句话题无关 https://t.co/bJBipTs9uP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033392847060373504"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "2033393096109809993",
+        "created_at": "2026-03-16T04:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033393096109809993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJknCXxkgX",
+              "end": 46,
+              "expanded_url": "https://x.com/huahuojiang_/status/2033393096109809993/photo/1",
+              "media_key": "3_2033392847060373504",
+              "start": 23,
+              "url": "https://t.co/JJknCXxkgX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033393096109809993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 19652,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "什麼東西啊，谷歌帳號不是去註冊一個就有的嗎🤯 https://t.co/JJknCXxkgX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 247,
+          "like_count": 10818,
+          "listed_count": 9,
+          "media_count": 245,
+          "tweet_count": 2738
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2082929721827049868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7239,
+          "following_count": 3588,
+          "like_count": 104461,
+          "listed_count": 18,
+          "media_count": 9262,
+          "tweet_count": 102774
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

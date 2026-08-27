@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088556036198481920"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2088556042250842410",
+    "created_at": "2026-08-15T09:18:58.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088556042250842410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LMDqYHbh56",
+          "end": 23,
+          "expanded_url": "https://x.com/hsn8086k/status/2088556042250842410/photo/1",
+          "media_key": "3_2088556036198481920",
+          "start": 0,
+          "url": "https://t.co/LMDqYHbh56"
+        },
+        {
+          "display_url": "x.com/ma_zhenyuan/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ma_zhenyuan/status/2088424180186517577",
+          "start": 24,
+          "url": "https://t.co/vD0ULD13Dh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088556042250842410",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088556036198481920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088424180186517577",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/LMDqYHbh56 https://t.co/vD0ULD13Dh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 998,
+        "media_key": "3_2088556036198481920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwKpjcbwAASM0P.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1158,
+        "media_key": "3_2088303622266433536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPslFIRaMAAjaag.jpg",
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088556036198481920"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2088556042250842410",
+        "created_at": "2026-08-15T09:18:58.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088556042250842410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMDqYHbh56",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086k/status/2088556042250842410/photo/1",
+              "media_key": "3_2088556036198481920",
+              "start": 0,
+              "url": "https://t.co/LMDqYHbh56"
+            },
+            {
+              "display_url": "x.com/ma_zhenyuan/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ma_zhenyuan/status/2088424180186517577",
+              "start": 24,
+              "url": "https://t.co/vD0ULD13Dh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088556042250842410",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088556036198481920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088424180186517577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/LMDqYHbh56 https://t.co/vD0ULD13Dh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088303622266433536"
+          ]
+        },
+        "author_id": "848443388856750080",
+        "conversation_id": "2088424180186517577",
+        "created_at": "2026-08-15T00:35:00.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088424180186517577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vIyu2dccj6",
+              "end": 38,
+              "expanded_url": "https://x.com/ma_zhenyuan/status/2088424180186517577/photo/1",
+              "media_key": "3_2088303622266433536",
+              "start": 15,
+              "url": "https://t.co/vIyu2dccj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088424180186517577",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088303622266433536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9951,
+          "like_count": 150,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "东亚家庭的窒息感...... https://t.co/vIyu2dccj6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2088556042250842410",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 250,
+          "like_count": 11215,
+          "listed_count": 9,
+          "media_count": 256,
+          "tweet_count": 2813
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-02T07:54:02.000Z",
+        "description": "💰 哈工大本硕，大厂裸辞创业，赚得第一个100万 \n🚀 2026 ALL IN AI，用AI赚钱\n📖 公开分享：做的方法、踩的坑、获得的成果\n📨 闲聊、咨询，请私信",
+        "id": "848443388856750080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088555803812999563",
+        "name": "Miles.Ma",
+        "pinned_tweet_id": "2077753617420018097",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/848443388856750080/1779694601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031276304373620736/J73hCcnR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11994,
+          "following_count": 521,
+          "like_count": 7457,
+          "listed_count": 62,
+          "media_count": 1717,
+          "tweet_count": 8807
+        },
+        "url": "",
+        "username": "ma_zhenyuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086831270735343616"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2086831276787708341",
+    "created_at": "2026-08-10T15:05:22.000Z",
+    "display_text_range": [
+      0,
+      154
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:05:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086831276787708341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9W0KASZO7K",
+          "end": 178,
+          "expanded_url": "https://x.com/hsn8086k/status/2086831276787708341/photo/1",
+          "media_key": "3_2086831270735343616",
+          "start": 155,
+          "url": "https://t.co/9W0KASZO7K"
+        },
+        {
+          "display_url": "x.com/Hromezhao/stat…",
+          "end": 202,
+          "expanded_url": "https://twitter.com/Hromezhao/status/2086818029963477161",
+          "start": 179,
+          "url": "https://t.co/nkheEHqsdC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086831276787708341",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086831270735343616"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086818029963477161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦我们就按1.3算, 假设只肯出电费(快递费也只够电费了), 一般家宽上行理论也就50兆比特每秒, 假设一直能跑满不被网盘和运营商干, 大概需要3天整.\n但是假如需要传更多数据呢, 卡车运硬盘从来不是一个笑话, 很可能确实是最便宜的办法.\n\n解释: 图中的5来自: 50兆比特每秒去掉损耗大概是5兆字节每秒. https://t.co/9W0KASZO7K https://t.co/nkheEHqsdC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "3_2086831270735343616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXp-_ZbcAAkRfH.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086831270735343616"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2086831276787708341",
+        "created_at": "2026-08-10T15:05:22.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086831276787708341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9W0KASZO7K",
+              "end": 178,
+              "expanded_url": "https://x.com/hsn8086k/status/2086831276787708341/photo/1",
+              "media_key": "3_2086831270735343616",
+              "start": 155,
+              "url": "https://t.co/9W0KASZO7K"
+            },
+            {
+              "display_url": "x.com/Hromezhao/stat…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/Hromezhao/status/2086818029963477161",
+              "start": 179,
+              "url": "https://t.co/nkheEHqsdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086831276787708341",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086831270735343616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086818029963477161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦我们就按1.3算, 假设只肯出电费(快递费也只够电费了), 一般家宽上行理论也就50兆比特每秒, 假设一直能跑满不被网盘和运营商干, 大概需要3天整.\n但是假如需要传更多数据呢, 卡车运硬盘从来不是一个笑话, 很可能确实是最便宜的办法.\n\n解释: 图中的5来自: 50兆比特每秒去掉损耗大概是5兆字节每秒. https://t.co/9W0KASZO7K https://t.co/nkheEHqsdC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003256608122683392",
+        "conversation_id": "2086750453199720665",
+        "created_at": "2026-08-10T14:12:44.000Z",
+        "display_text_range": [
+          12,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086818029963477161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086818029963477161",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086750453199720665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__fanqie__ 帮自己和对方开个网盘会员这么难么？而且一个月两个人也就60块吧，最高等级的会员。如果是啥机密资料那就另说了，要保证绝密那就只能刻录或者用硬盘了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2086831276787708341",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 250,
+          "like_count": 11090,
+          "listed_count": 9,
+          "media_count": 253,
+          "tweet_count": 2787
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-23T00:09:48.000Z",
+        "description": "",
+        "id": "2003256608122683392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086818029963477161",
+        "name": "Hrome",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006587226956713984/sQRTtKTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 73,
+          "like_count": 2692,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "Hromezhao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

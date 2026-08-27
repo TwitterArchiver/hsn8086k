@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2084251002291781798",
+    "created_at": "2026-08-03T12:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084251002291781798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mizorewww/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/mizorewww/status/2084139007185932638",
+          "start": 12,
+          "url": "https://t.co/6ZMwoCmfXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084251002291781798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084139007185932638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以我们每天在玩升值器 https://t.co/6ZMwoCmfXr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1010,
+        "media_key": "3_2084138997094506496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxZYChbYAAx94f.jpg",
+        "width": 322
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2084251002291781798",
+        "created_at": "2026-08-03T12:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084251002291781798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/mizorewww/status/2084139007185932638",
+              "start": 12,
+              "url": "https://t.co/6ZMwoCmfXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084251002291781798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084139007185932638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我们每天在玩升值器 https://t.co/6ZMwoCmfXr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084138997094506496"
+          ]
+        },
+        "author_id": "1987885638038036480",
+        "conversation_id": "2084139007185932638",
+        "created_at": "2026-08-03T04:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084139007185932638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpXaCHhiyK",
+              "end": 23,
+              "expanded_url": "https://x.com/mizorewww/status/2084139007185932638/photo/1",
+              "media_key": "3_2084138997094506496",
+              "start": 0,
+              "url": "https://t.co/ZpXaCHhiyK"
+            },
+            {
+              "display_url": "x.com/mizorewww/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mizorewww/status/2084100773399634271",
+              "start": 24,
+              "url": "https://t.co/eU4ltabClr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084139007185932638",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1262,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084100773399634271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZpXaCHhiyK https://t.co/eU4ltabClr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 247,
+          "like_count": 10844,
+          "listed_count": 9,
+          "media_count": 245,
+          "tweet_count": 2741
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "08 大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ngroup: https://t.co/pqGQW3Ib4l\nemail: www@mizore.blog\ntelegram: https://t.co/yRGqdtAyza",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+DGSMTqhPGXkyM…",
+                "end": 73,
+                "expanded_url": "https://t.me/+DGSMTqhPGXkyM2E1",
+                "start": 50,
+                "url": "https://t.co/pqGQW3Ib4l"
+              },
+              {
+                "display_url": "t.me/aac6fef",
+                "end": 130,
+                "expanded_url": "http://t.me/aac6fef",
+                "start": 107,
+                "url": "https://t.co/yRGqdtAyza"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "location": "Crazy Universe ",
+        "name": "雨夹雪❄️ | echo 'cmF3X2RhdGEK'|base64 -d",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1568,
+          "following_count": 1008,
+          "like_count": 25531,
+          "listed_count": 3,
+          "media_count": 1066,
+          "tweet_count": 5549
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true
+      }
+    ]
+  }
+}

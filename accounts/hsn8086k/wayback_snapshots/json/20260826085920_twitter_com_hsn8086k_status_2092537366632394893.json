@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2092395252451844398",
+    "created_at": "2026-08-26T08:59:20.000Z",
+    "display_text_range": [
+      20,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092537366632394893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "394105946",
+          "start": 0,
+          "username": "Rypok"
+        },
+        {
+          "end": 19,
+          "id": "1998968758422179840",
+          "start": 7,
+          "username": "servasyy_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092537366632394893",
+    "in_reply_to_user_id": "394105946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092442876785693111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rypok @servasyy_ai 不是, 是女的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2092395252451844398",
+        "created_at": "2026-08-26T08:59:20.000Z",
+        "display_text_range": [
+          20,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092537366632394893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "394105946",
+              "start": 0,
+              "username": "Rypok"
+            },
+            {
+              "end": 19,
+              "id": "1998968758422179840",
+              "start": 7,
+              "username": "servasyy_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092537366632394893",
+        "in_reply_to_user_id": "394105946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092442876785693111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rypok @servasyy_ai 不是, 是女的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "394105946",
+        "conversation_id": "2092395252451844398",
+        "created_at": "2026-08-26T02:43:52.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092442876785693111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998968758422179840",
+              "start": 0,
+              "username": "servasyy_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092442876785693111",
+        "in_reply_to_user_id": "1998968758422179840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18917,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092395252451844398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@servasyy_ai 是女装大佬"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2092537366632394893",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 258,
+          "like_count": 11645,
+          "listed_count": 9,
+          "media_count": 262,
+          "tweet_count": 2857
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-10-19T15:43:09.000Z",
+        "description": "",
+        "id": "394105946",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092442876785693111",
+        "name": "Ethan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/394105946/1484852247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2580072373/pl0nwcd81nr7gfdgigi9_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 49,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "Rypok",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T04:11:24.000Z",
+        "description": "古早程序员 | AI出海 | 自由职业\n机车游侠&机速购&骑享租创始人\n15年前 freelance 起步 → 连续创业者 → 亏过1个亿，逆风翻盘中\n分享创业，AI，读书，生活，健身\nOfficial X channel of SERVASYY LLC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "servasyy.com",
+                "end": 23,
+                "expanded_url": "https://servasyy.com",
+                "start": 0,
+                "url": "https://t.co/pfeXMtOl0E"
+              }
+            ]
+          }
+        },
+        "id": "1998968758422179840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092520227573789141",
+        "name": "huangserva",
+        "pinned_tweet_id": "2091416214283379123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998968758422179840/1765426629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998970271458537475/jcT0J2z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37607,
+          "following_count": 730,
+          "like_count": 10852,
+          "listed_count": 490,
+          "media_count": 605,
+          "tweet_count": 5815
+        },
+        "url": "https://t.co/pfeXMtOl0E",
+        "username": "servasyy_ai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

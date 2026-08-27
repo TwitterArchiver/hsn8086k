@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2084300251821965649",
+    "created_at": "2026-08-04T04:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084504287405830330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007410591028391937",
+          "start": 0,
+          "username": "rkrkrk4474391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084504287405830330",
+    "in_reply_to_user_id": "2007410591028391937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084360859393069557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rkrkrk4474391 那就别宣传是一百, 纯纯欺骗消费者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2084300251821965649",
+        "created_at": "2026-08-04T04:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084504287405830330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007410591028391937",
+              "start": 0,
+              "username": "rkrkrk4474391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084504287405830330",
+        "in_reply_to_user_id": "2007410591028391937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084360859393069557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rkrkrk4474391 那就别宣传是一百, 纯纯欺骗消费者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007410591028391937",
+        "conversation_id": "2084300251821965649",
+        "created_at": "2026-08-03T19:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084360859393069557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084360859393069557",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 338,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084300251821965649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 单路都没有100w双路哪来的100w，你能提到充电器协议了对大概现在充电器能做到什么功率密度应该是有概念的，一个充电头就65w体积能跑100wpps2h不过载你觉得现实吗…你觉得神秘是因为今年酷态科太神秘了，出了一大堆烂的要命的玩意，倍思，安克，绿联都有产品力不错的产品，去了解一下吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2304,
+          "following_count": 247,
+          "like_count": 10874,
+          "listed_count": 9,
+          "media_count": 245,
+          "tweet_count": 2751
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-03T11:16:10.000Z",
+        "description": "",
+        "id": "2007410591028391937",
+        "name": "rkrkrk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052774741476618240/g-gvuqBm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 603,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "rkrkrk4474391",
+        "verified": false
+      }
+    ]
+  }
+}

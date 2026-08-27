@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2083358274225922146",
+    "created_at": "2026-08-01T01:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T02:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083358274225922146"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083358274225922146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "hsn0623 08:59:42\n为什么毕设都是做基于xx的管理系统\n\n有没有人做基于管理系统的管理系统\n\nhsn 09:00:57\n有没有人做基于管理系统的管理系统管理系统\n\n另外就是这个管理系统管理系统能不能管理管理系统管理系统\n\n这样就完成了自举!\n\n基于管理系统, 管理管理系统, 被管理系统管理!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2083358274225922146",
+        "created_at": "2026-08-01T01:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T02:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083358274225922146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083358274225922146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hsn0623 08:59:42\n为什么毕设都是做基于xx的管理系统\n\n有没有人做基于管理系统的管理系统\n\nhsn 09:00:57\n有没有人做基于管理系统的管理系统管理系统\n\n另外就是这个管理系统管理系统能不能管理管理系统管理系统\n\n这样就完成了自举!\n\n基于管理系统, 管理管理系统, 被管理系统管理!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 247,
+          "like_count": 10777,
+          "listed_count": 9,
+          "media_count": 243,
+          "tweet_count": 2727
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

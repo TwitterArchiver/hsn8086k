@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2090189559166636275",
+    "created_at": "2026-08-19T21:29:59.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T22:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090189559166636275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MaxForAI/statu…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/MaxForAI/status/2090052502897184973",
+          "start": 59,
+          "url": "https://t.co/an7QnQFYEm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090189559166636275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090052502897184973",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🚨突发: hsn 私聊疑似灰测新 hsn, 智商超越 max(gpt-5.6-sol-pro, mythos-5)🔥 https://t.co/an7QnQFYEm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2090051163572023297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFada8aMAEcmY4.jpg",
+        "width": 1182
+      },
+      {
+        "height": 1118,
+        "media_key": "3_2090051186921754624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFaex7a0AAe3F4.jpg",
+        "width": 2028
+      },
+      {
+        "height": 719,
+        "media_key": "3_2090051245184880640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFaiK-bkAAijB7.jpg",
+        "width": 957
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2090189559166636275",
+        "created_at": "2026-08-19T21:29:59.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090189559166636275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MaxForAI/statu…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/MaxForAI/status/2090052502897184973",
+              "start": 59,
+              "url": "https://t.co/an7QnQFYEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090189559166636275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090052502897184973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚨突发: hsn 私聊疑似灰测新 hsn, 智商超越 max(gpt-5.6-sol-pro, mythos-5)🔥 https://t.co/an7QnQFYEm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090051163572023297",
+            "3_2090051186921754624",
+            "3_2090051245184880640"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1884286926779191296",
+              "name": "DeepSeek"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2090052502897184973",
+        "created_at": "2026-08-19T12:25:22.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:20:25.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090051258103337193",
+          "2090052502897184973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 75,
+              "id": "1714580962569588736",
+              "start": 63,
+              "username": "deepseek_ai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWkRDesXtr",
+              "end": 188,
+              "expanded_url": "https://x.com/MaxForAI/status/2090052502897184973/photo/1",
+              "media_key": "3_2090051163572023297",
+              "start": 165,
+              "url": "https://t.co/tWkRDesXtr"
+            },
+            {
+              "display_url": "pic.x.com/tWkRDesXtr",
+              "end": 188,
+              "expanded_url": "https://x.com/MaxForAI/status/2090052502897184973/photo/1",
+              "media_key": "3_2090051186921754624",
+              "start": 165,
+              "url": "https://t.co/tWkRDesXtr"
+            },
+            {
+              "display_url": "pic.x.com/tWkRDesXtr",
+              "end": 188,
+              "expanded_url": "https://x.com/MaxForAI/status/2090052502897184973/photo/1",
+              "media_key": "3_2090051245184880640",
+              "start": 165,
+              "url": "https://t.co/tWkRDesXtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090052502897184973",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090051163572023297"
+          },
+          {
+            "media_key": "3_2090051186921754624"
+          },
+          {
+            "media_key": "3_2090051245184880640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 75,
+                "id": "1714580962569588736",
+                "start": 63,
+                "username": "deepseek_ai"
+              }
+            ]
+          },
+          "text": "🚨突发：DeepSeek 网页端Chat疑似灰测新模型，效果超越Fable🔥\n\n今天下午 2 点之后，国内社区陆续有人发现， @deepseek_ai  网页端 Chat 的输出行为突然发生了变化。\n\n最明显的信号是：部分账号的思维链里重新出现了「I'm doing...」。\n\n这个表达此前就被不少测试者当成 DeepSeek 最强灰测版本的模型指纹。\n\n今天还有用户反馈模型指纹发生变化，思维链的写法、思考节奏也和此前线上版本明显不同。\n\nB站已经有人开始连续录屏实测，L站也出现了相关测试。\n\n更夸张的是，从目前流出的测试来看，这一版在前端、3D、SVG 等任务上的表现似乎也有明显变化。\n\n有人直接把同类任务拿去和 Fable 5、Opus 5 对比，灰测版本的完成度相当高。\n\nDeepSeek V4-Pro-0813此前已经在网页端、App 和 API 全面上线。\n\n所以今天这波很可能是DeepSeek 正在现有 V4 Pro 之上，小范围 A/B 测试一套新的模型/后端。\n\n目前 DeepSeek 还没有针对这次变化发布新的官方公告，灰测也明显不是所有账号都有。\n\n熟悉的剧情又来了。\n\n模型还没发布，社区已经先把模型的指纹摸透了🤣"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 60213,
+          "like_count": 283,
+          "quote_count": 11,
+          "reply_count": 33,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "🚨突发：DeepSeek 网页端Chat疑似灰测新模型，效果超越Fable🔥\n\n今天下午 2 点之后，国内社区陆续有人发现， @deepseek_ai  网页端 Chat 的输出行为突然发生了变化。\n\n最明显的信号是：部分账号的思维链里重新出现了「I'm doing...」。\n\n这个表达此前就被不少测试者当成 DeepSeek https://t.co/tWkRDesXtr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2090189559166636275",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 250,
+          "like_count": 11483,
+          "listed_count": 9,
+          "media_count": 258,
+          "tweet_count": 2836
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2038488993130848256/PyVXwans_bigger.jpg",
+          "description": "LobeHub",
+          "url": "https://twitter.com/lobehub",
+          "user_id": [
+            "1707003452700930048"
+          ]
+        },
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业\n没啥好看的，也就发点AI相关的内容🫡\n\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n\n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "lobehub"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "listenhub"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6eGp0"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2090162794012516801",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2086799688666382808",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699797396589588480/1777493285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29246,
+          "following_count": 2753,
+          "like_count": 21369,
+          "listed_count": 265,
+          "media_count": 1401,
+          "tweet_count": 9738
+        },
+        "url": "https://t.co/Sl0Wv6eGp0",
+        "username": "MaxForAI",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

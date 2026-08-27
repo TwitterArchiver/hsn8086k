@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2085265766031786094",
+    "created_at": "2026-08-06T07:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T08:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085265766031786094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1618324076992548865",
+          "start": 3,
+          "username": "Rosmontis233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085265766031786094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084883359512293398",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rosmontis233: 退役半年多了还是很失望，感觉你校所谓“ACM实验室”属于是烂完了\n老队员成天不是校内比赛拿了个前几就拿着去对着小灯装b吹自己，就是对着代码指控小灯用AI，变量名写的长了点就是“你觉得你英语很好？”，两次交题时间间隔短那就是AI接手了，除了复读…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2085265766031786094",
+        "created_at": "2026-08-06T07:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085265766031786094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1618324076992548865",
+              "start": 3,
+              "username": "Rosmontis233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085265766031786094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084883359512293398",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rosmontis233: 退役半年多了还是很失望，感觉你校所谓“ACM实验室”属于是烂完了\n老队员成天不是校内比赛拿了个前几就拿着去对着小灯装b吹自己，就是对着代码指控小灯用AI，变量名写的长了点就是“你觉得你英语很好？”，两次交题时间间隔短那就是AI接手了，除了复读…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618324076992548865",
+        "conversation_id": "2084883359512293398",
+        "created_at": "2026-08-05T06:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084883359512293398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084883359512293398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12267,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "退役半年多了还是很失望，感觉你校所谓“ACM实验室”属于是烂完了\n老队员成天不是校内比赛拿了个前几就拿着去对着小灯装b吹自己，就是对着代码指控小灯用AI，变量名写的长了点就是“你觉得你英语很好？”，两次交题时间间隔短那就是AI接手了，除了复读“你自己心理清楚”p都放不出来一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 247,
+          "like_count": 10963,
+          "listed_count": 9,
+          "media_count": 246,
+          "tweet_count": 2761
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T19:05:09.000Z",
+        "description": "人｜大二｜🍥｜CB77 BBCD 4455 31AB CFEA 7149 2F72 C711 BB0F 4E78｜https://t.co/I60tmXcy7z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rosmontis233",
+                "end": 80,
+                "expanded_url": "http://t.me/Rosmontis233",
+                "start": 57,
+                "url": "https://t.co/I60tmXcy7z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/jyk4w3TKRn"
+              }
+            ]
+          }
+        },
+        "id": "1618324076992548865",
+        "location": "尤拉 IX - 统一合作关系部 办公署",
+        "name": "Rosmontic",
+        "pinned_tweet_id": "2018305302052151518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906737688025411584/NWUJFhEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 514,
+          "like_count": 8389,
+          "listed_count": 10,
+          "media_count": 716,
+          "tweet_count": 7498
+        },
+        "url": "https://t.co/jyk4w3TKRn",
+        "username": "Rosmontis233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2085475379670851654",
+    "created_at": "2026-08-06T21:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T22:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085475379670851654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chrisbanes/sta…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/chrisbanes/status/2085341561609425230",
+          "start": 82,
+          "url": "https://t.co/m28oaAjSN5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085475379670851654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085341561609425230",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对于这种问题我的建议是: 找一个免费的deepseek-v4-flash提供商, 并用反代工具把codex-auto-review这个模型id映射到dsv4f上. https://t.co/m28oaAjSN5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2085339201633976321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCc9I2XAAEogv5.png",
+        "width": 682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2085475379670851654",
+        "created_at": "2026-08-06T21:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T22:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085475379670851654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chrisbanes/sta…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/chrisbanes/status/2085341561609425230",
+              "start": 82,
+              "url": "https://t.co/m28oaAjSN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085475379670851654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085341561609425230",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于这种问题我的建议是: 找一个免费的deepseek-v4-flash提供商, 并用反代工具把codex-auto-review这个模型id映射到dsv4f上. https://t.co/m28oaAjSN5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085339201633976321"
+          ]
+        },
+        "author_id": "18872463",
+        "conversation_id": "2085341561609425230",
+        "created_at": "2026-08-06T12:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085341561609425230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1714438092655149056",
+              "start": 15,
+              "username": "ChatGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kA8PlPduPg",
+              "end": 300,
+              "expanded_url": "https://x.com/chrisbanes/status/2085341561609425230/photo/1",
+              "media_key": "3_2085339201633976321",
+              "start": 277,
+              "url": "https://t.co/kA8PlPduPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085341561609425230",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 23,
+                "id": "1714438092655149056",
+                "start": 15,
+                "username": "ChatGPT"
+              }
+            ]
+          },
+          "text": "Been seeing my @ChatGPT Codex quota reduce way too fast lately. After looking at analytics, ~95% of my turns are for `codex-auto-review` (aka Approve for Me)\n\nJust got Codex to look at my transcripts and it's used 1.74B tokens across 23.5k tool reviews over the past 6 weeks 🫨"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 59032,
+          "like_count": 601,
+          "quote_count": 13,
+          "reply_count": 87,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Been seeing my @ChatGPT Codex quota reduce way too fast lately. After looking at analytics, ~95% of my turns are for `codex-auto-review` (aka Approve for Me)\n\nJust got Codex to look at my transcripts and it's used 1.74B tokens across 23.5k tool reviews over the past 6 weeks 🫨 https://t.co/kA8PlPduPg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 247,
+          "like_count": 11048,
+          "listed_count": 9,
+          "media_count": 246,
+          "tweet_count": 2767
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-11T17:12:53.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chrisbanes.me",
+                "end": 23,
+                "expanded_url": "https://chrisbanes.me",
+                "start": 0,
+                "url": "https://t.co/K1YNFxYlIs"
+              }
+            ]
+          }
+        },
+        "id": "18872463",
+        "location": "🇬🇧",
+        "name": "Chris Banes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014655509572317184/kTmms4wK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52360,
+          "following_count": 315,
+          "like_count": 5158,
+          "listed_count": 685,
+          "media_count": 803,
+          "tweet_count": 9851
+        },
+        "url": "https://t.co/K1YNFxYlIs",
+        "username": "chrisbanes",
+        "verified": true
+      }
+    ]
+  }
+}

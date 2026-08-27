@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2083291238678351976",
+    "created_at": "2026-08-01T05:12:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:12:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083420628401688871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1591864528987639808",
+          "start": 0,
+          "username": "Valsporous"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083420628401688871",
+    "in_reply_to_user_id": "1591864528987639808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083416300022616456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Valsporous 无法分成相等大小多人小组, 也就是人数是质数, 假如本题的前提是人数大于2, 那无论如何奇数+奇数就是偶数, 可以完成分组, 否则2+3无法分组."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2083291238678351976",
+        "created_at": "2026-08-01T05:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083420628401688871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1591864528987639808",
+              "start": 0,
+              "username": "Valsporous"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083420628401688871",
+        "in_reply_to_user_id": "1591864528987639808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083416300022616456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Valsporous 无法分成相等大小多人小组, 也就是人数是质数, 假如本题的前提是人数大于2, 那无论如何奇数+奇数就是偶数, 可以完成分组, 否则2+3无法分组."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591864528987639808",
+        "conversation_id": "2083291238678351976",
+        "created_at": "2026-08-01T04:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083416300022616456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083416300022616456",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083291238678351976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 请完成以下小学数学题： \n一组小朋友在一起玩耍，他们试图分成人数相等的多人小组却发现无法做到。这时另一组小朋友也来到这里，他们也有同样的烦恼。凯西叔叔想帮助小朋友，于是将这两组小朋友混在一起，分成了人数相等的两队。请证明聪明的凯西叔叔在无论这两组小朋友有多少人的情况下都能完成分组。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 247,
+          "like_count": 10790,
+          "listed_count": 9,
+          "media_count": 244,
+          "tweet_count": 2732
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-13T18:44:33.000Z",
+        "description": "蓝烟/M0st1Ma\n莫斯提马激推\n活跃于泛珠三角的音游痴\n办过一些展，参过一些会\n🇲🇴研究生攻读中",
+        "id": "1591864528987639808",
+        "name": "蓝烟御柳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075967649939693568/6fjUTZYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 101,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "Valsporous",
+        "verified": false
+      }
+    ]
+  }
+}

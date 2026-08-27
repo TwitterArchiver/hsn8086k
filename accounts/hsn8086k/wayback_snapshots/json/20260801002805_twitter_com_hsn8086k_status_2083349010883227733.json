@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2083349010883227733",
+    "created_at": "2026-08-01T00:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T01:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083349010883227733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0x_dcgbb/statu…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/0x_dcgbb/status/2083138983413063856",
+          "start": 130,
+          "url": "https://t.co/FJTP7V4AV6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083349010883227733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083138983413063856",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "问题是没讲到点子上, 但是讲到点子上又太难了, 学 c 能学到最差异化的东西是指针内存分配这些东西, 但是学校根本不会细教这些东西, 但是话又说回来, 你不能指望一个上大学之前没接触过电脑的新生能学会内存分配, 但是又又说回来, 为什么不更加合理的安排课程呢 https://t.co/FJTP7V4AV6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 660,
+        "media_key": "3_2083138979143274496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjL3VWa0AAURJY.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2083349010883227733",
+        "created_at": "2026-08-01T00:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083349010883227733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0x_dcgbb/statu…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/0x_dcgbb/status/2083138983413063856",
+              "start": 130,
+              "url": "https://t.co/FJTP7V4AV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083349010883227733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083138983413063856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "问题是没讲到点子上, 但是讲到点子上又太难了, 学 c 能学到最差异化的东西是指针内存分配这些东西, 但是学校根本不会细教这些东西, 但是话又说回来, 你不能指望一个上大学之前没接触过电脑的新生能学会内存分配, 但是又又说回来, 为什么不更加合理的安排课程呢 https://t.co/FJTP7V4AV6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083138979143274496"
+          ]
+        },
+        "author_id": "1404733302607581184",
+        "conversation_id": "2083138983413063856",
+        "created_at": "2026-07-31T10:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083138983413063856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5iw2WW8mU",
+              "end": 49,
+              "expanded_url": "https://x.com/0x_dcgbb/status/2083138983413063856/photo/1",
+              "media_key": "3_2083138979143274496",
+              "start": 26,
+              "url": "https://t.co/s5iw2WW8mU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083138983413063856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 32037,
+          "like_count": 96,
+          "quote_count": 2,
+          "reply_count": 98,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "80%的学校还在给新生上C语言，是他们OUT了吗？ https://t.co/s5iw2WW8mU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2307,
+          "following_count": 247,
+          "like_count": 10773,
+          "listed_count": 9,
+          "media_count": 243,
+          "tweet_count": 2726
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-15T09:31:47.000Z",
+        "description": "Web3投研｜韭菜交易员｜X创作者｜娱乐冲浪｜ #lovetesla",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 24,
+                "tag": "lovetesla"
+              }
+            ]
+          }
+        },
+        "id": "1404733302607581184",
+        "name": "曾经是个赌神",
+        "pinned_tweet_id": "1962183240015647003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014648747712708608/ir5pOkBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11490,
+          "following_count": 5543,
+          "like_count": 109198,
+          "listed_count": 39,
+          "media_count": 186,
+          "tweet_count": 114050
+        },
+        "url": "",
+        "username": "0x_dcgbb",
+        "verified": true
+      }
+    ]
+  }
+}

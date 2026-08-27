@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2090873979917697381",
+    "created_at": "2026-08-21T18:49:38.000Z",
+    "display_text_range": [
+      0,
+      152
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T19:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090873979917697381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/haku_dabai/sta…",
+          "end": 176,
+          "expanded_url": "https://twitter.com/haku_dabai/status/2090662482713145698",
+          "start": 153,
+          "url": "https://t.co/Dp4hZAJsI7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090873979917697381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090662482713145698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纵然跟着随便一个牌子就可以到达目的地, 但是推主所描述的, 只是这个站点设计的缺陷, ta并没有表达过他被绕晕了, 也没追捧过日本等地铁, 却总有人拿这些不存在的观点来攻击.\n我也见到过\"Train\" \"Metro\" \"Subway\"同时出现在我的视野里, 我不困惑, 但是觉得好笑, 觉得设计者很失败. https://t.co/Dp4hZAJsI7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2090662459908698112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOGbjQaMAAetPi.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2090873979917697381",
+        "created_at": "2026-08-21T18:49:38.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T19:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090873979917697381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/haku_dabai/sta…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/haku_dabai/status/2090662482713145698",
+              "start": 153,
+              "url": "https://t.co/Dp4hZAJsI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090873979917697381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090662482713145698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纵然跟着随便一个牌子就可以到达目的地, 但是推主所描述的, 只是这个站点设计的缺陷, ta并没有表达过他被绕晕了, 也没追捧过日本等地铁, 却总有人拿这些不存在的观点来攻击.\n我也见到过\"Train\" \"Metro\" \"Subway\"同时出现在我的视野里, 我不困惑, 但是觉得好笑, 觉得设计者很失败. https://t.co/Dp4hZAJsI7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090662459908698112"
+          ]
+        },
+        "author_id": "1605171476881371136",
+        "conversation_id": "2090662482713145698",
+        "created_at": "2026-08-21T04:49:13.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T05:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090662482713145698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nkkv8JE7rF",
+              "end": 38,
+              "expanded_url": "https://x.com/haku_dabai/status/2090662482713145698/photo/1",
+              "media_key": "3_2090662459908698112",
+              "start": 15,
+              "url": "https://t.co/Nkkv8JE7rF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090662482713145698",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090662459908698112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 239982,
+          "like_count": 1061,
+          "quote_count": 7,
+          "reply_count": 358,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "上海地铁，你他妈到底在说什么 https://t.co/Nkkv8JE7rF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2090873979917697381",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 252,
+          "like_count": 11528,
+          "listed_count": 9,
+          "media_count": 259,
+          "tweet_count": 2842
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-20T12:01:24.000Z",
+        "description": "热爱和梦想，希望和勇气Ⅱ 里@haku_uchi | 小中@dontbesadforit | 中文/日本語 OK，English 苦手 | ENFP-T | 天才化学少女 | vup预备中 | N2备考中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "haku_uchi"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "dontbesadforit"
+              }
+            ]
+          }
+        },
+        "id": "1605171476881371136",
+        "is_identity_verified": false,
+        "location": "距你3.2km",
+        "most_recent_tweet_id": "2090666342370443713",
+        "name": "haku-大白",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605171476881371136/1730541111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018329763514085376/DRsKluvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 1559,
+          "like_count": 21680,
+          "listed_count": 10,
+          "media_count": 1278,
+          "tweet_count": 18351
+        },
+        "url": "",
+        "username": "haku_dabai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

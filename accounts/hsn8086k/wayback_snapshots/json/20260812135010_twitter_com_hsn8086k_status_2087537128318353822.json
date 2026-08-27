@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2087537128318353822",
+    "created_at": "2026-08-12T13:50:10.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T14:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087537128318353822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xTheo520/stat…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/0xTheo520/status/2087407984003383364",
+          "start": 72,
+          "url": "https://t.co/amhUfzUoZS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087537128318353822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087407984003383364",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也有可能, 你帮助了你认为值得的人, 他活到了结婚生子的年龄, 把基因遗传下去了, 你的基因可能没得到保存, 但你为进化投出了独属于你的选票. https://t.co/amhUfzUoZS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2087537128318353822",
+        "created_at": "2026-08-12T13:50:10.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T14:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087537128318353822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xTheo520/stat…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/0xTheo520/status/2087407984003383364",
+              "start": 72,
+              "url": "https://t.co/amhUfzUoZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087537128318353822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087407984003383364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也有可能, 你帮助了你认为值得的人, 他活到了结婚生子的年龄, 把基因遗传下去了, 你的基因可能没得到保存, 但你为进化投出了独属于你的选票. https://t.co/amhUfzUoZS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870818143071059968",
+        "conversation_id": "2087407984003383364",
+        "created_at": "2026-08-12T05:17:00.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T06:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087407984003383364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087407984003383364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 56378,
+          "like_count": 239,
+          "quote_count": 9,
+          "reply_count": 309,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一个小众的冷知识：\n\n如果你选择不生小孩，从进化论的角度，你的基因就被自然选择给淘汰了，证明你个体的基因无法适应当前的环境"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2087537128318353822",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 250,
+          "like_count": 11155,
+          "listed_count": 9,
+          "media_count": 254,
+          "tweet_count": 2800
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T13:06:24.000Z",
+        "description": "段子手｜梗图｜人间观察 | 认知提升 | 洞察人性 | 精神状态领先全网\n尊重他人命运，放下助人情结，伸手会带来厄运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Theo520",
+                "end": 23,
+                "expanded_url": "http://t.me/Theo520",
+                "start": 0,
+                "url": "https://t.co/YpPMXCyH95"
+              }
+            ]
+          }
+        },
+        "id": "1870818143071059968",
+        "is_identity_verified": false,
+        "location": "不含任何建议",
+        "most_recent_tweet_id": "2087537108051546142",
+        "name": "Theo",
+        "pinned_tweet_id": "2086827408418832775",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080976108166791169/IlxXd3m9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3850,
+          "following_count": 2419,
+          "like_count": 3636,
+          "listed_count": 9,
+          "media_count": 184,
+          "tweet_count": 4666
+        },
+        "url": "https://t.co/YpPMXCyH95",
+        "username": "0xTheo520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

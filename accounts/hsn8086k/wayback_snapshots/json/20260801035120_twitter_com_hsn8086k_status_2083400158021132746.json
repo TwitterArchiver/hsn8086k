@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2083291238678351976",
+    "created_at": "2026-08-01T03:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083400158021132746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1170107964834926592",
+          "start": 0,
+          "username": "Freedom_Lian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083400158021132746",
+    "in_reply_to_user_id": "1170107964834926592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083398174077505618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freedom_Lian 好题, 这个有意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2083291238678351976",
+        "created_at": "2026-08-01T03:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083400158021132746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1170107964834926592",
+              "start": 0,
+              "username": "Freedom_Lian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083400158021132746",
+        "in_reply_to_user_id": "1170107964834926592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083398174077505618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freedom_Lian 好题, 这个有意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1170107964834926592",
+        "conversation_id": "2083291238678351976",
+        "created_at": "2026-08-01T03:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083398174077505618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083398174077505618",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083291238678351976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 张三浦让李田所和木村买苹果，并要求两人总共买偶数个苹果。黑店老板谷冈只卖给每人素数个苹果，请问张三浦的要求是否一定能被满足"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2306,
+          "following_count": 247,
+          "like_count": 10784,
+          "listed_count": 9,
+          "media_count": 244,
+          "tweet_count": 2731
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-06T22:54:21.000Z",
+        "description": "欢迎在下面的steam商店把《鸟吃虫子》加入愿望单。Discord不定期和好厚米聊游戏：https://t.co/OWvUVz2Ju2 我亲自实名上网 @chemgeeklian",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "chemgeeklian"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/Edj7gc3jMR",
+                "end": 67,
+                "expanded_url": "https://discord.gg/Edj7gc3jMR",
+                "start": 44,
+                "url": "https://t.co/OWvUVz2Ju2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/4612530/",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/app/4612530/",
+                "start": 0,
+                "url": "https://t.co/e0J7b8O2tG"
+              }
+            ]
+          }
+        },
+        "id": "1170107964834926592",
+        "location": "Chicago",
+        "name": "Freedom_Lian",
+        "pinned_tweet_id": "2050048708830540151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027058795063508992/wJSGcSlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3524,
+          "following_count": 446,
+          "like_count": 17512,
+          "listed_count": 20,
+          "media_count": 2430,
+          "tweet_count": 16968
+        },
+        "url": "https://t.co/e0J7b8O2tG",
+        "username": "Freedom_Lian",
+        "verified": false
+      }
+    ]
+  }
+}
