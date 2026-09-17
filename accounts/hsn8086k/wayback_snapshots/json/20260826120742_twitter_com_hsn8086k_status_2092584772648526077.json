@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2092534145398501721",
+    "created_at": "2026-08-26T12:07:42.000Z",
+    "display_text_range": [
+      14,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092584772648526077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929536282004443136",
+          "start": 0,
+          "username": "misaka_14377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092584772648526077",
+    "in_reply_to_user_id": "1929536282004443136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092584412798169124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misaka_14377 我用最简单最直接的方式告诉你, 你说的完全正确, 这就是完完全全原生的安卓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2092534145398501721",
+        "created_at": "2026-08-26T12:07:42.000Z",
+        "display_text_range": [
+          14,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092584772648526077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929536282004443136",
+              "start": 0,
+              "username": "misaka_14377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092584772648526077",
+        "in_reply_to_user_id": "1929536282004443136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092584412798169124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaka_14377 我用最简单最直接的方式告诉你, 你说的完全正确, 这就是完完全全原生的安卓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929536282004443136",
+        "conversation_id": "2092534145398501721",
+        "created_at": "2026-08-26T12:06:17.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092584412798169124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092584412798169124",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092534145398501721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 这是原生吧（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2092584772648526077",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 260,
+          "like_count": 11664,
+          "listed_count": 9,
+          "media_count": 262,
+          "tweet_count": 2861
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-02T13:51:37.000Z",
+        "description": "kiger 刻晴/荧/可能的neuro手搓中\n学地理吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://www.114514.com",
+                "start": 0,
+                "url": "https://t.co/B2iCjipLE9"
+              }
+            ]
+          }
+        },
+        "id": "1929536282004443136",
+        "is_identity_verified": false,
+        "location": "虚假之天",
+        "most_recent_tweet_id": "2092584412798169124",
+        "name": "丹霞²",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929536282004443136/1774618298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037513224191639552/0HKmCLik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 512,
+          "like_count": 4012,
+          "listed_count": 9,
+          "media_count": 263,
+          "tweet_count": 2220
+        },
+        "url": "https://t.co/B2iCjipLE9",
+        "username": "misaka_14377",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

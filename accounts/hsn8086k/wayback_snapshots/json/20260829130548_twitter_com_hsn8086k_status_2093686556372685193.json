@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2093686556372685193",
+    "created_at": "2026-08-29T13:05:48.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T14:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093686556372685193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DurantRaym9367…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/DurantRaym93677/status/2093634958355320910",
+          "start": 85,
+          "url": "https://t.co/XTNUEVUx43"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093686556372685193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093634958355320910",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想做一次中国校领导. 删一些校规增加一些假期, 并且用联考成绩算期望排名与实际排名的残差, 学习tibo, 与外校对比每上涨一定的rating重置一次周末额度. (? https://t.co/XTNUEVUx43"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2093686556372685193",
+        "created_at": "2026-08-29T13:05:48.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093686556372685193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DurantRaym9367…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/DurantRaym93677/status/2093634958355320910",
+              "start": 85,
+              "url": "https://t.co/XTNUEVUx43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093686556372685193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093634958355320910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想做一次中国校领导. 删一些校规增加一些假期, 并且用联考成绩算期望排名与实际排名的残差, 学习tibo, 与外校对比每上涨一定的rating重置一次周末额度. (? https://t.co/XTNUEVUx43"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699273459325390848",
+        "conversation_id": "2093634958355320910",
+        "created_at": "2026-08-29T09:40:46.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093634958355320910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093634958355320910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4600,
+          "like_count": 205,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "好想当一次中国的校领导啊。购买一些石头，定下一些校规，剪短一些头发。没事干就整点上学不让带书包 垃圾桶不让有垃圾的规定"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2093686556372685193",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 262,
+          "like_count": 11850,
+          "listed_count": 9,
+          "media_count": 264,
+          "tweet_count": 2896
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼🔑裏: @AmmieColl84391 / 🌠サブ: @AuroraYume (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @Chiyorin0908",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "AuroraYume"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "enchenia"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "Chiyorin0908"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2093669850384396512",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "2090879240283869251",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699273459325390848/1738540793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3728,
+          "following_count": 4307,
+          "like_count": 53596,
+          "listed_count": 17,
+          "media_count": 643,
+          "tweet_count": 13002
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2095163163906101727",
+    "created_at": "2026-09-02T14:53:19.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095163163906101727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Im_Just__Girl/…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/Im_Just__Girl/status/2094973680250159226",
+          "start": 103,
+          "url": "https://t.co/1xWlLyUKBx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095163163906101727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094973680250159226",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到极端&lt;动作占位符&gt;&lt;人物占位符1&gt;的&lt;人物占位符2&gt;我真的会下意识替&lt;人称占位符&gt;身边的&lt;人物占位符1&gt;感到&lt;心情/感觉占位符&gt; https://t.co/1xWlLyUKBx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2095163163906101727",
+        "created_at": "2026-09-02T14:53:19.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095163163906101727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/2094973680250159226",
+              "start": 103,
+              "url": "https://t.co/1xWlLyUKBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095163163906101727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094973680250159226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到极端&lt;动作占位符&gt;&lt;人物占位符1&gt;的&lt;人物占位符2&gt;我真的会下意识替&lt;人称占位符&gt;身边的&lt;人物占位符1&gt;感到&lt;心情/感觉占位符&gt; https://t.co/1xWlLyUKBx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2094973680250159226",
+        "created_at": "2026-09-02T02:20:22.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T03:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094973680250159226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/carpediemx01/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/carpediemx01/status/2094786912309620886",
+              "start": 33,
+              "url": "https://t.co/bVLGHds86r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094973680250159226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8658,
+          "like_count": 386,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094786912309620886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到发表极端厌男言论的女的我真的会下意识替它身边的男性感到恶寒… https://t.co/bVLGHds86r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2095163163906101727",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 265,
+          "like_count": 11922,
+          "listed_count": 9,
+          "media_count": 266,
+          "tweet_count": 2914
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的有机小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧04|🌈|OD雌二醇|反生育主义，繁殖狂拉黑|terf暴毙",
+        "id": "1445400963632750596",
+        "is_identity_verified": false,
+        "location": "Girls Home",
+        "most_recent_tweet_id": "2095018896814395511",
+        "name": "Danielle",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445400963632750596/1756384462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 976,
+          "like_count": 14386,
+          "listed_count": 5,
+          "media_count": 158,
+          "tweet_count": 7672
+        },
+        "url": "",
+        "username": "Im_Just__Girl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2092699364129231129",
+    "created_at": "2026-08-27T04:15:28.000Z",
+    "display_text_range": [
+      10,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T05:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092828317112315984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1478146235756576770",
+          "start": 0,
+          "username": "UNN_Owen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092828317112315984",
+    "in_reply_to_user_id": "1478146235756576770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092700863307588003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UNN_Owen 不能问一些模糊的没标准答案的问题, ai在这方面很差劲."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_2092700852381429760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrEVm9aMAA_40k.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2092699364129231129",
+        "created_at": "2026-08-27T04:15:28.000Z",
+        "display_text_range": [
+          10,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092828317112315984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1478146235756576770",
+              "start": 0,
+              "username": "UNN_Owen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092828317112315984",
+        "in_reply_to_user_id": "1478146235756576770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092700863307588003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UNN_Owen 不能问一些模糊的没标准答案的问题, ai在这方面很差劲."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092700852381429760"
+          ]
+        },
+        "author_id": "1478146235756576770",
+        "conversation_id": "2092699364129231129",
+        "created_at": "2026-08-26T19:49:00.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092700863307588003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BevsX1cdDe",
+              "end": 46,
+              "expanded_url": "https://x.com/UNN_Owen/status/2092700863307588003/photo/1",
+              "media_key": "3_2092700852381429760",
+              "start": 23,
+              "url": "https://t.co/BevsX1cdDe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092700863307588003",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092700852381429760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092699364129231129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 但是大多数情况是这样的（ https://t.co/BevsX1cdDe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2092828317112315984",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2386,
+          "following_count": 259,
+          "like_count": 11685,
+          "listed_count": 9,
+          "media_count": 262,
+          "tweet_count": 2864
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-03T23:28:29.000Z",
+        "description": "梦想成为星璃璃二世",
+        "id": "1478146235756576770",
+        "is_identity_verified": false,
+        "location": "Z57/60系统",
+        "most_recent_tweet_id": "2092825301013463172",
+        "name": "The Nameless Belkan Catgirl",
+        "pinned_tweet_id": "2006400356469846046",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1478146235756576770/1775144254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074219716143669248/yR3Fbx1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 259,
+          "like_count": 11517,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 2301
+        },
+        "url": "",
+        "username": "UNN_Owen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

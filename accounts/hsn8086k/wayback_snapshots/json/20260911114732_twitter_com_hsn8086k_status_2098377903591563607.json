@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2098377903591563607",
+    "created_at": "2026-09-11T11:47:32.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T12:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098377903591563607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086k/statu…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/hsn8086k/status/2098367436143894606",
+          "start": 53,
+          "url": "https://t.co/HdXFH6ZnD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098377903591563607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098367436143894606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还是很怀念, 也很唏嘘呐. 很少能有这样感觉, 被时代拖着往前走. 即使当时早早的了解到了这些东西... https://t.co/HdXFH6ZnD7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 710,
+        "media_key": "3_2098367426836807680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR7mDpzbwAAKf9Q.jpg",
+        "width": 1316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2098377903591563607",
+        "created_at": "2026-09-11T11:47:32.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098377903591563607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086k/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/hsn8086k/status/2098367436143894606",
+              "start": 53,
+              "url": "https://t.co/HdXFH6ZnD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098377903591563607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098367436143894606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是很怀念, 也很唏嘘呐. 很少能有这样感觉, 被时代拖着往前走. 即使当时早早的了解到了这些东西... https://t.co/HdXFH6ZnD7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098367426836807680"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2098367436143894606",
+        "created_at": "2026-09-11T11:05:57.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098367436143894606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JcTbevYnQS",
+              "end": 131,
+              "expanded_url": "https://x.com/hsn8086k/status/2098367436143894606/photo/1",
+              "media_key": "3_2098367426836807680",
+              "start": 108,
+              "url": "https://t.co/JcTbevYnQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098367436143894606",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098367426836807680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对吗, 像回到了第一次接触NLP的时候...\n有点怀念吧, 但是每次和别人聊起来以前的lstm gru bert, 就像孔乙己在说: 茴字有四样写法, 你知道么?\n怀念吧, 也对自己只会玩而并没有学的很精而唏嘘吧. https://t.co/JcTbevYnQS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2098377903591563607",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2402,
+          "following_count": 273,
+          "like_count": 12042,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 2945
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

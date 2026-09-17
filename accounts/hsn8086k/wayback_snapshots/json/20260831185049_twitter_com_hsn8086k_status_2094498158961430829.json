@@ -1,0 +1,633 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Google Maps",
+          "id": "1006154112021377024",
+          "name": "Google Maps"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "GPS & Maps",
+          "id": "1037076248877395968",
+          "name": "GPS and maps"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10043701926",
+          "name": "Google Maps"
+        }
+      }
+    ],
+    "conversation_id": "2094498158961430829",
+    "created_at": "2026-08-31T18:50:49.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T19:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094498158961430829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kyronis_talks/…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/kyronis_talks/status/2094307335237951713",
+          "start": 34,
+          "url": "https://t.co/KvmEEke5Zt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094498158961430829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094307335237951713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "* 转发到a批群里\n群友: 多久之前的旧文了\n\n次对话来自于半年前 https://t.co/KvmEEke5Zt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11533,
+        "height": 1280,
+        "media_key": "13_2094307295085891584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094307295085891584/img/gdxyQLIf80st-RbP.jpg",
+        "public_metrics": {
+          "view_count": 27780
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094307295085891584/vid/avc1/320x568/aUNFiREH2lwgAUqN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094307295085891584/vid/avc1/480x852/wSmEGlL7xYxXPhOD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094307295085891584/vid/avc1/720x1280/jSwh1Ogs52REk_3a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094307295085891584/pl/1wOLJduSpzoC2Y1H.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Maps",
+              "id": "1006154112021377024",
+              "name": "Google Maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043701926",
+              "name": "Google Maps"
+            }
+          }
+        ],
+        "conversation_id": "2094498158961430829",
+        "created_at": "2026-08-31T18:50:49.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094498158961430829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kyronis_talks/…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/kyronis_talks/status/2094307335237951713",
+              "start": 34,
+              "url": "https://t.co/KvmEEke5Zt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094498158961430829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094307335237951713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "* 转发到a批群里\n群友: 多久之前的旧文了\n\n次对话来自于半年前 https://t.co/KvmEEke5Zt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094307295085891584"
+          ]
+        },
+        "author_id": "1901793039766413312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google Maps",
+              "id": "1006154112021377024",
+              "name": "Google Maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043701926",
+              "name": "Google Maps"
+            }
+          }
+        ],
+        "conversation_id": "2094307335237951713",
+        "created_at": "2026-08-31T06:12:33.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094307335237951713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUo1TEd29y",
+              "end": 300,
+              "expanded_url": "https://x.com/kyronis_talks/status/2094307335237951713/video/1",
+              "media_key": "13_2094307295085891584",
+              "start": 277,
+              "url": "https://t.co/EUo1TEd29y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094307335237951713",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2094307295085891584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Chinese researchers have developed the best shortest-path algorithm in 41 years!\n\nDijkstra’s Algorithm has been the undefeated king of the shortest path for over 40 years.\n\nWhether you’re using Google Maps, booking a flight, or routing internet packets, Dijkstra is the engine running in the background.\n\nSince 1984, textbooks have taught that its efficiency was hit by a \"sorting barrier.\"\n\nTo find the shortest path, you have to sort the points by distance. And sorting has a mathematical floor you can’t cross.\n\nUntil now.\n\nA research team from Tsinghua University just published a paper that shatters the 41-year-old record.\n\nThey proved that Dijkstra is not optimal.\n\nBy combining the logic of the Bellman-Ford algorithm with a revolutionary \"recursive partial ordering\" method, they figured out how to find the path without fully sorting the nodes.\n\nThe results are a massive shift in theoretical computer science:\n\n- The first deterministic improvement to the Single-Source Shortest Path (SSSP) problem since 1984.\n\n- A new time complexity of $ O(m \\log^{2/3} n)$, officially beating the long-standing $ O(m + n \\log n)$ limit.\n\n- On massive sparse graphs (like the web or global logistics), this means finding the best route significantly faster than previously thought possible.\n\nFor four decades, the greatest minds in algorithms believed this limit was absolute.\n\nLast year, even the legendary Robert Tarjan won an award proving Dijkstra was \"optimally efficient\" at sorting distances.\n\nTsinghua’s answer? Stop sorting.\n\nThe world’s most settled problem is suddenly wide open again.\n\nIf we can break a 40-year-old law in basic graph theory, what other \"impossible\" speed limits are waiting to be crushed?"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 340,
+          "impression_count": 46298,
+          "like_count": 458,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "Chinese researchers have developed the best shortest-path algorithm in 41 years!\n\nDijkstra’s Algorithm has been the undefeated king of the shortest path for over 40 years.\n\nWhether you’re using Google Maps, booking a flight, or routing internet packets, Dijkstra is the engine https://t.co/EUo1TEd29y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2094498158961430829",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 263,
+          "like_count": 11895,
+          "listed_count": 9,
+          "media_count": 265,
+          "tweet_count": 2906
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-18T00:29:47.000Z",
+        "description": "AI & Tech Expert | Helping brands grow with AI 🚀\nOpen for paid collaborations \nDM or email: kumailsikandar55@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hyperagent.com/s/cPjeDjvSIzVO…",
+                "end": 23,
+                "expanded_url": "https://hyperagent.com/s/cPjeDjvSIzVOtiAnRGXEig",
+                "start": 0,
+                "url": "https://t.co/anTyF3M2Y0"
+              }
+            ]
+          }
+        },
+        "id": "1901793039766413312",
+        "is_identity_verified": true,
+        "location": "X",
+        "most_recent_tweet_id": "2094384725733613948",
+        "name": "Kyronis",
+        "pinned_tweet_id": "2093050497217495221",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901793039766413312/1774700899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037869339706368001/PahNBX_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27096,
+          "following_count": 77,
+          "like_count": 33852,
+          "listed_count": 134,
+          "media_count": 1001,
+          "tweet_count": 42968
+        },
+        "url": "https://t.co/anTyF3M2Y0",
+        "username": "kyronis_talks",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

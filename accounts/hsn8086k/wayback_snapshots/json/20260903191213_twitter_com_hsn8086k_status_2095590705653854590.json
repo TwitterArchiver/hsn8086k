@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2095590705653854590",
+    "created_at": "2026-09-03T19:12:13.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T20:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095590705653854590"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/muhendisIiktr/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/muhendisIiktr/status/2095376239275966689",
+          "start": 31,
+          "url": "https://t.co/ZwoZJO7x8v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095590705653854590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095376239275966689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "\"前方经过环岛从第二出口驶出\"\n: \"拓扑学还在攻击我?!\" https://t.co/ZwoZJO7x8v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12566,
+        "height": 534,
+        "media_key": "13_2095262483628048384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095262483628048384/img/afOZjqKtc4qiVg2K.jpg",
+        "public_metrics": {
+          "view_count": 1049973
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095262483628048384/vid/avc1/364x270/-w-GwYloB_-bA0Uw.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095262483628048384/vid/avc1/484x360/KosId7gQqCAcnFmp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095262483628048384/vid/avc1/720x534/3kdL68HqyvJV44lV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095262483628048384/pl/P6Uq3NcaFLdd8xcs.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2095590705653854590",
+        "created_at": "2026-09-03T19:12:13.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T20:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095590705653854590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/muhendisIiktr/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/muhendisIiktr/status/2095376239275966689",
+              "start": 31,
+              "url": "https://t.co/ZwoZJO7x8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095590705653854590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095376239275966689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"前方经过环岛从第二出口驶出\"\n: \"拓扑学还在攻击我?!\" https://t.co/ZwoZJO7x8v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095262483628048384"
+          ]
+        },
+        "author_id": "3319695471",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095376239275966689",
+        "created_at": "2026-09-03T05:00:00.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095376239275966689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eOgVNlVQXE",
+              "end": 81,
+              "expanded_url": "https://x.com/muhendisIiktr/status/2095376239275966689/video/1",
+              "media_key": "13_2095262483628048384",
+              "start": 58,
+              "url": "https://t.co/eOgVNlVQXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095376239275966689",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2095262483628048384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2056,
+          "impression_count": 1915472,
+          "like_count": 7712,
+          "quote_count": 279,
+          "reply_count": 822,
+          "retweet_count": 865
+        },
+        "reply_settings": "everyone",
+        "text": "Bir mühendisin trafik ışığına ihtiyaç duymadığı tasarımı. https://t.co/eOgVNlVQXE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2095590705653854590",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2402,
+          "following_count": 266,
+          "like_count": 11942,
+          "listed_count": 9,
+          "media_count": 266,
+          "tweet_count": 2918
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-11T21:55:11.000Z",
+        "description": "Mühendislikte yaratıcılık ve çözüm sanatları ⚙️💡\nİnovasyon, teknoloji ve dahiyane fikirler. Reklam ve İşbirliği için DM 📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/muhendislikk_",
+                "end": 23,
+                "expanded_url": "https://instagram.com/muhendislikk_",
+                "start": 0,
+                "url": "https://t.co/FX8R0dPFhi"
+              }
+            ]
+          }
+        },
+        "id": "3319695471",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095587633648767003",
+        "name": "Mühendislik Harikası",
+        "pinned_tweet_id": "2095497046488969482",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3319695471/1623923690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405464084192038916/CHPEFgFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586038,
+          "following_count": 19,
+          "like_count": 76123,
+          "listed_count": 542,
+          "media_count": 7159,
+          "tweet_count": 7573
+        },
+        "url": "https://t.co/FX8R0dPFhi",
+        "username": "muhendisIiktr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2093205190635897183",
+    "created_at": "2026-08-28T20:01:52.000Z",
+    "display_text_range": [
+      8,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T21:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093428875791564906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1815784833190395904",
+          "start": 0,
+          "username": "Ca_vuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093428875791564906",
+    "in_reply_to_user_id": "1815784833190395904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093426279840407584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ca_vuv 只是武汉尤其恶劣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2093205190635897183",
+        "created_at": "2026-08-28T20:01:52.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T21:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093428875791564906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1815784833190395904",
+              "start": 0,
+              "username": "Ca_vuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093428875791564906",
+        "in_reply_to_user_id": "1815784833190395904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093426279840407584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ca_vuv 只是武汉尤其恶劣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815784833190395904",
+        "conversation_id": "2093205190635897183",
+        "created_at": "2026-08-28T19:51:33.000Z",
+        "display_text_range": [
+          10,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T20:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093426279840407584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093426279840407584",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093205190635897183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 感觉全国都是呀，好多行人和司机根本不看灯的，电动车尤甚"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2093428875791564906",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396,
+          "following_count": 262,
+          "like_count": 11813,
+          "listed_count": 9,
+          "media_count": 264,
+          "tweet_count": 2886
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-23T16:23:47.000Z",
+        "description": "头像不是本人, 是个乐高积木",
+        "id": "1815784833190395904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093426279840407584",
+        "name": "苹果🍎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815784833190395904/1784324370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051687931992305664/sey2crUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 52,
+          "like_count": 2196,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "Ca_vuv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

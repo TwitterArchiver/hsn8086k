@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2100096670696657157",
+    "created_at": "2026-09-16T11:20:43.000Z",
+    "display_text_range": [
+      12,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T12:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100183091344199769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1257540561189302274",
+          "start": 0,
+          "username": "Minatooo_O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100183091344199769",
+    "in_reply_to_user_id": "1257540561189302274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100181257779048742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minatooo_O 不附带叉子就不能用叉子吃吗, 那他们是泡面附带筷子还是说用手抓着吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2100096670696657157",
+        "created_at": "2026-09-16T11:20:43.000Z",
+        "display_text_range": [
+          12,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100183091344199769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1257540561189302274",
+              "start": 0,
+              "username": "Minatooo_O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100183091344199769",
+        "in_reply_to_user_id": "1257540561189302274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100181257779048742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minatooo_O 不附带叉子就不能用叉子吃吗, 那他们是泡面附带筷子还是说用手抓着吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257540561189302274",
+        "conversation_id": "2100096670696657157",
+        "created_at": "2026-09-16T11:13:25.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100181257779048742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100181257779048742",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100096670696657157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 因为日本泡面不会附带叉子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2100183091344199769",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 273,
+          "like_count": 12057,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 2949
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-05T05:20:20.000Z",
+        "description": "学生|ACG|公路&轨道交通|地理好き|数学苦手|模拟经营|轻度galgame|音游|点赞bot|可爱🩷@Chinonya1 @KawaiiSmolChino @hikawarinaOvO 🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "Chinonya1"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "KawaiiSmolChino"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "username": "hikawarinaOvO"
+              }
+            ]
+          }
+        },
+        "id": "1257540561189302274",
+        "is_identity_verified": false,
+        "location": "某个阴暗的角落里",
+        "most_recent_tweet_id": "2100181257779048742",
+        "name": "MinatoOvO",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1257540561189302274/1725686931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950575474335498240/mtY1YqTM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 314,
+          "like_count": 39984,
+          "listed_count": 4,
+          "media_count": 256,
+          "tweet_count": 8187
+        },
+        "url": "",
+        "username": "Minatooo_O",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

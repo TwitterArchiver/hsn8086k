@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2096700399281721414",
+    "created_at": "2026-09-06T20:41:44.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T21:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096700399281721414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zoro58161443/s…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/zoro58161443/status/2096494672487264404",
+          "start": 116,
+          "url": "https://t.co/NBcmOW3bHr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096700399281721414",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096494672487264404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以后我也来, 开一个小号, 发一张几把, 发一张没几把, 发一条后悔割几把了, 不做其他任何互动.\n然后再开个小号, 说, \"虽然很同情,但是成年人要为自己的行为负责。\".\n然后再开个小号, 说\"以后我也来, 开一个小号...\". https://t.co/NBcmOW3bHr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2096494665226944512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRg-ylJagAAeJFc.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2096700399281721414",
+        "created_at": "2026-09-06T20:41:44.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096700399281721414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zoro58161443/s…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/zoro58161443/status/2096494672487264404",
+              "start": 116,
+              "url": "https://t.co/NBcmOW3bHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096700399281721414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096494672487264404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以后我也来, 开一个小号, 发一张几把, 发一张没几把, 发一条后悔割几把了, 不做其他任何互动.\n然后再开个小号, 说, \"虽然很同情,但是成年人要为自己的行为负责。\".\n然后再开个小号, 说\"以后我也来, 开一个小号...\". https://t.co/NBcmOW3bHr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096494665226944512"
+          ]
+        },
+        "author_id": "1376810138389028866",
+        "conversation_id": "2096494672487264404",
+        "created_at": "2026-09-06T07:04:15.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096494672487264404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PVml8idvNx",
+              "end": 165,
+              "expanded_url": "https://x.com/zoro58161443/status/2096494672487264404/photo/1",
+              "media_key": "3_2096494665226944512",
+              "start": 142,
+              "url": "https://t.co/PVml8idvNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096494672487264404",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096494665226944512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 687887,
+          "like_count": 892,
+          "quote_count": 5,
+          "reply_count": 590,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "虽然很同情，但是成年人要为自己的行为负责。还有那些准备想割的，或者说看了一些别人的视频，图片，就有那种冲动的，还是要慎重，这个没有后悔药的。我见了很多人都说不后悔不后悔，结果80%都会后悔的这个东西。不要被别人发的那些东西一时之间荷尔蒙冲上头了，冲昏了头脑。世界上没有后悔药，兄弟们 https://t.co/PVml8idvNx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2096700399281721414",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 270,
+          "like_count": 11985,
+          "listed_count": 10,
+          "media_count": 266,
+          "tweet_count": 2931
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-30T08:15:02.000Z",
+        "description": "我是一條會飛的鹹魚",
+        "id": "1376810138389028866",
+        "is_identity_verified": false,
+        "location": "Kowloon City District",
+        "most_recent_tweet_id": "2096499723477934463",
+        "name": "Ox_Ford",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977408669718630400/Ihr_pkyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1494,
+          "following_count": 120,
+          "like_count": 1772,
+          "listed_count": 5,
+          "media_count": 4,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "zoro58161443",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

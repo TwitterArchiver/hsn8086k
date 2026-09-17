@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2100202824688935176",
+    "created_at": "2026-09-16T12:39:07.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T13:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100202824688935176"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_maxfeldman/st…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/_maxfeldman/status/2100114553040433381",
+          "start": 57,
+          "url": "https://t.co/QvXCF11IXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100202824688935176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100114553040433381",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起nlogn乘法, 常数是大了亿点, 但是你就说是不是nlogn吧.\n这个也是, 你就说是不是多项式复杂度吧. https://t.co/QvXCF11IXF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2100202824688935176",
+        "created_at": "2026-09-16T12:39:07.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100202824688935176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_maxfeldman/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/_maxfeldman/status/2100114553040433381",
+              "start": 57,
+              "url": "https://t.co/QvXCF11IXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100202824688935176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100114553040433381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起nlogn乘法, 常数是大了亿点, 但是你就说是不是nlogn吧.\n这个也是, 你就说是不是多项式复杂度吧. https://t.co/QvXCF11IXF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1382034567536738305",
+        "conversation_id": "2100114553040433381",
+        "created_at": "2026-09-16T06:48:22.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100114553040433381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100114553040433381",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 343,
+          "impression_count": 229597,
+          "like_count": 1728,
+          "quote_count": 37,
+          "reply_count": 50,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "Rumor is P = NP, specifically there is a promising route to 3-SAT in O(n^{808017424794512875886459904961710757005754368000000000})"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2100202824688935176",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 273,
+          "like_count": 12057,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 2950
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-13T18:15:01.000Z",
+        "description": "numbers guy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxfeldman.xyz",
+                "end": 23,
+                "expanded_url": "http://maxfeldman.xyz",
+                "start": 0,
+                "url": "https://t.co/F1YHl8Sz71"
+              }
+            ]
+          }
+        },
+        "id": "1382034567536738305",
+        "is_identity_verified": false,
+        "location": "San Francisco, USA",
+        "most_recent_tweet_id": "2100114553040433381",
+        "name": "Max Feldman",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1382034567536738305/1618338223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093168048333340672/QB7_PD8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 62,
+          "like_count": 315,
+          "listed_count": 8,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "https://t.co/F1YHl8Sz71",
+        "username": "_maxfeldman",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

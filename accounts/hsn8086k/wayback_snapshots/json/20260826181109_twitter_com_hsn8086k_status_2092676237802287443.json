@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2092518260835233966",
+    "created_at": "2026-08-26T18:11:09.000Z",
+    "display_text_range": [
+      43,
+      200
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092676237802287443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026362870603362304",
+          "start": 0,
+          "username": "Mango4096"
+        },
+        {
+          "end": 26,
+          "id": "1849826752891408385",
+          "start": 11,
+          "username": "Noa__Shirayuki"
+        },
+        {
+          "end": 42,
+          "id": "1798684142722281473",
+          "start": 27,
+          "username": "shiguangji2019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092676237802287443",
+    "in_reply_to_user_id": "2026362870603362304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092676101952958900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mango4096 @Noa__Shirayuki @shiguangji2019 而且, 跨儿们当初被给予的选项并不是完美与不完美, 而是痛苦的活下去与付出极大的代价后不这么痛苦\n最后, 意义在哪是最好回答的, 人生的意义由当事人创造. 我们不会去问, 她生孩子意义在哪, 他赚钱的意义在哪, 你玩gal的意义在哪, 刨根问底总会发现, 意义只是一种选择, 一种取悦/满足自己的选择.\n(2/2)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2092518260835233966",
+        "created_at": "2026-08-26T18:11:09.000Z",
+        "display_text_range": [
+          43,
+          200
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092676237802287443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026362870603362304",
+              "start": 0,
+              "username": "Mango4096"
+            },
+            {
+              "end": 26,
+              "id": "1849826752891408385",
+              "start": 11,
+              "username": "Noa__Shirayuki"
+            },
+            {
+              "end": 42,
+              "id": "1798684142722281473",
+              "start": 27,
+              "username": "shiguangji2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092676237802287443",
+        "in_reply_to_user_id": "2026362870603362304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092676101952958900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mango4096 @Noa__Shirayuki @shiguangji2019 而且, 跨儿们当初被给予的选项并不是完美与不完美, 而是痛苦的活下去与付出极大的代价后不这么痛苦\n最后, 意义在哪是最好回答的, 人生的意义由当事人创造. 我们不会去问, 她生孩子意义在哪, 他赚钱的意义在哪, 你玩gal的意义在哪, 刨根问底总会发现, 意义只是一种选择, 一种取悦/满足自己的选择.\n(2/2)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026362870603362304",
+        "conversation_id": "2092518260835233966",
+        "created_at": "2026-08-26T18:10:37.000Z",
+        "display_text_range": [
+          32,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092676101952958900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849826752891408385",
+              "start": 0,
+              "username": "Noa__Shirayuki"
+            },
+            {
+              "end": 31,
+              "id": "1798684142722281473",
+              "start": 16,
+              "username": "shiguangji2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092676101952958900",
+        "in_reply_to_user_id": "1849826752891408385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092633982651548020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Noa__Shirayuki @shiguangji2019 首先第一个点是, 逻辑错误, 天生的不等于完美的, 天生脱发那植发是逆天吗, 难产了剖腹产也是逆天吗.\n其次, 天生性别就是完美生活, 是在你视角下, 就比如你不能对着一个天生盲人说, 我都看得见啊, 为什么你要折腾眼睛倒翻天罡呢.\n(1/2)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2092676237802287443",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 259,
+          "like_count": 11682,
+          "listed_count": 9,
+          "media_count": 262,
+          "tweet_count": 2862
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T18:26:18.000Z",
+        "description": "MtF | 大证含糖 | Acmer | GAHT 2023/1",
+        "id": "2026362870603362304",
+        "is_identity_verified": false,
+        "location": "猫窝",
+        "most_recent_tweet_id": "2092676101952958900",
+        "name": "杨枝甘露🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026362870603362304/1771959311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026369500925636608/Eb9fIO-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 23,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "Mango4096",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-25T14:54:21.000Z",
+        "description": "專業銳評 & 情色藝術家\nIT（Windows Server）｜業餘混音／音樂鑑賞／攝影\n正體中文🇹🇼｜簡體中文🇨🇳｜粵語🇭🇰🇲🇴｜日語🇯🇵\n動畫／Galgame 愛好者",
+        "id": "1849826752891408385",
+        "is_identity_verified": false,
+        "location": "Macao(SAR) ,China",
+        "most_recent_tweet_id": "2092638093966991656",
+        "name": "白雪乃愛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849826752891408385/1729870550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849837151518851072/QsQejokl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 102,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "Noa__Shirayuki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-06T11:51:39.000Z",
+        "description": "00年，mtf，在\n。。。犯病中，脑子好乱。。",
+        "id": "1798684142722281473",
+        "is_identity_verified": false,
+        "location": "香港。。",
+        "most_recent_tweet_id": "2092641860619755656",
+        "name": "时光鸡",
+        "pinned_tweet_id": "1819651891170553990",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798685588549246977/mQkHNPoz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 2053,
+          "like_count": 107598,
+          "listed_count": 1,
+          "media_count": 804,
+          "tweet_count": 5636
+        },
+        "url": "",
+        "username": "shiguangji2019",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

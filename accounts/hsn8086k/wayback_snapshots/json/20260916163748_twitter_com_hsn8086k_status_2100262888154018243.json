@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2100262888154018243",
+    "created_at": "2026-09-16T16:37:48.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100262888154018243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Meguminsama200…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/Meguminsama2009/status/2100045003422609418",
+          "start": 55,
+          "url": "https://t.co/jfXAhbsW7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100262888154018243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100045003422609418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下载器的话, 依旧推荐 Motrix 好吧, 简洁好看开源跨平台开箱即用的多线程下载器, 同时还能下 bt. https://t.co/jfXAhbsW7L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2099909218098896896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSRgTt1aYAAaOx4.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2100262888154018243",
+        "created_at": "2026-09-16T16:37:48.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100262888154018243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Meguminsama200…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Meguminsama2009/status/2100045003422609418",
+              "start": 55,
+              "url": "https://t.co/jfXAhbsW7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100262888154018243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100045003422609418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下载器的话, 依旧推荐 Motrix 好吧, 简洁好看开源跨平台开箱即用的多线程下载器, 同时还能下 bt. https://t.co/jfXAhbsW7L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099909218098896896"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100045003422609418",
+        "created_at": "2026-09-16T02:12:00.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100045003422609418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oIUCTxyupi",
+              "end": 84,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2100045003422609418/photo/1",
+              "media_key": "3_2099909218098896896",
+              "start": 61,
+              "url": "https://t.co/oIUCTxyupi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100045003422609418",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099909218098896896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 8220,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我说pcl是世界上最好的下载器有人懂吗，下个gal半个小时没下好然后下载失败给我气死了，把下载链接丢给pcl2分钟下完了 https://t.co/oIUCTxyupi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2100262888154018243",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 273,
+          "like_count": 12056,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 2951
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "🟨⬜🟪⬛",
+        "id": "1557846379736666113",
+        "is_identity_verified": false,
+        "location": "永雏塔菲",
+        "most_recent_tweet_id": "2100257402113437722",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2090133381858422966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1774507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 1909,
+          "like_count": 3418,
+          "listed_count": 2,
+          "media_count": 1638,
+          "tweet_count": 9201
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

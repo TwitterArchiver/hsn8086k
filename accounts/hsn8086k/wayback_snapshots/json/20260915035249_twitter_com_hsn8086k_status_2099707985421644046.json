@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099707969684529153"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2099504092704030720",
+    "created_at": "2026-09-15T03:52:49.000Z",
+    "display_text_range": [
+      18,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T04:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099707985421644046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1893167873209856000",
+          "start": 0,
+          "username": "mxyzcdb"
+        },
+        {
+          "end": 17,
+          "id": "1433678976564662273",
+          "start": 9,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fcnwuTNPCW",
+          "end": 62,
+          "expanded_url": "https://x.com/hsn8086k/status/2099707985421644046/photo/1",
+          "media_key": "3_2099707969684529153",
+          "start": 39,
+          "url": "https://t.co/fcnwuTNPCW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099707985421644046",
+    "in_reply_to_user_id": "1893167873209856000",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099707969684529153"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099526317960237157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxyzcdb @hsn8086 就是陈醋, 千合0的酱油包装不是这个色的 https://t.co/fcnwuTNPCW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_2099707969684529153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSOpRhEaYAE7Ozs.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099707969684529153"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2099504092704030720",
+        "created_at": "2026-09-15T03:52:49.000Z",
+        "display_text_range": [
+          18,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099707985421644046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893167873209856000",
+              "start": 0,
+              "username": "mxyzcdb"
+            },
+            {
+              "end": 17,
+              "id": "1433678976564662273",
+              "start": 9,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcnwuTNPCW",
+              "end": 62,
+              "expanded_url": "https://x.com/hsn8086k/status/2099707985421644046/photo/1",
+              "media_key": "3_2099707969684529153",
+              "start": 39,
+              "url": "https://t.co/fcnwuTNPCW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099707985421644046",
+        "in_reply_to_user_id": "1893167873209856000",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099707969684529153"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099526317960237157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxyzcdb @hsn8086 就是陈醋, 千合0的酱油包装不是这个色的 https://t.co/fcnwuTNPCW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893167873209856000",
+        "conversation_id": "2099504092704030720",
+        "created_at": "2026-09-14T15:50:56.000Z",
+        "display_text_range": [
+          9,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099526317960237157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099526317960237157",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099504092704030720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 其实这个是酱油（（（\n旁边那个白白的大概率是大宝（护手霜）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2099707985421644046",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 272,
+          "like_count": 12053,
+          "listed_count": 10,
+          "media_count": 269,
+          "tweet_count": 2946
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "mtx｜叫我翅膀好嘛｜蓝v互关｜内容仅供娱乐，真假自辨｜本体 @axzameyzed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "axzameyzed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mxyzcdb_chatbot",
+                "end": 23,
+                "expanded_url": "https://t.me/mxyzcdb_chatbot",
+                "start": 0,
+                "url": "https://t.co/rpnd1q2WAW"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099707683423305795",
+        "name": "翅翅膀喵喵喵",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 460,
+          "like_count": 6334,
+          "listed_count": 2,
+          "media_count": 256,
+          "tweet_count": 2714
+        },
+        "url": "https://t.co/rpnd1q2WAW",
+        "username": "mxyzcdb",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2099701683911827740",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433678976564662273/1680328005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121631,
+          "following_count": 1125,
+          "like_count": 51971,
+          "listed_count": 294,
+          "media_count": 24721,
+          "tweet_count": 35420
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

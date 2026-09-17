@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2096608509584634019",
+    "created_at": "2026-09-06T20:22:21.000Z",
+    "display_text_range": [
+      10,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T21:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096695521683661003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018976131849039872",
+          "start": 0,
+          "username": "sheriyuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096695521683661003",
+    "in_reply_to_user_id": "2018976131849039872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096608509584634019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheriyuo 没事, astra降智的时候你claude也保持不变"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2096608509584634019",
+        "created_at": "2026-09-06T20:22:21.000Z",
+        "display_text_range": [
+          10,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T21:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096695521683661003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018976131849039872",
+              "start": 0,
+              "username": "sheriyuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096695521683661003",
+        "in_reply_to_user_id": "2018976131849039872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096608509584634019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheriyuo 没事, astra降智的时候你claude也保持不变"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018976131849039872",
+        "conversation_id": "2096608509584634019",
+        "created_at": "2026-09-06T14:36:36.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096608509584634019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096608509584634019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4596,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在现代，拥有一只 Astra 是什么感觉：一觉醒来 codex 能力提升一千倍，而我 claude 保持不变"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2096695521683661003",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2404,
+          "following_count": 269,
+          "like_count": 11982,
+          "listed_count": 10,
+          "media_count": 266,
+          "tweet_count": 2929
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2039888251322834944/miWrK2nt_bigger.jpg",
+          "description": "StepFun",
+          "url": "https://twitter.com/StepFun_ai",
+          "user_id": [
+            "1888791214864072705"
+          ]
+        },
+        "created_at": "2026-02-04T09:13:26.000Z",
+        "description": "Researcher @StepFun_ai | Working on long-horizon tasks | Prev @RUC1937 | Opinions are my own",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "StepFun_ai"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "username": "RUC1937"
+              }
+            ]
+          }
+        },
+        "id": "2018976131849039872",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2096608509584634019",
+        "name": "Xiuyu Li",
+        "pinned_tweet_id": "2069773720022122929",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018976131849039872/1774115265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018976441795502081/bpw974ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13446,
+          "following_count": 1828,
+          "like_count": 13380,
+          "listed_count": 107,
+          "media_count": 425,
+          "tweet_count": 1312
+        },
+        "url": "",
+        "username": "sheriyuo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

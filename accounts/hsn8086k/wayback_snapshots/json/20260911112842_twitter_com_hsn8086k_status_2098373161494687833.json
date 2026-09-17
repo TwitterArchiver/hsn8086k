@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2098367436143894606",
+    "created_at": "2026-09-11T11:28:42.000Z",
+    "display_text_range": [
+      10,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T12:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098373161494687833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1005681050578649088",
+          "start": 0,
+          "username": "c575b66g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098373161494687833",
+    "in_reply_to_user_id": "1005681050578649088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098368644682252597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c575b66g attention is all you need是17年发布的\ngpt2是19年发布的\ngpt3是20年发布的\ngpt3也是CloseAI的第一个闭源模型"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2098367436143894606",
+        "created_at": "2026-09-11T11:28:42.000Z",
+        "display_text_range": [
+          10,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098373161494687833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1005681050578649088",
+              "start": 0,
+              "username": "c575b66g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098373161494687833",
+        "in_reply_to_user_id": "1005681050578649088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098368644682252597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c575b66g attention is all you need是17年发布的\ngpt2是19年发布的\ngpt3是20年发布的\ngpt3也是CloseAI的第一个闭源模型"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1005681050578649088",
+        "conversation_id": "2098367436143894606",
+        "created_at": "2026-09-11T11:10:45.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098368644682252597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098368644682252597",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098367436143894606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 啊，原来2019年就有GPT了吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2098373161494687833",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2402,
+          "following_count": 273,
+          "like_count": 12041,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 2943
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-10T05:20:21.000Z",
+        "description": "努力想告诉大家我不是机器人，不过网络不行",
+        "id": "1005681050578649088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098368644682252597",
+        "name": "c575b66g",
+        "pinned_tweet_id": "1953090970557530365",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005681050578649088/1544949651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1074222810577264640/4152W2lp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 4037,
+          "like_count": 24708,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 12119
+        },
+        "url": "",
+        "username": "c575b66g",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

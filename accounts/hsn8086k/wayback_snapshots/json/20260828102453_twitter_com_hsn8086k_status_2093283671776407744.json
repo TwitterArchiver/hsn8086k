@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2093283671776407744",
+    "created_at": "2026-08-28T10:24:53.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T11:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093283671776407744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Vincent_AINote…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Vincent_AINotes/status/2092911545927819287",
+          "start": 31,
+          "url": "https://t.co/giBEA7baVD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093283671776407744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092911545927819287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没人规定过, 只是上一个时代的最佳实践, 现在整盘分就行了. https://t.co/giBEA7baVD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2093283671776407744",
+        "created_at": "2026-08-28T10:24:53.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093283671776407744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Vincent_AINote…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Vincent_AINotes/status/2092911545927819287",
+              "start": 31,
+              "url": "https://t.co/giBEA7baVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093283671776407744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092911545927819287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没人规定过, 只是上一个时代的最佳实践, 现在整盘分就行了. https://t.co/giBEA7baVD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861449351328854016",
+        "conversation_id": "2092911545927819287",
+        "created_at": "2026-08-27T09:46:11.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092911545927819287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092911545927819287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 37263,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Windows为什么一定要分C盘、D盘？一块硬盘直接用到底，不行吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2093283671776407744",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 262,
+          "like_count": 11781,
+          "listed_count": 9,
+          "media_count": 264,
+          "tweet_count": 2881
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-26T16:38:22.000Z",
+        "description": "AI",
+        "id": "1861449351328854016",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093264330326159747",
+        "name": "Vincent",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861449351328854016/1783144204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010360210008023040/tDA3CwgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57791,
+          "following_count": 369,
+          "like_count": 494,
+          "listed_count": 286,
+          "media_count": 2492,
+          "tweet_count": 10144
+        },
+        "url": "",
+        "username": "Vincent_AINotes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
