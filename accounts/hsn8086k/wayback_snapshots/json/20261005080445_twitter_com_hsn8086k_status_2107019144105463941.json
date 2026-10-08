@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107019124224544768"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2107019144105463941",
+    "created_at": "2026-10-05T08:04:45.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T09:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107019144105463941"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "我的X周年纪念日"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/76YzjQmtrq",
+          "end": 64,
+          "expanded_url": "https://x.com/hsn8086k/status/2107019144105463941/photo/1",
+          "media_key": "3_2107019124224544768",
+          "start": 41,
+          "url": "https://t.co/76YzjQmtrq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107019144105463941",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107019124224544768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怎么我小号都两年了, 无敌\n还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/76YzjQmtrq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2107019124224544768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT2iuuJb0AA7--l.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107019124224544768"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2107019144105463941",
+        "created_at": "2026-10-05T08:04:45.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107019144105463941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "我的X周年纪念日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/76YzjQmtrq",
+              "end": 64,
+              "expanded_url": "https://x.com/hsn8086k/status/2107019144105463941/photo/1",
+              "media_key": "3_2107019124224544768",
+              "start": 41,
+              "url": "https://t.co/76YzjQmtrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107019144105463941",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107019124224544768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么我小号都两年了, 无敌\n还记得你何时加入 X 吗？我知道！#我的X周年纪念日 https://t.co/76YzjQmtrq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2107019144105463941",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 291,
+          "like_count": 12374,
+          "listed_count": 9,
+          "media_count": 278,
+          "tweet_count": 3054
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

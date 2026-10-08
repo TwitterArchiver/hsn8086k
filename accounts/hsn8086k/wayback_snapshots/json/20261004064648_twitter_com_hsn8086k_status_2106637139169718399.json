@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106637122375749632"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237004504219828224",
+          "name": "Computer hardware"
+        }
+      }
+    ],
+    "conversation_id": "2106637139169718399",
+    "created_at": "2026-10-04T06:46:48.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T07:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106637139169718399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pGUvIAocZg",
+          "end": 46,
+          "expanded_url": "https://x.com/hsn8086k/status/2106637139169718399/photo/1",
+          "media_key": "3_2106637122375749632",
+          "start": 23,
+          "url": "https://t.co/pGUvIAocZg"
+        },
+        {
+          "display_url": "x.com/fake_fuji/stat…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/fake_fuji/status/2106593698373161063",
+          "start": 47,
+          "url": "https://t.co/FjrLrZuz2W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106637139169718399",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106637122375749632"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106593698373161063",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "nas/软路由, 这cpu一看就很合适啊() https://t.co/pGUvIAocZg https://t.co/FjrLrZuz2W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 678,
+        "media_key": "3_2106637122375749632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxHTSXbkAAfG1j.jpg",
+        "width": 1216
+      },
+      {
+        "height": 937,
+        "media_key": "3_2106593692178161664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwfzURboAAjfWD.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106637122375749632"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "2106637139169718399",
+        "created_at": "2026-10-04T06:46:48.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106637139169718399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pGUvIAocZg",
+              "end": 46,
+              "expanded_url": "https://x.com/hsn8086k/status/2106637139169718399/photo/1",
+              "media_key": "3_2106637122375749632",
+              "start": 23,
+              "url": "https://t.co/pGUvIAocZg"
+            },
+            {
+              "display_url": "x.com/fake_fuji/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/fake_fuji/status/2106593698373161063",
+              "start": 47,
+              "url": "https://t.co/FjrLrZuz2W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106637139169718399",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106637122375749632"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106593698373161063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nas/软路由, 这cpu一看就很合适啊() https://t.co/pGUvIAocZg https://t.co/FjrLrZuz2W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106593692178161664"
+          ]
+        },
+        "author_id": "4313176880",
+        "conversation_id": "2106593698373161063",
+        "created_at": "2026-10-04T03:54:10.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106593698373161063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wo3XYU7e7v",
+              "end": 57,
+              "expanded_url": "https://x.com/fake_fuji/status/2106593698373161063/photo/1",
+              "media_key": "3_2106593692178161664",
+              "start": 34,
+              "url": "https://t.co/wo3XYU7e7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106593698373161063",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106593692178161664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3306,
+          "like_count": 39,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是2020年，为了上网课家里给我买的电脑\n\n不知道现在可以干什么 https://t.co/wo3XYU7e7v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2106637139169718399",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2422,
+          "following_count": 291,
+          "like_count": 12368,
+          "listed_count": 9,
+          "media_count": 277,
+          "tweet_count": 3052
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world🇺🇳｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHI6pD"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2106630933902488007",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 895,
+          "like_count": 2608,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/46yRJHI6pD",
+        "username": "fake_fuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

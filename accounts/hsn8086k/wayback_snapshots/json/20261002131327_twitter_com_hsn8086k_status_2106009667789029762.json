@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2105851487259881762",
+    "created_at": "2026-10-02T13:13:27.000Z",
+    "display_text_range": [
+      31,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T14:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106009667789029762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2051398368564264960",
+          "start": 0,
+          "username": "AstridLi0521"
+        },
+        {
+          "end": 30,
+          "id": "1286606729824722945",
+          "start": 14,
+          "username": "Michael70481373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106009667789029762",
+    "in_reply_to_user_id": "1842504398850928640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106009202137424309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AstridLi0521 @Michael70481373 要不然和那群社达说\"自己不努力不够强大怪谁\"有什么区别呢?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2105851487259881762",
+        "created_at": "2026-10-02T13:13:27.000Z",
+        "display_text_range": [
+          31,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106009667789029762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2051398368564264960",
+              "start": 0,
+              "username": "AstridLi0521"
+            },
+            {
+              "end": 30,
+              "id": "1286606729824722945",
+              "start": 14,
+              "username": "Michael70481373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106009667789029762",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106009202137424309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AstridLi0521 @Michael70481373 要不然和那群社达说\"自己不努力不够强大怪谁\"有什么区别呢?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2105851487259881762",
+        "created_at": "2026-10-02T13:11:36.000Z",
+        "display_text_range": [
+          31,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106009202137424309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2051398368564264960",
+              "start": 0,
+              "username": "AstridLi0521"
+            },
+            {
+              "end": 30,
+              "id": "1286606729824722945",
+              "start": 14,
+              "username": "Michael70481373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106009202137424309",
+        "in_reply_to_user_id": "2051398368564264960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105993141010706802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AstridLi0521 @Michael70481373 而且, 本身个例的抗争成功推出\"这是敢不敢抗争的问题\"很明显以偏概全, 并不是抗争就一定能成功, 请不要居高临下说别人不抗争."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2106009667789029762",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 289,
+          "like_count": 12361,
+          "listed_count": 9,
+          "media_count": 275,
+          "tweet_count": 3037
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-04T20:27:53.000Z",
+        "description": "这个人不懒，把什么都写在这了",
+        "id": "2051398368564264960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106002458149638217",
+        "name": "Astrid",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2051398368564264960/1778159453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051398431751761920/G06X4l2h_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 58,
+          "like_count": 6404,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1534
+        },
+        "url": "",
+        "username": "AstridLi0521",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-24T10:18:50.000Z",
+        "description": "🇨🇳🇷🇺🇺🇸🇯🇵🇫🇷🇵🇸INFJ，中立分子，科技区Youtuber。前粉红（已褪色），美术生。偶尔健政，只会批驳令自己反感的观点。之前的号：@michael22581855（突然没了）。希望逃离原生家庭。公益项目：https://t.co/ZYSBzRaYPr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "michael22581855"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "idc.aethertech.tn",
+                "end": 130,
+                "expanded_url": "https://idc.aethertech.tn",
+                "start": 107,
+                "url": "https://t.co/ZYSBzRaYPr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.220612.xyz",
+                "end": 23,
+                "expanded_url": "http://blog.220612.xyz",
+                "start": 0,
+                "url": "https://t.co/eIZSGV5MVm"
+              }
+            ]
+          }
+        },
+        "id": "1286606729824722945",
+        "is_identity_verified": false,
+        "location": "wuhan",
+        "most_recent_tweet_id": "2106006603506074058",
+        "name": "michael112411",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286606729824722945/1722710719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819808056471097344/cfbaurfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 116,
+          "like_count": 5808,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/eIZSGV5MVm",
+        "username": "Michael70481373",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

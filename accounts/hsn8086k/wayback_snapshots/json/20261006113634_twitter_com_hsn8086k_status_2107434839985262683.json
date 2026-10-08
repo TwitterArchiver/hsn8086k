@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2107434839985262683",
+    "created_at": "2026-10-06T11:36:34.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107434839985262683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2107107252788424704",
+          "start": 3,
+          "username": "APF_Canton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107434839985262683",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107418989333037479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APF_Canton: 조금 늦었지만, 드디어 저희도 찾아왔습니다.\n\n여기는 **ANI PROJECT FESTIVAL（APF）** 공식 X 계정입니다.\n\nAPF는 중국 광저우에서 개최되는 야외 Anisong &amp; Anikura 음악 페스티벌입니다…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2107418977110749184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8OZOOacAAxCvl.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2107434839985262683",
+        "created_at": "2026-10-06T11:36:34.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107434839985262683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2107107252788424704",
+              "start": 3,
+              "username": "APF_Canton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107434839985262683",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107418989333037479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APF_Canton: 조금 늦었지만, 드디어 저희도 찾아왔습니다.\n\n여기는 **ANI PROJECT FESTIVAL（APF）** 공식 X 계정입니다.\n\nAPF는 중국 광저우에서 개최되는 야외 Anisong &amp; Anikura 음악 페스티벌입니다…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107418977110749184"
+          ]
+        },
+        "author_id": "2107107252788424704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107418989333037479",
+        "created_at": "2026-10-06T10:33:35.000Z",
+        "display_text_range": [
+          0,
+          195
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107418989333037479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpX62Pwb3c",
+              "end": 219,
+              "expanded_url": "https://x.com/APF_Canton/status/2107418989333037479/photo/1",
+              "media_key": "3_2107418977110749184",
+              "start": 196,
+              "url": "https://t.co/tpX62Pwb3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107418989333037479",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2107418977110749184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 496,
+                "start": 488,
+                "tag": "APF2026"
+              },
+              {
+                "end": 507,
+                "start": 497,
+                "tag": "广州APF2026"
+              },
+              {
+                "end": 518,
+                "start": 508,
+                "tag": "広州APF2026"
+              },
+              {
+                "end": 530,
+                "start": 519,
+                "tag": "광저우APF2026"
+              }
+            ]
+          },
+          "text": "조금 늦었지만, 드디어 저희도 찾아왔습니다.\n\n여기는 **ANI PROJECT FESTIVAL（APF）** 공식 X 계정입니다.\n\nAPF는 중국 광저우에서 개최되는 야외 Anisong & Anikura 음악 페스티벌입니다.\n\n2026년 10월 3일~4일, **APF 2.0**이 중국 광저우에서 개최되었습니다.\n\n이틀 동안 저희는 다음과 같은 콘텐츠를 선보였습니다.\n\n・Anisong Performance\n・Anikura DJ\n・ACG 밴드\n・언더그라운드 아이돌\n・사인회\n・동인\n・현장 판매\n\n그리고 현장을 찾아주신 여러분과 함께 음악, 응원, 춤, 그리고 수많은 잊지 못할 순간을 만들어갔습니다.\n\n어쩌면 최근 X에서 APF의 현장 영상을 보신 분들도 계실 것 같습니다.\n\n그 영상을 통해 APF에 관심을 갖게 되셨다면—\n\n**환영합니다.**\n\n앞으로 이곳에서 APF에 관한 다양한 소식과 정보를 하나씩 전해드리겠습니다.\n\n**ANI PROJECT FESTIVAL**\n\n#APF2026\n#广州APF2026\n#広州APF2026\n＃광저우APF2026"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "조금 늦었지만, 드디어 저희도 찾아왔습니다.\n\n여기는 **ANI PROJECT FESTIVAL（APF）** 공식 X 계정입니다.\n\nAPF는 중국 광저우에서 개최되는 야외 Anisong &amp; Anikura 음악 페스티벌입니다.\n\n2026년 10월 3일~4일, **APF 2.0**이 중국 광저우에서 개최되었습니다.\n\n이틀 동안 저희는 다음과 같은 https://t.co/tpX62Pwb3c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2107434839985262683",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 292,
+          "like_count": 12389,
+          "listed_count": 9,
+          "media_count": 278,
+          "tweet_count": 3064
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-05T13:55:44.000Z",
+        "description": "中国🇨🇳最大アニクラ系イベントです。中国系オタク文化を魅力的にお伝えします。＃中国勢DJ #APF2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "中国勢DJ"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "APF2026"
+              }
+            ]
+          }
+        },
+        "id": "2107107252788424704",
+        "is_identity_verified": false,
+        "location": "中華人民共和国, 広東省, 広州市",
+        "most_recent_tweet_id": "2107432531654234131",
+        "name": "Ani Project Festival",
+        "pinned_tweet_id": "2107399275550589036",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2107107252788424704/1791280265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107368452109594624/Ul4zLuGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 107,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "APF_Canton",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2104103875435528476",
+    "created_at": "2026-09-27T07:09:14.000Z",
+    "display_text_range": [
+      24,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T08:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104106071346602349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647979969111261186",
+          "start": 0,
+          "username": "permanent_yin"
+        },
+        {
+          "end": 23,
+          "id": "1433678976564662273",
+          "start": 15,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104106071346602349",
+    "in_reply_to_user_id": "1647979969111261186",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104103875435528476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@permanent_yin @hsn8086 呜呜呜我才300h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2104103875435528476",
+        "created_at": "2026-09-27T07:09:14.000Z",
+        "display_text_range": [
+          24,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104106071346602349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647979969111261186",
+              "start": 0,
+              "username": "permanent_yin"
+            },
+            {
+              "end": 23,
+              "id": "1433678976564662273",
+              "start": 15,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104106071346602349",
+        "in_reply_to_user_id": "1647979969111261186",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104103875435528476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@permanent_yin @hsn8086 呜呜呜我才300h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647979969111261186",
+        "conversation_id": "2104103875435528476",
+        "created_at": "2026-09-27T07:00:30.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104103875435528476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1433678976564662273",
+              "start": 5,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/pizyj/status/2…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/pizyj/status/2103895490127659068",
+              "start": 14,
+              "url": "https://t.co/5WqKsHUTdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104103875435528476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103895490127659068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那我不得不@hsn8086 https://t.co/5WqKsHUTdd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2104106071346602349",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2424,
+          "following_count": 286,
+          "like_count": 12321,
+          "listed_count": 10,
+          "media_count": 273,
+          "tweet_count": 3011
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-17T15:07:12.000Z",
+        "description": "悲慘大陸大學生（//lgbt群體友好🏳️‍🌈🏳️‍⚧️\namateur radio operator \ncall sign BH6RJM",
+        "id": "1647979969111261186",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2104103875435528476",
+        "name": "permanent",
+        "pinned_tweet_id": "1733676116370502096",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1647979969111261186/1683901970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647980187210993664/pcgfLrwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 437,
+          "like_count": 6569,
+          "listed_count": 1,
+          "media_count": 234,
+          "tweet_count": 2505
+        },
+        "url": "",
+        "username": "permanent_yin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 梗图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2103960176101601715",
+        "name": "hsn",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433678976564662273/1680328005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121672,
+          "following_count": 1133,
+          "like_count": 51864,
+          "listed_count": 296,
+          "media_count": 24758,
+          "tweet_count": 35530
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2105759645206028696",
+    "created_at": "2026-10-02T12:03:01.000Z",
+    "display_text_range": [
+      12,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T13:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105991945185345657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "839749393142038528",
+          "start": 0,
+          "username": "flying_crp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105991945185345657",
+    "in_reply_to_user_id": "839749393142038528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105955338726027743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@flying_crp 这个问题没办法回答, 因为这个站点是打野二转的, 除了有时候上azure和官key, 不然谁也无法保证有没有问题."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2105759645206028696",
+        "created_at": "2026-10-02T12:03:01.000Z",
+        "display_text_range": [
+          12,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105991945185345657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "839749393142038528",
+              "start": 0,
+              "username": "flying_crp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105991945185345657",
+        "in_reply_to_user_id": "839749393142038528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105955338726027743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@flying_crp 这个问题没办法回答, 因为这个站点是打野二转的, 除了有时候上azure和官key, 不然谁也无法保证有没有问题."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "839749393142038528",
+        "conversation_id": "2105759645206028696",
+        "created_at": "2026-10-02T09:37:34.000Z",
+        "display_text_range": [
+          10,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T10:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105955338726027743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105955338726027743",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105759645206028696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 问一个无法证伪的问题，会以次充好吗？有个小工具需要接入各种海内外的模型，中转站确实是个好选择"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2105991945185345657",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 289,
+          "like_count": 12361,
+          "listed_count": 9,
+          "media_count": 275,
+          "tweet_count": 3030
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-09T08:07:11.000Z",
+        "description": "build things 🛠️\nbreak things 💥\nfix things 🔁\nplaying with AI agents 🤖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flyingcrp.com",
+                "end": 23,
+                "expanded_url": "http://www.flyingcrp.com",
+                "start": 0,
+                "url": "https://t.co/h2NZjIobIM"
+              }
+            ]
+          }
+        },
+        "id": "839749393142038528",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2105977048527524020",
+        "name": "flyingcrp",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/839749393142038528/1489047132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656238493071478786/-fNIczQT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 423,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1980
+        },
+        "url": "https://t.co/h2NZjIobIM",
+        "username": "flying_crp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

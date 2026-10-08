@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2103733383780290715",
+    "created_at": "2026-09-26T06:28:18.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T07:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103733383780290715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yifanxu_ephai/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/yifanxu_ephai/status/2103464101406249047",
+          "start": 5,
+          "url": "https://t.co/ukSqvnMHHk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103733383780290715",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103464101406249047",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本质二分 https://t.co/ukSqvnMHHk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2103733383780290715",
+        "created_at": "2026-09-26T06:28:18.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103733383780290715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yifanxu_ephai/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/yifanxu_ephai/status/2103464101406249047",
+              "start": 5,
+              "url": "https://t.co/ukSqvnMHHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103733383780290715",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103464101406249047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本质二分 https://t.co/ukSqvnMHHk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073035346707968000",
+        "conversation_id": "2103464101406249047",
+        "created_at": "2026-09-25T12:38:16.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T13:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103464101406249047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103464101406249047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 39685,
+          "like_count": 239,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "学过数据结构和算法的人都知道，想要把优化问题从O(n)优化到O(log n)复杂度，就得用树🌲。\n\n但是模型似乎对此不是很敏感，每次都得我提醒，可以考虑用树才知道如何进行优化。是不是得把此写入agents.md或者做成skill啊？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2103733383780290715",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2423,
+          "following_count": 284,
+          "like_count": 12300,
+          "listed_count": 10,
+          "media_count": 273,
+          "tweet_count": 3006
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-03T13:26:12.000Z",
+        "description": "🇨🇦 CS @UofT · 🇸🇬 MSAI dropout @NTUsg  \nLiving in 🇨🇳\n📦 Author, LayerFS and Ephemeral Sandbox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 6,
+                "username": "UofT"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "username": "NTUsg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Ephemeral-AI-L…",
+                "end": 23,
+                "expanded_url": "https://github.com/Ephemeral-AI-Lab/layerfs",
+                "start": 0,
+                "url": "https://t.co/hwcUUBzPO4"
+              }
+            ]
+          }
+        },
+        "id": "2073035346707968000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103696119863894100",
+        "name": "Yifan Xu",
+        "pinned_tweet_id": "2102565496319246402",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073035346707968000/1785332231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086091150700711936/YHkMTIg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2225,
+          "following_count": 1396,
+          "like_count": 6049,
+          "listed_count": 13,
+          "media_count": 75,
+          "tweet_count": 1360
+        },
+        "url": "https://t.co/hwcUUBzPO4",
+        "username": "yifanxu_ephai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

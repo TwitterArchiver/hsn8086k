@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107427206490427392"
+      ],
+      "media_source_tweet_id": [
+        "2107427448371724754"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107434829398864276",
+    "created_at": "2026-10-06T11:36:32.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107434829398864276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2107107252788424704",
+          "start": 3,
+          "username": "APF_Canton"
+        },
+        {
+          "end": 52,
+          "id": "84653860",
+          "start": 44,
+          "username": "nao0126"
+        },
+        {
+          "end": 99,
+          "id": "1483919362411347968",
+          "start": 89,
+          "username": "kepposhi_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ofxrixSeK",
+          "end": 123,
+          "expanded_url": "https://x.com/APF_Canton/status/2107427448371724754/video/1",
+          "media_key": "13_2107427206490427392",
+          "start": 100,
+          "url": "https://t.co/9ofxrixSeK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107434829398864276",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2107427206490427392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107427448371724754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APF_Canton: 終わらない夏しようぜ広州！\n\n特別感謝: \n本家歌手: @nao0126\n原作ゲーム: \nLAMUNATION! -ラムネーション!-\n原作者: @kepposhi_ https://t.co/9ofxrixSeK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 163166,
+        "height": 2160,
+        "media_key": "13_2107427206490427392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107427206490427392/img/ymUuli7hLLFMgVuQ.jpg",
+        "public_metrics": {
+          "view_count": 753
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107427206490427392/vid/avc1/1280x720/YYYFsSRuWUnCyLD3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107427206490427392/pl/lXkfdstvbelBzgTO.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107427206490427392/vid/avc1/480x270/9ipXE-YEIdEL5hWI.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107427206490427392/vid/avc1/1920x1080/6KcMjI6vmaIKaeyA.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107427206490427392/vid/avc1/3840x2160/edB00Ko__cQMG-mT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107427206490427392/vid/avc1/640x360/1XXfneWjmaGcnUli.mp4"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107427206490427392"
+          ],
+          "media_source_tweet_id": [
+            "2107427448371724754"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107434829398864276",
+        "created_at": "2026-10-06T11:36:32.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107434829398864276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2107107252788424704",
+              "start": 3,
+              "username": "APF_Canton"
+            },
+            {
+              "end": 52,
+              "id": "84653860",
+              "start": 44,
+              "username": "nao0126"
+            },
+            {
+              "end": 99,
+              "id": "1483919362411347968",
+              "start": 89,
+              "username": "kepposhi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ofxrixSeK",
+              "end": 123,
+              "expanded_url": "https://x.com/APF_Canton/status/2107427448371724754/video/1",
+              "media_key": "13_2107427206490427392",
+              "start": 100,
+              "url": "https://t.co/9ofxrixSeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107434829398864276",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2107427206490427392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107427448371724754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APF_Canton: 終わらない夏しようぜ広州！\n\n特別感謝: \n本家歌手: @nao0126\n原作ゲーム: \nLAMUNATION! -ラムネーション!-\n原作者: @kepposhi_ https://t.co/9ofxrixSeK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107427206490427392"
+          ]
+        },
+        "author_id": "2107107252788424704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107427448371724754",
+        "created_at": "2026-10-06T11:07:12.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107427448371724754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "84653860",
+              "start": 28,
+              "username": "nao0126"
+            },
+            {
+              "end": 83,
+              "id": "1483919362411347968",
+              "start": 73,
+              "username": "kepposhi_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ofxrixSeK",
+              "end": 107,
+              "expanded_url": "https://x.com/APF_Canton/status/2107427448371724754/video/1",
+              "media_key": "13_2107427206490427392",
+              "start": 84,
+              "url": "https://t.co/9ofxrixSeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107427448371724754",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2107427206490427392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1746,
+          "like_count": 46,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "終わらない夏しようぜ広州！\n\n特別感謝: \n本家歌手: @nao0126\n原作ゲーム: \nLAMUNATION! -ラムネーション!-\n原作者: @kepposhi_ https://t.co/9ofxrixSeK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2107434839985262683",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2426,
+          "following_count": 292,
+          "like_count": 12389,
+          "listed_count": 9,
+          "media_count": 278,
+          "tweet_count": 3064
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-05T13:55:44.000Z",
+        "description": "中国🇨🇳最大アニクラ系イベントです。中国系オタク文化を魅力的にお伝えします。＃中国勢DJ #APF2026",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 38,
+                "tag": "中国勢DJ"
+              },
+              {
+                "end": 53,
+                "start": 45,
+                "tag": "APF2026"
+              }
+            ]
+          }
+        },
+        "id": "2107107252788424704",
+        "is_identity_verified": false,
+        "location": "中華人民共和国, 広東省, 広州市",
+        "most_recent_tweet_id": "2107432531654234131",
+        "name": "Ani Project Festival",
+        "pinned_tweet_id": "2107399275550589036",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2107107252788424704/1791280265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107368452109594624/Ul4zLuGC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 107,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "APF_Canton",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-10-23T18:19:02.000Z",
+        "description": "11/21(土)solfa 20th anniversary live 出演!\n超新時空ゲイム ネプテューヌ∞\nOP「遊星のシンギュラリティ」\nED「NON-AUTO PLAY」好評配信中!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orz-nao.com",
+                "end": 23,
+                "expanded_url": "http://orz-nao.com/",
+                "start": 0,
+                "url": "https://t.co/7OxSogtVvT"
+              }
+            ]
+          }
+        },
+        "id": "84653860",
+        "is_identity_verified": false,
+        "location": "ぴん地",
+        "most_recent_tweet_id": "2107432152384364794",
+        "name": "nao🔜10/4東京秋のすん祭-大祭-",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/84653860/1467079215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665316951445606401/SHYJI4N1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17081,
+          "following_count": 724,
+          "like_count": 5729,
+          "listed_count": 478,
+          "media_count": 5075,
+          "tweet_count": 85944
+        },
+        "url": "https://t.co/7OxSogtVvT",
+        "username": "nao0126",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-19T21:48:48.000Z",
+        "description": "カンフーとスケボーとバイクをやるパーソナルトレーナー/グラフィックデザイナー\nバイクはZX-4R \n保有資格:NESTA PFT/ストレングス&パフォーマンススペシャリスト\n\nデザイン案件/パーソナルトレーニング案件募集中\nポートフォリオはURLから",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ikuhikosato",
+                "end": 23,
+                "expanded_url": "https://lit.link/ikuhikosato",
+                "start": 0,
+                "url": "https://t.co/NBxqv890kU"
+              }
+            ]
+          }
+        },
+        "id": "1483919362411347968",
+        "is_identity_verified": false,
+        "location": "埼玉",
+        "most_recent_tweet_id": "2107432968096719117",
+        "name": "IkuhikoSato/けっぽし💪🏼🏍️🛹🍔",
+        "pinned_tweet_id": "2083206191740772600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483919362411347968/1780111197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104343615719997440/kbzX-Q4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 388,
+          "like_count": 3806,
+          "listed_count": 4,
+          "media_count": 1890,
+          "tweet_count": 17260
+        },
+        "url": "https://t.co/NBxqv890kU",
+        "username": "kepposhi_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

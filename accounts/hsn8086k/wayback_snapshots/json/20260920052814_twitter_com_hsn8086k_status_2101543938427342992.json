@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2101354434534244797",
+    "created_at": "2026-09-20T05:28:14.000Z",
+    "display_text_range": [
+      25,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T06:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101543938427342992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2090808362976079872",
+          "start": 0,
+          "username": "CuiBono_pinap"
+        },
+        {
+          "end": 24,
+          "id": "1271652280438308864",
+          "start": 15,
+          "username": "Jaciezyt"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Open source Loom alternative. Beautiful, shareable screen recordings. - CapSoftware/Cap",
+          "display_url": "github.com/CapSoftware/Cap",
+          "end": 48,
+          "expanded_url": "https://github.com/CapSoftware/Cap",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2099905587651973120/Qo2-UY_p?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2099905587651973120/Qo2-UY_p?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 25,
+          "status": 200,
+          "title": "GitHub - CapSoftware/Cap: Open source Loom alternative. Beautiful, shareable screen recordings.",
+          "unwound_url": "https://github.com/CapSoftware/Cap",
+          "url": "https://t.co/NvX1cj7bPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101543938427342992",
+    "in_reply_to_user_id": "2090808362976079872",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101512359458275413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CuiBono_pinap @Jaciezyt https://t.co/NvX1cj7bPA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2101354434534244797",
+        "created_at": "2026-09-20T05:28:14.000Z",
+        "display_text_range": [
+          25,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101543938427342992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2090808362976079872",
+              "start": 0,
+              "username": "CuiBono_pinap"
+            },
+            {
+              "end": 24,
+              "id": "1271652280438308864",
+              "start": 15,
+              "username": "Jaciezyt"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Open source Loom alternative. Beautiful, shareable screen recordings. - CapSoftware/Cap",
+              "display_url": "github.com/CapSoftware/Cap",
+              "end": 48,
+              "expanded_url": "https://github.com/CapSoftware/Cap",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2099905587651973120/Qo2-UY_p?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2099905587651973120/Qo2-UY_p?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "GitHub - CapSoftware/Cap: Open source Loom alternative. Beautiful, shareable screen recordings.",
+              "unwound_url": "https://github.com/CapSoftware/Cap",
+              "url": "https://t.co/NvX1cj7bPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101543938427342992",
+        "in_reply_to_user_id": "2090808362976079872",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101512359458275413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuiBono_pinap @Jaciezyt https://t.co/NvX1cj7bPA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090808362976079872",
+        "conversation_id": "2101354434534244797",
+        "created_at": "2026-09-20T03:22:45.000Z",
+        "display_text_range": [
+          20,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101512359458275413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            },
+            {
+              "end": 19,
+              "id": "1842504398850928640",
+              "start": 10,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101512359458275413",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101467651931513154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt @hsn8086k 我想知道！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2101543938427342992",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2403,
+          "following_count": 274,
+          "like_count": 12100,
+          "listed_count": 10,
+          "media_count": 269,
+          "tweet_count": 2958
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T14:30:18.000Z",
+        "description": "本大小姐就是本大小姐\n\n整理相册中…梦到哪句说哪句\n文科生，最高学历 bachelor of arts\nJD 但不是那个 JD\nnon practicing \n别的不说 bar 是真的有\n\ncui bono?",
+        "id": "2090808362976079872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101543324381499457",
+        "name": "般若 Bono🍍",
+        "pinned_tweet_id": "2100297942695641545",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090808362976079872/1787475263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090822277416009728/e_B8RaV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 109,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 525
+        },
+        "url": "",
+        "username": "CuiBono_pinap",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 退役JK😭 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身(仅互fo) @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 109,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "is_identity_verified": false,
+        "location": "OM70",
+        "most_recent_tweet_id": "2101530190568685595",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2099845650322210834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271652280438308864/1749458087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4675,
+          "following_count": 1022,
+          "like_count": 68389,
+          "listed_count": 11,
+          "media_count": 1540,
+          "tweet_count": 17395
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

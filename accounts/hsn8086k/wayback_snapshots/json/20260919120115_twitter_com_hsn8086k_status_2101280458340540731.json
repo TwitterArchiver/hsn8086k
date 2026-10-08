@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2100823651490894097",
+    "created_at": "2026-09-19T12:01:15.000Z",
+    "display_text_range": [
+      28,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T13:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101280458340540731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2022662428383965184",
+          "start": 0,
+          "username": "echo_torrential"
+        },
+        {
+          "end": 27,
+          "id": "1863439189909618688",
+          "start": 17,
+          "username": "hsn8086xe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101280458340540731",
+    "in_reply_to_user_id": "2022662428383965184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101266774398529819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@echo_torrential @hsn8086xe 我去这咋看出来的, 您是画师吗\n不过没办法了, 我能接触到的渠道不容易拿到image2.5, 然后我也不会画画"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2100823651490894097",
+        "created_at": "2026-09-19T12:01:15.000Z",
+        "display_text_range": [
+          28,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101280458340540731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2022662428383965184",
+              "start": 0,
+              "username": "echo_torrential"
+            },
+            {
+              "end": 27,
+              "id": "1863439189909618688",
+              "start": 17,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101280458340540731",
+        "in_reply_to_user_id": "2022662428383965184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101266774398529819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@echo_torrential @hsn8086xe 我去这咋看出来的, 您是画师吗\n不过没办法了, 我能接触到的渠道不容易拿到image2.5, 然后我也不会画画"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022662428383965184",
+        "conversation_id": "2100823651490894097",
+        "created_at": "2026-09-19T11:06:53.000Z",
+        "display_text_range": [
+          11,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101266774398529819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863439189909618688",
+              "start": 0,
+              "username": "hsn8086xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101266774398529819",
+        "in_reply_to_user_id": "1863439189909618688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100823651490894097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086xe 脸感觉有些变形，像个芒果一样"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2101280458340540731",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 273,
+          "like_count": 12077,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 2955
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-14T13:21:34.000Z",
+        "description": "I already accepted everything but why does it still hurt so much",
+        "id": "2022662428383965184",
+        "is_identity_verified": false,
+        "location": "Antarctica",
+        "most_recent_tweet_id": "2101267955367719052",
+        "name": "Echo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022662428383965184/1788850386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078511667609227265/cYRnq8Po_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 22,
+          "like_count": 291,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "echo_torrential",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "",
+        "id": "1863439189909618688",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2101260770923446304",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "2100823651490894097",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100823574361817088/77RA33ps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37429,
+          "following_count": 361,
+          "like_count": 265,
+          "listed_count": 109,
+          "media_count": 19473,
+          "tweet_count": 19577
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2101354434534244797",
+    "created_at": "2026-09-20T05:28:52.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T06:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101544097760817568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "547253597",
+          "start": 0,
+          "username": "_gkiwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101544097760817568",
+    "in_reply_to_user_id": "547253597",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101471450658120003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_gkiwi 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2101354434534244797",
+        "created_at": "2026-09-20T05:28:52.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T06:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101544097760817568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "547253597",
+              "start": 0,
+              "username": "_gkiwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101544097760817568",
+        "in_reply_to_user_id": "547253597",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101471450658120003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_gkiwi 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "547253597",
+        "conversation_id": "2101354434534244797",
+        "created_at": "2026-09-20T00:40:11.000Z",
+        "display_text_range": [
+          10,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T01:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101471450658120003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ],
+          "urls": [
+            {
+              "description": "用“Elon的工作”，享无福X！. Contribute to bugkiwi/elons-job development by creating an account on GitHub.",
+              "display_url": "github.com/bugkiwi/elons-…",
+              "end": 40,
+              "expanded_url": "https://github.com/bugkiwi/elons-job",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2101471451555753985/bNUBBTz2?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101471451555753985/bNUBBTz2?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "GitHub - bugkiwi/elons-job: 用“Elon的工作”，享无福X！",
+              "unwound_url": "https://github.com/bugkiwi/elons-job",
+              "url": "https://t.co/v5gPLkJtvd"
+            },
+            {
+              "description": "只处理 X 评论区的高置信度色情、性暗示与色情引流评论。",
+              "display_url": "chromewebstore.google.com/detail/elon%E7…",
+              "end": 65,
+              "expanded_url": "https://chromewebstore.google.com/detail/elon%E7%9A%84%E5%B7%A5%E4%BD%9C/aillmgiicpcpnnggaahlkifchigmfome",
+              "images": [
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2101470018013995008/iYheVxk7?format=jpg&name=orig",
+                  "width": 128
+                },
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2101470018013995008/iYheVxk7?format=jpg&name=150x150",
+                  "width": 128
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "Elon的工作 - Chrome Web Store",
+              "unwound_url": "https://chromewebstore.google.com/detail/elon%E7%9A%84%E5%B7%A5%E4%BD%9C/aillmgiicpcpnnggaahlkifchigmfome",
+              "url": "https://t.co/HnXeG0cmME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101471450658120003",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 470,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101354434534244797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 想一起了。。\nhttps://t.co/v5gPLkJtvd\n\nhttps://t.co/HnXeG0cmME"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2101544097760817568",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2403,
+          "following_count": 277,
+          "like_count": 12100,
+          "listed_count": 10,
+          "media_count": 269,
+          "tweet_count": 2959
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-07T02:27:17.000Z",
+        "description": "Fullstack & Solo Founder | Ex-Baidu Senior Frontend Engineer | Open to Germany 🇩🇪 / Canada 🇨🇦 / Mars 🚀",
+        "id": "547253597",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101479981058863581",
+        "name": "gkiwi🇺🇦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/547253597/1607270202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077317275754151936/YFW8RW-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 467,
+          "like_count": 593,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 721
+        },
+        "url": "",
+        "username": "_gkiwi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

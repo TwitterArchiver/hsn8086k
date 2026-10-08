@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101353382888026112"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2101354434534244797",
+    "created_at": "2026-09-19T16:55:13.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101354434534244797"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pJ0RuGZBEZ",
+          "end": 74,
+          "expanded_url": "https://x.com/hsn8086k/status/2101354434534244797/video/1",
+          "media_key": "13_2101353382888026112",
+          "start": 51,
+          "url": "https://t.co/pJ0RuGZBEZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101354434534244797",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2101353382888026112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家都在讨论 typesafe 的 jev, 但是我想到的第一个用法是...\n过滤 福不黑 机器人😂 https://t.co/pJ0RuGZBEZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15966,
+        "height": 1080,
+        "media_key": "13_2101353382888026112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101353382888026112/img/538Jmgh1ShtoWoyK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101353382888026112/vid/avc1/480x270/Ecdr1neEHsNBWHuj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101353382888026112/vid/avc1/640x360/d6oLNCc0jeGQsOaL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101353382888026112/vid/avc1/1280x720/GZrLj2LnmmE3cJtA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101353382888026112/pl/koM0eTxqF_JAm_qq.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101353382888026112"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2101354434534244797",
+        "created_at": "2026-09-19T16:55:13.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101354434534244797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJ0RuGZBEZ",
+              "end": 74,
+              "expanded_url": "https://x.com/hsn8086k/status/2101354434534244797/video/1",
+              "media_key": "13_2101353382888026112",
+              "start": 51,
+              "url": "https://t.co/pJ0RuGZBEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101354434534244797",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101353382888026112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都在讨论 typesafe 的 jev, 但是我想到的第一个用法是...\n过滤 福不黑 机器人😂 https://t.co/pJ0RuGZBEZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2101354434534244797",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 274,
+          "like_count": 12078,
+          "listed_count": 10,
+          "media_count": 269,
+          "tweet_count": 2956
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

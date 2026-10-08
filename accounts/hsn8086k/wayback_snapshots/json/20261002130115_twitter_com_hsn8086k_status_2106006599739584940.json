@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2105851487259881762",
+    "created_at": "2026-10-02T13:01:15.000Z",
+    "display_text_range": [
+      17,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T14:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106006599739584940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1286606729824722945",
+          "start": 0,
+          "username": "Michael70481373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106006599739584940",
+    "in_reply_to_user_id": "1286606729824722945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106005129904484409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michael70481373 我没说过不应该反抗, 请您不要臆想.\n我只说过现状是成年人不一定可以主宰自己的人生. 我完全支持大家反抗不公, 我也在这么做, 但是很无力, 所以我才会这样说, 并不是在笑你, 而是在笑我自己, 和我们."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2105851487259881762",
+        "created_at": "2026-10-02T13:01:15.000Z",
+        "display_text_range": [
+          17,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106006599739584940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1286606729824722945",
+              "start": 0,
+              "username": "Michael70481373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106006599739584940",
+        "in_reply_to_user_id": "1286606729824722945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106005129904484409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michael70481373 我没说过不应该反抗, 请您不要臆想.\n我只说过现状是成年人不一定可以主宰自己的人生. 我完全支持大家反抗不公, 我也在这么做, 但是很无力, 所以我才会这样说, 并不是在笑你, 而是在笑我自己, 和我们."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286606729824722945",
+        "conversation_id": "2105851487259881762",
+        "created_at": "2026-10-02T12:55:25.000Z",
+        "display_text_range": [
+          10,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106005129904484409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106005129904484409",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105991512320573673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 照你的逻辑，因为大多数农民起义是失败的，只有少部分成功。因此当农民面对残暴王朝统治时，不应该选择反抗。朱元璋等人就是个可笑的莽夫，结案。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2106006599739584940",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 289,
+          "like_count": 12361,
+          "listed_count": 9,
+          "media_count": 275,
+          "tweet_count": 3033
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-24T10:18:50.000Z",
+        "description": "🇨🇳🇷🇺🇺🇸🇯🇵🇫🇷🇵🇸INFJ，中立分子，科技区Youtuber。前粉红（已褪色），美术生。偶尔健政，只会批驳令自己反感的观点。之前的号：@michael22581855（突然没了）。希望逃离原生家庭。公益项目：https://t.co/ZYSBzRaYPr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "michael22581855"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "idc.aethertech.tn",
+                "end": 130,
+                "expanded_url": "https://idc.aethertech.tn",
+                "start": 107,
+                "url": "https://t.co/ZYSBzRaYPr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.220612.xyz",
+                "end": 23,
+                "expanded_url": "http://blog.220612.xyz",
+                "start": 0,
+                "url": "https://t.co/eIZSGV5MVm"
+              }
+            ]
+          }
+        },
+        "id": "1286606729824722945",
+        "is_identity_verified": false,
+        "location": "wuhan",
+        "most_recent_tweet_id": "2106006603506074058",
+        "name": "michael112411",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286606729824722945/1722710719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819808056471097344/cfbaurfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 116,
+          "like_count": 5807,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1840
+        },
+        "url": "https://t.co/eIZSGV5MVm",
+        "username": "Michael70481373",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

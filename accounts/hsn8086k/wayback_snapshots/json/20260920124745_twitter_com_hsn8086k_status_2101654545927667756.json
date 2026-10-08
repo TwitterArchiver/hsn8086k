@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2101630440457347271",
+    "created_at": "2026-09-20T12:47:45.000Z",
+    "display_text_range": [
+      14,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101654545927667756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412013339115360258",
+          "start": 0,
+          "username": "gaoxiaojiede"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101654545927667756",
+    "in_reply_to_user_id": "1412013339115360258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101645795284185210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoxiaojiede 有反转, 我这边邮政比其他几家都更乐意送上门"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2101630440457347271",
+        "created_at": "2026-09-20T12:47:45.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101654545927667756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412013339115360258",
+              "start": 0,
+              "username": "gaoxiaojiede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101654545927667756",
+        "in_reply_to_user_id": "1412013339115360258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101645795284185210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoxiaojiede 有反转, 我这边邮政比其他几家都更乐意送上门"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412013339115360258",
+        "conversation_id": "2101630440457347271",
+        "created_at": "2026-09-20T12:12:58.000Z",
+        "display_text_range": [
+          10,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101645795284185210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101645795284185210",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "的确是这样\n而且我们这儿除了顺丰，京东，还有邮政的苹果件和录取通知书，其他的居然都默认不送货上门，甚至连电话都没有了\n如果说是那种11:00关门，然后我10:50点吃的，人家不高兴， 那我活该 因为闭店和收拾需要时间 但是哪怕他10:30把小程序或者是外卖的订单直接下线也可以 很多都是名义10:00关门，然后8:30就不行了\n京东正常的价格是12块钱\n商家的价格是六块\n顺丰那边我不知道，但是\n中通的价格是两块九毛钱\n这帮人真的疯了 \n而且我真的没有想到这么多年就是唯一能够约束强制送货上门的，居然是京东和邮政的苹果官网发货的产品 \n京东的方式是那个很快过期的，刷新的二维码 \n邮政那边怎么做的？我不知道。 \n但是国内快递糜烂的那个程度 真的超乎想象"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101630440457347271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 的确是这样\n而且我们这儿除了顺丰，京东，还有邮政的苹果件和录取通知书，其他的居然都默认不送货上门，甚至连电话都没有了\n如果说是那种11:00关门，然后我10:50点吃的，人家不高兴， 那我活该 因为闭店和收拾需要时间 但是哪怕他10:30把小程序或者是外卖的订单直接下线也可以"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2101654545927667756",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2407,
+          "following_count": 278,
+          "like_count": 12117,
+          "listed_count": 10,
+          "media_count": 269,
+          "tweet_count": 2962
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-05T11:40:01.000Z",
+        "description": "秉忠贞之志 守谦退之节",
+        "id": "1412013339115360258",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101654096533213420",
+        "name": "高小姐的皮卡丘",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1412013339115360258/1773728454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033790613246877696/cCaAKxy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 70,
+          "like_count": 5970,
+          "listed_count": 2,
+          "media_count": 378,
+          "tweet_count": 7385
+        },
+        "url": "",
+        "username": "gaoxiaojiede",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

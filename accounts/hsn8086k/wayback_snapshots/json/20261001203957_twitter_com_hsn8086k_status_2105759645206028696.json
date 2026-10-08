@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2105759645206028696",
+    "created_at": "2026-10-01T20:39:57.000Z",
+    "display_text_range": [
+      0,
+      167
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T21:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105759645206028696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Unified AI API gateway and admin dashboard.",
+          "display_url": "xpeach.codes/sign-up?aff=E6…",
+          "end": 167,
+          "expanded_url": "https://xpeach.codes/sign-up?aff=E6TZ",
+          "start": 144,
+          "status": 200,
+          "title": "New API",
+          "unwound_url": "https://xpeach.codes/sign-up?aff=E6TZ",
+          "url": "https://t.co/EylNmHlLnO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105759645206028696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帮推一下捏，朋友开的中转站，hsn 也在用，国庆活动可以白嫖 ​Devin 后训练的 Kimi-K3（SWE）：联系管理能拿 1 元余额。费率超低（输入0.03元/M，输出0.15元/M），1 块钱足够免费白嫖好久。\n另有十分便宜的​GPT 模型：折算下来比官方便宜近 56 倍。\n链接：https://t.co/EylNmHlLnO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2105759645206028696",
+        "created_at": "2026-10-01T20:39:57.000Z",
+        "display_text_range": [
+          0,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T21:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105759645206028696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Unified AI API gateway and admin dashboard.",
+              "display_url": "xpeach.codes/sign-up?aff=E6…",
+              "end": 167,
+              "expanded_url": "https://xpeach.codes/sign-up?aff=E6TZ",
+              "start": 144,
+              "status": 200,
+              "title": "New API",
+              "unwound_url": "https://xpeach.codes/sign-up?aff=E6TZ",
+              "url": "https://t.co/EylNmHlLnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105759645206028696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮推一下捏，朋友开的中转站，hsn 也在用，国庆活动可以白嫖 ​Devin 后训练的 Kimi-K3（SWE）：联系管理能拿 1 元余额。费率超低（输入0.03元/M，输出0.15元/M），1 块钱足够免费白嫖好久。\n另有十分便宜的​GPT 模型：折算下来比官方便宜近 56 倍。\n链接：https://t.co/EylNmHlLnO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2105759645206028696",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 287,
+          "like_count": 12354,
+          "listed_count": 9,
+          "media_count": 275,
+          "tweet_count": 3024
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

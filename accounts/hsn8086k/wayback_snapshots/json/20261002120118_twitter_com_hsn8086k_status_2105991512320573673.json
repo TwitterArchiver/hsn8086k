@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2105851487259881762",
+    "created_at": "2026-10-02T12:01:18.000Z",
+    "display_text_range": [
+      17,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T13:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105991512320573673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1286606729824722945",
+          "start": 0,
+          "username": "Michael70481373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105991512320573673",
+    "in_reply_to_user_id": "1286606729824722945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105872048535032180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michael70481373 别以为你的经验对所有人都是对的, 别人被戒网瘾教官黑车拖走的时候没想过抗争吗, 好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2105851487259881762",
+        "created_at": "2026-10-02T12:01:18.000Z",
+        "display_text_range": [
+          17,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105991512320573673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1286606729824722945",
+              "start": 0,
+              "username": "Michael70481373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105991512320573673",
+        "in_reply_to_user_id": "1286606729824722945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105872048535032180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michael70481373 别以为你的经验对所有人都是对的, 别人被戒网瘾教官黑车拖走的时候没想过抗争吗, 好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286606729824722945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2105851487259881762",
+        "created_at": "2026-10-02T04:06:36.000Z",
+        "display_text_range": [
+          10,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105872048535032180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105872048535032180",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105851487259881762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 这是敢不敢抗争的问题。\n就拿填志愿这事来说，我父母要我填汉语言文学、师范专业，复刻他们的人生路径；我反抗了，以宁可失去所有电子产品为代价进行反抗，最后可以选择自己喜欢的专业。我现在就很满意。\n我朋友就没反抗，听从父亲要求，选了金融专业，结果现在天天跟我抱怨学的很累、生活有多无趣。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2105991512320573673",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 289,
+          "like_count": 12360,
+          "listed_count": 9,
+          "media_count": 275,
+          "tweet_count": 3029
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-24T10:18:50.000Z",
+        "description": "🇨🇳🇷🇺🇺🇸🇯🇵🇫🇷🇵🇸INFJ，中立分子，科技区Youtuber。前粉红（已褪色），美术生。偶尔健政，只会批驳令自己反感的观点。之前的号：@michael22581855（突然没了）。希望逃离原生家庭。公益项目：https://t.co/ZYSBzRaYPr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 70,
+                "username": "michael22581855"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "idc.aethertech.tn",
+                "end": 130,
+                "expanded_url": "https://idc.aethertech.tn",
+                "start": 107,
+                "url": "https://t.co/ZYSBzRaYPr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.220612.xyz",
+                "end": 23,
+                "expanded_url": "http://blog.220612.xyz",
+                "start": 0,
+                "url": "https://t.co/eIZSGV5MVm"
+              }
+            ]
+          }
+        },
+        "id": "1286606729824722945",
+        "is_identity_verified": false,
+        "location": "wuhan",
+        "most_recent_tweet_id": "2105971608984956963",
+        "name": "michael112411",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286606729824722945/1722710719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819808056471097344/cfbaurfI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 116,
+          "like_count": 5806,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1837
+        },
+        "url": "https://t.co/eIZSGV5MVm",
+        "username": "Michael70481373",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

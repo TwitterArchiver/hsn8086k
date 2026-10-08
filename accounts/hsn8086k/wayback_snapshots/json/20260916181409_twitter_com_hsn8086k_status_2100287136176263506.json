@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2100211079817449664",
+    "created_at": "2026-09-16T18:14:09.000Z",
+    "display_text_range": [
+      26,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T19:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100287136176263506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431161986247651333",
+          "start": 0,
+          "username": "fre3dm4n"
+        },
+        {
+          "end": 25,
+          "id": "1909562414162755584",
+          "start": 10,
+          "username": "ThirteenYizuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100287136176263506",
+    "in_reply_to_user_id": "1431161986247651333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100243813528678582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fre3dm4n @ThirteenYizuka 怎么又开始语言圣战了."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2100211079817449664",
+        "created_at": "2026-09-16T18:14:09.000Z",
+        "display_text_range": [
+          26,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100287136176263506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431161986247651333",
+              "start": 0,
+              "username": "fre3dm4n"
+            },
+            {
+              "end": 25,
+              "id": "1909562414162755584",
+              "start": 10,
+              "username": "ThirteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100287136176263506",
+        "in_reply_to_user_id": "1431161986247651333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100243813528678582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fre3dm4n @ThirteenYizuka 怎么又开始语言圣战了."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431161986247651333",
+        "conversation_id": "2100211079817449664",
+        "created_at": "2026-09-16T15:22:00.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100243813528678582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1909562414162755584",
+              "start": 0,
+              "username": "ThirteenYizuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100243813528678582",
+        "in_reply_to_user_id": "1909562414162755584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100211079817449664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThirteenYizuka 能不能用 rs 重构，go 太屎山了💩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2100287136176263506",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 273,
+          "like_count": 12056,
+          "listed_count": 10,
+          "media_count": 268,
+          "tweet_count": 2953
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-27T07:49:59.000Z",
+        "description": "",
+        "id": "1431161986247651333",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100243813528678582",
+        "name": "Freedman",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1480342712046227456/K6DoIJSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 696,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "fre3dm4n",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2071876271307390976/kBmsB0-__bigger.jpg",
+          "description": "Memoh",
+          "url": "https://twitter.com/memoh_ai",
+          "user_id": [
+            "2021509446640562176"
+          ]
+        },
+        "created_at": "2025-04-08T11:02:28.000Z",
+        "description": "Student & Developer | 🩵🩷🤍🩷🩵 @JyushitiYizuka\n高性价比的大模型服务 https://t.co/H6HxLqxAqO\n交流群 https://t.co/9ekuuVmk3V",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "JyushitiYizuka"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tokenflux.dev",
+                "end": 78,
+                "expanded_url": "https://tokenflux.dev",
+                "start": 55,
+                "url": "https://t.co/H6HxLqxAqO"
+              },
+              {
+                "display_url": "t.me/tokenflux_chat",
+                "end": 106,
+                "expanded_url": "https://t.me/tokenflux_chat",
+                "start": 83,
+                "url": "https://t.co/9ekuuVmk3V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/smartcmd",
+                "end": 23,
+                "expanded_url": "http://github.com/smartcmd",
+                "start": 0,
+                "url": "https://t.co/f9cf7yDTE8"
+              }
+            ]
+          }
+        },
+        "id": "1909562414162755584",
+        "is_identity_verified": false,
+        "location": "クローゼットの中",
+        "most_recent_tweet_id": "2100275514812633272",
+        "name": "芒果刀🥭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1909562414162755584/1765525005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086871763401756672/iVdJDNFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2941,
+          "following_count": 334,
+          "like_count": 10148,
+          "listed_count": 12,
+          "media_count": 231,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/f9cf7yDTE8",
+        "username": "ThirteenYizuka",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

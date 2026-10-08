@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2104787886067655155",
+    "created_at": "2026-09-29T06:25:11.000Z",
+    "display_text_range": [
+      24,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T07:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104819760508649635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "815008467031179264",
+          "start": 0,
+          "username": "SuzunamiRei"
+        },
+        {
+          "end": 23,
+          "id": "1987885638038036480",
+          "start": 13,
+          "username": "mizorewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104819760508649635",
+    "in_reply_to_user_id": "815008467031179264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104817038409806174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuzunamiRei @mizorewww 乐, 我还想说3.7max没开放, 看了一下3.7max好像没seed2.1pro强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2104787886067655155",
+        "created_at": "2026-09-29T06:25:11.000Z",
+        "display_text_range": [
+          24,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T07:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104819760508649635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "815008467031179264",
+              "start": 0,
+              "username": "SuzunamiRei"
+            },
+            {
+              "end": 23,
+              "id": "1987885638038036480",
+              "start": 13,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104819760508649635",
+        "in_reply_to_user_id": "815008467031179264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104817038409806174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuzunamiRei @mizorewww 乐, 我还想说3.7max没开放, 看了一下3.7max好像没seed2.1pro强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "815008467031179264",
+        "conversation_id": "2104787886067655155",
+        "created_at": "2026-09-29T06:14:22.000Z",
+        "display_text_range": [
+          21,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T07:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104817038409806174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 20,
+              "id": "1987885638038036480",
+              "start": 10,
+              "username": "mizorewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104817038409806174",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104816569394381108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @mizorewww 3.8 好像全系开放权重了？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2104819760508649635",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 285,
+          "like_count": 12330,
+          "listed_count": 9,
+          "media_count": 273,
+          "tweet_count": 3020
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-12-31T01:35:35.000Z",
+        "description": "=铃/灵 | \n称谪仙瑶宫难留🌙 | \n梦想是给家产写出镇圈神文！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.ayanami-official.net",
+                "end": 23,
+                "expanded_url": "https://blog.ayanami-official.net",
+                "start": 0,
+                "url": "https://t.co/jRqJUY6L8D"
+              }
+            ]
+          }
+        },
+        "id": "815008467031179264",
+        "is_identity_verified": false,
+        "location": "Somewhere in the sea of LCL",
+        "most_recent_tweet_id": "2104817038409806174",
+        "name": "鈴波 靈",
+        "pinned_tweet_id": "2091908289282146308",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/815008467031179264/1773763699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066553160865550336/ixB95tcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 379,
+          "like_count": 4336,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 3523
+        },
+        "url": "https://t.co/jRqJUY6L8D",
+        "username": "SuzunamiRei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T14:12:38.000Z",
+        "description": "大一\n开发者 交易员 欢迎私聊 兴趣使然 关注你说明我喜欢你 推文以玩抽象为主\ntelegram: @aac6fef\n\ndonate me: 0xea169FFfF00034DB719107A2d7F02C427E8BBaE3 (BSC)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "aac6fef"
+              }
+            ]
+          }
+        },
+        "id": "1987885638038036480",
+        "is_identity_verified": false,
+        "location": "Crazy Universe ",
+        "most_recent_tweet_id": "2104809144582889727",
+        "name": "雨夹雪❄️",
+        "pinned_tweet_id": "2082711443598971203",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987888073292881921/_qmTL0fK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6105,
+          "following_count": 1389,
+          "like_count": 40446,
+          "listed_count": 35,
+          "media_count": 1511,
+          "tweet_count": 7254
+        },
+        "url": "",
+        "username": "mizorewww",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

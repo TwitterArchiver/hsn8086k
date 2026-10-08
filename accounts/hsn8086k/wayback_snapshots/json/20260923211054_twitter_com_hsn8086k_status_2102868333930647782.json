@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2102818401156743306",
+    "created_at": "2026-09-23T21:10:54.000Z",
+    "display_text_range": [
+      12,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T22:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102868333930647782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1522206458766848000",
+          "start": 0,
+          "username": "ziyuan0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102868333930647782",
+    "in_reply_to_user_id": "1522206458766848000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102852966072086711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziyuan0721 没地方放澡盆也没浴缸啊, hsn比较落魄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2102818401156743306",
+        "created_at": "2026-09-23T21:10:54.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102868333930647782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1522206458766848000",
+              "start": 0,
+              "username": "ziyuan0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102868333930647782",
+        "in_reply_to_user_id": "1522206458766848000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102852966072086711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziyuan0721 没地方放澡盆也没浴缸啊, hsn比较落魄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522206458766848000",
+        "conversation_id": "2102818401156743306",
+        "created_at": "2026-09-23T20:09:50.000Z",
+        "display_text_range": [
+          10,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T21:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102852966072086711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102852966072086711",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102818401156743306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k 买个洗澡盆或者丢浴缸进去用脚踩洗，多下点洗衣液洗衣粉，多洗几遍把泡沫洗掉就行了，晾干自己想办法）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2102868333930647782",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2419,
+          "following_count": 282,
+          "like_count": 12260,
+          "listed_count": 10,
+          "media_count": 273,
+          "tweet_count": 2989
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-05T13:28:08.000Z",
+        "description": "🇨🇳🇹🇼🇬🇧🇯🇵OK|\n我推an，khn，mzk/我吃杏豆，弓道，遥实，一奏，糖画/其他cb全肯定\n一般路过烤皮\n生心皆是人类\n可以互关扩列欢迎\nNG:\n❌给晓山瑞希贴上任意形式的跨性别标签以及元素❗",
+        "id": "1522206458766848000",
+        "is_identity_verified": false,
+        "location": "转发星人",
+        "most_recent_tweet_id": "2102852966072086711",
+        "name": "远远子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522206458766848000/1712779797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052795075688804352/rx5ZJTMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 551,
+          "like_count": 3782,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 2972
+        },
+        "url": "",
+        "username": "ziyuan0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

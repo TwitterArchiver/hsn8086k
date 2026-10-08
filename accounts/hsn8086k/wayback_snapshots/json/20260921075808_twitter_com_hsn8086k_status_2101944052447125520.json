@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2101941520278630401"
+      ]
+    },
+    "author_id": "1842504398850928640",
+    "conversation_id": "2101944052447125520",
+    "created_at": "2026-09-21T07:58:08.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T08:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101944052447125520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5MPbJlg41B",
+          "end": 90,
+          "expanded_url": "https://x.com/hsn8086k/status/2101944052447125520/video/1",
+          "media_key": "13_2101941520278630401",
+          "start": 67,
+          "url": "https://t.co/5MPbJlg41B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101944052447125520",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2101941520278630401"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "&gt; Jev的另一个用法? 不\n当智能足够廉价...\n由 Laya + WebGPU 驱动的页面分类器插件\n离线, 高效, 隐私 https://t.co/5MPbJlg41B"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35966,
+        "height": 1080,
+        "media_key": "13_2101941520278630401",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2101941520278630401/img/oPtS-7eJ3Rq5cSMr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101941520278630401/vid/avc1/460x270/-QPqCaJfHTEz47rm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101941520278630401/vid/avc1/612x360/m2Zvc9mRadLH9BBR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2101941520278630401/vid/avc1/1226x720/PLY1cNvfk2i_Uc0Z.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2101941520278630401/pl/G4TpuoKmgi8LcTel.m3u8?tag=14"
+          }
+        ],
+        "width": 1840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2101941520278630401"
+          ]
+        },
+        "author_id": "1842504398850928640",
+        "conversation_id": "2101944052447125520",
+        "created_at": "2026-09-21T07:58:08.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T08:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101944052447125520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MPbJlg41B",
+              "end": 90,
+              "expanded_url": "https://x.com/hsn8086k/status/2101944052447125520/video/1",
+              "media_key": "13_2101941520278630401",
+              "start": 67,
+              "url": "https://t.co/5MPbJlg41B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101944052447125520",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2101941520278630401"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "&gt; Jev的另一个用法? 不\n当智能足够廉价...\n由 Laya + WebGPU 驱动的页面分类器插件\n离线, 高效, 隐私 https://t.co/5MPbJlg41B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2101944052447125520",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2408,
+          "following_count": 279,
+          "like_count": 12156,
+          "listed_count": 10,
+          "media_count": 270,
+          "tweet_count": 2969
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

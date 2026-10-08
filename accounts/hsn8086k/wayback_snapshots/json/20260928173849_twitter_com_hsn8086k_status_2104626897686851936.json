@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2104503884312170985",
+    "created_at": "2026-09-28T17:38:49.000Z",
+    "display_text_range": [
+      30,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T18:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104626897686851936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916817753635426304",
+          "start": 0,
+          "username": "Goldwater8964"
+        },
+        {
+          "end": 29,
+          "id": "949316104144457729",
+          "start": 15,
+          "username": "wangchangfu88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104626897686851936",
+    "in_reply_to_user_id": "1916817753635426304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104620969717531049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goldwater8964 @wangchangfu88 很好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2104503884312170985",
+        "created_at": "2026-09-28T17:38:49.000Z",
+        "display_text_range": [
+          30,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104626897686851936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            },
+            {
+              "end": 29,
+              "id": "949316104144457729",
+              "start": 15,
+              "username": "wangchangfu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104626897686851936",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104620969717531049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 @wangchangfu88 很好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916817753635426304",
+        "conversation_id": "2104503884312170985",
+        "created_at": "2026-09-28T17:15:15.000Z",
+        "display_text_range": [
+          25,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T18:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104620969717531049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842504398850928640",
+              "start": 0,
+              "username": "hsn8086k"
+            },
+            {
+              "end": 24,
+              "id": "949316104144457729",
+              "start": 10,
+              "username": "wangchangfu88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104620969717531049",
+        "in_reply_to_user_id": "1842504398850928640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104609646388641808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086k @wangchangfu88 真的，这就是户子微信"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Japan",
+              "geo": {
+                "coordinates": [
+                  139.75309,
+                  35.68536
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2104626897686851936",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 285,
+          "like_count": 12326,
+          "listed_count": 9,
+          "media_count": 273,
+          "tweet_count": 3018
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "成和败努力尝试\n人若有志应该不怕迟\n谁人在我未为意\n成就靠真本事\n做个真的汉子\n承担起苦痛跟失意",
+        "id": "1916817753635426304",
+        "is_identity_verified": true,
+        "location": "Auckland🇳🇿/Sydeny🇦🇺",
+        "most_recent_tweet_id": "2104620969717531049",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2104186090844475548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916817753635426304/1787310277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2031,
+          "following_count": 1087,
+          "like_count": 10007,
+          "listed_count": 5,
+          "media_count": 533,
+          "tweet_count": 2010
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-01-05T16:26:11.000Z",
+        "description": "AI 商业化 | 运营增长 | 投资理财 | 自由职业 | 破局提升",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "feishu.cn/wiki/MnyewYmv0…",
+                "end": 23,
+                "expanded_url": "http://feishu.cn/wiki/MnyewYmv0i1WMikLaoCcLwBdnhh",
+                "start": 0,
+                "url": "https://t.co/9xBXEZwtP8"
+              }
+            ]
+          }
+        },
+        "id": "949316104144457729",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104581116669915180",
+        "name": "王长富",
+        "pinned_tweet_id": "2103811112622064058",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/949316104144457729/1789091277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038198296771248128/ra3vBm-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49831,
+          "following_count": 3075,
+          "like_count": 48060,
+          "listed_count": 184,
+          "media_count": 74,
+          "tweet_count": 61694
+        },
+        "url": "https://t.co/9xBXEZwtP8",
+        "username": "wangchangfu88",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

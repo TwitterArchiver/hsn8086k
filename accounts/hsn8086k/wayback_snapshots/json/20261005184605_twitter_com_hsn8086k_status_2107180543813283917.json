@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842504398850928640",
+    "conversation_id": "2107180543813283917",
+    "created_at": "2026-10-05T18:46:05.000Z",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T19:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107180543813283917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Welt28Xt/statu…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/Welt28Xt/status/2106553904427381203",
+          "start": 154,
+          "url": "https://t.co/1StloK6cx3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107180543813283917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106553904427381203",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我先来, \n16岁就敢为自己一生学文还是理做打算?\n18岁就敢为自己一生学什么专业做打算?\n22岁就敢为自己一生做什么工作做打算?\n26岁就敢为自己孩子的一生做打算?\n30岁就敢为自己一生住哪买什么房做打算?\n50岁就敢为自己怎么养老做打算?\n65岁就敢为自己遗产安排做打算?\n刚死就敢为自己下一生做打算? https://t.co/1StloK6cx3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2107180543813283917",
+        "created_at": "2026-10-05T18:46:05.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T19:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107180543813283917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Welt28Xt/statu…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/Welt28Xt/status/2106553904427381203",
+              "start": 154,
+              "url": "https://t.co/1StloK6cx3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107180543813283917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106553904427381203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我先来, \n16岁就敢为自己一生学文还是理做打算?\n18岁就敢为自己一生学什么专业做打算?\n22岁就敢为自己一生做什么工作做打算?\n26岁就敢为自己孩子的一生做打算?\n30岁就敢为自己一生住哪买什么房做打算?\n50岁就敢为自己怎么养老做打算?\n65岁就敢为自己遗产安排做打算?\n刚死就敢为自己下一生做打算? https://t.co/1StloK6cx3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2106542975371129189",
+        "created_at": "2026-10-04T01:16:03.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106553904427381203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2040516492479823872",
+              "start": 0,
+              "username": "Verdin14shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106553904427381203",
+        "in_reply_to_user_id": "2040516492479823872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12658,
+          "like_count": 126,
+          "quote_count": 7,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106550889603547151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Verdin14shi 14岁就敢为了自己一生做打算？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "is_identity_verified": false,
+        "location": "Tokyo-to, Japan",
+        "most_recent_tweet_id": "2107180543813283917",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2423,
+          "following_count": 291,
+          "like_count": 12378,
+          "listed_count": 9,
+          "media_count": 278,
+          "tweet_count": 3055
+        },
+        "url": "",
+        "username": "hsn8086k",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/德拉无疑是美味的😋/战雷elb🇷🇺/apex/kards/崩/舟/洲/BF/卡丘\n精罗，但是罗斯也是罗，绿罗也是罗，萝卜也是罗（\n蓝标会回fo的，或者私信。鉴证打咩",
+        "id": "1699985068721082368",
+        "is_identity_verified": false,
+        "location": "凡爾登，378號高地陣地，1916",
+        "most_recent_tweet_id": "2106784485240897683",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699985068721082368/1772490472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 581,
+          "like_count": 15933,
+          "listed_count": 5,
+          "media_count": 1868,
+          "tweet_count": 11638
+        },
+        "url": "",
+        "username": "Welt28Xt",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T19:47:30.000Z",
+        "description": "2012 INFP 含糖日期🍥：2026/09/13  \n🦈 175l63kg \n🩷双性恋   \n🏠烟台入 mtf 青岛上学 \n📔CN/EN\n💗🦈此账号为善良人格，不知何时病变\n 😇轻抑中焦\n🛠️马克思人本主义/民主社会主义\n神秘人格（小号）@Hoshineyosa\n偶像是停电前夜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "Hoshineyosa"
+              }
+            ]
+          }
+        },
+        "id": "2040516492479823872",
+        "is_identity_verified": false,
+        "location": "胶东半岛",
+        "most_recent_tweet_id": "2107118273372500002",
+        "name": "Hoshine_yosa🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040516492479823872/1779507172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106201384022663168/uXmowPAn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 693,
+          "like_count": 2765,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 2230
+        },
+        "url": "",
+        "username": "Verdin14shi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
